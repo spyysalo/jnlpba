@@ -1,0 +1,14 @@
+T1	DNA 24 42	c-myc family genes
+T2	cell_type 142 162	autoreactive T cells
+T3	DNA 234 240	bcl-xL
+T4	DNA 242 245	bad
+T5	DNA 247 256	caspase-3
+T6	DNA 262 280	c-myc family genes
+T7	DNA 353 369	myc family genes
+T8	DNA 371 376	c-myc
+T9	DNA 381 384	max
+T10	DNA 452 457	c-myc
+T11	DNA 567 570	myc
+T12	protein 580 584	STAM
+T13	protein 586 603	prothymosin-alpha
+T14	protein 609 617	NFkappaB

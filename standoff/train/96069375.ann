@@ -1,0 +1,42 @@
+T1	protein 0 28	Initiation binding repressor
+T2	DNA 57 86	transcription initiation site
+T3	DNA 94 109	histone h5 gene
+T4	protein 116 135	glycosylated member
+T5	protein 151 173	cell growth regulators
+T6	protein 252 280	Initiation binding repressor
+T7	protein 294 297	IBR
+T8	protein 304 330	chicken erythrocyte factor
+T9	DNA 412 441	transcription initiation site
+T10	DNA 449 464	histone h5 gene
+T11	cell_type 532 564	transformed erythroid precursors
+T12	protein 578 581	IBR
+T13	protein 610 613	IBF
+T14	protein 654 657	IBR
+T15	DNA 684 692	IBR cDNA
+T16	protein 725 728	IBR
+T17	protein 733 736	IBF
+T18	protein 738 741	IBR
+T19	protein 747 781	503-amino-acid-long acidic protein
+T20	protein 832 860	human NRF-1/alpha-Pal factor
+T21	protein 900 921	transcription factors
+T22	protein 922 926	P3A2
+T23	protein 931 956	erected wing gene product
+T24	protein 958 961	EWG
+T25	protein 989 992	IBR
+T26	protein 997 1000	IBF
+T27	protein 1127 1132	IBR/F
+T28	protein 1180 1190	homodimers
+T29	protein 1204 1209	dimer
+T30	protein 1217 1245	relevant DNA-binding species
+T31	protein 1276 1291	N-terminal half
+T32	protein 1295 1300	IBR/F
+T33	protein 1313 1344	DNA-binding/dimerization domain
+T34	protein 1388 1410	casein kinase II sites
+T35	protein 1429 1466	bipartite nuclear localization signal
+T36	protein 1573 1605	alternating RCGCRYGCGY consensus
+T37	DNA 1632 1651	IBR/F binding sites
+T38	DNA 1665 1689	direct-repeat palindrome
+T39	DNA 1710 1722	optimal site
+T40	DNA 1736 1741	genes
+T41	protein 1782 1789	factors
+T42	DNA 1809 1814	genes

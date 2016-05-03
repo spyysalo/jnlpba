@@ -1,0 +1,25 @@
+T1	protein 0 14	Interleukin-10
+T2	DNA 19 73	transforming growth factor-beta promoter polymorphisms
+T3	protein 99 113	Interleukin-10
+T4	protein 115 120	IL-10
+T5	protein 126 157	transforming growth factor beta
+T6	protein 159 167	TGF-beta
+T7	cell_type 188 201	B and T cells
+T8	protein 203 206	IgE
+T9	cell_type 277 288	eosinophils
+T10	protein 296 305	cytokines
+T11	DNA 473 506	IL-10 and TGF-beta gene promoters
+T12	DNA 752 767	promoter region
+T13	DNA 775 785	IL-10 gene
+T14	DNA 802 825	TGF-beta gene promoters
+T15	DNA 832 841	TGF-beta1
+T16	DNA 851 860	TGF-beta2
+T17	protein 867 872	IL-10
+T18	DNA 913 936	571 base pairs upstream
+T19	DNA 946 968	translation start site
+T20	DNA 993 1020	consensus binding sequences
+T21	protein 1025 1028	Sp1
+T22	protein 1102 1117	total serum IgE
+T23	DNA 1269 1286	TGF-beta promoter
+T24	protein 1317 1320	IgE
+T25	DNA 1402 1424	YY1 consensus sequence

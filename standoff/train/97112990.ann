@@ -1,0 +1,23 @@
+T1	DNA 39 64	interferon-gamma promoter
+T2	cell_type 98 105	T cells
+T3	protein 107 123	Interferon-gamma
+T4	protein 125 134	IFN-gamma
+T5	cell_type 151 171	natural killer cells
+T6	cell_type 195 202	T cells
+T7	protein 316 325	IFN-gamma
+T8	DNA 367 386	regulatory elements
+T9	cell_type 435 442	T cells
+T10	DNA 521 540	regulatory elements
+T11	protein 666 674	CREB/ATF
+T12	protein 676 680	AP-1
+T13	protein 686 702	octamer families
+T14	protein 706 727	transcription factors
+T15	protein 729 732	Jun
+T16	protein 826 831	ATF-2
+T17	protein 846 850	CREB
+T18	DNA 931 938	element
+T19	cell_type 968 979	Th2 T cells
+T20	protein 1016 1025	IFN-gamma
+T21	protein 1060 1080	transcription factor
+T22	protein 1141 1162	transcription factors
+T23	protein 1260 1269	IFN-gamma

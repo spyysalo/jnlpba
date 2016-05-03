@@ -1,0 +1,29 @@
+T1	protein 19 30	BOB.1/OBF.1
+T2	protein 35 39	Oct2
+T3	cell_type 184 195	tumor cells
+T4	cell_type 197 206	L&H cells
+T5	cell_type 258 296	Hodgkin and Reed-Sternberg (HRS) cells
+T6	protein 357 371	immunoglobulin
+T7	DNA 397 428	rearranged immunoglobulin genes
+T8	DNA 642 665	immunoglobulin promoter
+T9	protein 750 778	B-cell transcription factors
+T10	protein 779 783	Oct2
+T11	protein 788 799	BOB.1/OBF.1
+T12	cell_line 854 880	Hodgkin disease cell lines
+T13	protein 909 930	transcription factors
+T14	protein 1021 1025	Oct2
+T15	protein 1033 1044	BOB.1/OBF.1
+T16	protein 1085 1089	Oct2
+T17	protein 1200 1211	BOB.1/OBF.1
+T18	protein 1216 1220	Oct2
+T19	cell_type 1235 1244	HRS cells
+T20	DNA 1283 1317	immunoglobulin promoter constructs
+T21	DNA 1447 1469	immunoglobulin V genes
+T22	protein 1524 1528	Oct2
+T23	protein 1536 1547	BOB.1/OBF.1
+T24	protein 1577 1581	Oct2
+T25	cell_type 1637 1646	L&H cells
+T26	cell_type 1674 1683	HRS cells
+T27	protein 1767 1771	Oct2
+T28	protein 1776 1787	BOB.1/OBF.1
+T29	cell_type 1847 1856	HRS cells

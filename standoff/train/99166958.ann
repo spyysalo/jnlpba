@@ -1,0 +1,46 @@
+T1	protein 40 60	transcription factor
+T2	protein 61 66	NFAT1
+T3	DNA 74 98	proximal binding element
+T4	DNA 99 101	P0
+T5	DNA 109 122	IL-4 promoter
+T6	DNA 148 157	IL-4 gene
+T7	cell_type 175 182	T cells
+T8	cell_type 221 228	T cells
+T9	cell_line 262 286	IL-4-producing Th2 cells
+T10	protein 298 301	IgE
+T11	cell_type 315 322	B cells
+T12	DNA 358 367	IL-4 gene
+T13	DNA 413 422	IL-4 gene
+T14	protein 458 507	nuclear factor of activated T cells (NFAT) family
+T15	protein 511 532	transcription factors
+T16	protein 543 548	NFAT1
+T17	protein 553 558	NFAT2
+T18	cell_type 581 599	peripheral T cells
+T19	protein 639 644	NFAT1
+T20	DNA 648 657	IL-4 gene
+T21	cell_line 768 795	highly polarized Th2 clones
+T22	cell_line 813 823	Th1 clones
+T23	DNA 884 905	NFAT-binding elements
+T24	DNA 906 908	P0
+T25	DNA 913 915	P1
+T26	DNA 946 959	IL-4 promoter
+T27	DNA 982 984	P0
+T28	protein 1027 1032	NFAT2
+T29	cell_line 1063 1073	Th1 clones
+T30	cell_line 1100 1110	Th2 clones
+T31	cell_line 1133 1151	Th1 and Th2 clones
+T32	DNA 1209 1216	P1 site
+T33	protein 1232 1237	NFAT2
+T34	DNA 1244 1246	P0
+T35	protein 1258 1262	NFAT
+T36	cell_line 1310 1328	Th1 and Th2 clones
+T37	cell_line 1338 1348	Th2 clones
+T38	DNA 1366 1368	P0
+T39	cell_type 1432 1466	peripheral blood mononuclear cells
+T40	cell_type 1468 1472	PBMC
+T41	protein 1554 1557	IgE
+T42	cell_type 1585 1589	PBMC
+T43	protein 1630 1634	IL-4
+T44	cell_type 1649 1665	atopic Th2 cells
+T45	protein 1720 1725	NFAT1
+T46	DNA 1742 1757	IL-4 P0 element

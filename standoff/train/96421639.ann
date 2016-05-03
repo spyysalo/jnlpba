@@ -1,0 +1,26 @@
+T1	protein 0 3	JNK
+T2	protein 5 30	c-Jun NH2-terminal kinase
+T3	cell_type 64 77	T lymphocytes
+T4	protein 79 83	AP-1
+T5	protein 114 150	redox-sensitive transcription factor
+T6	protein 268 272	AP-1
+T7	protein 475 478	JNK
+T8	protein 480 505	c-Jun NH2-terminal kinase
+T9	cell_line 510 524	Jurkat T cells
+T10	protein 678 688	antibodies
+T11	protein 701 728	T cell receptor-CD3 complex
+T12	protein 736 740	CD28
+T13	protein 760 763	JNK
+T14	protein 924 927	JNK
+T15	DNA 973 978	c-jun
+T16	DNA 1107 1112	c-fos
+T17	protein 1127 1130	JNK
+T18	protein 1230 1246	protein kinase C
+T19	DNA 1351 1393	trans-dominant negative expression vectors
+T20	DNA 1397 1400	ras
+T21	DNA 1405 1408	raf
+T22	DNA 1424 1458	AP-1-dependent reporter constructs
+T23	protein 1499 1558	anti-ERK (extracellular signal-regulated kinase) antibodies
+T24	protein 1736 1740	AP-1
+T25	protein 1799 1804	ERK-2
+T26	protein 1842 1845	JNK

@@ -1,0 +1,21 @@
+T1	protein 11 15	CD45
+T2	protein 19 29	NF-kappa B
+T3	cell_type 157 173	infected T cells
+T4	protein 186 189	TCR
+T5	protein 205 209	CD45
+T6	protein 333 337	CD45
+T7	DNA 384 393	HIV-1 LTR
+T8	cell_line 397 409	T cell lines
+T9	protein 455 459	CD45
+T10	protein 503 507	CD45
+T11	protein 534 554	anti-CD45 antibodies
+T12	DNA 630 639	HIV-1 LTR
+T13	cell_type 649 656	T cells
+T14	protein 669 673	CD45
+T15	protein 700 703	TCR
+T16	protein 810 830	NF-kappa B complexes
+T17	protein 849 853	CD45
+T18	cell_type 878 894	infected T cells
+T19	protein 921 925	CD45
+T20	protein 951 955	CD45
+T21	cell_type 998 1005	T cells

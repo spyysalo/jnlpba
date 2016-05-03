@@ -1,0 +1,38 @@
+T1	DNA 25 42	human GATA-3 gene
+T2	DNA 61 90	non-lineage-specific silencer
+T3	protein 96 123	GATA-3 transcription factor
+T4	cell_line 159 173	T-cell lineage
+T5	DNA 178 195	Th2 cytokine gene
+T6	cell_type 210 221	CD4 T-cells
+T7	DNA 242 277	DNase-I-hypersensitive (HS) regions
+T8	DNA 285 302	human GATA-3 gene
+T9	cell_type 306 313	T-cells
+T10	cell_type 318 329	non-T-cells
+T11	DNA 376 384	HS I-III
+T12	DNA 406 437	transcriptional initiation site
+T13	cell_type 453 494	hematopoietic and non-hematopoietic cells
+T14	DNA 504 513	HS IV-VII
+T15	DNA 535 561	transcriptional start site
+T16	cell_type 592 599	T-cells
+T17	DNA 613 633	hypersensitive sites
+T18	DNA 639 671	transcriptional control elements
+T19	DNA 695 707	first intron
+T20	DNA 715 726	GATA-3 gene
+T21	DNA 741 770	between 8.3 and 5.9 kilobases
+T22	DNA 783 821	GATA-3 transcriptional initiation site
+T23	DNA 827 839	first intron
+T24	DNA 954 981	upstream regulatory element
+T25	DNA 1021 1036	GATA-3 promoter
+T26	DNA 1086 1108	707-base pair silencer
+T27	DNA 1136 1151	GATA-3 promoter
+T28	cell_type 1164 1175	non-T-cells
+T29	DNA 1212 1227	5'- and 3'-ends
+T30	DNA 1292 1307	3'-CAGGTG E-box
+T31	protein 1319 1331	USF proteins
+T32	protein 1337 1357	ubiquitous repressor
+T33	protein 1358 1361	ZEB
+T34	protein 1370 1401	basic helix-loop-helix proteins
+T35	protein 1402 1405	E2A
+T36	protein 1410 1413	HEB
+T37	protein 1456 1459	ZEB
+T38	protein 1464 1480	E2A/HEB proteins

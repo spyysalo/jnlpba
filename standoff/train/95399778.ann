@@ -1,0 +1,37 @@
+T1	protein 4 38	hematopoietic transcription factor
+T2	protein 39 43	PU.1
+T3	cell_line 64 97	human multiple myeloma cell lines
+T4	protein 99 103	PU.1
+T5	protein 109 143	hematopoietic transcription factor
+T6	protein 161 171	Ets-family
+T7	DNA 196 210	Spi-1 oncogene
+T8	protein 295 299	PU.1
+T9	cell_type 346 377	multiple hematopoietic lineages
+T10	cell_type 401 413	mature cells
+T11	cell_type 457 511	B-cell-and monocyte/macrophage-differentiation lineage
+T12	DNA 536 542	Pu box
+T13	DNA 557 595	tissue-specific regulatory DNA element
+T14	cell_type 644 657	cell lineages
+T15	protein 707 711	PU.1
+T16	cell_line 761 773	B-cell lines
+T17	cell_line 824 840	early precursors
+T18	cell_line 844 871	differentiated plasma cells
+T19	RNA 873 882	PU.1 mRNA
+T20	protein 898 902	PU.1
+T21	cell_line 1035 1045	cell lines
+T22	cell_line 1059 1091	pro-B, pre-B, and mature B cells
+T23	DNA 1112 1118	Pu box
+T24	cell_line 1200 1210	cell lines
+T25	cell_line 1240 1267	multiple myeloma cell lines
+T26	cell_type 1282 1322	differentiated, plasma cell-like B cells
+T27	protein 1324 1328	PU.1
+T28	DNA 1372 1378	Pu box
+T29	cell_line 1455 1480	lymphoblastoid cell lines
+T30	cell_line 1616 1649	human multiple myeloma cell lines
+T31	cell_type 1682 1689	B cells
+T32	protein 1709 1713	PU.1
+T33	protein 1794 1798	PU.1
+T34	cell_line 1826 1849	plasmacytoma cell lines
+T35	protein 1897 1901	PU.1
+T36	cell_line 1929 1962	human multiple myeloma cell lines
+T37	cell_type 2072 2105	terminally differentiated B cells

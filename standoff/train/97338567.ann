@@ -1,0 +1,22 @@
+T1	protein 20 30	NF-kappa B
+T2	protein 71 86	HLA-DR antigens
+T3	cell_type 100 107	B cells
+T4	protein 127 137	NF-kappa B
+T5	protein 177 192	HLA-DR antigens
+T6	protein 196 204	mAb L243
+T7	cell_line 242 252	Raji cells
+T8	protein 326 336	NF-kappa B
+T9	protein 369 384	HLA-DR antigens
+T10	protein 392 434	TNF-alpha-activity neutralizing antibodies
+T11	protein 486 496	NF-kappa B
+T12	protein 565 574	TNF-alpha
+T13	protein 608 623	HLA-DR antigens
+T14	protein 657 666	TNF-alpha
+T15	protein 734 744	NF-kappa B
+T16	protein 805 813	epitopes
+T17	protein 817 832	HLA-DR antigens
+T18	protein 843 851	mAb L243
+T19	protein 864 892	staphylococcal superantigens
+T20	protein 894 946	staphylococcal exotoxin toxic shock syndrome toxin-I
+T21	protein 950 978	staphylococcal enterotoxin B
+T22	protein 993 1003	NF-kappa B

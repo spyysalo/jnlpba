@@ -1,0 +1,31 @@
+T1	protein 22 32	P-selectin
+T2	protein 43 73	monocyte chemotactic protein-1
+T3	protein 78 105	tumor necrosis factor-alpha
+T4	protein 140 150	NF-kappa B
+T5	protein 181 199	Adhesion molecules
+T6	cell_type 212 234	circulating leukocytes
+T7	cell_type 238 255	endothelial cells
+T8	cell_type 411 426	human monocytes
+T9	protein 430 440	P-selectin
+T10	protein 469 497	endothelial tethering factor
+T11	protein 526 556	monocyte chemotactic protein-1
+T12	protein 558 563	MCP-1
+T13	protein 569 596	tumor necrosis factor-alpha
+T14	protein 598 607	TNF-alpha
+T15	cell_type 616 626	leukocytes
+T16	protein 658 684	platelet-activating factor
+T17	protein 745 747	G1
+T18	protein 752 771	anti-P-selectin mAb
+T19	protein 786 796	P-selectin
+T20	protein 825 857	P-selectin glycoprotein ligand-1
+T21	cell_type 862 875	myeloid cells
+T22	protein 900 910	P-selectin
+T23	protein 958 980	nuclear factor-kappa B
+T24	protein 982 992	NF-kappa B
+T25	protein 997 1017	transcription factor
+T26	protein 1045 1050	MCP-1
+T27	protein 1052 1061	TNF-alpha
+T28	DNA 1073 1094	immediate-early genes
+T29	protein 1127 1137	P-selectin
+T30	cell_type 1162 1171	monocytes
+T31	protein 1194 1202	cytokine

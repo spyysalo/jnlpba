@@ -1,0 +1,34 @@
+T1	DNA 18 32	BZLF1 promoter
+T2	cell_line 79 114	anti-immunoglobulin-treated B cells
+T3	DNA 212 222	BZLF1 gene
+T4	DNA 228 247	BZLF1 gene promoter
+T5	DNA 249 251	Zp
+T6	protein 286 313	cell surface immunoglobulin
+T7	protein 315 317	Ig
+T8	protein 324 340	anti-Ig antibody
+T9	cell_type 344 351	B cells
+T10	DNA 450 452	Zp
+T11	DNA 487 547	12-O-tetradecanoylphorbol-13-acetate (TPA) response elements
+T12	DNA 564 567	ZII
+T13	DNA 572 588	AP-1-like domain
+T14	protein 641 657	protein kinase C
+T15	protein 659 662	PKC
+T16	DNA 712 714	Zp
+T17	protein 752 768	cellular factors
+T18	DNA 820 822	Zp
+T19	protein 896 899	PKC
+T20	DNA 915 917	Zp
+T21	protein 1023 1026	PKC
+T22	protein 1042 1049	anti-Ig
+T23	DNA 1066 1068	Zp
+T24	DNA 1143 1145	Zp
+T25	protein 1162 1169	anti-Ig
+T26	DNA 1199 1201	Zp
+T27	protein 1255 1258	PKC
+T28	protein 1263 1306	calcium/calmodulin-dependent protein kinase
+T29	protein 1323 1338	tyrosine kinase
+T30	protein 1358 1365	anti-Ig
+T31	DNA 1375 1377	Zp
+T32	protein 1478 1512	cellular gene regulatory molecules
+T33	protein 1626 1633	anti-Ig
+T34	cell_type 1647 1654	B cells

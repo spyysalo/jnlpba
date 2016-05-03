@@ -1,0 +1,15 @@
+T1	DNA 24 50	HIV-1 long terminal repeat
+T2	DNA 64 73	promoters
+T3	DNA 90 111	DNA regulatory motifs
+T4	DNA 139 172	long terminal repeat (LTR) region
+T5	DNA 397 415	LTR size variation
+T6	DNA 479 498	NF-kappa B enhancer
+T7	DNA 552 570	short DNA sequence
+T8	DNA 572 581	CTG-motif
+T9	DNA 657 666	Sp1 sites
+T10	DNA 743 763	isogenic control LTR
+T11	DNA 775 784	Sp1 sites
+T12	DNA 823 832	CTG-motif
+T13	DNA 967 984	wild-type plasmid
+T14	cell_type 1009 1016	T-cells
+T15	DNA 1249 1261	LTR variants

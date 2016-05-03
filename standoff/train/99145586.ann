@@ -1,0 +1,43 @@
+T1	protein 0 26	GA-binding protein factors
+T2	protein 48 85	coactivator CREB binding protein/p300
+T3	DNA 116 139	interleukin 16 promoter
+T4	cell_type 143 156	T lymphocytes
+T5	protein 158 172	Interleukin 16
+T6	protein 174 179	IL-16
+T7	protein 186 206	chemotactic cytokine
+T8	protein 225 237	CD4 receptor
+T9	cell_type 268 275	T cells
+T10	protein 327 351	67-kDa precursor protein
+T11	protein 353 362	pro-IL-16
+T12	cell_type 367 378	lymphocytes
+T13	cell_type 380 391	macrophages
+T14	cell_type 397 407	mast cells
+T15	cell_type 423 446	airway epithelial cells
+T16	protein 499 508	pro-IL-16
+T17	protein 561 567	13 kDa
+T18	protein 596 601	IL-16
+T19	DNA 646 674	human chromosomal IL-16 gene
+T20	DNA 706 722	human IL-16 gene
+T21	DNA 741 746	exons
+T22	DNA 755 762	introns
+T23	DNA 768 780	5' sequences
+T24	protein 827 832	IL-16
+T25	DNA 872 896	harbor promoter elements
+T26	cell_type 945 952	T cells
+T27	DNA 987 995	TATA box
+T28	DNA 1014 1034	CAAT box-like motifs
+T29	DNA 1045 1058	binding sites
+T30	protein 1062 1109	GA-binding protein (GABP) transcription factors
+T31	DNA 1176 1197	dyad symmetry element
+T32	DNA 1235 1248	IL-2 enhancer
+T33	DNA 1257 1270	CD18 promoter
+T34	protein 1292 1329	coactivator CREB binding protein/p300
+T35	protein 1352 1361	GABPalpha
+T36	protein 1378 1387	GABPalpha
+T37	protein 1392 1397	-beta
+T38	DNA 1405 1426	dyad symmetry element
+T39	DNA 1453 1467	IL-16 promoter
+T40	cell_type 1471 1478	T cells
+T41	protein 1524 1533	pro-IL-16
+T42	protein 1574 1579	IL-16
+T43	cell_type 1675 1688	T lymphocytes

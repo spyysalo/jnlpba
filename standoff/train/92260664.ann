@@ -1,0 +1,25 @@
+T1	protein 9 28	NF-kappa B subunits
+T2	protein 49 52	Tat
+T3	protein 117 127	NF-kappa B
+T4	protein 133 148	protein complex
+T5	protein 185 203	tat-I gene product
+T6	protein 312 329	NF-kappa B family
+T7	protein 401 420	NF-kappa B subunits
+T8	protein 433 438	Tat-I
+T9	cell_type 476 499	Jurkat T-leukemia cells
+T10	protein 524 552	p49(100) DNA binding subunit
+T11	protein 568 571	p65
+T12	protein 597 602	Tat-I
+T13	DNA 634 649	HIV-CAT plasmid
+T14	protein 683 695	50-kDa forms
+T15	protein 699 703	p105
+T16	protein 704 714	NF-kappa B
+T17	protein 718 721	rel
+T18	protein 743 746	p65
+T19	protein 750 767	full-length c-rel
+T20	DNA 796 808	HIV enhancer
+T21	protein 872 880	p49(100)
+T22	protein 885 888	p65
+T23	protein 889 899	NF-kappa B
+T24	protein 928 946	tat-I gene product
+T25	RNA 977 984	HIV RNA

@@ -1,0 +1,32 @@
+T1	protein 0 4	BLyS
+T2	cell_type 14 21	B CELLS
+T3	protein 71 92	TRANSCRIPTION FACTORS
+T4	protein 93 102	NF-kappaB
+T5	protein 107 112	ELF-1
+T6	protein 114 137	B lymphocyte stimulator
+T7	protein 139 143	BLyS
+T8	protein 170 192	TNF family of proteins
+T9	cell_type 206 219	myeloid cells
+T10	protein 257 261	BLyS
+T11	cell_type 295 302	B cells
+T12	protein 444 461	radiolabeled BLyS
+T13	protein 469 485	cognate receptor
+T14	cell_type 489 508	human B lymphocytes
+T15	protein 555 559	BLyS
+T16	protein 586 604	TNF family members
+T17	protein 606 610	BLyS
+T18	protein 639 649	homotrimer
+T19	protein 728 732	BLyS
+T20	cell_type 744 751	B cells
+T21	protein 773 791	TNF family members
+T22	protein 825 829	BLyS
+T23	protein 873 892	(125)I-labeled BLyS
+T24	cell_type 905 928	human tonsillar B cells
+T25	cell_type 1052 1065	human B cells
+T26	protein 1202 1206	BLyS
+T27	cell_type 1218 1225	B cells
+T28	protein 1255 1264	NF-kappaB
+T29	protein 1273 1304	Ets family transcription factor
+T30	protein 1306 1311	ELF-1
+T31	protein 1346 1362	Polo-like kinase
+T32	protein 1364 1367	PLK

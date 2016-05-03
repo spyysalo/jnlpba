@@ -1,0 +1,27 @@
+T1	protein 4 23	RING finger protein
+T2	protein 24 30	Siah-1
+T3	protein 58 85	transcriptional coactivator
+T4	protein 86 91	OBF-1
+T5	protein 97 124	transcriptional coactivator
+T6	protein 125 130	OBF-1
+T7	protein 153 158	Oct-1
+T8	protein 163 168	Oct-2
+T9	DNA 177 193	octamer site DNA
+T10	protein 365 384	RING finger protein
+T11	protein 385 391	Siah-1
+T12	protein 435 440	OBF-1
+T13	protein 478 488	C-terminal
+T14	protein 497 503	Siah-1
+T15	protein 527 537	N-terminus
+T16	protein 541 546	OBF-1
+T17	protein 627 642	Oct POU domains
+T18	protein 676 682	Siah-1
+T19	protein 687 692	OBF-1
+T20	cell_type 889 896	B cells
+T21	protein 925 938	OBF-1 protein
+T22	protein 972 985	OBF-1 protein
+T23	cell_type 1024 1049	primary activated B cells
+T24	RNA 1083 1093	OBF-1 mRNA
+T25	protein 1119 1125	Siah-1
+T26	protein 1186 1199	OBF-1 protein
+T27	cell_type 1203 1210	B cells

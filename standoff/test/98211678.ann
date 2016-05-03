@@ -1,0 +1,13 @@
+T1	cell_type 149 167	CD4+ T lymphocytes
+T2	protein 264 272	cytokine
+T3	protein 308 316	cytokine
+T4	cell_type 363 373	PHA blasts
+T5	protein 475 488	STAT proteins
+T6	protein 497 505	cytokine
+T7	protein 541 547	STAT5B
+T8	cell_type 685 701	purified T cells
+T9	protein 811 817	STAT5A
+T10	protein 819 825	STAT5B
+T11	protein 831 841	STAT1alpha
+T12	protein 890 895	STATs
+T13	cell_type 972 978	T cell

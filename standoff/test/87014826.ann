@@ -1,0 +1,12 @@
+T1	protein 15 50	cell-type-specific nuclear proteins
+T2	DNA 56 99	immunoglobulin VH promoter region sequences
+T3	DNA 105 175	human and murine immunoglobulin heavy chain variable region (VH) genes
+T4	DNA 347 385	light chain variable region (VL) genes
+T5	DNA 398 449	immunoglobulin heavy chain transcriptional enhancer
+T6	DNA 561 581	immunoglobulin genes
+T7	DNA 583 611	Octamer-containing fragments
+T8	cell_line 679 695	human cell lines
+T9	cell_line 754 787	B lymphoid and non-lymphoid cells
+T10	DNA 895 923	octamer-containing fragments
+T11	protein 1026 1040	immunoglobulin
+T12	protein 1154 1169	nuclear protein

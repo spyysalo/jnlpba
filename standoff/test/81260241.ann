@@ -1,0 +1,13 @@
+T1	cell_line 0 25	Human lymphoid cell lines
+T2	cell_line 100 144	lymphoblastoid, leukaemia and lymphoma lines
+T3	cell_line 190 215	human lymphoid cell lines
+T4	cell_line 217 221	HLCL
+T5	cell_line 471 485	lymphoblastoid
+T6	cell_line 499 507	lymphoma
+T7	cell_line 521 530	leukaemia
+T8	protein 536 557	cytoplasmic receptors
+T9	cell_line 561 595	leukaemia and lymphoblastoid lines
+T10	protein 664 702	Cytoplasmic steroid-receptor complexes
+T11	cell_line 1251 1255	HLCL
+T12	protein 1458 1479	cytoplasmic receptors
+T13	cell_type 1571 1591	human lymphoid cells

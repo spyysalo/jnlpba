@@ -1,0 +1,31 @@
+T1	protein 82 105	retinoic acid receptors
+T2	protein 236 248	RA receptors
+T3	protein 250 254	RARs
+T4	cell_line 259 295	T-lymphoid and monocytoid cell lines
+T5	cell_line 377 387	T-lymphoid
+T6	cell_line 389 396	H9, CEM
+T7	cell_line 402 436	monocytoid (U937,THP-1) cell lines
+T8	protein 511 526	human RAR alpha
+T9	protein 528 548	hRAR alpha, receptor
+T10	protein 575 606	human retinoid-X receptor alpha
+T11	protein 608 627	hRXR alpha receptor
+T12	cell_line 753 789	HIV-1 IIIB-infected monocytoid cells
+T13	cell_line 950 962	T-cell lines
+T14	cell_line 982 1009	PMA-stimulated T-cell lines
+T15	protein 1207 1222	Human RAR alpha
+T16	cell_line 1240 1242	H9
+T17	cell_line 1244 1248	U937
+T18	cell_line 1253 1264	THP-1 cells
+T19	cell_line 1293 1302	CEM cells
+T20	protein 1304 1319	Human RXR alpha
+T21	cell_line 1351 1371	U937 and THP-1 cells
+T22	cell_line 1393 1401	H9 cells
+T23	cell_line 1424 1433	CEM cells
+T24	protein 1461 1470	RXR alpha
+T25	cell_line 1495 1497	H9
+T26	cell_line 1502 1512	U937 cells
+T27	cell_line 1524 1533	CEM cells
+T28	cell_line 1579 1581	H9
+T29	cell_line 1586 1595	CEM cells
+T30	cell_line 1613 1623	U937 cells
+T31	protein 1774 1778	RARs

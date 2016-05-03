@@ -1,0 +1,29 @@
+T1	protein 49 93	B cell-specific transcriptional coactivators
+T2	protein 99 122	class II transactivator
+T3	protein 124 129	CIITA
+T4	protein 135 208	B cell octamer-binding protein 1/octamer-binding factor 1/Oct coactivator
+T5	cell_type 214 221	B cells
+T6	protein 223 239	Bob1/OBF-1/OCA-B
+T7	protein 255 299	B cell-specific transcriptional coactivators
+T8	protein 301 306	CIITA
+T9	protein 311 315	Bob1
+T10	DNA 352 380	conserved upstream sequences
+T11	DNA 384 393	promoters
+T12	DNA 397 436	class II major histocompatibility genes
+T13	protein 441 478	octamer-binding transcription factors
+T14	protein 479 484	Oct-1
+T15	protein 489 494	Oct-2
+T16	protein 515 520	CIITA
+T17	protein 525 529	Bob1
+T18	DNA 563 575	DRA promoter
+T19	DNA 599 616	class II promoter
+T20	protein 647 652	CIITA
+T21	DNA 675 693	class II promoters
+T22	protein 698 702	Bob1
+T23	RNA 726 746	octamer-binding site
+T24	protein 807 811	Bob1
+T25	protein 821 826	CIITA
+T26	protein 834 839	CIITA
+T27	DNA 877 891	class II genes
+T28	DNA 981 999	class II promoters
+T29	cell_type 1003 1010	B cells

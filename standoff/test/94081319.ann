@@ -1,0 +1,32 @@
+T1	protein 0 23	Protein tyrosine kinase
+T2	protein 83 92	cytokines
+T3	cell_type 96 117	human blood monocytes
+T4	protein 154 163	cytokines
+T5	protein 172 176	IL-1
+T6	protein 178 182	IL-6
+T7	protein 188 191	TNF
+T8	cell_type 195 217	mononuclear phagocytes
+T9	protein 375 384	cytokines
+T10	protein 469 484	protein kinases
+T11	protein 509 518	cytokines
+T12	protein 807 823	Protein kinase C
+T13	protein 877 886	TNF-alpha
+T14	protein 917 921	IL-6
+T15	protein 951 967	protein kinase A
+T16	RNA 983 992	IL-6 mRNA
+T17	RNA 1100 1131	leukemia inhibitory factor mRNA
+T18	RNA 1234 1247	cytokine mRNA
+T19	protein 1454 1476	nuclear factor-kappa B
+T20	protein 1478 1488	NF-kappa B
+T21	protein 1502 1522	transcription factor
+T22	RNA 1553 1567	cytokine genes
+T23	DNA 1576 1580	IL-6
+T24	DNA 1585 1594	TNF-alpha
+T25	protein 1614 1624	NF-kappa B
+T26	protein 1744 1760	protein kinase C
+T27	protein 1765 1781	protein kinase A
+T28	protein 1839 1848	cytokines
+T29	protein 1858 1861	PTK
+T30	protein 1915 1924	cytokines
+T31	protein 1929 1939	NF-kappa B
+T32	cell_type 1954 1963	monocytes

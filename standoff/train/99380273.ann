@@ -1,0 +1,28 @@
+T1	protein 19 22	TNF
+T2	protein 51 54	JNK
+T3	protein 96 101	c-Jun
+T4	protein 106 110	JunD
+T5	protein 222 257	osteoclastogenic cytokine TNF-alpha
+T6	protein 259 262	TNF
+T7	protein 316 319	TNF
+T8	cell_line 387 397	HeLa cells
+T9	protein 458 461	TNF
+T10	protein 508 530	estrogen receptor beta
+T11	protein 532 538	ERbeta
+T12	cell_line 564 579	RAW 264.7 cells
+T13	protein 666 669	TNF
+T14	protein 720 745	Jun NH(2)-terminal kinase
+T15	protein 747 750	JNK
+T16	protein 797 802	c-Jun
+T17	protein 807 811	JunD
+T18	protein 821 834	NH(2)-termini
+T19	DNA 922 942	c-Jun and JunD genes
+T20	protein 980 985	c-Jun
+T21	protein 990 994	JunD
+T22	protein 1045 1050	c-Jun
+T23	protein 1055 1059	JunD
+T24	protein 1091 1102	c-Jun/c-Fos
+T25	protein 1107 1130	JunD/c-Fos heterodimers
+T26	DNA 1138 1161	AP-1 consensus sequence
+T27	DNA 1169 1181	TNF promoter
+T28	DNA 1229 1237	TNF gene

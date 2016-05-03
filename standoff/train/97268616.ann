@@ -1,0 +1,35 @@
+T1	protein 0 9	Nucleolin
+T2	protein 34 70	B cell-specific transcription factor
+T3	protein 75 104	switch region binding protein
+T4	protein 106 109	LR1
+T5	protein 111 114	LR1
+T6	cell_type 208 225	activated B cells
+T7	protein 227 230	LR1
+T8	protein 242 256	Ig heavy chain
+T9	protein 329 332	LR1
+T10	protein 411 428	106-kDa component
+T11	protein 432 435	LR1
+T12	protein 439 448	nucleolin
+T13	protein 546 549	LR1
+T14	cell_type 584 591	B cells
+T15	DNA 611 646	nucleolin cDNA expression construct
+T16	protein 653 656	LR1
+T17	protein 722 749	recombinant human nucleolin
+T18	cell_type 764 771	B cells
+T19	DNA 789 835	epitope-tagged nucleolin expression constructs
+T20	protein 841 856	LR1-DNA complex
+T21	protein 879 896	anti-tag antibody
+T22	protein 898 907	Nucleolin
+T23	protein 914 940	abundant nucleolar protein
+T24	DNA 977 981	rDNA
+T25	RNA 1016 1020	rRNA
+T26	protein 1050 1059	nucleolin
+T27	protein 1064 1074	histone H1
+T28	protein 1089 1098	nucleolin
+T29	protein 1170 1179	nucleolin
+T30	protein 1193 1196	LR1
+T31	DNA 1232 1246	switch regions
+T32	protein 1317 1326	nucleolin
+T33	protein 1347 1370	B cell-specific complex
+T34	DNA 1424 1445	G-rich switch regions
+T35	DNA 1468 1472	rDNA

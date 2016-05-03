@@ -1,0 +1,30 @@
+T1	protein 12 15	Pan
+T2	protein 39 51	Pan proteins
+T3	DNA 107 115	Pan gene
+T4	protein 159 164	Pan-1
+T5	protein 169 174	Pan-2
+T6	protein 190 193	E47
+T7	protein 198 201	E12
+T8	protein 421 433	Pan proteins
+T9	cell_line 476 486	cell lines
+T10	cell_type 500 544	endocrine, fibroblast, and lymphoid lineages
+T11	protein 581 593	E2A proteins
+T12	protein 626 637	E2A protein
+T13	cell_type 666 679	B-lymphocytes
+T14	protein 701 720	monoclonal antibody
+T15	protein 722 725	Yae
+T16	protein 749 765	Pan/E2A proteins
+T17	protein 785 797	Yae antibody
+T18	cell_type 822 862	endocrine and nonendocrine cell lineages
+T19	protein 886 897	E2A protein
+T20	protein 1053 1065	E2A proteins
+T21	protein 1098 1110	Pan proteins
+T22	cell_line 1114 1170	GH/PRL- and insulin-producing, B- and T-lymphocyte cells
+T23	protein 1172 1177	IEF-1
+T24	protein 1356 1369	Pan molecules
+T25	cell_type 1408 1433	pituitary endocrine cells
+T26	cell_type 1438 1469	pancreatic endocrine beta-cells
+T27	protein 1486 1503	Pan/E2A complexes
+T28	cell_type 1546 1566	endocrine beta-cells
+T29	protein 1574 1586	Pan proteins
+T30	protein 1599 1627	cell type-specific complexes

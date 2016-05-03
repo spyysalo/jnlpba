@@ -1,0 +1,29 @@
+T1	protein 0 20	Chimeric oncoprotein
+T2	protein 21 29	E2a-Pbx1
+T3	cell_type 51 70	hematopoietic cells
+T4	protein 76 79	p53
+T5	protein 124 129	Bcl-2
+T6	protein 135 155	chimeric oncoprotein
+T7	protein 156 164	E2a-Pbx1
+T8	DNA 192 210	E2A and PBX1 genes
+T9	DNA 221 255	t(1;19) chromosomal translocations
+T10	cell_type 308 326	B cell progenitors
+T11	protein 370 378	E2a-Pbx1
+T12	protein 540 548	E2a-Pbx1
+T13	cell_type 556 574	B cell progenitors
+T14	protein 603 611	E2a-Pbx1
+T15	cell_line 657 691	hematopoietic precursor cell lines
+T16	protein 726 734	E2a-Pbx1
+T17	protein 929 939	E2a moiety
+T18	protein 966 989	DNA-binding homeodomain
+T19	protein 993 997	Pbx1
+T20	protein 1003 1007	Pbx1
+T21	protein 1046 1050	BCL2
+T22	protein 1088 1092	PARP
+T23	protein 1122 1125	p53
+T24	protein 1154 1162	E2a-Pbx1
+T25	cell_line 1212 1229	Rat-1 fibroblasts
+T26	protein 1286 1294	E2a-Pbx1
+T27	cell_type 1330 1354	hematopoietic precursers
+T28	protein 1443 1463	nuclear oncoproteins
+T29	protein 1483 1486	p53

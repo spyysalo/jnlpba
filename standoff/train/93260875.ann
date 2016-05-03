@@ -1,0 +1,20 @@
+T1	cell_type 41 52	eosinophils
+T2	cell_type 121 131	eosinophil
+T3	cell_type 169 180	eosinophils
+T4	protein 189 202	interleukin-5
+T5	protein 206 233	eosinophil granule proteins
+T6	protein 235 238	EPO
+T7	protein 240 243	ECP
+T8	protein 245 248	EDN
+T9	protein 250 253	MBP
+T10	protein 259 262	CLC
+T11	cell_type 350 368	eosinophil lineage
+T12	DNA 417 442	eosinophil-specific genes
+T13	protein 464 490	secondary granule proteins
+T14	protein 497 500	ECP
+T15	protein 502 505	EDN
+T16	protein 507 510	EPO
+T17	protein 512 515	MBP
+T18	protein 521 524	CLC
+T19	protein 663 690	eosinophil granule proteins
+T20	protein 718 753	GATA-1 binding transcription factor

@@ -1,0 +1,22 @@
+T1	protein 0 46	Glucocorticoid-regulated transcription factors
+T2	protein 187 189	GR
+T3	protein 341 379	pro-inflammatory transcription factors
+T4	protein 388 412	activator protein (AP)-1
+T5	protein 414 464	signal transducers and activators of transcription
+T6	protein 466 471	STATs
+T7	protein 474 509	nuclear factor of activated T cells
+T8	protein 511 515	NFAT
+T9	protein 521 548	nuclear factor (NF)-kappa B
+T10	protein 616 624	histones
+T11	DNA 649 668	local DNA structure
+T12	protein 681 698	RNA polymerase II
+T13	protein 800 826	histone acetyltransferases
+T14	protein 828 832	HATs
+T15	protein 838 858	histone deacetylases
+T16	protein 860 865	HDACs
+T17	protein 868 870	GR
+T18	protein 956 961	HDAC2
+T19	protein 969 991	NF-kappa B/HAT complex
+T20	protein 1168 1183	GR-specific HAT
+T21	protein 1398 1410	activated GR
+T22	protein 1420 1425	HDAC2

@@ -1,0 +1,17 @@
+T1	DNA 89 107	HER-2/neu oncogene
+T2	DNA 180 198	HER-2/neu oncogene
+T3	protein 242 259	estrogen receptor
+T4	protein 386 395	HER-2/neu
+T5	protein 549 558	HER-2/neu
+T6	cell_line 614 628	K562 cell line
+T7	cell_type 659 683	natural killer (NK) cell
+T8	cell_type 735 742	NK cell
+T9	cell_type 805 818	benign tumors
+T10	protein 947 964	HER-2/neu protein
+T11	cell_type 997 1004	NK cell
+T12	protein 1087 1096	HER-2/neu
+T13	cell_type 1130 1137	NK cell
+T14	protein 1181 1190	HER-2/neu
+T15	protein 1304 1313	HER-2/neu
+T16	protein 1355 1364	HER-2/neu
+T17	protein 1407 1424	estrogen receptor

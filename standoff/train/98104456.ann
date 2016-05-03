@@ -1,0 +1,25 @@
+T1	protein 11 21	NF-kappa B
+T2	protein 38 62	I kappa B beta inhibitor
+T3	protein 68 88	transcription factor
+T4	protein 89 99	NF-kappa B
+T5	protein 150 170	I kappa B inhibitors
+T6	cell_type 175 190	mammalian cells
+T7	protein 192 207	I kappa B alpha
+T8	protein 212 235	I kappa B beta proteins
+T9	protein 289 299	NF-kappa B
+T10	protein 335 356	p65 or c-Rel subunits
+T11	protein 396 416	NF-kappa B inhibitor
+T12	protein 418 435	I kappa B epsilon
+T13	protein 490 505	I kappa B alpha
+T14	protein 507 521	I kappa B beta
+T15	protein 565 575	NF-kappa B
+T16	cell_line 629 651	E29.1 T cell hybridoma
+T17	protein 652 667	I kappa B alpha
+T18	protein 672 686	I kappa B beta
+T19	protein 715 718	p65
+T20	protein 728 742	I kappa B beta
+T21	protein 770 779	TNF alpha
+T22	protein 866 881	I kappa B alpha
+T23	protein 883 897	I kappa B beta
+T24	protein 954 977	hypophosphorylated form
+T25	protein 1018 1032	I kappa B beta

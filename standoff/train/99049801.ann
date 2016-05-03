@@ -1,0 +1,28 @@
+T1	protein 0 4	BASH
+T2	protein 8 32	novel signaling molecule
+T3	cell_type 61 68	B cells
+T4	cell_type 208 225	B cell repertoire
+T5	cell_type 300 314	bursal B cells
+T6	protein 336 350	85-kDa protein
+T7	protein 363 367	BASH
+T8	protein 369 405	B cell adaptor containing SH2 domain
+T9	protein 422 447	N-terminal acidic domains
+T10	protein 453 500	SH2 domain-binding phosphotyrosine-based motifs
+T11	protein 504 523	proline-rich domain
+T12	protein 531 552	C-terminal SH2 domain
+T13	protein 554 558	BASH
+T14	protein 602 608	SLP-76
+T15	protein 644 647	TCR
+T16	protein 669 673	BASH
+T17	protein 715 733	B cell Ag receptor
+T18	protein 735 738	BCR
+T19	protein 775 778	Syk
+T20	protein 783 786	Lyn
+T21	protein 807 826	signaling molecules
+T22	protein 837 840	Syk
+T23	protein 847 877	putative chicken Shc homologue
+T24	protein 897 901	BASH
+T25	protein 932 937	NF-AT
+T26	protein 960 963	BCR
+T27	protein 1007 1011	BASH
+T28	protein 1027 1030	BCR

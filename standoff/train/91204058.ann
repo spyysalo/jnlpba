@@ -1,0 +1,23 @@
+T1	protein 31 41	NF-kappa B
+T2	protein 49 63	HIV-1 protease
+T3	DNA 109 159	human immunodeficiency virus type-1 (HIV-1) genome
+T4	protein 184 200	cellular factors
+T5	cell_type 236 261	latently infected T cells
+T6	protein 330 340	NF-kappa B
+T7	DNA 382 408	HIV-1 long terminal repeat
+T8	protein 438 458	DNA-binding subunits
+T9	protein 519 531	65K subunits
+T10	cell_type 565 579	mature B cells
+T11	protein 622 650	inactive cytoplasmic complex
+T12	cell_type 700 707	T cells
+T13	protein 751 761	NF-kappa B
+T14	DNA 782 799	complementary DNA
+T15	protein 808 819	50K subunit
+T16	protein 854 880	cytoplasmic 105K precursor
+T17	protein 882 886	p105
+T18	protein 958 968	NF-kappa B
+T19	protein 1034 1038	p105
+T20	protein 1070 1080	NF-kappa B
+T21	protein 1175 1195	human 105K precursor
+T22	protein 1246 1250	p105
+T23	protein 1282 1308	nuclear NF-kappa B complex

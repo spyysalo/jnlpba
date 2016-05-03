@@ -1,0 +1,23 @@
+T1	DNA 19 27	DR3 gene
+T2	DNA 31 52	human chromosome 1p36
+T3	cell_type 73 92	human neuroblastoma
+T4	DNA 98 112	human DR3 gene
+T5	protein 145 167	Wsl-1/APO-3/TRAMP/LARD
+T6	protein 179 217	tumor necrosis factor-related receptor
+T7	cell_type 264 274	thymocytes
+T8	cell_type 279 290	lymphocytes
+T9	protein 292 295	DR3
+T10	protein 324 334	NF-kappa B
+T11	cell_type 382 397	mammalian cells
+T12	DNA 472 486	DR3 gene locus
+T13	DNA 513 547	human chromosome band 1p36.2-p36.3
+T14	cell_line 639 668	neuroblastoma (NB) cell lines
+T15	DNA 731 739	DR3 gene
+T16	protein 755 794	extracellular and transmembrane regions
+T17	protein 807 825	cytoplasmic domain
+T18	cell_line 926 939	NB cell lines
+T19	DNA 950 976	DR3 and the DR3L sequences
+T20	DNA 1035 1045	chromosome
+T21	protein 1056 1074	DR3/ Wsl-1 protein
+T22	cell_line 1116 1129	NB cell lines
+T23	cell_line 1179 1192	NB cell lines

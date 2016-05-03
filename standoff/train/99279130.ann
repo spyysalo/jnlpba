@@ -1,0 +1,23 @@
+T1	DNA 156 184	human beta-globin gene locus
+T2	cell_type 236 251	erythroid cells
+T3	DNA 318 346	DNase 1 hypersensitive sites
+T4	DNA 365 393	active globin gene promoters
+T5	DNA 428 455	globin locus control region
+T6	DNA 504 526	beta-like globin genes
+T7	DNA 632 660	minimal beta-globin promoter
+T8	DNA 681 743	erythroid-specific DNase 1 hypersensitive site-forming element
+T9	DNA 745 749	HSFE
+T10	DNA 779 808	beta-globin promoter and gene
+T11	protein 850 855	NF-E2
+T12	protein 857 861	AP-1
+T13	protein 863 869	GATA-1
+T14	protein 874 878	Sp-1
+T15	cell_type 920 948	murine erythroleukemia cells
+T16	DNA 1021 1025	HSFE
+T17	protein 1054 1061	DNase 1
+T18	DNA 1142 1161	artificial promoter
+T19	DNA 1208 1229	beta-globin promoters
+T20	DNA 1346 1362	beta-globin gene
+T21	DNA 1416 1432	beta-globin gene
+T22	DNA 1491 1509	cis-acting element
+T23	DNA 1595 1611	beta-globin gene

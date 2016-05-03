@@ -1,0 +1,17 @@
+T1	protein 71 80	NF-kappaB
+T2	DNA 105 161	human immunodeficiency virus type 1 long terminal repeat
+T3	cell_type 165 172	T cells
+T4	cell_type 541 548	T cells
+T5	protein 657 660	CD4
+T6	cell_type 672 685	T lymphocytes
+T7	cell_line 781 794	1G5 cell line
+T8	DNA 860 869	HIV-1 LTR
+T9	DNA 982 1006	HIV-1 LTR-dependent gene
+T10	protein 1094 1120	protein tyrosine kinase(s)
+T11	protein 1122 1138	protein kinase A
+T12	protein 1146 1162	protein kinase C
+T13	protein 1431 1461	transcription factor NF-kappaB
+T14	DNA 1521 1536	luciferase gene
+T15	DNA 1569 1624	wild-type, but not the kappaB-mutated, HIV-1 LTR region
+T16	protein 1761 1781	endogenous TNF-alpha
+T17	cell_type 1859 1866	T cells

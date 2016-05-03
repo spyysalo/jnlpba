@@ -1,0 +1,37 @@
+T1	protein 0 5	Bcl-6
+T2	cell_type 166 189	intrafollicular T-cells
+T3	protein 296 314	Bcl-6 gene product
+T4	protein 318 340	nuclear phosphoprotein
+T5	protein 372 377	Bcl-6
+T6	protein 428 433	Bcl-6
+T7	cell_type 459 487	germinal center (GC) B-cells
+T8	cell_type 506 538	CD3/CD4+ intrafollicular T cells
+T9	protein 579 592	Bcl-6 protein
+T10	cell_type 610 627	CD3+/CD4+ T cells
+T11	cell_type 847 855	GC cells
+T12	protein 943 948	Bcl-6
+T13	protein 1132 1137	Bcl-6
+T14	protein 1336 1346	Bcl-6/CD20
+T15	protein 1348 1357	Bcl-6/CD3
+T16	protein 1363 1373	Bcl-6/CD57
+T17	protein 1455 1460	Bcl-6
+T18	cell_type 1542 1554	Bcl-6+ cells
+T19	cell_type 1844 1856	Bcl-6+ cells
+T20	cell_type 1981 2009	interfollicular Bcl-6+ cells
+T21	cell_type 2070 2098	interfollicular Bcl-6+ cells
+T22	cell_type 2115 2145	Bcl6+/CD3+/CD20-/CD57- T cells
+T23	cell_type 2157 2185	CD3+ intrafollicular T cells
+T24	cell_type 2262 2273	CD57+ cells
+T25	protein 2292 2297	Bcl-6
+T26	protein 2391 2396	Bcl-6
+T27	protein 2573 2578	Bcl-6
+T28	cell_type 2611 2639	Intrafollicular CD3+ T cells
+T29	protein 2678 2683	Bcl-6
+T30	cell_type 2751 2768	Bcl-6+/CD3+ cells
+T31	cell_type 2805 2828	intrafollicular T cells
+T32	cell_type 2852 2885	Interfollicular Bcl-6+/CD3+ cells
+T33	cell_type 2991 3018	Intrafollicular CD57+ cells
+T34	protein 3037 3042	Bcl-6
+T35	cell_type 3076 3109	intrafollicular T-cell population
+T36	protein 3157 3162	Bcl-6
+T37	protein 3192 3197	Bcl-6

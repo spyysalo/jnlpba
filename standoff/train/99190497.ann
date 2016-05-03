@@ -1,0 +1,24 @@
+T1	cell_line 0 27	Apoptosis-resistant T cells
+T2	protein 49 58	NF-kappaB
+T3	protein 81 91	Fas ligand
+T4	protein 137 140	TCR
+T5	cell_type 144 156	CD4+ T cells
+T6	protein 207 217	Fas ligand
+T7	protein 219 223	FasL
+T8	cell_line 418 437	mutant Jurkat cells
+T9	protein 468 472	FasL
+T10	protein 511 514	TCR
+T11	protein 552 556	IL-2
+T12	protein 561 570	IFN-gamma
+T13	DNA 619 669	FasL- and a consensus NF-kappaB-reporter construct
+T14	cell_type 723 738	wild-type cells
+T15	DNA 819 832	FasL reporter
+T16	protein 872 881	NF-kappaB
+T17	cell_type 934 946	mutant cells
+T18	protein 965 974	NF-kappaB
+T19	protein 1018 1027	NF-kappaB
+T20	protein 1049 1053	FasL
+T21	cell_type 1068 1085	activated T cells
+T22	protein 1142 1146	FasL
+T23	DNA 1154 1167	cytokine gene
+T24	protein 1210 1219	NF-kappaB

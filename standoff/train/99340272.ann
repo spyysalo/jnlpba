@@ -1,0 +1,47 @@
+T1	protein 4 60	Epstein-Barr virus oncoprotein latent membrane protein 1
+T2	protein 73 123	tumor necrosis factor receptor-associated proteins
+T3	protein 124 129	TRADD
+T4	protein 134 162	receptor-interacting protein
+T5	protein 164 167	RIP
+T6	protein 210 213	RIP
+T7	protein 218 227	NF-kappaB
+T8	protein 254 299	Epstein-Barr virus (EBV) transforming protein
+T9	protein 300 304	LMP1
+T10	protein 345 417	tumor necrosis factor receptor 1 (TNFR1)-associated death domain protein
+T11	protein 418 423	TRADD
+T12	protein 435 444	NF-kappaB
+T13	protein 449 472	c-Jun N-terminal kinase
+T14	protein 562 566	LMP1
+T15	protein 585 590	TRADD
+T16	protein 604 609	TNFR1
+T17	protein 628 633	TRADD
+T18	protein 635 639	LMP1
+T19	protein 678 687	NF-kappaB
+T20	protein 706 711	TRADD
+T21	protein 715 724	NF-kappaB
+T22	protein 743 748	TNFR1
+T23	protein 794 798	LMP1
+T24	protein 816 821	TRADD
+T25	protein 846 855	NF-kappaB
+T26	protein 874 879	TNFR1
+T27	protein 889 894	TRADD
+T28	protein 916 920	LMP1
+T29	protein 946 955	NF-kappaB
+T30	protein 972 977	TRADD
+T31	protein 999 1018	residues 122 to 293
+T32	protein 1027 1032	TNFR1
+T33	protein 1034 1038	LMP1
+T34	protein 1066 1094	receptor-interacting protein
+T35	protein 1096 1099	RIP
+T36	protein 1128 1131	RIP
+T37	cell_line 1135 1176	EBV-transformed lymphoblastoid cell lines
+T38	protein 1192 1196	LMP1
+T39	protein 1214 1217	RIP
+T40	protein 1222 1231	NF-kappaB
+T41	protein 1282 1287	TRADD
+T42	protein 1291 1294	RIP
+T43	protein 1296 1300	LMP1
+T44	cell_line 1330 1395	EBV-negative Burkitt lymphoma or human embryonic kidney 293 cells
+T45	protein 1483 1487	LMP1
+T46	protein 1489 1494	TRADD
+T47	protein 1500 1503	RIP

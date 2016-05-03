@@ -1,0 +1,28 @@
+T1	protein 26 31	MCP-1
+T2	protein 201 210	cytokines
+T3	protein 221 237	interferon-gamma
+T4	protein 239 248	IFN-gamma
+T5	protein 269 290	chemokine superfamily
+T6	protein 385 394	IFN-gamma
+T7	protein 405 425	class II MHC antigen
+T8	protein 457 490	intercellular adhesion molecule-1
+T9	cell_line 495 521	cultured endothelial cells
+T10	protein 634 643	IFN-gamma
+T11	protein 899 929	monocyte chemotactic peptide-1
+T12	protein 931 936	MCP-1
+T13	protein 941 950	chemokine
+T14	protein 1070 1079	IFN-gamma
+T15	protein 1169 1175	STAT-1
+T16	cell_type 1210 1227	endothelial cells
+T17	protein 1233 1242	IFN-gamma
+T18	protein 1261 1266	MCP-1
+T19	protein 1334 1343	IFN-gamma
+T20	protein 1458 1463	MCP-1
+T21	protein 1512 1541	phosphatidylinositol 3-kinase
+T22	cell_type 1585 1607	mononuclear leucocytes
+T23	protein 1618 1627	chemokine
+T24	protein 1767 1772	MCP-1
+T25	protein 1849 1858	IFN-gamma
+T26	protein 1886 1891	MCP-1
+T27	cell_line 1906 1932	cultured endothelial cells
+T28	protein 2034 2039	MCP-1

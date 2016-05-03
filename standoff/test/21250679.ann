@@ -1,0 +1,34 @@
+T1	protein 0 16	Stem cell factor
+T2	protein 21 34	interleukin-3
+T3	cell_type 65 90	erythroid precursor cells
+T4	protein 104 128	fibroblast growth factor
+T5	cell_line 139 172	hematopoietic stem cell line, A-6
+T6	cell_type 177 220	ultipotent immature myeloid cell population
+T7	protein 241 271	basic fibroblast growth factor
+T8	protein 273 277	bFGF
+T9	cell_line 289 322	hematopoietic stem cell line, A-6
+T10	protein 343 359	stem cell factor
+T11	protein 361 364	SCF
+T12	protein 376 380	bFGF
+T13	protein 412 429	stem cell markers
+T14	protein 431 436	c-kit
+T15	protein 441 445	CD34
+T16	protein 453 479	myeloid cell marker, F4/80
+T17	protein 524 550	Mac-1, a macrophage marker
+T18	protein 554 580	Gr-1, a granulocytic maker
+T19	protein 602 625	erythroid marker TER119
+T20	protein 675 696	myeloid-specific PU.1
+T21	protein 722 747	erythroid-specific GATA-1
+T22	protein 763 772	cytokines
+T23	protein 774 787	interleukin-3
+T24	protein 789 793	IL-3
+T25	cell_type 803 828	erythroid precursor cells
+T26	protein 848 873	erythroid-specific GATA-1
+T27	protein 878 895	beta-major globin
+T28	cell_type 935 960	erythroid precursor cells
+T29	cell_type 990 1012	immature myeloid cells
+T30	protein 1033 1037	IL-3
+T31	protein 1039 1042	SCF
+T32	protein 1047 1051	IL-3
+T33	cell_type 1083 1108	erythroid precursor cells
+T34	cell_line 1117 1149	A-6 hematopoietic stem cell line

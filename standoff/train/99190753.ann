@@ -1,0 +1,45 @@
+T1	protein 15 32	adenylate cyclase
+T2	protein 37 51	p70(S6)-kinase
+T3	protein 66 71	IL-10
+T4	cell_type 89 104	human monocytes
+T5	protein 108 129	gp41 envelope protein
+T6	protein 201 217	recombinant gp41
+T7	protein 219 228	aa565-647
+T8	protein 235 255	extracellular domain
+T9	protein 259 291	HIV-1 transmembrane glycoprotein
+T10	protein 304 318	interleukin-10
+T11	protein 320 325	IL-10
+T12	cell_type 341 356	human monocytes
+T13	protein 454 458	gp41
+T14	protein 467 472	IL-10
+T15	protein 562 571	NF-kappaB
+T16	protein 582 586	gp41
+T17	cell_type 616 625	monocytes
+T18	protein 680 697	adenylate cyclase
+T19	protein 728 732	gp41
+T20	protein 741 746	IL-10
+T21	cell_type 761 770	monocytes
+T22	protein 785 789	gp41
+T23	protein 810 819	NF-kappaB
+T24	protein 854 863	NF-kappaB
+T25	DNA 877 904	main NF-kappaB-binding site
+T26	DNA 914 928	IL-10 promoter
+T27	protein 947 951	gp41
+T28	protein 1048 1062	p70(S6)-kinase
+T29	protein 1080 1090	Gi protein
+T30	protein 1092 1107	pertussis toxin
+T31	protein 1133 1138	IL-10
+T32	protein 1153 1157	gp41
+T33	cell_type 1161 1170	monocytes
+T34	protein 1196 1225	phosphatidylinositol 3-kinase
+T35	protein 1227 1238	PI 3-kinase
+T36	protein 1291 1295	MAPK
+T37	protein 1336 1340	gp41
+T38	protein 1349 1354	IL-10
+T39	cell_type 1372 1381	monocytes
+T40	protein 1398 1407	NF-kappaB
+T41	protein 1409 1413	MAPK
+T42	protein 1418 1429	PI 3-kinase
+T43	protein 1487 1504	adenylate cyclase
+T44	protein 1509 1548	pertussis-toxin-sensitive Gi/Go protein
+T45	protein 1559 1573	p70(S6)-kinase

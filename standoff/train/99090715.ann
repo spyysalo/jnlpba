@@ -1,0 +1,15 @@
+T1	protein 0 20	Transcription factor
+T2	DNA 36 49	core promoter
+T3	DNA 57 87	human monoamine oxidase B gene
+T4	cell_type 118 129	blood cells
+T5	protein 154 173	monoamine oxidase B
+T6	cell_type 177 188	blood cells
+T7	DNA 465 480	150 bp fragment
+T8	DNA 488 515	proximal 5'-flanking region
+T9	DNA 523 553	human monoamine oxidase B gene
+T10	cell_type 623 634	lymphocytes
+T11	protein 686 705	monoamine oxidase B
+T12	cell_type 725 736	blood cells
+T13	cell_type 738 747	platelets
+T14	protein 796 817	transcription factors
+T15	protein 913 939	platelet monoamine oxidase

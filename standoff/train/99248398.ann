@@ -1,0 +1,23 @@
+T1	protein 0 24	Glucocorticoid receptors
+T2	cell_type 82 116	peripheral blood mononuclear cells
+T3	protein 347 371	glucocorticoid receptors
+T4	protein 373 376	hGR
+T5	protein 506 509	hGR
+T6	DNA 546 564	inflammatory genes
+T7	protein 758 761	hGR
+T8	cell_type 810 844	peripheral blood mononuclear cells
+T9	cell_type 846 851	PBMCs
+T10	protein 1034 1037	hGR
+T11	protein 1164 1179	cytosol protein
+T12	protein 1208 1223	cytosol protein
+T13	protein 1318 1333	cytosol protein
+T14	protein 1356 1359	hGR
+T15	protein 1508 1511	hGR
+T16	protein 1604 1607	hGR
+T17	protein 1699 1714	cytosol protein
+T18	protein 1811 1826	cytosol protein
+T19	protein 1868 1871	hGR
+T20	protein 2258 2261	hGR
+T21	protein 2363 2367	IL-6
+T22	protein 2378 2381	hGR
+T23	protein 2483 2492	NF-kappaB

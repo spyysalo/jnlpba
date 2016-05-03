@@ -1,0 +1,37 @@
+T1	cell_type 0 10	Astrocytes
+T2	cell_type 15 33	glioblastoma cells
+T3	protein 48 76	octamer-DNA binding proteins
+T4	protein 95 142	ubiquitous Oct-1 and B cell type Oct-2 proteins
+T5	DNA 148 166	'octamer' sequence
+T6	DNA 260 280	immunoglobulin genes
+T7	cell_type 284 297	B-lymphocytes
+T8	DNA 321 339	housekeeping genes
+T9	cell_type 362 373	lymphocytes
+T10	protein 379 402	octamer-binding protein
+T11	protein 403 409	Oct-2A
+T12	DNA 464 484	B-cell specific gene
+T13	DNA 557 569	octamer site
+T14	DNA 628 664	interleukin-1 and MHC class II genes
+T15	DNA 677 693	octamer sequence
+T16	DNA 701 709	promoter
+T17	protein 809 833	octamer-binding proteins
+T18	protein 922 946	octamer binding proteins
+T19	cell_type 984 1009	cultured mouse astrocytes
+T20	cell_line 1058 1105	human glioblastoma and neuroblastoma cell lines
+T21	protein 1111 1150	nervous system-derived (N-Oct) proteins
+T22	DNA 1164 1184	octamer DNA sequence
+T23	protein 1233 1238	Oct-1
+T24	protein 1243 1258	Oct-2A proteins
+T25	protein 1284 1298	N-Oct proteins
+T26	protein 1302 1307	Oct-1
+T27	protein 1312 1318	Oct-2A
+T28	protein 1441 1446	Oct-1
+T29	protein 1451 1457	Oct-2A
+T30	protein 1502 1515	N-Oct-factors
+T31	protein 1551 1567	ubiquitous Oct-1
+T32	protein 1576 1600	lymphoid-specific Oct-2A
+T33	cell_type 1614 1628	melanoma cells
+T34	protein 1646 1660	N-Oct-3 factor
+T35	DNA 1777 1801	Oct-2A expression vector
+T36	protein 1831 1838	N-Oct-3
+T37	protein 1849 1862	N-Oct factors

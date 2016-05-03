@@ -1,0 +1,16 @@
+T1	cell_type 33 65	interferon-gamma-producing cells
+T2	cell_type 150 156	T cell
+T3	protein 217 226	cytokines
+T4	cell_type 248 272	IFN-gamma-positive cells
+T5	cell_type 291 294	Th1
+T6	cell_type 412 432	CD4-positive T cells
+T7	cell_type 437 457	CD8-positive T cells
+T8	cell_type 549 568	CD1a-positive cells
+T9	cell_type 643 662	CD68-positive cells
+T10	cell_type 694 718	IFN-gamma-positive cells
+T11	protein 783 792	IFN-gamma
+T12	cell_type 834 860	mononuclear lymphoid cells
+T13	protein 973 994	recombinant IFN-gamma
+T14	cell_type 1094 1097	Th1
+T15	cell_type 1108 1111	Th1
+T16	protein 1148 1157	IFN-gamma

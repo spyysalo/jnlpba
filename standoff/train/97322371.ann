@@ -1,0 +1,27 @@
+T1	protein 19 24	CIITA
+T2	protein 30 80	type II bare lymphocyte syndrome-associated factor
+T3	protein 132 156	TATA box binding protein
+T4	protein 158 163	CIITA
+T5	DNA 191 237	class II major histocompatibility complex gene
+T6	cell_line 333 394	class II major histocompatibility complex-negative cell lines
+T7	protein 400 417	N-terminal region
+T8	protein 494 512	DNA binding domain
+T9	protein 584 607	CIITA activation domain
+T10	protein 730 754	TATA box binding protein
+T11	protein 807 830	CIITA activation domain
+T12	protein 847 850	TBP
+T13	protein 893 919	associated general factors
+T14	protein 940 945	CIITA
+T15	protein 987 990	TBP
+T16	protein 1025 1029	VP16
+T17	protein 1139 1160	TBP-associated factor
+T18	protein 1161 1169	TAFII250
+T19	protein 1221 1244	CIITA activation domain
+T20	protein 1275 1278	TBP
+T21	protein 1283 1298	general factors
+T22	protein 1334 1359	acidic activation domains
+T23	protein 1383 1388	CIITA
+T24	protein 1463 1468	CIITA
+T25	protein 1568 1595	human B-cell-specific CIITA
+T26	protein 1636 1663	herpes virus transactivator
+T27	protein 1664 1668	VP16

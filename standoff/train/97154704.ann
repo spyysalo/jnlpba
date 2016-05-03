@@ -1,0 +1,33 @@
+T1	protein 0 5	Elf-2
+T2	protein 9 53	rhombotin-2 binding ets transcription factor
+T3	DNA 104 115	Rhombotin-2
+T4	DNA 117 123	RBTN-2
+T5	DNA 130 144	proto-oncogene
+T6	cell_type 168 181	T lymphocytes
+T7	protein 226 232	RBTN-2
+T8	protein 266 281	binding protein
+T9	DNA 340 352	cDNA library
+T10	protein 370 400	novel ets transcription factor
+T11	protein 412 418	RBTN-2
+T12	protein 443 448	elf-2
+T13	protein 461 479	DNA-binding domain
+T14	protein 514 531	ets family member
+T15	protein 532 537	elf-1
+T16	RNA 586 603	elf-2 transcripts
+T17	cell_type 654 664	Thymocytes
+T18	RNA 715 732	3.5 kb transcript
+T19	DNA 774 785	cDNA clones
+T20	protein 859 872	amino termini
+T21	protein 943 949	elf-2a
+T22	protein 954 960	elf-2b
+T23	protein 980 1002	RBTN-2 binding regions
+T24	protein 1007 1026	DNA-binding domains
+T25	protein 1028 1034	Elf-2b
+T26	protein 1043 1074	putative transactivation domain
+T27	protein 1113 1119	RBTN-2
+T28	protein 1152 1158	elf-2a
+T29	protein 1163 1169	elf-2b
+T30	protein 1189 1195	RBTN-2
+T31	cell_type 1228 1235	T cells
+T32	protein 1237 1243	RBTN-2
+T33	protein 1278 1284	elf-2b

@@ -1,0 +1,18 @@
+T1	protein 19 29	NF-kappa B
+T2	protein 34 42	cytokine
+T3	protein 62 66	HOCI
+T4	protein 167 175	cytokine
+T5	protein 258 266	protease
+T6	protein 584 627	transcription factor nuclear factor-kappa B
+T7	protein 629 639	NK-kappa B
+T8	protein 675 683	cytokine
+T9	protein 684 697	interleukin-8
+T10	protein 699 703	IL-8
+T11	cell_line 708 732	cultured human monocytes
+T12	protein 794 821	tumor necrosis factor-alpha
+T13	protein 823 832	TNF-alpha
+T14	protein 835 844	IL-1 beta
+T15	protein 846 850	IL-6
+T16	protein 852 856	IL-8
+T17	protein 858 906	granulocyte-macrophage colony-stimulating factor
+T18	protein 908 914	GM-CSF

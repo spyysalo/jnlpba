@@ -1,0 +1,27 @@
+T1	DNA 52 57	BRCA1
+T2	DNA 86 107	tumor suppressor gene
+T3	DNA 108 113	BRCA1
+T4	DNA 281 287	allele
+T5	DNA 324 337	normal allele
+T6	DNA 353 358	BRCA1
+T7	DNA 374 385	genomic DNA
+T8	cell_type 389 400	lymphocytes
+T9	cell_type 405 439	microdissected ovarian tumor cells
+T10	DNA 573 614	tumor and constitutional (lymphocyte) DNA
+T11	DNA 637 642	BRCA1
+T12	DNA 752 757	BRCA1
+T13	DNA 874 879	BRCA1
+T14	DNA 938 958	premature stop codon
+T15	DNA 1195 1200	BRCA1
+T16	DNA 1248 1266	consensus sequence
+T17	DNA 1273 1284	branch site
+T18	DNA 1383 1388	BRCA1
+T19	DNA 1447 1459	BRCA1 allele
+T20	cell_line 1561 1580	lymphoid cell lines
+T21	RNA 1671 1675	mRNA
+T22	RNA 1710 1720	BRCA1 mRNA
+T23	DNA 1759 1764	BRCA1
+T24	DNA 1840 1852	BRCA1 allele
+T25	DNA 1897 1902	BRCA1
+T26	DNA 1970 1983	BRCA1 alleles
+T27	DNA 2044 2057	normal allele

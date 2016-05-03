@@ -1,0 +1,16 @@
+T1	cell_type 26 48	HIV-1-infected T cells
+T2	protein 61 64	Tat
+T3	protein 73 77	CD28
+T4	cell_type 229 263	human peripheral blood lymphocytes
+T5	protein 378 400	CD3 and CD28 receptors
+T6	protein 420 440	HIV-1 transactivator
+T7	protein 441 444	Tat
+T8	protein 508 512	IL-2
+T9	protein 557 560	CD3
+T10	protein 566 570	CD28
+T11	protein 572 576	IL-2
+T12	protein 595 598	Tat
+T13	DNA 658 681	CD28-responsive element
+T14	DNA 689 702	IL-2 promoter
+T15	protein 741 755	29 amino acids
+T16	DNA 771 789	second exon of Tat

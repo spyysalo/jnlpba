@@ -1,0 +1,33 @@
+T1	protein 0 29	Phosphatidylinositol 3-kinase
+T2	protein 42 64	interleukin-2 receptor
+T3	protein 72 92	cell cycle regulator
+T4	protein 93 96	E2F
+T5	protein 134 147	interleukin-2
+T6	protein 149 153	IL-2
+T7	cell_type 158 165	T cells
+T8	protein 226 256	Phosphatidyl inositol 3-kinase
+T9	protein 258 262	PI3K
+T10	protein 280 284	IL-2
+T11	protein 315 319	PI3K
+T12	protein 356 376	cell cycle regulator
+T13	protein 377 380	E2F
+T14	protein 387 391	IL-2
+T15	cell_type 404 415	lymphocytes
+T16	protein 420 424	PI3K
+T17	protein 478 483	Stat5
+T18	protein 488 491	Raf
+T19	protein 491 495	/MEK
+T20	protein 510 513	E2F
+T21	protein 526 542	Protein kinase B
+T22	protein 544 547	PKB
+T23	protein 565 569	IL-2
+T24	protein 574 578	PI3K
+T25	protein 608 611	PKB
+T26	protein 636 639	E2F
+T27	protein 664 668	PI3K
+T28	protein 697 699	Rb
+T29	protein 714 723	cyclin D3
+T30	protein 744 751	p27kip1
+T31	protein 787 791	PI3K
+T32	protein 792 795	PKB
+T33	protein 822 835	IL-2 teceptor

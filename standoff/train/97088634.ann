@@ -1,0 +1,33 @@
+T1	DNA 28 82	human Bruton's agammaglobulinemia tyrosine kinase gene
+T2	protein 84 87	Btk
+T3	protein 105 109	Sp1-
+T4	protein 114 139	Spi-1/PU.1-family members
+T5	protein 141 184	Bruton's agammaglobulinemia tyrosine kinase
+T6	protein 186 189	Btk
+T7	protein 196 223	cytoplasmic tyrosine kinase
+T8	cell_type 318 337	hematopoietic cells
+T9	cell_type 360 367	T-cells
+T10	cell_type 372 384	plasma cells
+T11	DNA 424 439	280 bp upstream
+T12	DNA 447 479	major transcriptional start site
+T13	DNA 559 567	promoter
+T14	DNA 581 598	Sp1 binding sites
+T15	DNA 612 618	PU-box
+T16	protein 624 644	transcription factor
+T17	protein 645 655	Spi-1/PU.1
+T18	protein 694 699	Spi-B
+T19	DNA 713 719	PU-box
+T20	cell_line 739 769	erythroleukemia cell line K562
+T21	protein 793 798	Spi-B
+T22	protein 805 809	PU.1
+T23	DNA 823 835	Btk promoter
+T24	DNA 948 954	PU box
+T25	cell_line 976 994	T-cell line Jurkat
+T26	protein 1014 1034	Spi-1 family members
+T27	protein 1061 1066	Spi-B
+T28	protein 1078 1082	PU.1
+T29	protein 1110 1113	Btk
+T30	cell_type 1169 1195	lymphoid and myeloid cells
+T31	protein 1211 1214	Btk
+T32	DNA 1317 1325	Btk gene
+T33	protein 1365 1393	Sp1- and PU.1-family members

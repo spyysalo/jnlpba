@@ -1,0 +1,30 @@
+T1	protein 0 5	STAT1
+T2	protein 67 85	adhesion molecules
+T3	cell_type 87 102	Human monocytes
+T4	cell_type 195 206	macrophages
+T5	protein 423 488	signal transducers and activators of transcription (STAT) factors
+T6	protein 565 570	STAT1
+T7	protein 648 653	STAT1
+T8	DNA 682 704	STAT binding sequences
+T9	DNA 706 709	SBE
+T10	DNA 726 735	promoters
+T11	DNA 817 826	FcgammaRI
+T12	DNA 831 837	ICAM-1
+T13	DNA 866 910	transcription factor IFN regulatory factor-1
+T14	protein 1026 1031	STAT1
+T15	cell_type 1058 1067	monocytes
+T16	protein 1210 1215	STAT1
+T17	cell_line 1256 1279	IFN-gamma-treated cells
+T18	protein 1322 1327	STAT1
+T19	protein 1343 1351	cytokine
+T20	protein 1382 1386	Y701
+T21	protein 1391 1401	S727 STAT1
+T22	protein 1441 1472	transforming growth factor-beta
+T23	protein 1516 1549	monocytic differentiation markers
+T24	protein 1608 1613	STAT1
+T25	protein 1675 1680	STAT1
+T26	cell_type 1747 1756	monocytes
+T27	protein 1769 1789	transcription factor
+T28	DNA 1867 1883	functional genes
+T29	protein 1893 1899	ICAM-1
+T30	protein 1904 1913	FcgammaRI

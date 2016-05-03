@@ -1,0 +1,28 @@
+T1	DNA 8 27	human homeobox gene
+T2	DNA 49 62	proboscipedia
+T3	DNA 120 139	human homeobox gene
+T4	DNA 141 144	HB9
+T5	DNA 166 178	cDNA library
+T6	cell_type 196 239	vitro stimulated human tonsil B lymphocytes
+T7	DNA 251 272	human genomic library
+T8	DNA 278 286	HB9 gene
+T9	DNA 304 309	exons
+T10	DNA 345 363	open reading frame
+T11	DNA 403 423	diverged homeodomain
+T12	protein 439 450	HB9 protein
+T13	DNA 545 560	HB9 homeodomain
+T14	DNA 592 629	Drosophila melanogaster homeobox gene
+T15	DNA 630 643	proboscipedia
+T16	RNA 671 682	poly(A) RNA
+T17	cell_line 701 728	human B cell line RPMI 8226
+T18	cell_type 738 755	activated T cells
+T19	RNA 767 788	major mRNA transcript
+T20	RNA 827 838	poly(A) RNA
+T21	DNA 884 887	HB9
+T22	RNA 1009 1028	HB9 RNA transcripts
+T23	cell_line 1032 1056	hematopoietic cell lines
+T24	RNA 1058 1077	HB9 RNA transcripts
+T25	cell_line 1109 1127	human B cell lines
+T26	cell_line 1132 1142	K562 cells
+T27	cell_type 1204 1218	tonsil B cells
+T28	DNA 1357 1360	HB9

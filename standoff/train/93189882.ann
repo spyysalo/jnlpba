@@ -1,0 +1,21 @@
+T1	protein 18 29	Tat protein
+T2	cell_line 41 70	human promonocytic U937 cells
+T3	cell_line 127 156	human promonocytic U937 cells
+T4	protein 242 260	adhesion molecules
+T5	protein 326 337	Tat protein
+T6	protein 352 365	viral protein
+T7	DNA 544 557	HIV1 tat gene
+T8	cell_line 593 617	HIV1-infected U937 cells
+T9	cell_line 666 676	U937 cells
+T10	DNA 733 736	tat
+T11	protein 756 767	Tat protein
+T12	DNA 891 896	c-fos
+T13	DNA 908 929	c-fms proto-oncogenes
+T14	cell_type 973 995	myelomonoblastic cells
+T15	DNA 1091 1106	proto-oncogenes
+T16	cell_line 1229 1239	U937 cells
+T17	protein 1276 1294	HIV1 gene products
+T18	protein 1300 1311	Tat protein
+T19	protein 1381 1394	viral protein
+T20	cell_type 1422 1449	monocyte/macrophage lineage
+T21	protein 1505 1519	viral antigens

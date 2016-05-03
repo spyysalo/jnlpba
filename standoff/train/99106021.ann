@@ -1,0 +1,16 @@
+T1	cell_type 28 43	human monocytes
+T2	protein 104 117	tissue factor
+T3	protein 119 121	TF
+T4	protein 375 377	TF
+T5	cell_type 390 405	human monocytes
+T6	cell_type 556 571	human monocytes
+T7	cell_type 724 733	monocytes
+T8	cell_line 817 833	Mono Mac-6 cells
+T9	cell_type 864 873	monocytes
+T10	cell_type 948 957	monocytes
+T11	protein 1032 1057	nuclear factor-kappaB/Rel
+T12	DNA 1063 1086	TF-specific kappaB site
+T13	RNA 1125 1132	TF mRNA
+T14	protein 1280 1296	adenylyl cyclase
+T15	protein 1318 1353	2'-deoxy-3'-adenosine monophosphate
+T16	cell_type 1494 1509	human monocytes

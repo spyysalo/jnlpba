@@ -1,0 +1,25 @@
+T1	protein 71 89	interleukin-1 beta
+T2	protein 94 107	interleukin-6
+T3	cell_type 122 137	human monocytes
+T4	protein 187 208	inflammatory cytokine
+T5	protein 324 332	cytokine
+T6	protein 729 751	lytic transglycosylase
+T7	protein 783 791	cytokine
+T8	cell_type 806 821	human monocytes
+T9	protein 865 888	interleukin (IL)-1 beta
+T10	RNA 893 902	IL-6 mRNA
+T11	protein 928 937	IL-1 beta
+T12	protein 942 954	IL-6 protein
+T13	DNA 1109 1114	genes
+T14	protein 1272 1288	protein kinase C
+T15	protein 1290 1306	protein kinase A
+T16	protein 1382 1391	IL-1 beta
+T17	RNA 1396 1405	IL-6 mRNA
+T18	RNA 1562 1571	IL-6 mRNA
+T19	protein 1653 1662	IL-1 beta
+T20	protein 1967 1976	IL-1 beta
+T21	RNA 1981 1990	IL-6 mRNA
+T22	protein 2184 2193	IL-1 beta
+T23	protein 2198 2202	IL-6
+T24	cell_type 2217 2232	human monocytes
+T25	protein 2295 2304	cytokines

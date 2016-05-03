@@ -1,0 +1,30 @@
+T1	protein 14 17	TCR
+T2	protein 77 82	Stat3
+T3	cell_type 97 110	human T cells
+T4	protein 134 141	TCR/CD3
+T5	protein 176 181	Stat5
+T6	cell_type 185 199	murine T cells
+T7	protein 369 374	Stat3
+T8	protein 384 389	Stat5
+T9	cell_line 394 434	allogen-specific human CD4+ T cell lines
+T10	protein 449 453	IL-2
+T11	protein 523 528	Stat3
+T12	protein 544 548	IL-2
+T13	protein 550 553	CD3
+T14	protein 581 586	Stat3
+T15	protein 630 636	ICAM-1
+T16	DNA 641 661	IL-2R alpha promoter
+T17	protein 663 666	CD3
+T18	protein 690 695	Stat3
+T19	protein 732 752	Src kinase inhibitor
+T20	protein 754 757	PP1
+T21	protein 768 772	IL-2
+T22	protein 781 786	Stat3
+T23	protein 841 844	CD3
+T24	protein 857 860	mAb
+T25	protein 886 889	PP1
+T26	protein 939 944	Stat3
+T27	cell_type 948 966	human CD4+ T cells
+T28	protein 1003 1010	TCR/CD3
+T29	protein 1015 1019	IL-2
+T30	protein 1027 1032	Stat3

@@ -1,0 +1,25 @@
+T1	protein 29 64	herpes simplex virus T-cell antigen
+T2	protein 68 91	HLA DQA1*0501/DQB1*0201
+T3	protein 109 132	HLA DQA1*0201/DQB1*0201
+T4	DNA 138 152	HLA DQA1 locus
+T5	DNA 191 204	HLA DQA1*0501
+T6	DNA 214 227	HLA DQA1*0201
+T7	DNA 243 256	HLA DQB1*0201
+T8	cell_type 387 394	T cells
+T9	cell_line 483 508	virus-specific CD4+ clone
+T10	protein 523 526	DQ2
+T11	DNA 586 597	DQA1 allele
+T12	protein 626 658	DQA1*0501/DQB1*0201 heterodimers
+T13	cell_line 745 755	cell lines
+T14	protein 764 783	DQA1*0201/DQB1*0201
+T15	protein 832 841	DQA1*0201
+T16	protein 860 869	DQA1*0501
+T17	protein 1078 1081	TCR
+T18	protein 1141 1160	DQA1*0201/DQB1*0201
+T19	DNA 1200 1231	position P1, P4, P6, P7, and P9
+T20	protein 1248 1251	DQ2
+T21	DNA 1302 1331	positions P 1, P2, P3, and P5
+T22	protein 1348 1351	TCR
+T23	protein 1401 1421	HLA DQ2 heterodimers
+T24	DNA 1437 1447	DQA1 locus
+T25	protein 1511 1514	DQ2

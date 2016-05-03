@@ -1,0 +1,22 @@
+T1	protein 254 264	antibodies
+T2	protein 480 495	140-kDa protein
+T3	protein 507 512	Sp140
+T4	protein 555 577	amino-terminal portion
+T5	protein 581 586	Sp140
+T6	protein 602 607	Sp100
+T7	protein 633 643	NB protein
+T8	protein 649 665	carboxyl portion
+T9	protein 669 674	Sp140
+T10	protein 687 705	zinc-finger domain
+T11	protein 712 723	bromodomain
+T12	RNA 807 817	Sp140 mRNA
+T13	cell_type 852 879	peripheral blood leukocytes
+T14	RNA 923 933	SP140 mRNA
+T15	cell_line 937 965	myeloid precursor cell lines
+T16	cell_line 966 970	HL60
+T17	cell_line 975 978	NB4
+T18	protein 1119 1124	SP140
+T19	cell_line 1163 1167	HL60
+T20	cell_line 1172 1181	NB4 cells
+T21	protein 1199 1204	Sp140
+T22	protein 1292 1297	Sp140

@@ -1,0 +1,37 @@
+T1	protein 15 31	interaction site
+T2	protein 39 69	defective transcription factor
+T3	cell_line 77 144	class II major histocompatibility complex mutant cell line clone-13
+T4	DNA 152 168	divergent X2-box
+T5	cell_line 201 234	mutant B lymphoblastoid cell line
+T6	cell_line 236 245	Clone-13,
+T7	protein 261 267	HLA-DQ
+T8	protein 286 300	HLA-DR and -DP
+T9	protein 393 430	isotype-specific transcription factor
+T10	DNA 466 501	HLA-DRA and DQB reporter constructs
+T11	DNA 550 562	cis-elements
+T12	DNA 579 594	-141 base pairs
+T13	DNA 603 632	transcription initiation site
+T14	DNA 646 680	hybrid DRA/DQB reporter constructs
+T15	DNA 723 735	cis-elements
+T16	DNA 795 804	DQB X-box
+T17	DNA 818 830	DQB-W region
+T18	DNA 838 847	DQB Y-box
+T19	DNA 849 865	upstream of -141
+T20	DNA 871 891	DRA reporter plasmid
+T21	DNA 999 1004	X-box
+T22	DNA 1018 1033	X1- or X2-boxes
+T23	DNA 1037 1044	HLA-DRA
+T24	DNA 1089 1096	HLA-DQB
+T25	DNA 1102 1112	DQB X2-box
+T26	DNA 1151 1180	silent DRA reporter construct
+T27	DNA 1211 1221	DQB X2-box
+T28	DNA 1231 1241	DRA X2-box
+T29	DNA 1282 1294	DQB promoter
+T30	cell_line 1302 1313	mutant cell
+T31	DNA 1327 1353	hybrid reporter constructs
+T32	protein 1395 1404	wild-type
+T33	cell_line 1406 1444	HLA-DR/-DQ positive parental cell line
+T34	cell_line 1446 1452	Jijoye
+T35	DNA 1485 1501	divergent X2-box
+T36	DNA 1509 1560	class II major histocompatibility complex promoters
+T37	DNA 1631 1654	human class II isotypes

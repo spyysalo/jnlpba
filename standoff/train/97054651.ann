@@ -1,0 +1,32 @@
+T1	protein 0 15	Tyrosine kinase
+T2	protein 20 49	cAMP-dependent protein kinase
+T3	cell_line 64 98	CD40-activated human B lymphocytes
+T4	cell_type 110 129	human B lymphocytes
+T5	protein 185 189	CD40
+T6	protein 248 252	CD40
+T7	cell_line 294 341	human Epstein-Barr virus-negative B lymphocytes
+T8	protein 381 385	CD40
+T9	DNA 460 488	signal transduction elements
+T10	protein 508 511	PKC
+T11	protein 705 709	CD40
+T12	protein 744 767	protein tyrosine kinase
+T13	protein 769 772	PTK
+T14	DNA 889 940	human immunodeficiency virus-1 long terminal repeat
+T15	DNA 942 951	HIV-1 LTR
+T16	DNA 956 964	promoter
+T17	protein 1001 1023	nuclear factor kappa B
+T18	protein 1025 1036	NF- kappa B
+T19	protein 1056 1085	cAMP-dependent protein kinase
+T20	DNA 1128 1137	HIV-1 LTR
+T21	DNA 1299 1326	NF-kappa B binding sequence
+T22	protein 1336 1353	kappa light chain
+T23	protein 1385 1388	p65
+T24	protein 1390 1394	RelA
+T25	protein 1400 1405	c-Rel
+T26	cell_type 1422 1445	CD40-stimulated B cells
+T27	protein 1453 1456	PKC
+T28	protein 1485 1495	NF-kappa B
+T29	cell_type 1516 1529	B lymphocytes
+T30	protein 1583 1593	NF-kappa B
+T31	protein 1697 1701	CD40
+T32	cell_type 1716 1729	B lymphocytes

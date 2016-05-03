@@ -1,0 +1,18 @@
+T1	protein 0 23	Glucocorticoid receptor
+T2	cell_type 35 48	T lymphocytes
+T3	protein 78 102	Glucocorticoid receptors
+T4	cell_type 120 133	T lymphocytes
+T5	cell_type 235 242	T cells
+T6	cell_type 404 411	T cells
+T7	cell_line 764 783	T cell preparations
+T8	cell_type 961 968	T cells
+T9	cell_type 1010 1017	T cells
+T10	cell_type 1138 1145	T cells
+T11	cell_type 1217 1224	T cells
+T12	protein 1277 1301	glucocorticoid receptors
+T13	cell_type 1316 1323	T cells
+T14	cell_type 1364 1371	T cells
+T15	protein 1402 1426	glucocorticoid receptors
+T16	cell_type 1445 1452	T cells
+T17	cell_type 1491 1498	T cells
+T18	protein 1528 1552	glucocorticoid receptors

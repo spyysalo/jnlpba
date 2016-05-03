@@ -1,0 +1,40 @@
+T1	protein 0 11	Calcineurin
+T2	DNA 45 60	GM-CSF promoter
+T3	protein 84 100	protein kinase C
+T4	protein 104 114	NF-kappa B
+T5	protein 114 119	/AP-1
+T6	cell_type 123 130	T cells
+T7	DNA 136 155	cis-acting elements
+T8	DNA 156 173	GM-kappa B/GC-box
+T9	DNA 178 182	CLE0
+T10	DNA 191 253	granulocyte-macrophage colony-stimulating factor (GM-CSF) gene
+T11	cell_line 292 306	Jurkat T cells
+T12	DNA 397 416	GM-kappa B sequence
+T13	protein 434 444	NF-kappa B
+T14	DNA 482 495	CLE0 sequence
+T15	protein 533 549	PMA-induced AP-1
+T16	protein 556 580	PMA/A23187-induced NF-AT
+T17	cell_type 635 642	T cells
+T18	DNA 677 688	GM-CSF gene
+T19	DNA 708 770	NF-kappa B (p50/p65)- or AP-1 (c-Jun/c-Fos)-expression vectors
+T20	cell_line 776 788	Jurkat cells
+T21	DNA 796 815	luciferase reporter
+T22	DNA 831 846	GM-CSF promoter
+T23	DNA 888 903	GM-CSF promoter
+T24	protein 955 965	NF-kappa B
+T25	protein 970 974	AP-1
+T26	DNA 1022 1037	GM-CSF promoter
+T27	DNA 1053 1070	GM-kappa B/GC-box
+T28	DNA 1079 1083	CLE0
+T29	protein 1085 1095	AP-1/NF-AT
+T30	protein 1136 1147	calcineurin
+T31	protein 1149 1151	CN
+T32	protein 1156 1201	Ca2+/calmodulin-dependent protein phosphatase
+T33	protein 1261 1271	NF-kappa B
+T34	protein 1271 1276	/AP-1
+T35	protein 1314 1316	CN
+T36	protein 1321 1337	protein kinase C
+T37	protein 1339 1342	PKC
+T38	DNA 1393 1408	GM-CSF promoter
+T39	DNA 1455 1501	NF-kappa B-, AP-1- and NF-AT-binding sequences
+T40	DNA 1535 1546	GM-CSF gene

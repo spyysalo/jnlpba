@@ -1,0 +1,48 @@
+T1	protein 13 31	nuclear NF-kappa B
+T2	cell_type 69 78	monocytes
+T3	protein 84 109	nuclear factor NF-kappa B
+T4	protein 143 163	transcription factor
+T5	DNA 185 199	cytokine genes
+T6	protein 204 226	cell-surface receptors
+T7	protein 321 331	NF-kappa B
+T8	cell_line 410 430	human monocytic line
+T9	cell_line 431 441	Mono Mac 6
+T10	protein 567 577	NF-kappa B
+T11	protein 648 666	nuclear NF-kappa B
+T12	protein 803 813	NF-kappa B
+T13	protein 845 867	LPS-induced NF-kappa B
+T14	protein 923 934	p50 subunit
+T15	protein 938 948	NF-kappa B
+T16	protein 1038 1060	LPS-induced NF-kappa B
+T17	protein 1074 1102	constitutive binding protein
+T18	protein 1159 1169	NF-kappa B
+T19	cell_line 1199 1209	cell lines
+T20	cell_type 1217 1234	monocytic lineage
+T21	cell_line 1236 1240	HL60
+T22	cell_line 1242 1246	U937
+T23	cell_line 1248 1253	THP-1
+T24	cell_line 1255 1265	Mono Mac 1
+T25	cell_line 1270 1280	Mono Mac 6
+T26	cell_line 1294 1308	Molt 4 T cells
+T27	cell_line 1312 1327	K562 stem cells
+T28	protein 1403 1413	NF-kappa B
+T29	cell_line 1440 1457	mature cell lines
+T30	cell_line 1505 1521	Mono Mac 6 cells
+T31	protein 1579 1589	NF-kappa B
+T32	protein 1667 1677	NF-kappa B
+T33	cell_type 1698 1713	blood monocytes
+T34	cell_type 1715 1734	pleural macrophages
+T35	cell_type 1739 1759	alveolar macrophages
+T36	protein 1778 1788	NF-kappa B
+T37	RNA 1845 1884	tumour necrosis factor (TNF) transcript
+T38	cell_type 1902 1911	monocytes
+T39	protein 2027 2037	NF-kappa B
+T40	cell_type 2113 2131	mature macrophages
+T41	protein 2146 2156	NF-kappa B
+T42	protein 2199 2208	cytokines
+T43	protein 2209 2212	TNF
+T44	protein 2214 2227	interleukin 6
+T45	protein 2229 2240	interleukin
+T46	protein 2245 2293	granulocyte-macrophage colony-stimulating factor
+T47	protein 2297 2333	macrophage colony-stimulating factor
+T48	protein 2510 2520	NF-kappa B

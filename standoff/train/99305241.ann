@@ -1,0 +1,47 @@
+T1	cell_type 32 54	normal human monocytes
+T2	protein 69 78	cytokines
+T3	cell_type 117 141	normal human neutrophils
+T4	cell_line 145 162	transformed cells
+T5	protein 221 269	Granulocyte-macrophage colony-stimulating factor
+T6	protein 271 277	GM-CSF
+T7	protein 283 302	interleukin (IL) -3
+T8	protein 339 353	92-kDa protein
+T9	cell_type 357 379	normal human monocytes
+T10	protein 400 414	92-kDa protein
+T11	protein 418 423	STAT5
+T12	protein 436 452	STATs1, 3, and 6
+T13	protein 457 462	c-fes
+T14	protein 467 493	vav protooncogene products
+T15	protein 639 645	GM-CSF
+T16	protein 766 789	42- and 44-kDa proteins
+T17	protein 816 853	extracellular signal-regulated kinase
+T18	protein 855 858	ERK
+T19	cell_type 864 879	human monocytes
+T20	cell_type 903 914	neutrophils
+T21	cell_type 919 929	MO7e cells
+T22	protein 931 937	GM-CSF
+T23	protein 996 999	ERK
+T24	cell_type 1003 1012	monocytes
+T25	protein 1020 1048	upstream signaling molecules
+T26	protein 1052 1055	ERK
+T27	protein 1057 1060	Shc
+T28	protein 1140 1146	GM-CSF
+T29	protein 1161 1165	Sos1
+T30	protein 1170 1177	c-Raf-1
+T31	protein 1205 1211	GM-CSF
+T32	cell_type 1236 1245	monocytes
+T33	protein 1318 1324	GM-CSF
+T34	cell_type 1328 1338	MO7e cells
+T35	cell_type 1355 1366	neutrophils
+T36	protein 1368 1371	p38
+T37	cell_type 1479 1494	human monocytes
+T38	cell_type 1781 1790	monocytes
+T39	protein 1810 1816	GM-CSF
+T40	cell_type 1844 1854	MO7e cells
+T41	protein 1905 1910	STAT5
+T42	protein 1935 1938	ERK
+T43	protein 1946 1949	p38
+T44	cell_type 1953 1975	normal human monocytes
+T45	protein 2031 2037	GM-CSF
+T46	protein 2066 2069	ERK
+T47	cell_line 2090 2107	transformed cells

@@ -1,0 +1,39 @@
+T1	cell_line 20 56	megakaryoblastic/erythroid cell line
+T2	cell_type 80 89	red cells
+T3	protein 109 123	erythropoietin
+T4	cell_type 137 160	platelet-like particles
+T5	cell_line 196 214	leukemic cell line
+T6	cell_line 216 222	NS-Meg
+T7	cell_line 340 352	NS-Meg cells
+T8	protein 371 402	alpha-naphthyl acetate esterase
+T9	protein 459 462	CD4
+T10	protein 464 467	CD7
+T11	protein 469 473	CD13
+T12	protein 475 479	CD34
+T13	protein 481 486	CD41a
+T14	protein 492 514	glycophorin A antigens
+T15	protein 592 611	platelet peroxidase
+T16	cell_line 626 638	NS-Meg cells
+T17	cell_type 662 685	platelet-like particles
+T18	protein 790 804	Erythropoietin
+T19	protein 806 809	Epo
+T20	protein 812 860	granulocyte/macrophage colony stimulating factor
+T21	protein 861 867	GM-CSF
+T22	protein 874 887	interleukin 3
+T23	protein 889 893	IL-3
+T24	cell_line 918 930	NS-Meg cells
+T25	protein 997 1002	CD41a
+T26	protein 1042 1045	Epo
+T27	cell_type 1054 1074	mature erythroblasts
+T28	cell_type 1079 1088	red cells
+T29	cell_line 1096 1120	benzidine-positive cells
+T30	protein 1139 1149	hemoglobin
+T31	cell_line 1172 1184	NS-Meg cells
+T32	RNA 1195 1199	mRNA
+T33	protein 1208 1220	Epo receptor
+T34	protein 1222 1226	EpoR
+T35	protein 1233 1239	GATA-1
+T36	DNA 1249 1288	alpha 1, alpha 2 and gamma globin genes
+T37	cell_line 1318 1330	NS-Meg cells
+T38	cell_type 1372 1409	megakaryocytic and erythroid lineages
+T39	cell_line 1416 1425	cell line

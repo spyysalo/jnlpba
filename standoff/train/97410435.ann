@@ -1,0 +1,11 @@
+T1	protein 0 21	Transcription factors
+T2	protein 99 121	intracellular proteins
+T3	protein 133 143	NF-kappa B
+T4	protein 184 194	NF-kappa B
+T5	DNA 256 281	antisense oligonucleotide
+T6	protein 324 334	NF-kappa b
+T7	protein 510 531	transcription factors
+T8	cell_type 578 597	CD4+ T cell subsets
+T9	protein 630 650	interacting proteins
+T10	DNA 729 738	IL-4 gene
+T11	DNA 776 785	IL-4 gene

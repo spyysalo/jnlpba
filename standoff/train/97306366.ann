@@ -1,0 +1,44 @@
+T1	protein 15 44	phosphatidylinositol 3-kinase
+T2	protein 48 52	NFAT
+T3	cell_type 67 74	T cells
+T4	protein 76 105	Phosphatidylinositol 3-kinase
+T5	protein 107 112	PI3-K
+T6	cell_type 227 234	T cells
+T7	protein 239 244	PI3-K
+T8	protein 302 326	mitogen-activated kinase
+T9	protein 328 332	Erk2
+T10	protein 340 355	T cell receptor
+T11	protein 357 360	TcR
+T12	protein 413 418	PI3-K
+T13	DNA 473 507	dominant negative PI3-K constructs
+T14	DNA 533 547	tandem domains
+T15	protein 555 577	regulatory p85 subunit
+T16	protein 638 642	Erk2
+T17	DNA 680 730	NFAT (nuclear factor of activated T cells) element
+T18	DNA 746 768	interleukin-2 promoter
+T19	protein 780 783	TcR
+T20	protein 811 815	Erk2
+T21	protein 861 882	truncated form of p85
+T22	protein 904 921	catalytic subunit
+T23	protein 954 957	p85
+T24	protein 987 990	p85
+T25	protein 1023 1027	NFAT
+T26	protein 1064 1085	N-terminal SH2 domain
+T27	protein 1122 1132	mutant p85
+T28	protein 1153 1168	two SH2 domains
+T29	protein 1184 1188	NFAT
+T30	protein 1203 1206	Ras
+T31	protein 1269 1273	NFAT
+T32	protein 1294 1305	p85 mutants
+T33	protein 1325 1346	C-terminal SH2 domain
+T34	protein 1360 1395	phosphotyrosine-containing proteins
+T35	protein 1415 1429	p85 constructs
+T36	protein 1466 1481	two SH2 domains
+T37	protein 1522 1551	N- and C-terminal SH2 domains
+T38	protein 1587 1591	NFAT
+T39	protein 1626 1631	PI3-K
+T40	protein 1636 1640	Erk2
+T41	protein 1703 1708	PI3-K
+T42	protein 1724 1728	NFAT
+T43	protein 1782 1800	regulatory subunit
+T44	protein 1814 1826	lipid kinase

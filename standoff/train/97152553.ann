@@ -1,0 +1,38 @@
+T1	DNA 18 21	Bcd
+T2	DNA 31 45	proto-oncogene
+T3	cell_type 59 66	B-cells
+T4	cell_type 70 82	novel B-cell
+T5	DNA 92 95	Bcd
+T6	DNA 97 105	oncogene
+T7	DNA 278 281	Bcd
+T8	DNA 282 296	proto-oncogene
+T9	DNA 334 340	5' UTR
+T10	DNA 362 381	open reading frames
+T11	DNA 383 387	ORFs
+T12	DNA 390 394	ORF1
+T13	DNA 458 468	major ORF2
+T14	protein 527 553	Predicted peptide sequence
+T15	DNA 557 561	ORF2
+T16	protein 574 592	zinc finger domain
+T17	protein 630 653	GC box binding proteins
+T18	protein 654 659	BTEB2
+T19	protein 664 667	SP1
+T20	DNA 688 705	expression vector
+T21	DNA 717 721	ORF2
+T22	DNA 730 746	full length cDNA
+T23	cell_line 769 781	NIH3T3 cells
+T24	RNA 814 834	Bcd mRNA transcripts
+T25	cell_line 882 885	PBL
+T26	cell_type 932 935	PBL
+T27	DNA 937 940	Bcd
+T28	cell_type 975 988	CD19+ B-cells
+T29	cell_type 1005 1020	CD14+ monocytes
+T30	cell_type 1025 1032	T-cells
+T31	DNA 1034 1037	Bcd
+T32	cell_type 1078 1081	PBL
+T33	cell_line 1116 1144	malignant human B-cell lines
+T34	cell_type 1163 1170	B-cells
+T35	cell_type 1216 1223	B-cells
+T36	cell_type 1296 1308	plasma cells
+T37	DNA 1342 1345	Bcd
+T38	DNA 1367 1375	Bcd gene

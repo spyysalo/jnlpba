@@ -1,0 +1,15 @@
+T1	protein 14 22	cytokine
+T2	protein 27 44	cytokine receptor
+T3	protein 182 190	cytokine
+T4	protein 323 341	growth factor-beta
+T5	cell_type 454 466	target cells
+T6	protein 489 509	cytoplasmic receptor
+T7	DNA 588 602	cytokine genes
+T8	DNA 633 665	glucocorticoid response elements
+T9	DNA 667 670	GRE
+T10	DNA 717 731	cytokine genes
+T11	protein 787 808	transcription factors
+T12	protein 901 909	cytokine
+T13	protein 938 955	cytokine receptor
+T14	protein 997 1005	cytokine
+T15	cell_type 1017 1029	target cells

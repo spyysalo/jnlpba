@@ -1,0 +1,14 @@
+T1	protein 13 34	transcription factors
+T2	DNA 49 72	immunoglobulin enhancer
+T3	DNA 73 94	microE5/kappa 2 motif
+T4	DNA 112 169	immunoglobulin heavy and kappa light chain gene enhancers
+T5	protein 204 253	ubiquitous and developmentally regulated proteins
+T6	DNA 259 277	complementary DNAs
+T7	protein 322 327	ITF-1
+T8	protein 332 337	ITF-2
+T9	DNA 398 419	microE5/kappa 2 motif
+T10	DNA 434 471	heavy and kappa light chain enhancers
+T11	DNA 477 495	complementary DNAs
+T12	protein 541 546	ITF-1
+T13	protein 551 556	ITF-2
+T14	protein 666 689	helix-loop-helix motifs

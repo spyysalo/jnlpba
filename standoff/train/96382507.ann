@@ -1,0 +1,19 @@
+T1	protein 22 34	HIV protease
+T2	protein 62 67	Bcl-2
+T3	protein 87 137	human immunodeficiency virus type 1 (HIV) protease
+T4	cell_line 141 155	cultured cells
+T5	protein 200 205	bcl-2
+T6	protein 276 281	bcl-2
+T7	protein 327 341	viral protease
+T8	cell_type 393 410	human lymphocytes
+T9	protein 441 466	viral structural proteins
+T10	protein 485 512	tumor necrosis factor alpha
+T11	protein 566 580	viral protease
+T12	protein 612 617	bcl-2
+T13	protein 671 681	NF kappa B
+T14	protein 685 700	cellular factor
+T15	protein 772 777	bcl-2
+T16	protein 792 804	HIV protease
+T17	protein 903 916	bcl-2 muteins
+T18	protein 927 951	noncleavable alterations
+T19	protein 968 994	HIV protease cleavage site

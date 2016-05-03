@@ -1,0 +1,28 @@
+T1	protein 18 27	IFN-gamma
+T2	protein 36 57	HLA class II antigens
+T3	protein 83 95	HLA class II
+T4	cell_line 127 149	human Raji B cell line
+T5	protein 169 225	major histocompatibility complex (MHC) class II antigens
+T6	cell_type 245 282	professional antigen presenting cells
+T7	cell_type 284 288	APCs
+T8	protein 317 333	interferon-gamma
+T9	protein 335 344	IFN-gamma
+T10	cell_type 373 390	professional APCs
+T11	cell_type 397 408	fibroblasts
+T12	protein 462 464	IK
+T13	protein 500 509	IFN-gamma
+T14	protein 523 544	MHC class II antigens
+T15	protein 595 597	IK
+T16	protein 601 613	MHC class II
+T17	RNA 750 767	MHC class II mRNA
+T18	DNA 784 807	class II transactivator
+T19	DNA 809 814	CIITA
+T20	protein 855 864	IFN-gamma
+T21	protein 873 885	MHC class II
+T22	RNA 914 924	CIITA mRNA
+T23	protein 928 930	IK
+T24	RNA 988 998	CIITA mRNA
+T25	protein 1064 1074	IK protein
+T26	protein 1126 1147	MHC class II antigens
+T27	protein 1179 1181	IK
+T28	DNA 1197 1202	CIITA

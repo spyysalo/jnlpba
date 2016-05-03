@@ -1,0 +1,15 @@
+T1	protein 15 21	GATA-1
+T2	protein 26 35	p45 NF-E2
+T3	protein 153 169	fetal hemoglobin
+T4	DNA 502 517	erythroid genes
+T5	protein 587 618	erythroid transcription factors
+T6	protein 670 676	GATA-1
+T7	protein 681 686	NF-E2
+T8	protein 687 708	transcription factors
+T9	cell_line 756 781	human leukemic K562 cells
+T10	protein 837 843	GATA-1
+T11	protein 848 857	p45 NF-E2
+T12	protein 957 963	GATA-1
+T13	protein 967 976	p45 NF-E2
+T14	protein 1188 1194	GATA-1
+T15	protein 1199 1204	NF-E2

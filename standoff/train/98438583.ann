@@ -1,0 +1,15 @@
+T1	protein 23 57	p75 tumor necrosis factor receptor
+T2	protein 59 67	p75TNF-R
+T3	protein 106 109	TNF
+T4	protein 111 128	lymphotoxin alpha
+T5	protein 137 146	p55TNF-R.
+T6	protein 209 243	p75 tumor necrosis factor receptor
+T7	protein 245 253	p75TNF-R
+T8	protein 582 596	human p75TNF-R
+T9	protein 760 769	NF-kappaB
+T10	cell_type 786 819	peripheral blood mononuclear cell
+T11	protein 898 901	TNF
+T12	protein 903 920	lymphotoxin alpha
+T13	protein 929 937	p55TNF-R
+T14	DNA 966 985	human TNF transgene
+T15	protein 1066 1074	p75TNF-R

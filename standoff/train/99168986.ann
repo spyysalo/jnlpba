@@ -1,0 +1,57 @@
+T1	protein 0 16	Interferon-alpha
+T2	protein 36 49	STAT proteins
+T3	protein 91 101	IL-2Ralpha
+T4	DNA 103 125	c-myc, and pim-1 genes
+T5	cell_type 129 142	human T cells
+T6	protein 144 160	Interferon-alpha
+T7	protein 162 171	IFN-alpha
+T8	protein 178 198	pleiotropic cytokine
+T9	protein 242 258	immunoregulatory
+T10	protein 304 313	IFN-alpha
+T11	protein 390 400	IL-2Ralpha
+T12	DNA 402 407	c-myc
+T13	DNA 413 424	pim-1 genes
+T14	cell_type 428 466	anti-CD3-activated human T lymphocytes
+T15	protein 516 529	interleukin-2
+T16	protein 531 535	IL-2
+T17	cell_type 580 593	T lymphocytes
+T18	protein 599 608	IFN-alpha
+T19	protein 610 614	IL-2
+T20	protein 616 621	IL-12
+T21	protein 627 632	IL-15
+T22	protein 645 655	IL-2Ralpha
+T23	DNA 657 662	c-myc
+T24	DNA 668 678	pim-1 gene
+T25	protein 691 700	IFN-alpha
+T26	cell_line 706 724	sensitized T cells
+T27	protein 728 732	IL-2
+T28	protein 780 789	IFN-alpha
+T29	protein 878 891	STAT proteins
+T30	protein 914 924	IL-2Ralpha
+T31	DNA 926 955	pim-1, and IRF-1 GAS elements
+T32	protein 962 970	cytokine
+T33	protein 996 1005	IFN-alpha
+T34	protein 1025 1030	STAT1
+T35	protein 1032 1037	STAT3
+T36	protein 1043 1048	STAT4
+T37	protein 1058 1063	STAT5
+T38	protein 1095 1104	IFN-alpha
+T39	protein 1137 1142	STAT5
+T40	protein 1180 1189	IFN-alpha
+T41	protein 1234 1239	STAT3
+T42	protein 1241 1246	STAT4
+T43	protein 1248 1254	STAT5a
+T44	protein 1260 1266	STAT5b
+T45	protein 1268 1273	IL-12
+T46	protein 1282 1287	STAT4
+T47	protein 1292 1296	IL-2
+T48	protein 1301 1306	IL-15
+T49	protein 1315 1320	STAT5
+T50	DNA 1336 1348	GAS elements
+T51	protein 1391 1400	IFN-alpha
+T52	protein 1402 1406	IL-2
+T53	protein 1408 1413	IL-12
+T54	protein 1419 1424	IL-15
+T55	cell_type 1456 1469	human T cells
+T56	protein 1519 1528	IFN-alpha
+T57	protein 1534 1560	T-cell regulatory cytokine

@@ -1,0 +1,34 @@
+T1	protein 24 28	RelB
+T2	cell_type 92 107	Dendritic cells
+T3	cell_type 109 111	DC
+T4	cell_type 124 128	APCs
+T5	protein 262 266	RelB
+T6	protein 311 332	NF kappa B/Rel family
+T7	cell_type 336 338	DC
+T8	protein 389 393	RelB
+T9	cell_type 397 399	DC
+T10	RNA 417 421	mRNA
+T11	protein 485 489	RelB
+T12	cell_type 535 543	human DC
+T13	cell_type 562 593	PB mononuclear cell populations
+T14	protein 595 599	RelB
+T15	RNA 612 616	mRNA
+T16	cell_type 649 660	lymphocytes
+T17	cell_type 668 687	activated monocytes
+T18	cell_type 689 706	differentiated DC
+T19	cell_line 712 731	monocyte-derived DC
+T20	protein 775 779	RelB
+T21	cell_type 791 835	differentiated lymph node interdigitating DC
+T22	cell_type 840 853	follicular DC
+T23	cell_type 863 882	undifferentiated DC
+T24	protein 914 918	RelB
+T25	cell_type 975 977	DC
+T26	cell_type 998 1011	PB precursors
+T27	cell_type 1015 1024	monocytes
+T28	cell_type 1032 1049	activated B cells
+T29	cell_type 1057 1066	RelB+ APC
+T30	protein 1098 1101	MLR
+T31	protein 1126 1130	RelB
+T32	cell_type 1206 1219	myeloid cells
+T33	protein 1241 1245	RelB
+T34	cell_type 1305 1308	APC

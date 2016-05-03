@@ -1,0 +1,35 @@
+T1	protein 20 39	core binding factor
+T2	DNA 44 70	adjacent promoter elements
+T3	protein 120 133	interleukin-3
+T4	protein 165 178	interleukin-3
+T5	protein 180 184	IL-3
+T6	DNA 202 221	cis-acting elements
+T7	DNA 259 278	transcription start
+T8	DNA 344 364	AP-1 and Elf-1 sites
+T9	DNA 372 385	IL-3 promoter
+T10	DNA 443 457	promoter sites
+T11	DNA 508 532	IL-3 promoter constructs
+T12	DNA 545 560	luciferase gene
+T13	DNA 588 618	core binding factor (CBF) site
+T14	DNA 689 697	CBF site
+T15	DNA 741 770	adjacent activator site Act-1
+T16	DNA 785 790	Act-1
+T17	DNA 795 804	CBF sites
+T18	DNA 812 827	functional unit
+T19	DNA 829 836	AC unit
+T20	DNA 862 869	AC unit
+T21	cell_type 933 944	fibroblasts
+T22	cell_type 949 956	T cells
+T23	cell_type 1006 1013	T cells
+T24	cell_type 1026 1037	fibroblasts
+T25	DNA 1077 1095	NIP repressor site
+T26	DNA 1125 1148	second repressor region
+T27	cell_type 1185 1196	fibroblasts
+T28	DNA 1215 1242	positive regulatory element
+T29	DNA 1266 1279	IL-3 promoter
+T30	cell_type 1351 1358	T cells
+T31	protein 1421 1425	IL-3
+T32	DNA 1471 1494	tissue-specific element
+T33	DNA 1526 1546	interacting elements
+T34	cell_type 1597 1604	T cells
+T35	cell_type 1641 1652	fibroblasts

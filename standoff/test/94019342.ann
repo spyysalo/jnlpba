@@ -1,0 +1,36 @@
+T1	DNA 20 59	killer cell-specific regulatory element
+T2	DNA 67 86	mouse perforin gene
+T3	protein 145 165	Ets-related proteins
+T4	protein 189 206	cytolytic protein
+T5	protein 207 215	perforin
+T6	cell_type 244 272	activated killer lymphocytes
+T7	DNA 449 467	5'-flanking region
+T8	DNA 475 494	mouse perforin gene
+T9	DNA 496 499	Pfp
+T10	DNA 526 551	residues +62 through -141
+T11	DNA 730 752	residues -411 and -566
+T12	DNA 877 898	residues -491 to -522
+T13	DNA 1045 1066	residues -505 to -497
+T14	DNA 1126 1160	Ets proto-oncoprotein-binding site
+T15	protein 1203 1208	NF-P1
+T16	protein 1213 1218	NF-P2
+T17	protein 1220 1225	NF-P2
+T18	cell_type 1338 1350	killer cells
+T19	protein 1436 1441	NF-P1
+T20	protein 1446 1451	NF-P2
+T21	protein 1471 1491	DNA-binding subunits
+T22	protein 1538 1543	NF-P1
+T23	protein 1558 1563	NF-P1
+T24	protein 1587 1610	non-DNA-binding subunit
+T25	protein 1651 1661	NF-P motif
+T26	protein 1672 1707	Ets proto-oncoprotein-binding sites
+T27	protein 1731 1736	NF-P1
+T28	protein 1741 1746	NF-P2
+T29	protein 1761 1779	Ets protein family
+T30	protein 1861 1866	NF-P1
+T31	protein 1871 1876	NF-P2
+T32	protein 1910 1922	Ets proteins
+T33	protein 1930 1935	Ets-1
+T34	protein 1937 1942	Ets-2
+T35	protein 1948 1959	NF-AT/Elf-1
+T36	cell_type 1986 1993	T cells

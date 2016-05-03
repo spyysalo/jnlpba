@@ -1,0 +1,40 @@
+T1	protein 0 5	Smad3
+T2	protein 10 15	Smad4
+T3	protein 24 56	transforming growth factor-beta1
+T4	cell_type 83 103	murine B lymphocytes
+T5	protein 105 143	Transforming growth factor (TGF)-beta1
+T6	protein 178 206	IgA isotype switching factor
+T7	protein 211 225	Smad molecules
+T8	protein 255 266	transducers
+T9	protein 271 294	transcriptional factors
+T10	protein 316 325	TGF-beta1
+T11	DNA 335 340	genes
+T12	protein 373 386	Smad proteins
+T13	protein 390 399	TGF-beta1
+T14	protein 445 454	TGF-beta1
+T15	RNA 479 522	endogenous germ-line (GL) alpha transcripts
+T16	cell_line 541 578	CH12.LX.4933 (mu(+)) B lymphoma cells
+T17	cell_line 625 643	lymphoma cell line
+T18	DNA 665 669	pFL3
+T19	DNA 688 715	TGF-beta-responsive element
+T20	DNA 723 739	GLalpha promoter
+T21	protein 761 770	TGF-beta1
+T22	RNA 783 813	endogenous GLalpha transcripts
+T23	protein 815 824	TGF-beta1
+T24	DNA 833 849	GLalpha promoter
+T25	protein 881 886	Smad3
+T26	protein 966 985	cotransfected Smad4
+T27	protein 1006 1011	Smad7
+T28	protein 1062 1069	Smad3/4
+T29	DNA 1072 1088	GLalpha promoter
+T30	protein 1130 1137	Smad3/4
+T31	protein 1147 1156	TGF-beta1
+T32	RNA 1165 1195	endogenous GLalpha transcripts
+T33	cell_type 1199 1219	normal spleen B cell
+T34	protein 1250 1259	TGF-beta1
+T35	protein 1279 1286	Smad3/4
+T36	protein 1406 1411	Smad3
+T37	protein 1413 1418	Smad4
+T38	protein 1424 1429	Smad7
+T39	protein 1476 1485	TGF-beta1
+T40	DNA 1519 1545	IgA switching related gene

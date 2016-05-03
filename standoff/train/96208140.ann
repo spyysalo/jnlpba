@@ -1,0 +1,47 @@
+T1	cell_type 42 61	human T lymphocytes
+T2	protein 88 119	beta-galactoside-binding lectin
+T3	protein 121 131	galectin-3
+T4	protein 140 147	lectins
+T5	protein 264 295	beta-galactoside-binding lectin
+T6	protein 321 331	epsilon BP
+T7	protein 333 352	IgE-binding protein
+T8	protein 355 360	CBP35
+T9	protein 362 367	Mac-2
+T10	protein 369 373	L-29
+T11	protein 379 383	L-34
+T12	protein 540 550	Galectin-3
+T13	cell_type 632 642	leukocytes
+T14	cell_type 674 693	B and T lymphocytes
+T15	protein 714 724	galectin-3
+T16	cell_line 764 827	human T lymphotropic virus (HTLV)-I-infected human T cell lines
+T17	cell_line 839 842	F6T
+T18	cell_line 844 851	HUT 102
+T19	cell_line 853 856	K3T
+T20	cell_line 858 862	MT-2
+T21	cell_line 868 873	SLB-I
+T22	cell_line 899 931	non-HTLV-I-infected T cell lines
+T23	cell_line 940 946	Jurkat
+T24	cell_line 948 951	CEM
+T25	cell_line 957 963	MOLT-4
+T26	protein 982 992	galectin-3
+T27	cell_type 1025 1041	human thymocytes
+T28	cell_type 1087 1108	uninfected thymocytes
+T29	protein 1131 1141	galectin-3
+T30	protein 1247 1257	galectin-3
+T31	cell_line 1276 1301	S1T and ATL-1K cell lines
+T32	DNA 1387 1406	galectin-3 promoter
+T33	DNA 1441 1459	expression vectors
+T34	protein 1473 1490	40-kd Tax protein
+T35	protein 1547 1558	Tax mutants
+T36	DNA 1574 1593	galectin-3 promoter
+T37	protein 1638 1722	cyclic-AMP-responsive element binding protein/activation transcription factor family
+T38	protein 1726 1747	transcription factors
+T39	protein 1773 1799	nuclear factor-kappa B/Rel
+T40	cell_line 1827 1857	human promonocytic U-937 cells
+T41	protein 1903 1913	galectin-3
+T42	protein 1958 1968	galectin-3
+T43	protein 1991 2004	interleukin-2
+T44	cell_type 2019 2033	Jurkat T cells
+T45	protein 2094 2097	Tax
+T46	protein 2177 2187	galectin-3
+T47	cell_type 2230 2237	T cells

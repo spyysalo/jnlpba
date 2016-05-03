@@ -1,0 +1,27 @@
+T1	DNA 16 27	Ikaros gene
+T2	DNA 75 86	Ikaros gene
+T3	protein 114 155	hemopoietic-specific zinc finger proteins
+T4	cell_type 346 363	lymphoid lineages
+T5	DNA 372 378	Ikaros
+T6	cell_type 468 474	B cell
+T7	cell_type 486 503	T cell precursors
+T8	cell_type 589 603	CD4 thymocytes
+T9	cell_type 795 817	Ikaros-null thymocytes
+T10	protein 850 865	T cell receptor
+T11	protein 867 870	TCR
+T12	protein 990 993	TCR
+T13	cell_type 1065 1082	mutant thymocytes
+T14	DNA 1105 1134	central tumor suppressor gene
+T15	cell_type 1143 1157	T cell lineage
+T16	cell_type 1180 1200	natural killer cells
+T17	cell_type 1226 1245	gamma delta T cells
+T18	cell_type 1250 1284	dendritic antigen-presenting cells
+T19	protein 1294 1300	Ikaros
+T20	protein 1429 1444	Ikaros isoforms
+T21	protein 1521 1527	Ikaros
+T22	DNA 1577 1583	Aiolos
+T23	DNA 1587 1636	lymphoid-restricted and structurally related gene
+T24	protein 1713 1719	Ikaros
+T25	protein 1741 1775	complex regulatory protein network
+T26	cell_type 1966 1991	hemo-lymphoid progenitors
+T27	cell_type 1996 2006	precursors

@@ -1,0 +1,21 @@
+T1	protein 6 33	tumor necrosis factor alpha
+T2	cell_line 67 96	stimulated T and B cell lines
+T3	DNA 124 183	human tumor necrosis factor alpha (TNF-alpha) gene promoter
+T4	cell_line 255 290	human T and B lymphocyte cell lines
+T5	DNA 318 341	-52 and +89 nucleotides
+T6	DNA 370 396	transcriptional start site
+T7	DNA 691 709	TNF-alpha promoter
+T8	protein 764 784	transcription factor
+T9	protein 785 795	NF-kappa B
+T10	RNA 826 840	TNF-alpha mRNA
+T11	protein 882 892	NF-kappa B
+T12	cell_line 935 953	T and B cell lines
+T13	DNA 965 980	kappa 1-kappa 3
+T14	DNA 1010 1028	TNF-alpha promoter
+T15	RNA 1094 1108	TNF-alpha mRNA
+T16	protein 1193 1203	NF-kappa B
+T17	protein 1256 1271	protein factors
+T18	DNA 1349 1370	heterologous promoter
+T19	cell_line 1376 1415	B (Raji), but not a T (HUT78) cell line
+T20	DNA 1464 1482	TNF-alpha promoter
+T21	DNA 1589 1613	NF-kappa B binding sites

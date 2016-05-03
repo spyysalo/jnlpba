@@ -1,0 +1,23 @@
+T1	protein 41 72	monocyte interleukin-1 receptor
+T2	protein 126 152	mineralocorticoid receptor
+T3	protein 289 302	interleukin-1
+T4	protein 304 308	IL-1
+T5	protein 320 329	cytokines
+T6	RNA 331 406	Human monocyte IL-1 receptor antagonist (IL-1ra) messenger ribonucleic acid
+T7	protein 525 531	IL-1ra
+T8	RNA 647 658	IL-1ra mRNA
+T9	protein 702 716	IL-1ra protein
+T10	cell_type 747 773	human peripheral monocytes
+T11	protein 928 934	IL-1ra
+T12	cell_line 948 966	cultured monocytes
+T13	cell_type 988 997	monocytes
+T14	protein 1065 1088	glucocorticoid receptor
+T15	protein 1169 1175	IL-1ra
+T16	protein 1299 1305	IL-1ra
+T17	RNA 1412 1443	mineralocorticoid receptor mRNA
+T18	cell_type 1453 1462	monocytes
+T19	RNA 1486 1510	reversed transcribed RNA
+T20	protein 1595 1601	IL-1ra
+T21	protein 1703 1726	glucocorticoid receptor
+T22	protein 1748 1774	mineralocorticoid receptor
+T23	protein 1817 1823	IL-1ra

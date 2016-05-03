@@ -1,0 +1,30 @@
+T1	protein 14 24	NF-kappa B
+T2	protein 126 142	caspase-1 and -3
+T3	protein 144 154	NF-kappa B
+T4	DNA 201 214	various genes
+T5	cell_type 272 279	T cells
+T6	protein 319 329	NF-kappa B
+T7	protein 422 440	NF-kappa B1 dimers
+T8	cell_type 503 527	resting normal human PBL
+T9	protein 543 553	NF-kappa B
+T10	protein 736 753	caspase inhibitor
+T11	protein 754 763	Z-VAD-fmk
+T12	protein 789 800	Ac-DEVD-fmk
+T13	protein 845 852	caspase
+T14	protein 900 910	NF-kappa B
+T15	protein 1017 1035	soluble Fas ligand
+T16	protein 1037 1041	CD95
+T17	protein 1075 1106	active death effector proteases
+T18	protein 1107 1116	caspase-1
+T19	protein 1123 1145	IL-1 converting enzyme
+T20	protein 1148 1157	caspase-3
+T21	protein 1164 1182	CPP32/Yama/apopain
+T22	protein 1189 1198	caspase-6
+T23	protein 1228 1248	caspase-3 substrates
+T24	protein 1249 1276	poly(ADP-ribose) polymerase
+T25	protein 1281 1308	DNA fragmentation factor-45
+T26	protein 1394 1402	caspases
+T27	cell_type 1434 1441	T cells
+T28	protein 1455 1465	NF-kappa B
+T29	protein 1579 1589	NF-kappa B
+T30	cell_type 1605 1614	naive PBL

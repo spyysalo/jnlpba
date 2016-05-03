@@ -1,0 +1,30 @@
+T1	protein 30 53	glucocorticoid receptor
+T2	protein 314 337	glucocorticoid receptor
+T3	cell_type 341 368	squirrel monkey lymphocytes
+T4	cell_type 398 415	human lymphocytes
+T5	cell_type 525 547	mononuclear leukocytes
+T6	protein 726 749	glucocorticoid receptor
+T7	cell_line 862 892	cotton-top tamarin B95-8 cells
+T8	cell_type 898 915	human lymphocytes
+T9	protein 937 960	glucocorticoid receptor
+T10	protein 1037 1051	human receptor
+T11	protein 1057 1078	ligand-binding domain
+T12	protein 1080 1099	amino acids 528-777
+T13	protein 1124 1147	glucocorticoid receptor
+T14	protein 1279 1322	owl monkey and cotton-top tamarin receptors
+T15	protein 1328 1346	DNA-binding domain
+T16	protein 1348 1367	amino acids 421-486
+T17	protein 1399 1467	human, squirrel monkey, owl monkey, and cotton-top tamarin receptors
+T18	protein 1534 1551	N-terminal region
+T19	protein 1553 1570	amino acids 1-421
+T20	protein 1638 1659	ligand-binding domain
+T21	protein 1839 1869	human glucocorticoid receptors
+T22	protein 1973 1997	glucocorticoid receptors
+T23	protein 2004 2028	squirrel monkey receptor
+T24	protein 2140 2170	human glucocorticoid receptors
+T25	protein 2308 2338	squirrel monkey F774L receptor
+T26	protein 2440 2461	ligand-binding domain
+T27	protein 2485 2508	glucocorticoid receptor
+T28	cell_type 2581 2602	squirrel monkey cells
+T29	protein 2677 2694	cytosolic factors
+T30	protein 2707 2730	glucocorticoid receptor

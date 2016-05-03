@@ -1,0 +1,58 @@
+T1	protein 0 31	Transforming growth factor-beta
+T2	protein 43 64	human B lymphocyte Ig
+T3	RNA 124 137	membrane form
+T4	RNA 145 158	secreted form
+T5	RNA 162 169	Ig mRNA
+T6	protein 171 202	Transforming growth factor-beta
+T7	protein 204 212	TGF-beta
+T8	cell_type 223 229	B cell
+T9	protein 230 232	Ig
+T10	cell_type 255 261	B cell
+T11	protein 271 273	Ig
+T12	protein 302 310	TGF-beta
+T13	cell_line 314 341	human B lymphocyte cultures
+T14	protein 399 403	IL-2
+T15	cell_type 425 431	B cell
+T16	protein 432 434	Ig
+T17	cell_type 478 484	B cell
+T18	protein 562 570	TGF-beta
+T19	protein 609 633	B cell membrane proteins
+T20	protein 635 641	HLA-DR
+T21	protein 646 650	CD20
+T22	protein 720 728	anti-IgM
+T23	protein 730 740	anti-kappa
+T24	protein 746 768	anti-lambda antibodies
+T25	protein 802 815	kappa L chain
+T26	protein 835 843	TGF-beta
+T27	protein 876 890	lambda L chain
+T28	protein 895 907	microH chain
+T29	cell_type 968 975	B cells
+T30	protein 989 997	TGF-beta
+T31	RNA 1170 1184	membrane forms
+T32	RNA 1188 1190	mu
+T33	RNA 1195 1200	gamma
+T34	RNA 1221 1235	secreted forms
+T35	protein 1265 1273	TGF-beta
+T36	protein 1342 1355	kappa L chain
+T37	protein 1372 1380	TGF-beta
+T38	protein 1388 1422	transcriptional regulatory factors
+T39	protein 1424 1429	Oct-2
+T40	protein 1434 1461	nuclear factor (NF) kappa B
+T41	protein 1488 1490	Ig
+T42	RNA 1525 1535	Oct-2 mRNA
+T43	protein 1552 1557	Oct-2
+T44	protein 1562 1581	NF-kappa B proteins
+T45	protein 1637 1645	TGF-beta
+T46	protein 1674 1701	transcriptional factor AP-1
+T47	cell_type 1741 1747	B cell
+T48	protein 1748 1750	Ig
+T49	protein 1779 1787	TGF-beta
+T50	protein 1821 1829	TGF-beta
+T51	protein 1853 1855	Ig
+T52	RNA 1897 1904	Ig mRNA
+T53	RNA 1940 1953	membrane form
+T54	RNA 1961 1975	secreted forms
+T55	RNA 1979 1996	mu and gamma mRNA
+T56	protein 2021 2029	TGF-beta
+T57	protein 2127 2137	NF-kappa B
+T58	protein 2141 2146	Oct-2

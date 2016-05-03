@@ -1,0 +1,33 @@
+T1	protein 28 62	monocyte chemoattractant protein-1
+T2	cell_type 76 103	human monocytic THP-1 cells
+T3	protein 156 190	monocyte chemoattractant protein-1
+T4	protein 192 197	MCP-1
+T5	protein 225 230	MCP-1
+T6	protein 296 319	extracellular receptors
+T7	protein 394 438	nuclear hormone receptor retinoid X receptor
+T8	protein 440 443	RXR
+T9	protein 449 471	retinoic acid receptor
+T10	protein 473 476	RAR
+T11	protein 514 519	MCP-1
+T12	cell_line 524 560	human THP-1 monocytic leukemia cells
+T13	protein 600 605	MCP-1
+T14	RNA 698 707	MCP-1 RNA
+T15	protein 768 777	PPARgamma
+T16	protein 804 807	RXR
+T17	cell_type 843 854	THP-1 cells
+T18	protein 877 886	PPARgamma
+T19	protein 912 917	MCP-1
+T20	protein 1036 1041	MCP-1
+T21	protein 1043 1061	biotinylated MCP-1
+T22	cell_type 1074 1085	THP-1 cells
+T23	protein 1119 1161	peroxisome proliferator activated receptor
+T24	protein 1163 1167	PPAR
+T25	protein 1207 1216	PPARgamma
+T26	protein 1229 1238	PPARalpha
+T27	protein 1255 1263	PPARbeta
+T28	protein 1292 1297	MCP-1
+T29	protein 1320 1325	MCP-1
+T30	cell_line 1404 1415	THP-1 cells
+T31	protein 1467 1472	MCP-1
+T32	cell_type 1486 1524	undifferentiated human monocytic cells
+T33	protein 1562 1567	MCP-1

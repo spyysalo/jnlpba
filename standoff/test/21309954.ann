@@ -1,0 +1,30 @@
+T1	protein 4 27	Friend of GATA proteins
+T2	protein 38 43	FOG-1
+T3	protein 49 54	FOG-2
+T4	protein 139 168	Friend of GATA (FOG) proteins
+T5	protein 253 274	FOG and GATA proteins
+T6	protein 347 380	Drosophila FOG homologue U-shaped
+T7	protein 382 385	Ush
+T8	cell_type 518 541	Lozenge and Glial cells
+T9	cell_type 585 598	crystal cells
+T10	cell_type 603 616	plasmatocytes
+T11	protein 748 751	Ush
+T12	cell_type 768 787	hemocyte precursors
+T13	cell_type 792 805	plasmatocytes
+T14	protein 863 882	GATA factor Serpent
+T15	protein 900 903	Ush
+T16	cell_type 992 1005	crystal cells
+T17	protein 1036 1039	Ush
+T18	protein 1070 1092	Murine FOG-1 and FOG-2
+T19	protein 1159 1164	FOG-2
+T20	protein 1206 1244	corepressor C-terminal binding protein
+T21	protein 1283 1302	GATA factor Pannier
+T22	protein 1304 1307	Pnr
+T23	protein 1371 1374	Ush
+T24	protein 1376 1381	FOG-1
+T25	protein 1383 1388	FOG-2
+T26	protein 1393 1405	mutant FOG-2
+T27	protein 1426 1429	Pnr
+T28	protein 1559 1562	Pnr
+T29	protein 1619 1631	FOG proteins
+T30	cell_line 1775 1803	cardial or eye cell lineages

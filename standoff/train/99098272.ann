@@ -1,0 +1,29 @@
+T1	protein 11 19	HMG-I(Y)
+T2	DNA 68 90	human beta-globin gene
+T3	DNA 131 153	human beta-globin gene
+T4	DNA 250 268	fetal globin genes
+T5	protein 308 320	gamma-globin
+T6	DNA 509 522	DNA sequences
+T7	DNA 524 542	silencers I and II
+T8	protein 576 579	BP1
+T9	DNA 649 654	cDNAs
+T10	DNA 709 719	silencer I
+T11	protein 733 736	BP1
+T12	DNA 757 762	cDNAs
+T13	protein 777 782	HMG-I
+T14	protein 787 792	HMG-Y
+T15	protein 815 837	architectural proteins
+T16	protein 870 878	HMG-I(Y)
+T17	protein 938 946	HMG-I(Y)
+T18	DNA 999 1015	BP1 binding site
+T19	DNA 1029 1052	negative control region
+T20	DNA 1069 1086	delta-globin gene
+T21	protein 1110 1118	HMG-I(Y)
+T22	protein 1189 1197	HMG-I(Y)
+T23	protein 1261 1272	beta-globin
+T24	cell_line 1316 1340	hematopoietic cell lines
+T25	protein 1364 1372	HMG-I(Y)
+T26	cell_type 1428 1451	primary erythroid cells
+T27	protein 1481 1489	HMG-I(Y)
+T28	protein 1534 1552	repressor proteins
+T29	DNA 1646 1662	beta-globin gene

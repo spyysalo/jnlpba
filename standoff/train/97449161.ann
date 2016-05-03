@@ -1,0 +1,44 @@
+T1	DNA 17 26	TSC2 gene
+T2	DNA 127 136	TSC2 gene
+T3	DNA 140 158	chromosome 16p13.3
+T4	DNA 248 262	41 small exons
+T5	DNA 272 277	45 kb
+T6	DNA 281 292	genomic DNA
+T7	RNA 308 319	5.5 kb mRNA
+T8	DNA 349 353	TSC2
+T9	DNA 493 507	TSC2 mutations
+T10	DNA 582 596	TSC2 mutations
+T11	DNA 704 719	16p13.3 markers
+T12	DNA 739 751	PCR products
+T13	RNA 794 798	mRNA
+T14	cell_line 820 845	lymphoblastoid cell lines
+T15	protein 863 894	35S-methionine labelled protein
+T16	DNA 922 934	PCR products
+T17	protein 1145 1162	truncated protein
+T18	DNA 1193 1207	32 bp deletion
+T19	RNA 1211 1218	exon 11
+T20	RNA 1226 1237	mutant mRNA
+T21	RNA 1246 1253	exon 11
+T22	DNA 1336 1349	1 bp deletion
+T23	RNA 1353 1360	exon 12
+T24	RNA 1362 1370	1634delT
+T25	RNA 1381 1417	TSC2-linked mother and daughter pair
+T26	RNA 1446 1453	exon 23
+T27	RNA 1455 1461	G2715T
+T28	RNA 1537 1544	exon 23
+T29	DNA 1576 1589	2 bp deletion
+T30	RNA 1593 1600	exon 36
+T31	DNA 1631 1645	1 bp insertion
+T32	RNA 1682 1689	exon 37
+T33	RNA 1691 1701	5007+2insA
+T34	RNA 1731 1766	upstream exonic cryptic splice site
+T35	RNA 1778 1794	29 bp truncation
+T36	RNA 1798 1802	mRNA
+T37	RNA 1808 1815	exon 37
+T38	RNA 1886 1893	exon 10
+T39	DNA 1916 1947	normal exon 10 genomic sequence
+T40	RNA 1973 1980	exon 10
+T41	DNA 1988 1997	TSC2 gene
+T42	DNA 2112 2124	PCR products
+T43	DNA 2259 2273	TSC2 mutations
+T44	DNA 2391 2395	TSC2

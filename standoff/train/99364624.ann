@@ -1,0 +1,23 @@
+T1	protein 51 56	Oct-1
+T2	protein 91 104	interleukin-8
+T3	DNA 151 170	retinoblastoma gene
+T4	DNA 200 218	HLA class II genes
+T5	protein 234 243	IFN-gamma
+T6	protein 288 290	Rb
+T7	DNA 317 330	class II gene
+T8	protein 379 381	Rb
+T9	DNA 396 410	class II genes
+T10	protein 454 456	Rb
+T11	DNA 506 513	HLA-DRA
+T12	DNA 519 542	prototype class II gene
+T13	protein 544 549	Oct-1
+T14	protein 553 584	POU domain transcription factor
+T15	DNA 619 626	HLA-DRA
+T16	cell_type 652 670	Rb-defective cells
+T17	protein 672 674	Rb
+T18	protein 712 717	Oct-1
+T19	protein 757 762	Oct-1
+T20	protein 794 807	interleukin 8
+T21	protein 861 866	Oct-1
+T22	cell_line 895 920	Rb-transformed cell lines
+T23	protein 922 935	interleukin 8

@@ -1,0 +1,19 @@
+T1	protein 39 42	Tax
+T2	cell_type 65 82	activated T cells
+T3	protein 222 225	Tax
+T4	protein 377 380	Tax
+T5	cell_line 422 453	stably transfected Jurkat cells
+T6	protein 612 615	CD3
+T7	protein 615 619	/TCR
+T8	protein 679 682	Tax
+T9	protein 805 828	recombinant thioredoxin
+T10	protein 830 866	adult T cell leukemia-derived factor
+T11	protein 916 919	Tax
+T12	protein 968 977	NF-kappaB
+T13	cell_line 1063 1075	Jurkat cells
+T14	cell_line 1124 1135	cell clones
+T15	protein 1151 1154	Tax
+T16	cell_line 1211 1233	"nonresponsive" clones
+T17	protein 1257 1260	Tax
+T18	protein 1391 1394	Tax
+T19	protein 1477 1480	Tax

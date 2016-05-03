@@ -1,0 +1,34 @@
+T1	DNA 77 82	c-jun
+T2	DNA 96 109	IL-2 promoter
+T3	cell_line 124 138	Jurkat T cells
+T4	protein 374 385	c-Fos/c-Jun
+T5	protein 386 390	AP-1
+T6	protein 399 434	nuclear factor of activated T cells
+T7	protein 436 441	NF-AT
+T8	cell_line 474 488	Jurkat T cells
+T9	protein 575 579	AP-1
+T10	DNA 619 624	c-jun
+T11	RNA 633 643	c-fos mRNA
+T12	DNA 675 680	c-jun
+T13	RNA 730 746	mRNA transcripts
+T14	DNA 855 860	c-jun
+T15	DNA 878 953	proximal jun1 tumor promoter-responsive element (TRE)-like promoter element
+T16	DNA 992 1010	consensus AP-1 TRE
+T17	DNA 1015 1034	jun TRE-like motifs
+T18	protein 1126 1131	c-Fos
+T19	protein 1133 1138	c-Jun
+T20	protein 1144 1148	JunD
+T21	DNA 1230 1249	reporter constructs
+T22	DNA 1265 1307	AP-1-TRE, NF-AT, and IL-2 promoter regions
+T23	RNA 1319 1328	IL-2 mRNA
+T24	protein 1433 1438	NF-AT
+T25	DNA 1443 1457	IL-2 reporters
+T26	RNA 1487 1496	IL-2 mRNA
+T27	protein 1589 1594	NF-AT
+T28	protein 1645 1659	NFAT complexes
+T29	protein 1697 1712	NF-AT complexes
+T30	cell_type 1798 1804	T cell
+T31	protein 1876 1880	AP-1
+T32	DNA 1895 1900	c-jun
+T33	protein 1939 1943	IL-2
+T34	protein 1948 1953	NF-AT

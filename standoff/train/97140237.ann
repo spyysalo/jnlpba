@@ -1,0 +1,31 @@
+T1	protein 14 18	IL-2
+T2	protein 23 27	IL-4
+T3	cell_line 31 90	JAK3-deficient severe combined immunodeficiency lymphocytes
+T4	protein 92 96	JAK3
+T5	protein 138 142	IL-2
+T6	protein 147 151	IL-4
+T7	protein 185 203	common gamma chain
+T8	protein 208 212	JAK3
+T9	protein 223 227	JAK3
+T10	protein 309 313	IL-2
+T11	protein 318 322	IL-4
+T12	cell_type 336 347	lymphocytes
+T13	protein 393 397	IL-2
+T14	protein 402 406	IL-4
+T15	cell_line 420 432	B cell lines
+T16	protein 441 445	JAK3
+T17	protein 456 460	IL-2
+T18	protein 488 498	IL-2R beta
+T19	protein 500 504	JAK1
+T20	protein 510 515	STAT5
+T21	protein 545 549	JAK3
+T22	protein 551 555	IL-4
+T23	protein 584 588	JAK1
+T24	protein 590 595	STAT6
+T25	protein 601 617	insulin receptor
+T26	protein 655 659	IL-4
+T27	protein 708 712	JAK3
+T28	protein 750 754	IL-4
+T29	protein 793 797	JAK3
+T30	protein 945 949	JAK3
+T31	protein 1009 1013	IL-4

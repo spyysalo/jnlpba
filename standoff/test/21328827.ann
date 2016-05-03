@@ -1,0 +1,19 @@
+T1	protein 37 55	scavenger receptor
+T2	cell_type 70 96	human monocyte/macrophages
+T3	cell_type 101 112	THP-1 cells
+T4	protein 518 544	class A scavenger receptor
+T5	protein 546 549	SRA
+T6	protein 565 585	lipoprotein receptor
+T7	cell_type 625 651	Human monocyte/macrophages
+T8	cell_type 655 666	THP-1 cells
+T9	protein 768 771	SRA
+T10	RNA 824 832	SRA mRNA
+T11	protein 888 899	SRA protein
+T12	cell_type 903 914	THP-1 cells
+T13	protein 1011 1042	class B scavenger receptor CD36
+T14	protein 1090 1138	peroxisome proliferator-activated receptor-gamma
+T15	cell_type 1419 1430	macrophages
+T16	cell_type 1490 1501	macrophages
+T17	protein 1507 1510	SRA
+T18	protein 1767 1770	SRA
+T19	cell_type 1785 1805	monocyte/macrophages

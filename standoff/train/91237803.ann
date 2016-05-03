@@ -1,0 +1,31 @@
+T1	DNA 23 60	human immunodeficiency virus promoter
+T2	cell_type 115 142	primary human T lymphocytes
+T3	DNA 165 205	transactivating HHV-6(GS) gene fragments
+T4	DNA 252 295	human immunodeficiency virus (HIV) promoter
+T5	cell_type 333 359	HIV-infected human T cells
+T6	DNA 400 412	HIV promoter
+T7	cell_type 481 508	primary human T lymphocytes
+T8	DNA 611 623	HIV promoter
+T9	DNA 658 666	promoter
+T10	cell_type 698 705	T cells
+T11	DNA 738 750	HIV promoter
+T12	cell_type 768 786	stimulated T cells
+T13	DNA 816 843	HHV-6(GS) genomic fragments
+T14	DNA 863 875	HIV promoter
+T15	cell_line 879 900	cotransfected T cells
+T16	DNA 904 921	21.4-kb DNA clone
+T17	DNA 923 929	pZVB70
+T18	DNA 991 1004	DNA fragments
+T19	DNA 1006 1012	pZVB10
+T20	DNA 1026 1032	pZVH14
+T21	DNA 1087 1093	pZVH14
+T22	DNA 1109 1131	HIV promoter construct
+T23	DNA 1161 1176	NF kappa B site
+T24	DNA 1192 1219	mutated NF kappa B promoter
+T25	DNA 1299 1305	pZVB70
+T26	DNA 1309 1315	pZVB10
+T27	DNA 1346 1362	NF kappa B sites
+T28	DNA 1370 1382	HIV promoter
+T29	DNA 1463 1475	HIV promoter
+T30	cell_type 1488 1509	primary T lymphocytes
+T31	cell_type 1611 1635	coinfected human T cells

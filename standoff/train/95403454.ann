@@ -1,0 +1,33 @@
+T1	DNA 2 20	regulatory element
+T2	DNA 28 61	human interleukin 2 gene promoter
+T3	DNA 67 79	binding site
+T4	protein 88 108	zinc finger proteins
+T5	protein 109 112	Sp1
+T6	protein 117 122	EGR-1
+T7	DNA 142 167	interleukin 2 (IL-2) gene
+T8	protein 300 321	transcription factors
+T9	DNA 361 374	IL-2 promoter
+T10	cell_type 378 402	stimulated T lymphocytes
+T11	DNA 429 447	regulatory element
+T12	DNA 459 472	IL-2 promoter
+T13	DNA 509 557	nuclear factor of activated T cell (NFAT) domain
+T14	DNA 583 617	zinc finger protein binding region
+T15	DNA 619 622	ZIP
+T16	protein 678 698	zinc finger proteins
+T17	protein 704 749	constitutively expressed transcription factor
+T18	protein 750 753	Sp1
+T19	protein 762 801	inducible early growth response protein
+T20	protein 802 807	EGR-1
+T21	cell_type 812 830	unstimulated cells
+T22	protein 852 856	IL-2
+T23	protein 863 866	Sp1
+T24	cell_line 898 929	stimulated IL-2 secreting cells
+T25	protein 934 957	inducible EGR-1 protein
+T26	cell_line 986 1000	Jurkat T cells
+T27	DNA 1006 1014	ZIP site
+T28	protein 1042 1046	IL-2
+T29	DNA 1085 1088	ZIP
+T30	DNA 1093 1111	NFAT binding sites
+T31	DNA 1136 1149	IL-2 promoter
+T32	DNA 1205 1213	ZIP site
+T33	DNA 1218 1231	IL-2 promoter

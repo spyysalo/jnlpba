@@ -1,0 +1,28 @@
+T1	DNA 8 26	alignment of sites
+T2	DNA 40 51	mu enhancer
+T3	cell_type 66 73	B cells
+T4	DNA 79 151	lymphocyte-specific immunoglobulin mu heavy-chain gene intronic enhancer
+T5	protein 177 192	nuclear factors
+T6	DNA 217 233	minimal enhancer
+T7	DNA 249 273	muA, muE3, and muB sites
+T8	protein 316 335	ETS-domain proteins
+T9	protein 336 340	PU.1
+T10	protein 345 350	Ets-1
+T11	cell_type 354 371	nonlymphoid cells
+T12	DNA 395 412	muA and muB sites
+T13	protein 462 474	ETS proteins
+T14	DNA 601 609	elements
+T15	DNA 619 636	mutated enhancers
+T16	DNA 692 696	muE3
+T17	DNA 701 704	muB
+T18	DNA 721 732	mu enhancer
+T19	cell_line 736 753	S194 plasma cells
+T20	protein 800 804	PU.1
+T21	protein 813 833	muE3-binding protein
+T22	protein 834 838	TFE3
+T23	protein 935 939	PU.1
+T24	protein 956 960	TFE3
+T25	protein 964 969	Ets-1
+T26	DNA 976 991	mu enhancer DNA
+T27	DNA 1076 1096	muA and muB elements
+T28	protein 1146 1150	PU.1

@@ -1,0 +1,43 @@
+T1	protein 20 28	defensin
+T2	DNA 84 106	phoP virulence regulon
+T3	protein 138 146	defensin
+T4	DNA 217 258	phoP/phoQ two-component virulence regulon
+T5	protein 280 298	purified defensins
+T6	protein 299 303	NP-1
+T7	protein 308 312	NP-2
+T8	DNA 359 374	regulatory pair
+T9	DNA 376 380	phoP
+T10	DNA 382 407	transcriptional activator
+T11	DNA 412 416	phoQ
+T12	protein 418 440	membrane sensor kinase
+T13	protein 474 482	defensin
+T14	protein 498 516	periplasmic domain
+T15	protein 524 536	PhoQ protein
+T16	protein 598 615	cationic proteins
+T17	protein 664 672	defensin
+T18	DNA 705 709	phoP
+T19	DNA 723 727	phoQ
+T20	protein 771 783	PhoQ protein
+T21	protein 802 806	PhoP
+T22	protein 864 881	phoQ gene product
+T23	protein 1015 1019	PhoQ
+T24	protein 1028 1032	PhoP
+T25	protein 1066 1075	defensins
+T26	protein 1097 1130	pag (phoP-activated gene) product
+T27	protein 1150 1158	defensin
+T28	protein 1205 1214	defensins
+T29	protein 1215 1219	NP-1
+T30	protein 1221 1225	NP-5
+T31	protein 1231 1236	HNP-1
+T32	DNA 1249 1252	pag
+T33	protein 1389 1406	PhoP-PhoQ regulon
+T34	DNA 1428 1432	pagC
+T35	DNA 1457 1467	phoP locus
+T36	DNA 1498 1501	pag
+T37	protein 1524 1529	PhoPc
+T38	protein 1549 1557	defensin
+T39	cell_type 1652 1663	macrophages
+T40	DNA 1716 1720	phoP
+T41	DNA 1720 1725	-phoQ
+T42	protein 1818 1835	cationic proteins
+T43	cell_type 1924 1935	macrophages

@@ -1,0 +1,15 @@
+T1	DNA 23 45	Epstein-Barr viral DNA
+T2	cell_line 49 74	lymphoblastoid cell lines
+T3	protein 104 109	BZLF1
+T4	cell_line 186 211	lymphoblastoid cell lines
+T5	DNA 363 388	BRLF1/BZLF1 coding region
+T6	DNA 396 419	P3HR-1 defective genome
+T7	DNA 495 517	Epstein-Barr viral DNA
+T8	cell_line 525 550	lytic cycle-induced cells
+T9	DNA 702 709	EBV DNA
+T10	DNA 748 760	episomal DNA
+T11	DNA 764 787	concatameric linear DNA
+T12	DNA 873 887	linear EBV DNA
+T13	DNA 1128 1135	EBV DNA
+T14	DNA 1141 1177	concatenated linear EBV DNA molecule
+T15	DNA 1262 1269	EBV DNA

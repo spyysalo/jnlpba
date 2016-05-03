@@ -1,0 +1,33 @@
+T1	protein 72 99	tumor necrosis factor-alpha
+T2	protein 129 151	nuclear factor-kappa B
+T3	DNA 353 391	tumor necrosis factor (TNF)-alpha gene
+T4	protein 399 426	nuclear factor (NF)-kappa B
+T5	DNA 524 538	TNF-alpha gene
+T6	cell_type 590 616	human peripheral monocytes
+T7	DNA 677 742	secreted-type placental alkaline phosphatase (PLAP) reporter gene
+T8	DNA 782 813	1.4-kb human TNF-alpha promoter
+T9	DNA 844 862	PLAP reporter gene
+T10	cell_line 876 901	human monocytic cell line
+T11	protein 1020 1024	PLAP
+T12	DNA 1134 1158	NF-kappa B binding sites
+T13	DNA 1160 1169	kappa B-1
+T14	DNA 1171 1180	kappa B-2
+T15	DNA 1182 1191	kappa B-3
+T16	DNA 1193 1202	kappa B-4
+T17	DNA 1207 1231	human TNF-alpha promoter
+T18	DNA 1242 1272	mutated promoter-PLAP plasmids
+T19	DNA 1300 1316	NF-kappa B sites
+T20	protein 1349 1358	TNF-alpha
+T21	protein 1497 1507	NF-kappa B
+T22	protein 1522 1541	p50/p65 heterodimer
+T23	DNA 1569 1590	NF-kappa B DNA probes
+T24	DNA 1626 1654	NF-kappa B recognition sites
+T25	protein 1691 1700	TNF-alpha
+T26	protein 1739 1749	NF-kappa B
+T27	protein 1792 1802	NF-kappa B
+T28	protein 1881 1910	anti-I kappa B-alpha antibody
+T29	protein 1957 1972	I kappa B-alpha
+T30	protein 1986 2004	inhibitory protein
+T31	protein 2008 2018	NF-kappa B
+T32	cell_line 2023 2047	LPS-stimulated monocytes
+T33	protein 2149 2159	NF-kappa B

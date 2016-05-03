@@ -1,0 +1,35 @@
+T1	protein 20 49	CCAAT-box binding factor NF-Y
+T2	protein 103 112	A subunit
+T3	DNA 174 195	tissue-specific genes
+T4	protein 217 237	transcription factor
+T5	protein 284 288	NF-Y
+T6	protein 348 352	NF-Y
+T7	protein 398 418	transcription factor
+T8	DNA 450 461	CCAAT motif
+T9	DNA 477 495	5' promoter region
+T10	cell_type 545 566	circulating monocytes
+T11	protein 568 572	NF-Y
+T12	DNA 613 624	CCAAT motif
+T13	DNA 640 658	promoters of genes
+T14	DNA 667 714	major histocompatibility complex (MHC) class II
+T15	DNA 716 725	gp91-phox
+T16	DNA 727 730	mig
+T17	protein 818 822	NF-Y
+T18	protein 884 888	NF-Y
+T19	protein 938 942	NF-Y
+T20	cell_type 955 976	circulating monocytes
+T21	protein 1004 1013	A subunit
+T22	protein 1056 1060	NF-Y
+T23	protein 1060 1069	A subunit
+T24	protein 1079 1083	NF-Y
+T25	protein 1118 1131	NF-YA protein
+T26	RNA 1226 1236	NF-YA mRNA
+T27	cell_type 1336 1362	freshly isolated monocytes
+T28	protein 1453 1457	NF-Y
+T29	protein 1457 1466	A subunit
+T30	cell_type 1546 1562	mature monocytes
+T31	protein 1611 1626	cut/CDP protein
+T32	DNA 1670 1685	gpc91-phox gene
+T33	protein 1711 1715	NF-Y
+T34	DNA 1731 1739	CAAT box
+T35	cell_type 1754 1763	monocytes

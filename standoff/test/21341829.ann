@@ -1,0 +1,19 @@
+T1	protein 0 18	Type I interferons
+T2	protein 23 28	IL-12
+T3	protein 120 130	type I IFN
+T4	protein 132 146	IFN-alpha/beta
+T5	protein 506 516	type I IFN
+T6	protein 582 592	type I IFN
+T7	protein 614 619	IL-12
+T8	protein 625 658	central immunoregulatory cytokine
+T9	protein 666 683	CD4(+) T cell arm
+T10	protein 705 715	type I IFN
+T11	cell_type 761 788	human monocytes/macrophages
+T12	DNA 858 871	IL-12p40 gene
+T13	DNA 931 948	upstream Ets site
+T14	DNA 956 973	IL-12p40 promoter
+T15	protein 975 985	Type I IFN
+T16	protein 1042 1047	IL-12
+T17	cell_type 1085 1099	T and NK cells
+T18	protein 1116 1130	IFN-alpha/beta
+T19	protein 1279 1288	cytokines

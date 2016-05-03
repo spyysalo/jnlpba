@@ -1,0 +1,57 @@
+T1	protein 37 46	IFN-gamma
+T2	protein 69 73	IL-2
+T3	protein 78 83	IL-12
+T4	cell_line 89 107	human NK cell line
+T5	protein 109 125	Interferon-gamma
+T6	protein 127 136	IFN-gamma
+T7	protein 154 178	immunoregulatory protein
+T8	cell_type 205 212	T cells
+T9	cell_type 217 243	large granular lymphocytes
+T10	cell_type 245 248	LGL
+T11	protein 317 329	interleukins
+T12	protein 331 334	ILs
+T13	protein 337 341	IL-2
+T14	protein 346 351	IL-12
+T15	protein 394 403	IFN-gamma
+T16	cell_type 428 435	T cells
+T17	cell_type 440 443	LGL
+T18	cell_line 495 507	T cell lines
+T19	protein 521 530	IFN-gamma
+T20	cell_line 611 640	natural killer (NK) cell line
+T21	cell_line 720 735	cell line NK3.3
+T22	cell_type 749 763	human NK cells
+T23	protein 782 786	IL-2
+T24	protein 791 796	IL-12
+T25	protein 826 835	IFN-gamma
+T26	protein 840 888	granulocyte-macrophage colony-stimulating factor
+T27	protein 890 896	GM-CSF
+T28	protein 971 975	IL-2
+T29	protein 980 985	IL-12
+T30	protein 1017 1026	IFN-gamma
+T31	protein 1031 1037	GM-CSF
+T32	RNA 1120 1146	IFN-gamma and GM-CSF mRNAs
+T33	protein 1256 1287	transforming growth factor-beta
+T34	protein 1374 1378	IL-2
+T35	protein 1383 1388	IL-12
+T36	cell_line 1392 1403	NK3.3 cells
+T37	protein 1444 1460	protein kinase C
+T38	protein 1509 1513	IL-2
+T39	RNA 1527 1564	IFN-gamma and GM-CSF cytoplasmic mRNA
+T40	protein 1579 1584	IL-12
+T41	RNA 1598 1624	IFN-gamma cytoplasmic mRNA
+T42	protein 1675 1691	protein kinase C
+T43	protein 1711 1742	transforming growth factor-beta
+T44	protein 1802 1806	IL-2
+T45	protein 1811 1816	IL-12
+T46	DNA 1900 1913	cytokine gene
+T47	protein 2006 2010	IL-2
+T48	protein 2019 2024	IL-12
+T49	protein 2033 2048	nuclear factors
+T50	protein 2049 2059	NF-kappa B
+T51	protein 2064 2067	AP1
+T52	protein 2119 2148	DNA binding protein complexes
+T53	protein 2231 2235	IL-2
+T54	protein 2240 2245	IL-12
+T55	protein 2311 2320	IFN-gamma
+T56	protein 2325 2331	GM-CSF
+T57	cell_line 2362 2377	NK3.3 cell line

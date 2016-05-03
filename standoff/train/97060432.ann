@@ -1,0 +1,25 @@
+T1	cell_type 0 30	Nasal NK- and T-cell lymphomas
+T2	cell_type 132 157	Nasal T/NK-cell lymphomas
+T3	cell_type 197 229	natural killer (NK) cell lineage
+T4	cell_type 236 250	T-cell lineage
+T5	DNA 292 318	T-cell receptor (TcR) gene
+T6	cell_type 369 392	NK- and T-cell subtypes
+T7	DNA 462 470	EBV gene
+T8	protein 564 585	reverse transcriptase
+T9	RNA 732 773	EBV-encoded small non-polyadenylated RNAs
+T10	cell_type 845 857	tumour cells
+T11	cell_type 884 886	NL
+T12	protein 914 919	EBNAI
+T13	protein 951 975	latent membrane proteins
+T14	protein 977 987	LMP1 and 2
+T15	RNA 996 1025	BamHI A rightward transcripts
+T16	RNA 1044 1055	EBNA2 mRNAs
+T17	DNA 1192 1200	EBV gene
+T18	cell_type 1256 1284	LMP1+ and LMP1- tumour cells
+T19	protein 1339 1362	early lytic transcripts
+T20	protein 1364 1369	BZLF1
+T21	protein 1374 1379	BHRF1
+T22	protein 1446 1451	ZEBRA
+T23	protein 1819 1839	immunogenic proteins
+T24	protein 1841 1852	EBNA2-EBNA6
+T25	cell_type 1883 1895	tumour cells

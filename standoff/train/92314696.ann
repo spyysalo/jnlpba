@@ -1,0 +1,15 @@
+T1	DNA 32 40	promoter
+T2	DNA 138 147	promoters
+T3	DNA 152 161	enhancers
+T4	DNA 264 272	enhancer
+T5	DNA 311 319	promoter
+T6	DNA 450 459	promoters
+T7	DNA 464 473	enhancers
+T8	cell_line 507 521	cultured cells
+T9	DNA 568 577	enhancers
+T10	DNA 633 641	promoter
+T11	DNA 708 716	promoter
+T12	DNA 796 825	immunoglobulin kappa enhancer
+T13	DNA 834 869	immunoglobulin heavy chain enhancer
+T14	DNA 904 912	promoter
+T15	DNA 962 970	promoter

@@ -1,0 +1,21 @@
+T1	protein 39 65	protein kinase C substrate
+T2	cell_type 69 82	human B cells
+T3	protein 102 131	lymphocyte-specific protein 1
+T4	protein 133 137	LSP1
+T5	cell_line 154 198	B-chronic lymphocytic leukemia (B-CLL) cells
+T6	protein 264 278	PKC substrates
+T7	protein 280 286	MARCKS
+T8	protein 288 334	myristoylated, alanine-rich C kinase substrate
+T9	protein 340 343	MRP
+T10	protein 345 367	MARCKS-related protein
+T11	protein 454 480	protein kinase C substrate
+T12	protein 497 500	p60
+T13	cell_line 725 741	B cell line CESS
+T14	protein 780 791	p60 protein
+T15	cell_line 842 853	B-CLL cells
+T16	protein 855 858	p60
+T17	cell_line 877 887	CESS cells
+T18	protein 953 982	lymphocyte-specific protein 1
+T19	protein 984 988	LSP1
+T20	protein 1040 1066	protein kinase C substrate
+T21	cell_type 1070 1077	B cells

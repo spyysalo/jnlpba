@@ -1,0 +1,33 @@
+T1	DNA 0 56	Human immunodeficiency virus type 1 long terminal repeat
+T2	cell_type 134 167	human glial cells and lymphocytes
+T3	DNA 391 411	long terminal repeat
+T4	DNA 413 416	LTR
+T5	DNA 440 457	LTR-directed gene
+T6	DNA 557 561	LTRs
+T7	DNA 646 650	LTRs
+T8	DNA 778 785	LAI LTR
+T9	DNA 798 814	455-bp U3 region
+T10	DNA 924 928	LTRs
+T11	DNA 980 987	LAI LTR
+T12	cell_line 991 1005	U-373 MG cells
+T13	cell_line 1010 1031	astrocytoma cell line
+T14	cell_line 1047 1059	Jurkat cells
+T15	cell_line 1063 1096	CD4-positive lymphocyte cell line
+T16	DNA 1105 1109	LTRs
+T17	cell_line 1155 1169	U-373 MG cells
+T18	cell_line 1202 1214	Jurkat cells
+T19	DNA 1220 1224	LTRs
+T20	cell_line 1255 1267	Jurkat cells
+T21	DNA 1289 1296	LAI LTR
+T22	DNA 1313 1325	LTR sequence
+T23	DNA 1394 1410	cis-acting sites
+T24	DNA 1422 1431	U3 region
+T25	DNA 1439 1442	LTR
+T26	protein 1565 1585	transcription factor
+T27	protein 1600 1631	activating transcription factor
+T28	protein 1632 1661	cAMP response element binding
+T29	protein 1663 1666	ATF
+T30	protein 1667 1671	CREB
+T31	DNA 1707 1768	LEF-1 and distal NF-kappaB transcription factor binding sites
+T32	DNA 1816 1825	HIV-1 LTR
+T33	DNA 1855 1867	LTR sequence

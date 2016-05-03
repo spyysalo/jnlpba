@@ -1,0 +1,13 @@
+T1	protein 30 34	CD21
+T2	DNA 57 71	viral promoter
+T3	protein 76 85	NF-kappaB
+T4	cell_type 176 202	normal human B lymphocytes
+T5	protein 207 211	CD21
+T6	protein 217 240	CR2 complement receptor
+T7	cell_type 308 326	noncycling B cells
+T8	protein 404 408	CD21
+T9	cell_type 421 442	resting human B cells
+T10	protein 465 474	NF-kappaB
+T11	protein 475 495	transcription factor
+T12	DNA 581 607	viral latent gene promoter
+T13	protein 683 692	NF-kappaB

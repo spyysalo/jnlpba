@@ -1,0 +1,28 @@
+T1	protein 10 18	cyclin A
+T2	cell_type 72 99	human primary T lymphocytes
+T3	protein 104 107	CD2
+T4	protein 112 116	CD28
+T5	protein 117 135	adhesion molecules
+T6	protein 137 145	Cyclin A
+T7	protein 366 374	Cyclin A
+T8	cell_type 384 405	primary T lymphocytes
+T9	protein 465 486	monoclonal antibodies
+T10	protein 499 502	CD2
+T11	protein 507 511	CD28
+T12	protein 512 530	adhesion molecules
+T13	cell_type 592 607	accessory cells
+T14	protein 609 617	Cyclin A
+T15	protein 666 674	anti CD2
+T16	protein 677 681	CD28
+T17	protein 705 713	anti CD2
+T18	protein 717 726	anti CD28
+T19	DNA 816 846	transcription initiation sites
+T20	DNA 879 900	protein binding sites
+T21	protein 977 982	ATF-1
+T22	protein 987 1000	NF-Y proteins
+T23	protein 1075 1083	anti CD2
+T24	protein 1087 1096	anti CD28
+T25	protein 1133 1141	anti CD2
+T26	protein 1144 1153	anti CD28
+T27	protein 1393 1401	anti CD2
+T28	protein 1404 1413	anti CD28

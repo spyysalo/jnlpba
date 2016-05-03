@@ -1,0 +1,15 @@
+T1	cell_type 0 7	T cells
+T2	cell_type 314 321	T cells
+T3	cell_type 629 657	unstimulated patient T cells
+T4	cell_type 690 697	T cells
+T5	protein 807 817	antibodies
+T6	protein 821 848	kappa B/Rel family proteins
+T7	cell_type 907 914	T cells
+T8	protein 959 984	NF-kappa B1 (p50) subunit
+T9	cell_type 1040 1047	T cells
+T10	protein 1076 1080	RelA
+T11	protein 1098 1117	Rel homology family
+T12	protein 1146 1164	NF-kappa B complex
+T13	protein 1264 1268	RelA
+T14	cell_type 1327 1334	T cells
+T15	cell_type 1376 1383	T cells

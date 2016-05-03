@@ -1,0 +1,27 @@
+T1	cell_type 45 62	ring sideroblasts
+T2	cell_type 117 140	bone marrow progenitors
+T3	DNA 192 229	human androgen receptor (HUMARA) gene
+T4	cell_type 278 289	blood cells
+T5	cell_type 362 402	peripheral blood polymorphonuclear cells
+T6	cell_type 404 409	PMNCs
+T7	cell_type 415 438	marrow progenitor cells
+T8	cell_type 457 476	ringed sideroblasts
+T9	cell_type 517 534	ring sideroblasts
+T10	cell_type 536 540	RARS
+T11	DNA 580 591	HUMARA gene
+T12	cell_type 636 641	PMNCs
+T13	cell_type 646 659	T lymphocytes
+T14	cell_line 682 702	granulocyte colonies
+T15	cell_type 775 794	ringed sideroblasts
+T16	cell_line 798 816	erythroid colonies
+T17	cell_type 897 901	RARS
+T18	cell_type 929 934	PMNCs
+T19	cell_line 939 959	granulocyte colonies
+T20	cell_type 1055 1082	non-clonal progenitor cells
+T21	cell_line 1116 1134	erythroid colonies
+T22	cell_type 1148 1167	ringed sideroblasts
+T23	cell_type 1220 1225	PMNCs
+T24	cell_type 1253 1280	non-clonal progenitor cells
+T25	cell_type 1297 1301	RARS
+T26	cell_type 1314 1335	erythroid progenitors
+T27	cell_type 1361 1380	ringed sideroblasts

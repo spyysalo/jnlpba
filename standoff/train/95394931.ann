@@ -1,0 +1,39 @@
+T1	protein 33 43	NF-kappa B
+T2	protein 44 79	transcriptional activator precursor
+T3	protein 80 84	p105
+T4	protein 149 174	ubiquitin-carrier protein
+T5	protein 176 178	E2
+T6	protein 192 216	ubiquitin-protein ligase
+T7	protein 218 220	E3
+T8	protein 266 288	transcriptional factor
+T9	protein 289 299	NF-kappa B
+T10	protein 305 316	heterodimer
+T11	protein 345 348	p50
+T12	protein 353 356	p65
+T13	DNA 405 415	Rel family
+T14	protein 417 420	p50
+T15	protein 453 460	105 kDa
+T16	protein 466 483	C-terminal domain
+T17	protein 534 552	mature p50 subunit
+T18	protein 570 587	N-terminal region
+T19	protein 636 639	p50
+T20	protein 685 694	ubiquitin
+T21	protein 694 705	-proteasome
+T22	protein 763 770	enzymes
+T23	protein 1017 1026	ubiquitin
+T24	protein 1122 1138	60-kDa precursor
+T25	protein 1166 1176	proteasome
+T26	protein 1353 1362	ubiquitin
+T27	protein 1362 1373	-proteasome
+T28	protein 1421 1425	p105
+T29	protein 1456 1465	ubiquitin
+T30	protein 1585 1610	ubiquitin-carrier protein
+T31	protein 1612 1617	E2-F1
+T32	protein 1674 1677	p53
+T33	protein 1730 1744	p105 precursor
+T34	protein 1777 1792	320-kDa species
+T35	protein 1796 1820	ubiquitin-protein ligase
+T36	protein 1885 1890	E6-AP
+T37	protein 1896 1918	p53-conjugating ligase
+T38	protein 1929 1937	E3 alpha
+T39	protein 1943 1962	"N-end rule" ligase

@@ -1,0 +1,17 @@
+T1	protein 4 7	p53
+T2	protein 92 104	p53 molecule
+T3	protein 141 151	mutant p53
+T4	protein 191 204	wild type p53
+T5	protein 280 307	tumor necrosis factor-alpha
+T6	protein 309 318	TNF-alpha
+T7	protein 351 364	wild type p53
+T8	protein 385 413	nuclear transcription factor
+T9	protein 415 425	NF-kappa B
+T10	protein 432 441	TNF-alpha
+T11	protein 446 456	NF-kappa B
+T12	protein 541 597	major histocompatibility complex (MHC) class I molecules
+T13	cell_type 638 645	T cells
+T14	protein 703 712	TNF-alpha
+T15	protein 763 772	TNF-alpha
+T16	protein 841 854	wild type p53
+T17	protein 895 904	TNF-alpha

@@ -1,0 +1,19 @@
+T1	protein 0 15	Invariant chain
+T2	protein 58 78	TAF(II)105-NF-kappaB
+T3	cell_type 199 215	immature B cells
+T4	cell_type 234 248	immature cells
+T5	cell_type 299 311	mature cells
+T6	cell_type 359 366	B cells
+T7	protein 391 399	antigens
+T8	protein 453 468	invariant chain
+T9	protein 470 472	Ii
+T10	protein 477 528	major histocompatibility complex class II chaperone
+T11	protein 545 566	transcription factors
+T12	protein 567 572	c-Rel
+T13	protein 577 585	p65/RelA
+T14	cell_type 671 678	B cells
+T15	protein 749 751	Ii
+T16	protein 833 835	Ii
+T17	protein 915 943	NF-kappaB p65/RelA homodimer
+T18	protein 961 988	B cell-enriched coactivator
+T19	protein 989 1018	TBP-associated factor (II)105

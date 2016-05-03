@@ -1,0 +1,32 @@
+T1	cell_type 80 116	human peripheral blood T lymphocytes
+T2	protein 410 413	mAb
+T3	protein 415 418	R24
+T4	cell_type 535 542	T cells
+T5	protein 644 651	R24 mAb
+T6	protein 704 711	R24 mAb
+T7	protein 797 814	IL-2R alpha-chain
+T8	protein 816 832	IL-2R beta-chain
+T9	protein 834 840	HLA-DR
+T10	protein 842 847	CD11a
+T11	protein 853 858	CD11c
+T12	protein 874 883	IFN-gamma
+T13	protein 977 980	R24
+T14	protein 1020 1024	IL-6
+T15	protein 1029 1038	TNF-alpha
+T16	protein 1072 1075	R24
+T17	protein 1100 1103	R24
+T18	protein 1143 1148	c-rel
+T19	protein 1167 1181	NF kappa B p50
+T20	protein 1185 1188	p65
+T21	protein 1243 1271	NF kappa B binding complexes
+T22	protein 1283 1288	c-rel
+T23	protein 1293 1296	p50
+T24	protein 1392 1395	R24
+T25	protein 1551 1574	cyclophilin/calcineurin
+T26	protein 1579 1595	protein kinase C
+T27	protein 1619 1622	R24
+T28	protein 1672 1687	tyrosine kinase
+T29	protein 1711 1714	R24
+T30	protein 1823 1839	tyrosine kinases
+T31	cell_type 1932 1945	human T cells
+T32	protein 1949 1952	R24

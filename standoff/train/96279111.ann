@@ -1,0 +1,30 @@
+T1	protein 9 30	transcription factors
+T2	DNA 62 86	human interleukin 9 gene
+T3	cell_type 90 97	T cells
+T4	DNA 162 193	human interleukin 9 (IL-9) gene
+T5	cell_line 210 274	human T cell leukemia virus type I-transformed human T cell line
+T6	cell_line 276 281	C5MJ2
+T7	DNA 323 332	IL-9 gene
+T8	DNA 436 460	luciferase reporter gene
+T9	DNA 505 523	5'-flanking region
+T10	DNA 531 540	IL-9 gene
+T11	DNA 575 603	negative regulatory elements
+T12	DNA 658 667	IL-9 gene
+T13	cell_line 671 682	C5MJ2 cells
+T14	DNA 763 772	IL-9 gene
+T15	DNA 776 791	proximal region
+T16	DNA 800 811	-46 and -80
+T17	DNA 897 906	IL-9 gene
+T18	cell_line 910 921	C5MJ2 cells
+T19	DNA 946 960	NF-kappaB site
+T20	DNA 964 974	-59 to -50
+T21	DNA 992 1022	20-base pair upstream sequence
+T22	DNA 1073 1086	IL-9 promoter
+T23	protein 1140 1149	NF-kappaB
+T24	protein 1151 1156	c-Jun
+T25	protein 1174 1188	novel proteins
+T26	protein 1197 1203	35 kDa
+T27	DNA 1283 1307	proximal promoter region
+T28	protein 1440 1461	transcription factors
+T29	DNA 1479 1488	IL-9 gene
+T30	cell_type 1503 1510	T cells

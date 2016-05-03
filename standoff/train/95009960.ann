@@ -1,0 +1,33 @@
+T1	protein 14 24	NF-kappa B
+T2	protein 94 116	nuclear factor kappa B
+T3	protein 118 128	NF-kappa B
+T4	protein 241 272	NF-kappa B/I kappa B components
+T5	protein 327 337	NF-kappa B
+T6	protein 407 444	NF-kappa B/I kappa B protein families
+T7	cell_line 449 459	HeLa cells
+T8	cell_type 474 481	B cells
+T9	protein 544 551	p50-p65
+T10	protein 564 569	c-rel
+T11	protein 576 586	NF-kappa B
+T12	protein 602 617	I kappa B alpha
+T13	cell_type 737 750	B lymphocytes
+T14	protein 783 793	NF-kappa B
+T15	protein 833 836	p65
+T16	protein 841 856	I kappa B alpha
+T17	protein 930 934	p100
+T18	protein 939 943	p105
+T19	protein 966 981	I kappa B alpha
+T20	protein 1036 1040	p105
+T21	protein 1078 1088	NF-kappa B
+T22	protein 1119 1134	I kappa B alpha
+T23	protein 1155 1158	p65
+T24	protein 1168 1173	c-rel
+T25	protein 1235 1244	TNF-alpha
+T26	protein 1281 1291	NF-kappa B
+T27	protein 1344 1363	I kappa B molecules
+T28	protein 1373 1383	NF-kappa B
+T29	protein 1413 1423	NF-kappa B
+T30	protein 1495 1520	p65-containing NF-kappa B
+T31	protein 1628 1638	NF-kappa B
+T32	protein 1846 1855	TNF-alpha
+T33	protein 1931 1941	NF-kappa B

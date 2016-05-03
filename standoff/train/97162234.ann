@@ -1,0 +1,18 @@
+T1	protein 0 21	Nuclear factor-kappaB
+T2	cell_type 36 51	human monocytes
+T3	protein 157 178	nuclear factor kappaB
+T4	protein 180 189	NF-kappaB
+T5	protein 261 270	cytokines
+T6	protein 282 309	tumor necrosis factor alpha
+T7	protein 311 314	TNF
+T8	RNA 404 412	TNF mRNA
+T9	cell_line 449 489	peripheral blood-derived human monocytes
+T10	cell_line 491 494	PBM
+T11	protein 634 643	NF-kappaB
+T12	protein 756 765	NF-kappaB
+T13	cell_line 780 783	PBM
+T14	protein 837 846	NF-kappaB
+T15	protein 954 963	NF-kappaB
+T16	cell_type 1076 1097	monocytes/macrophages
+T17	cell_type 1166 1189	tissue structural cells
+T18	cell_type 1198 1209	fibroblasts

@@ -1,0 +1,36 @@
+T1	protein 0 9	NF-kappaB
+T2	cell_type 34 47	myeloid cells
+T3	cell_type 83 106	primary monocytic cells
+T4	cell_line 111 129	myeloid cell lines
+T5	protein 349 358	NF-kappaB
+T6	cell_line 398 467	promonocytic U937 (U9-IIIB) and myeloblastic PLB-985 (PLB-IIIB) cells
+T7	protein 497 505	TNFalpha
+T8	cell_line 585 598	parental U937
+T9	cell_line 603 616	PLB-985 cells
+T10	protein 632 640	TNFalpha
+T11	cell_line 755 777	U937 and U9-IIIB cells
+T12	protein 802 811	NF-kappaB
+T13	protein 821 851	non-apoptotic inducer IL-1beta
+T14	protein 920 929	NF-kappaB
+T15	cell_line 942 968	U9-IIIB and PLB-IIIB cells
+T16	cell_type 1009 1033	NF-kappaB protects cells
+T17	protein 1070 1078	TNFalpha
+T18	protein 1131 1144	Bcl-2 protein
+T19	cell_type 1155 1175	HIV-1-infected cells
+T20	protein 1205 1216	Bax protein
+T21	protein 1299 1307	TNFalpha
+T22	protein 1378 1383	Bcl-2
+T23	protein 1388 1391	Bax
+T24	protein 1416 1425	NF-kappaB
+T25	cell_line 1504 1518	Jurkat T cells
+T26	protein 1541 1572	IkappaB alpha repressor mutants
+T27	protein 1574 1584	TD-IkappaB
+T28	DNA 1609 1641	tetracycline-responsive promoter
+T29	protein 1684 1692	TNFalpha
+T30	protein 1741 1751	TD-IkappaB
+T31	cell_line 1788 1801	U9-IIIB cells
+T32	protein 1803 1811	TNFalpha
+T33	protein 1856 1869	Bcl-2 protein
+T34	cell_type 1880 1907	TD-IkappaB expressing cells
+T35	cell_line 1995 2008	U9-IIIB cells
+T36	cell_type 2122 2135	myeloid cells

@@ -1,0 +1,27 @@
+T1	protein 11 52	tissue-specific transcriptional activator
+T2	protein 54 57	EBF
+T3	protein 61 66	Olf-1
+T4	cell_type 82 101	early B lymphocytes
+T5	cell_type 103 113	adipocytes
+T6	cell_type 119 136	olfactory neurons
+T7	DNA 152 170	human chromosome 5
+T8	DNA 172 180	band q34
+T9	DNA 186 214	proximal mouse chromosome 11
+T10	cell_type 216 236	Murine B lymphocytes
+T11	cell_type 238 248	adipocytes
+T12	cell_type 254 271	olfactory neurons
+T13	protein 282 301	DNA-binding protein
+T14	DNA 341 346	genes
+T15	protein 462 475	B-cell factor
+T16	protein 477 480	EBF
+T17	cell_type 488 508	murine B lymphocytes
+T18	protein 554 559	Olf-1
+T19	cell_type 566 590	olfactory neuronal cells
+T20	protein 759 762	EBF
+T21	DNA 930 947	murine cDNA probe
+T22	DNA 1006 1026	human genomic clones
+T23	cell_line 1044 1076	recombinant inbred mouse strains
+T24	DNA 1109 1133	EBF homologous sequences
+T25	DNA 1163 1171	band q34
+T26	DNA 1180 1201	proximal mouse Chr 11
+T27	DNA 1209 1240	evolutionarily conserved region

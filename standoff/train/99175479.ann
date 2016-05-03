@@ -1,0 +1,36 @@
+T1	protein 33 48	adaptor protein
+T2	protein 49 54	Cbl-b
+T3	protein 63 69	kinase
+T4	protein 70 76	zap-70
+T5	cell_type 106 113	T cells
+T6	protein 133 166	T-cell receptor (TCR)-CD3 complex
+T7	protein 213 223	Src-family
+T8	protein 228 253	Syk/Zap-70-family kinases
+T9	protein 269 286	activated kinases
+T10	protein 331 362	multiple intracellular proteins
+T11	protein 447 454	kinases
+T12	protein 462 477	adaptor protein
+T13	protein 518 521	Cbl
+T14	protein 543 559	upstream kinases
+T15	protein 568 571	Syk
+T16	protein 576 582	Zap-70
+T17	protein 592 597	Cbl-b
+T18	protein 614 617	Cbl
+T19	cell_type 675 694	hematopoietic cells
+T20	protein 704 709	Cbl-b
+T21	protein 775 778	TCR
+T22	protein 823 828	Cbl-b
+T23	protein 887 892	Cbl-b
+T24	cell_type 896 903	T cells
+T25	protein 947 1003	transcription factor nuclear factor of activated T cells
+T26	protein 1005 1009	NFAT
+T27	protein 1043 1048	Cbl-b
+T28	protein 1083 1088	Cbl-b
+T29	protein 1093 1099	Zap-70
+T30	protein 1136 1141	Cbl-b
+T31	protein 1165 1169	NFAT
+T32	protein 1199 1202	Cbl
+T33	protein 1257 1260	Cbl
+T34	protein 1271 1276	Cbl-b
+T35	protein 1364 1379	upstream kinase
+T36	protein 1380 1386	Zap-70

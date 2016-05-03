@@ -1,0 +1,40 @@
+T1	protein 20 45	phosphoinositide 3-kinase
+T2	protein 49 72	T-cell antigen receptor
+T3	protein 255 280	Phosphoinositide 3-kinase
+T4	protein 282 293	PI 3-kinase
+T5	protein 384 407	T-cell antigen receptor
+T6	protein 409 412	TCR
+T7	protein 419 446	costimulatory receptor CD28
+T8	protein 452 471	negative regulators
+T9	protein 501 507	CTLA-4
+T10	protein 509 520	PI 3-kinase
+T11	cell_type 613 623	lymphocyte
+T12	protein 639 650	PI 3-kinase
+T13	protein 786 797	PI 3-kinase
+T14	protein 801 804	TCR
+T15	protein 874 885	PI 3-kinase
+T16	protein 915 918	TCR
+T17	protein 982 985	AP1
+T18	protein 990 1011	serum response factor
+T19	protein 1067 1078	PI 3-kinase
+T20	protein 1104 1115	PI 3-kinase
+T21	protein 1171 1206	nuclear factor of activated T cells
+T22	protein 1209 1214	NF-AT
+T23	protein 1232 1235	TCR
+T24	protein 1272 1283	PI 3-kinase
+T25	protein 1294 1297	TCR
+T26	protein 1307 1312	NF-AT
+T27	protein 1376 1387	PI 3-kinase
+T28	protein 1406 1409	TCR
+T29	protein 1421 1426	NF-AT
+T30	protein 1455 1466	PI 3-kinase
+T31	protein 1510 1531	PI 3-kinase effectors
+T32	protein 1541 1557	protein kinase B
+T33	protein 1561 1579	positive regulator
+T34	protein 1583 1594	PI 3-kinase
+T35	protein 1603 1613	GTPase Rac
+T36	protein 1676 1693	effector molecule
+T37	protein 1735 1746	PI 3-kinase
+T38	protein 1859 1870	PI 3-kinase
+T39	cell_type 1874 1881	T cells
+T40	protein 1919 1922	TCR

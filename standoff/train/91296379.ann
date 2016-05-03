@@ -1,0 +1,30 @@
+T1	protein 0 10	HTLV-1 Tax
+T2	DNA 41 79	immediate early serum responsive genes
+T3	cell_line 225 237	T-cell lines
+T4	protein 290 294	AP-1
+T5	RNA 383 388	mRNAs
+T6	protein 402 415	AP-1 proteins
+T7	protein 417 422	c-Fos
+T8	protein 424 429	Fra-1
+T9	protein 431 436	c-Jun
+T10	protein 438 442	JunB
+T11	protein 448 452	JunD
+T12	DNA 487 497	c-fos gene
+T13	protein 544 570	viral transcription factor
+T14	protein 572 576	Tax1
+T15	cell_line 591 608	human T-cell line
+T16	cell_line 610 615	JPX-9
+T17	protein 645 649	Tax1
+T18	RNA 693 698	mRNAs
+T19	protein 703 708	Fra-1
+T20	protein 710 715	c-Jun
+T21	protein 721 725	JunD
+T22	protein 753 757	Tax1
+T23	protein 769 773	Tax1
+T24	protein 808 829	transcription factors
+T25	protein 837 855	zinc finger motifs
+T26	protein 857 862	Egr-1
+T27	protein 867 872	Egr-2
+T28	protein 897 933	Tax1-inducible transcription factors
+T29	DNA 980 1001	immediate early genes
+T30	protein 1045 1049	Tax1

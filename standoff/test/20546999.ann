@@ -1,0 +1,39 @@
+T1	cell_type 12 39	immature and mature T cells
+T2	cell_type 51 80	human thymic epithelial cells
+T3	cell_type 82 85	TEC
+T4	protein 101 131	IL-6 gene trascription factors
+T5	protein 133 142	NF-kappaB
+T6	protein 147 153	NF-IL6
+T7	protein 189 226	alpha3beta1 and alpha6beta4 integrins
+T8	cell_type 228 245	T cell precursors
+T9	cell_type 292 305	stromal cells
+T10	cell_type 319 342	thymic epithelial cells
+T11	cell_type 344 347	TEC
+T12	cell_type 449 452	TEC
+T13	cell_type 453 463	thymocytes
+T14	protein 485 494	cytokines
+T15	protein 499 513	growth factors
+T16	protein 549 567	adhesion receptors
+T17	cell_type 622 632	thymocytes
+T18	cell_type 648 664	epithelial cells
+T19	cell_type 831 843	TEC cultures
+T20	cell_type 881 904	heterologous thymocytes
+T21	cell_type 927 937	thymocytes
+T22	cell_type 948 951	TEC
+T23	protein 962 987	beta1 and beta4 integrins
+T24	protein 1017 1057	alpha3beta1 and alpha6beta4 heterodimers
+T25	protein 1139 1148	NF-kappaB
+T26	protein 1153 1159	NF-IL6
+T27	protein 1160 1186	gene transcription factors
+T28	protein 1286 1292	alpha3
+T29	protein 1294 1300	alpha6
+T30	protein 1302 1327	beta1 and beta4 integrins
+T31	protein 1352 1392	alpha3beta1 and alpha6beta4 heterodimers
+T32	cell_type 1566 1601	policlonal or clonal mature T cells
+T33	cell_type 1632 1655	mature thymocyte subset
+T34	cell_type 1683 1702	unstimulated T cell
+T35	protein 1800 1811	alpha3beta1
+T36	protein 1821 1845	alpha2beta1 heterodimers
+T37	protein 1919 1949	NF-kappaB transcription factor
+T38	protein 1990 2030	alpha3beta1 and alpha6beta4 heterodimers
+T39	protein 2097 2113	cellular ligands

@@ -1,0 +1,17 @@
+T1	protein 27 59	hypoxia inducible factor-1 alpha
+T2	protein 300 326	Hypoxia inducible factor-1
+T3	protein 328 333	HIF-1
+T4	protein 371 408	helix-loop-helix transcription factor
+T5	protein 436 446	HIF-1alpha
+T6	protein 451 460	HIF-1beta
+T7	protein 462 466	Arnt
+T8	protein 701 711	HIF-1alpha
+T9	DNA 748 776	antisense HIF-1alpha plasmid
+T10	DNA 809 813	VEGF
+T11	cell_type 1095 1102	NK cell
+T12	cell_type 1167 1173	T cell
+T13	cell_type 1265 1272	NK cell
+T14	cell_type 1277 1287	CD8 T cell
+T15	cell_type 1468 1488	parental tumor cells
+T16	protein 1627 1632	HIF-1
+T17	protein 1771 1776	HIF-1

@@ -1,0 +1,24 @@
+T1	protein 0 47	Human immunodeficiency virus type 1 Nef protein
+T2	protein 57 67	NF-kappa B
+T3	cell_type 81 94	human T cells
+T4	cell_type 191 209	CD4+ T lymphocytes
+T5	protein 503 518	T-cell mitogens
+T6	protein 782 807	host transcription factor
+T7	protein 808 818	NF-kappa B
+T8	protein 907 932	HIV-1-encoded Nef protein
+T9	protein 959 969	NF-kappa B
+T10	protein 994 1009	T-cell mitogens
+T11	protein 1020 1023	Nef
+T12	protein 1074 1095	transcription factors
+T13	protein 1138 1142	SP-1
+T14	protein 1144 1147	USF
+T15	protein 1149 1152	URS
+T16	protein 1158 1163	NF-AT
+T17	protein 1179 1182	Nef
+T18	DNA 1319 1342	NF-kappa B-binding site
+T19	protein 1397 1407	NF-kappa B
+T20	protein 1421 1424	Nef
+T21	DNA 1467 1500	HIV-1 and interleukin 2 promoters
+T22	protein 1533 1536	Nef
+T23	protein 1546 1556	NF-kappa B
+T24	protein 1613 1636	T-cell receptor complex

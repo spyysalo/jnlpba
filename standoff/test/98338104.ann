@@ -1,0 +1,34 @@
+T1	protein 0 24	Matrix metalloproteinase
+T2	protein 116 127	cathepsin D
+T3	protein 129 145	type IV collagen
+T4	protein 147 154	laminin
+T5	protein 156 167	fibronectin
+T6	protein 169 173	EGFR
+T7	protein 175 195	c-erbB-2 oncoprotein
+T8	protein 197 200	p53
+T9	protein 254 278	Matrix metalloproteinase
+T10	protein 281 285	MMPs
+T11	protein 528 554	matrix metalloproteinase 3
+T12	protein 556 561	MMP-3
+T13	protein 563 576	stromelysin-1
+T14	protein 616 646	Basement Membrane (BM) antigen
+T15	protein 648 664	type IV collagen
+T16	protein 666 673	laminin
+T17	protein 676 687	fibronectin
+T18	protein 689 700	cathepsin D
+T19	protein 702 705	p53
+T20	protein 707 715	c-erbB-2
+T21	protein 741 746	Ki-67
+T22	protein 748 752	PCNA
+T23	protein 1001 1026	monoclonal antibody MMP-3
+T24	protein 1028 1032	Ab-1
+T25	protein 1035 1048	Stromelysin-1
+T26	protein 1050 1053	ST1
+T27	cell_type 1084 1100	epithelial cells
+T28	protein 1278 1281	ST1
+T29	protein 1425 1428	ST1
+T30	protein 1445 1448	p53
+T31	protein 1517 1525	c-erbB-2
+T32	protein 1615 1618	ST1
+T33	protein 1731 1749	proteolytic enzyme
+T34	protein 1750 1761	cathepsin D

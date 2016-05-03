@@ -1,0 +1,27 @@
+T1	cell_type 38 66	macrophage-like synoviocytes
+T2	cell_line 71 105	CD8+, CD29+, CD45RO+ T lymphocytes
+T3	cell_type 611 624	synovial cell
+T4	protein 715 757	monoclonal anti-estrogen receptor antibody
+T5	protein 759 770	anti-ER MAb
+T6	protein 866 877	anti-ER MAb
+T7	protein 887 899	specific MAb
+T8	protein 920 939	macrophage antigens
+T9	protein 941 949	Ber-MAC3
+T10	protein 951 957	MAC387
+T11	protein 959 963	CD68
+T12	cell_line 969 988	CD8+ T cell subsets
+T13	cell_line 990 995	CD29+
+T14	cell_line 997 1004	CD45RO+
+T15	cell_line 1009 1014	CD29-
+T16	cell_line 1016 1023	CD45RO-
+T17	cell_type 1280 1312	estrogen receptor-positive cells
+T18	cell_type 1323 1351	macrophage-like synoviocytes
+T19	cell_line 1360 1364	CD8+
+T20	cell_line 1366 1379	CD29+ T cells
+T21	cell_type 1507 1519	synoviocytes
+T22	cell_type 1524 1531	T cells
+T23	cell_type 1702 1730	macrophage-like synoviocytes
+T24	cell_type 1747 1794	antigen-processing and antigen-presenting cells
+T25	cell_line 1803 1850	antigen-experienced (memory) CD8+ T lymphocytes
+T26	cell_line 1852 1857	CD29+
+T27	cell_line 1859 1866	CD45RO+

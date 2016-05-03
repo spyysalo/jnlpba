@@ -1,0 +1,12 @@
+T1	cell_type 104 109	tumor
+T2	protein 124 144	beta-2-microglobulin
+T3	protein 146 154	beta 2-M
+T4	cell_type 241 258	breast carcinomas
+T5	protein 308 316	beta 2-M
+T6	protein 402 416	tumor beta 2-M
+T7	protein 591 599	beta 2-M
+T8	cell_type 691 707	malignant tumors
+T9	protein 885 899	tumor beta 2-M
+T10	protein 975 983	Beta 2-M
+T11	protein 1254 1262	beta 2-M
+T12	protein 1316 1330	serum beta 2-M

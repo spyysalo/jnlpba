@@ -1,0 +1,31 @@
+T1	DNA 27 42	proto-oncogenes
+T2	DNA 43 48	c-jun
+T3	DNA 53 58	c-fos
+T4	cell_type 62 75	T lymphocytes
+T5	protein 94 98	CD28
+T6	protein 104 127	T cell surface molecule
+T7	protein 128 132	CD28
+T8	cell_type 153 168	accessory cells
+T9	cell_type 173 177	APCs
+T10	cell_type 238 245	T cells
+T11	protein 249 252	Ags
+T12	protein 377 400	phospholipase C gamma 1
+T13	protein 474 478	CD28
+T14	protein 544 548	CD28
+T15	protein 558 561	CD2
+T16	protein 563 566	CD5
+T17	protein 568 573	LFA-1
+T18	protein 578 581	CD7
+T19	RNA 608 618	c-jun mRNA
+T20	DNA 652 657	c-fos
+T21	protein 670 674	CD28
+T22	DNA 698 703	c-jun
+T23	protein 724 747	protein tyrosine kinase
+T24	protein 797 838	phorbol ester-responsive protein kinase C
+T25	protein 887 891	CD28
+T26	RNA 915 925	c-jun mRNA
+T27	DNA 1036 1041	c-jun
+T28	DNA 1046 1050	junB
+T29	DNA 1085 1095	fos family
+T30	cell_type 1137 1144	T cells
+T31	protein 1167 1171	CD28

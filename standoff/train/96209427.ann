@@ -1,0 +1,35 @@
+T1	protein 0 31	Putative steroid binding domain
+T2	protein 39 71	human mineralocorticoid receptor
+T3	protein 113 132	heat shock proteins
+T4	protein 180 188	Domain E
+T5	protein 208 239	putative hormone binding domain
+T6	protein 241 244	HBD
+T7	protein 253 285	human mineralocorticoid receptor
+T8	protein 287 290	hMR
+T9	protein 358 381	maltose binding protein
+T10	protein 383 386	MBP
+T11	protein 391 416	glutathione S-transferase
+T12	protein 418 421	GST
+T13	DNA 430 464	bacterially-produced MR constructs
+T14	protein 514 532	heat shock protein
+T15	protein 546 549	hsp
+T16	protein 603 605	MR
+T17	protein 636 651	MBP- or GST-HBD
+T18	protein 705 724	heat shock proteins
+T19	protein 976 999	[3H]aldosterone-MBP-HBD
+T20	protein 1051 1075	[3H]progesterone-MBP-HBD
+T21	protein 1160 1167	MBP-HBD
+T22	protein 1173 1201	monoclonal anti-MBP antibody
+T23	protein 1207 1212	hsp90
+T24	protein 1218 1246	monoclonal anti-hsp antibody
+T25	protein 1288 1325	anti-rabbit hsp90 monoclonal antibody
+T26	protein 1360 1385	10.4S sedimenting complex
+T27	protein 1440 1455	MBP-HBD complex
+T28	protein 1484 1489	hsp90
+T29	protein 1526 1529	HBD
+T30	protein 1533 1536	hMR
+T31	protein 1559 1564	hsp90
+T32	protein 1598 1651	amino- (729-766) or carboxy-terminal (940-984) region
+T33	protein 1659 1671	HBD fragment
+T34	protein 1769 1777	domain E
+T35	protein 1906 1908	MR

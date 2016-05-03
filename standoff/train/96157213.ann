@@ -1,0 +1,15 @@
+T1	cell_line 58 87	EBV-positive B lymphoid cells
+T2	DNA 104 121	latent EBV genome
+T3	protein 132 138	BZLF-1
+T4	cell_line 258 283	EBV-positive B cell lines
+T5	cell_line 576 587	B cell line
+T6	cell_line 704 715	P3HR1 cells
+T7	protein 799 811	EBV antigens
+T8	DNA 837 847	EBV genome
+T9	cell_line 889 901	B cell lines
+T10	cell_type 973 989	infectable cells
+T11	cell_line 1041 1063	HHV-6 infected T cells
+T12	DNA 1082 1090	plasmids
+T13	DNA 1103 1119	promoter regions
+T14	DNA 1153 1158	BMRF1
+T15	DNA 1199 1208	promoters

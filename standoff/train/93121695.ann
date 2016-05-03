@@ -1,0 +1,34 @@
+T1	cell_line 11 46	interferon-gamma-treated U937 cells
+T2	protein 85 130	red cell, platelet and granulocyte antibodies
+T3	cell_line 205 251	interferon-gamma-treated U937 (IFN-U937) cells
+T4	protein 303 311	red cell
+T5	protein 313 321	platelet
+T6	protein 326 348	granulocyte antibodies
+T7	cell_line 361 371	U937 cells
+T8	protein 401 414	Fc receptor I
+T9	protein 416 427	Fc gamma RI
+T10	protein 462 471	IFN-gamma
+T11	cell_line 566 580	IFN-U937 cells
+T12	cell_type 585 617	peripheral blood human monocytes
+T13	cell_type 621 641	sensitized red cells
+T14	cell_type 643 652	platelets
+T15	cell_type 656 668	granulocytes
+T16	cell_type 702 711	monocytes
+T17	cell_line 715 729	IFN-U937 cells
+T18	protein 778 788	antibodies
+T19	cell_line 853 867	IFN-U937 cells
+T20	cell_type 1021 1030	monocytes
+T21	cell_line 1035 1049	IFN-U937 cells
+T22	cell_type 1064 1073	red cells
+T23	cell_type 1075 1084	platelets
+T24	cell_type 1088 1100	granulocytes
+T25	cell_type 1288 1297	monocytes
+T26	cell_line 1302 1316	IFN-U937 cells
+T27	cell_type 1335 1344	red cells
+T28	protein 1361 1371	antibodies
+T29	cell_type 1513 1522	monocytes
+T30	cell_line 1527 1541	IFN-U937 cells
+T31	cell_type 1567 1576	red cells
+T32	protein 1600 1606	anti-D
+T33	protein 1685 1706	high titre antibodies
+T34	cell_type 1777 1785	red cell

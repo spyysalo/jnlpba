@@ -1,0 +1,33 @@
+T1	protein 0 21	HTLV-1 p12(I) protein
+T2	protein 66 79	interleukin-2
+T3	cell_type 113 161	primary human peripheral blood mononuclear cells
+T4	protein 167 181	p12(I) protein
+T5	DNA 198 221	pX open reading frame I
+T6	protein 278 297	hydrophobic protein
+T7	protein 366 372	p12(I)
+T8	protein 406 435	src homology 3-binding motifs
+T9	protein 437 441	PXXP
+T10	protein 550 556	p12(I)
+T11	protein 645 651	p12(I)
+T12	protein 665 683	cytoplasmic domain
+T13	protein 691 732	interleukin-2 receptor (IL-2R) beta chain
+T14	protein 776 797	Jak1 and Jak3 kinases
+T15	protein 832 838	p12(I)
+T16	protein 849 901	signal transducers and activators of transcription 5
+T17	protein 903 908	STAT5
+T18	protein 999 1029	IL-2R beta and gamma(c) chains
+T19	protein 1034 1038	Jak3
+T20	cell_line 1056 1104	primary human peripheral blood mononuclear cells
+T21	cell_type 1106 1111	PBMCs
+T22	DNA 1120 1179	human immunodeficiency virus type 1-based retroviral vector
+T23	protein 1191 1197	p12(I)
+T24	protein 1225 1230	STAT5
+T25	protein 1273 1279	p12(I)
+T26	cell_type 1312 1323	human PBMCs
+T27	protein 1350 1366	T-cell receptors
+T28	protein 1416 1449	alphaCD3 and alphaCD28 antibodies
+T29	cell_type 1495 1518	p12(I)-transduced PBMCs
+T30	protein 1563 1567	IL-2
+T31	protein 1604 1610	p12(I)
+T32	cell_type 1651 1672	HTLV-1-infected cells
+T33	cell_type 1787 1803	infected T cells

@@ -1,0 +1,48 @@
+T1	DNA 4 24	beta-globin promoter
+T2	protein 57 86	erythroid Kruppel-like factor
+T3	DNA 94 114	locus control region
+T4	cell_type 118 133	erythroid cells
+T5	protein 135 164	Erythroid Kruppel-like factor
+T6	protein 166 170	EKLF
+T7	DNA 209 229	beta-globin promoter
+T8	DNA 269 285	beta-globin gene
+T9	cell_type 289 310	adult erythroid cells
+T10	protein 346 350	EKLF
+T11	DNA 392 424	beta-globin locus control region
+T12	DNA 426 429	LCR
+T13	DNA 431 436	5'HS3
+T14	DNA 470 473	LCR
+T15	DNA 482 502	beta-globin promoter
+T16	cell_type 515 536	adult erythroid cells
+T17	protein 642 646	EKLF
+T18	DNA 667 670	LCR
+T19	protein 771 775	EKLF
+T20	DNA 779 784	5'HS2
+T21	DNA 789 794	5'HS3
+T22	DNA 802 805	LCR
+T23	protein 835 839	EKLF
+T24	DNA 843 848	5'HS2
+T25	DNA 862 870	TATA box
+T26	DNA 891 896	5'HS3
+T27	DNA 922 932	TATA boxes
+T28	DNA 940 960	beta-globin promoter
+T29	protein 990 994	EKLF
+T30	DNA 998 1003	5'HS3
+T31	cell_type 1021 1075	beta-globin-expressing murine erythroid leukemia cells
+T32	protein 1100 1104	EKLF
+T33	DNA 1108 1113	5'HS2
+T34	cell_line 1131 1165	gamma-globin-expressing K562 cells
+T35	cell_type 1170 1201	murine erythroid leukemia cells
+T36	protein 1210 1214	EKLF
+T37	protein 1216 1219	Sp1
+T38	DNA 1274 1279	5'HS3
+T39	DNA 1311 1315	5'HS
+T40	protein 1343 1347	EKLF
+T41	DNA 1359 1363	5'HS
+T42	protein 1403 1407	EKLF
+T43	DNA 1411 1416	5'HS3
+T44	DNA 1444 1449	5'HS2
+T45	DNA 1481 1486	5'HS2
+T46	DNA 1506 1511	5'HS3
+T47	protein 1577 1581	EKLF
+T48	DNA 1606 1623	beta-globin locus

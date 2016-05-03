@@ -1,0 +1,15 @@
+T1	cell_type 64 106	neutrophilic and eosinophilic granulocytes
+T2	cell_type 108 119	Eosinophils
+T3	cell_type 124 135	neutrophils
+T4	cell_type 157 188	terminally differentiated cells
+T5	protein 309 321	hemopoietins
+T6	protein 326 348	inflammatory mediators
+T7	protein 513 525	hemopoietins
+T8	cell_type 676 686	eosinophil
+T9	cell_type 691 701	neutrophil
+T10	cell_type 869 879	eosinophil
+T11	cell_type 944 954	neutrophil
+T12	protein 1038 1061	glucocorticoid receptor
+T13	protein 1093 1116	glucocorticoid receptor
+T14	cell_type 1193 1203	eosinophil
+T15	cell_type 1231 1241	neutrophil

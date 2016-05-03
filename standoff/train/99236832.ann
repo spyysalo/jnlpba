@@ -1,0 +1,31 @@
+T1	protein 0 5	Tcf-1
+T2	cell_type 32 45	T lymphocytes
+T3	protein 69 95	glycogen synthase kinase-3
+T4	cell_type 99 110	fibroblasts
+T5	cell_type 115 122	T cells
+T6	DNA 170 202	Drosophila segment polarity gene
+T7	DNA 203 212	Armadillo
+T8	protein 328 363	Lef/Tcf transcription factor family
+T9	protein 408 420	beta-catenin
+T10	protein 437 449	beta-catenin
+T11	cell_type 497 504	T cells
+T12	protein 506 511	Tcf-1
+T13	protein 575 587	beta-catenin
+T14	cell_type 659 672	T lymphocytes
+T15	protein 753 787	negative regulatory protein kinase
+T16	protein 788 818	glycogen synthase kinase-3beta
+T17	protein 820 829	GSK-3beta
+T18	protein 865 877	beta-catenin
+T19	protein 918 927	GSK-3beta
+T20	cell_type 961 968	T cells
+T21	protein 981 1008	dominant negative GSK-3beta
+T22	protein 1082 1100	phytohemagglutinin
+T23	protein 1115 1124	GSK-3beta
+T24	DNA 1155 1173	Tcf reporter genes
+T25	protein 1195 1204	GSK-3beta
+T26	cell_type 1264 1277	T lymphocytes
+T27	cell_line 1295 1317	C57MG fibroblast cells
+T28	protein 1339 1348	GSK-3beta
+T29	DNA 1465 1485	Tcf-responsive genes
+T30	cell_type 1553 1564	fibroblasts
+T31	cell_type 1569 1580	lymphocytes

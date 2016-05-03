@@ -1,0 +1,28 @@
+T1	protein 18 27	NF-kappaB
+T2	protein 28 48	transcription factor
+T3	cell_line 54 77	T-lymphocytic cell line
+T4	protein 207 227	transcription factor
+T5	protein 228 237	NF-kappaB
+T6	cell_type 333 344	human cells
+T7	cell_type 519 553	human polymorphonuclear leukocytes
+T8	cell_line 570 593	T-lymphocytic cell line
+T9	protein 660 680	transcription factor
+T10	protein 681 690	NF-kappaB
+T11	protein 696 715	heterodimer p50/p65
+T12	protein 825 854	NF-kappaB inhibitory subunits
+T13	protein 856 863	IkappaB
+T14	protein 888 895	IkappaB
+T15	protein 918 922	p105
+T16	protein 965 974	NF-kappaB
+T17	protein 1214 1223	NF-kappaB
+T18	cell_line 1330 1341	ACH-2 cells
+T19	protein 1377 1405	tumour necrosis factor-alpha
+T20	protein 1407 1416	TNF-alpha
+T21	protein 1457 1466	TNF-alpha
+T22	protein 1478 1487	NF-kappaB
+T23	protein 1579 1588	NF-kappaB
+T24	cell_line 1605 1620	untreated cells
+T25	protein 1648 1657	TNF-alpha
+T26	protein 1792 1801	NF-kappaB
+T27	cell_line 1807 1830	T-lymphocytic cell line
+T28	protein 1932 1941	TNF-alpha

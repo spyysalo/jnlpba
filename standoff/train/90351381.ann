@@ -1,0 +1,12 @@
+T1	cell_type 13 32	non-erythroid cells
+T2	protein 85 120	erythroid cell transcription factor
+T3	protein 121 124	EF1
+T4	protein 130 160	erythroid transcription factor
+T5	protein 161 179	erythroid factor-1
+T6	protein 181 184	EF1
+T7	DNA 232 256	erythroid-specific genes
+T8	protein 369 372	EF1
+T9	cell_type 411 435	non-erythroid cell types
+T10	protein 468 471	EF1
+T11	cell_type 489 508	non-erythroid cells
+T12	DNA 577 582	genes

@@ -1,0 +1,44 @@
+T1	protein 0 5	IL-10
+T2	protein 15 41	nuclear factor-kappa B/Rel
+T3	cell_line 62 107	CD3-stimulated human peripheral T lymphocytes
+T4	protein 109 114	IL-10
+T5	protein 147 163	(NF)-kappa B/Rel
+T6	cell_type 192 196	PBMC
+T7	protein 221 233	anti-CD3 mAb
+T8	protein 234 238	OKT3
+T9	protein 286 300	NF-kappa B/Rel
+T10	protein 323 331	mAb OKT3
+T11	protein 394 415	DNA-protein complexes
+T12	protein 421 424	Abs
+T13	protein 464 493	NF-kappa B/Rel protein family
+T14	protein 499 506	p50/p65
+T15	protein 508 513	Rel A
+T16	protein 537 547	NF-kappa B
+T17	protein 609 614	IL-10
+T18	protein 641 646	IL-10
+T19	cell_type 681 694	T lymphocytes
+T20	cell_type 714 723	monocytes
+T21	cell_type 733 742	monocytes
+T22	protein 759 764	IL-10
+T23	protein 785 795	NF-kappa B
+T24	cell_type 825 838	T lymphocytes
+T25	protein 855 859	OKT3
+T26	protein 978 985	CD80 Ag
+T27	cell_type 996 1005	monocytes
+T28	cell_type 1020 1024	PBMC
+T29	protein 1040 1044	OKT3
+T30	protein 1080 1085	IL-10
+T31	protein 1095 1108	anti-CD28 mAb
+T32	protein 1109 1119	CLB-CD28/1
+T33	protein 1133 1147	NF-kappa B/Rel
+T34	cell_line 1168 1195	IL-10-inhibited lymphocytes
+T35	protein 1212 1226	NF-kappa B/Rel
+T36	cell_type 1309 1322	T lymphocytes
+T37	protein 1392 1396	CD80
+T38	protein 1410 1415	IL-10
+T39	cell_type 1429 1438	monocytes
+T40	protein 1469 1474	IL-10
+T41	protein 1504 1518	NF-kappa B/Rel
+T42	cell_line 1539 1567	CD3-stimulated T lymphocytes
+T43	DNA 1603 1623	kappa B-driven genes
+T44	protein 1807 1828	transcription factors

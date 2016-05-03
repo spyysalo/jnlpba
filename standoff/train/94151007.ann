@@ -1,0 +1,36 @@
+T1	protein 18 23	NFKB2
+T2	protein 25 31	lyt-10
+T3	protein 37 42	c-Rel
+T4	protein 60 70	HTLV-I Tax
+T5	protein 105 115	NF-kappa B
+T6	protein 263 274	Tax protein
+T7	protein 288 322	positive transcriptional activator
+T8	DNA 407 421	cellular genes
+T9	protein 432 438	GM-CSF
+T10	protein 440 451	IL-2R alpha
+T11	protein 456 460	IL-2
+T12	protein 536 557	NF-kappa B/Rel family
+T13	protein 561 582	transcription factors
+T14	protein 584 606	pleiotropic regulators
+T15	protein 700 705	NFKB2
+T16	protein 707 713	lyt-10
+T17	protein 719 724	c-Rel
+T18	cell_type 766 786	Tax-expressing cells
+T19	protein 847 857	NF-kappa B
+T20	protein 952 955	Tax
+T21	protein 1000 1005	NFKB2
+T22	protein 1006 1010	p100
+T23	protein 1046 1051	NFKB2
+T24	protein 1052 1055	p52
+T25	protein 1076 1081	c-Rel
+T26	protein 1107 1117	NF-kappa B
+T27	protein 1161 1166	NFKB2
+T28	protein 1207 1212	c-Rel
+T29	protein 1222 1225	Tax
+T30	cell_type 1229 1250	HTLV-I infected cells
+T31	protein 1268 1273	NFKB2
+T32	protein 1352 1371	cytoplasmic protein
+T33	protein 1415 1420	c-Rel
+T34	protein 1422 1427	NFKB2
+T35	protein 1439 1449	NF-kappa B
+T36	cell_type 1515 1522	T cells

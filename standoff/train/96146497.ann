@@ -1,0 +1,27 @@
+T1	protein 14 87	vitamin D receptor-retinoid X receptor-vitamin D response element complex
+T2	cell_type 121 164	vitamin D-resistant New World primate cells
+T3	protein 304 343	intracellular vitamin D binding protein
+T4	protein 345 349	IDBP
+T5	cell_line 405 414	NWP cells
+T6	cell_line 504 507	NWP
+T7	protein 585 601	receptor complex
+T8	DNA 617 644	consensus response elements
+T9	DNA 660 676	enhancer regions
+T10	DNA 680 704	steroid-responsive genes
+T11	DNA 818 844	vitamin D response element
+T12	DNA 846 850	VDRE
+T13	cell_line 910 937	B-lymphoblastoid cell lines
+T14	cell_line 972 991	vitamin D-resistant
+T15	cell_line 996 1016	wild type phenotypes
+T16	DNA 1165 1170	VDREs
+T17	DNA 1178 1236	human osteocalcin and the mouse osteopontin gene promoters
+T18	protein 1275 1282	VDR-RXR
+T19	DNA 1537 1541	VDRE
+T20	protein 1583 1603	VDR-RXR-VDRE complex
+T21	cell_line 1681 1700	wild type cell line
+T22	cell_line 1741 1770	vitamin D-resistant cell line
+T23	protein 1791 1811	VDRE-binding protein
+T24	protein 1830 1834	IDBP
+T25	cell_line 1882 1918	prototypical vitamin D-resistant NWP
+T26	protein 1952 1959	VDR-RXR
+T27	DNA 1987 1991	VDRE

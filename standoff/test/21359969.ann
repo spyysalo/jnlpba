@@ -1,0 +1,15 @@
+T1	protein 26 36	proteasome
+T2	protein 306 320	autoantibodies
+T3	cell_type 356 377	pancreatic beta cells
+T4	DNA 517 562	major histocompatibility complex (MHC) region
+T5	DNA 570 576	genome
+T6	protein 589 599	proteasome
+T7	cell_line 650 684	lymphocytic and monocytic lineages
+T8	protein 740 763	proteasome subunit LMP2
+T9	DNA 799 817	MHC genomic region
+T10	protein 917 959	transcription factor nuclear factor-kappaB
+T11	protein 961 970	NF-kappaB
+T12	protein 1125 1152	tumor necrosis factor-alpha
+T13	protein 1154 1163	TNF-alpha
+T14	protein 1188 1198	proteasome
+T15	protein 1335 1345	proteasome

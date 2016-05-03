@@ -1,0 +1,16 @@
+T1	cell_type 4 13	leukocyte
+T2	protein 55 85	breast cancer-related antigens
+T3	protein 87 92	MCF-7
+T4	protein 97 102	MuMTV
+T5	protein 449 454	MuMTV
+T6	protein 456 460	MPMV
+T7	cell_line 468 500	breast cancer cultured cell line
+T8	cell_line 502 507	MCF-7
+T9	protein 767 772	MuMTV
+T10	protein 809 813	MPMV
+T11	protein 853 858	MuMTV
+T12	protein 863 868	MCF-7
+T13	protein 1295 1300	MuMTV
+T14	protein 1305 1310	MCF-7
+T15	protein 1592 1597	MuMTV
+T16	protein 1602 1607	MCF-7

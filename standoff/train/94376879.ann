@@ -1,0 +1,18 @@
+T1	cell_type 22 29	T cells
+T2	protein 46 75	cyclophilin B-binding protein
+T3	protein 161 176	T-cell receptor
+T4	protein 178 181	TCR
+T5	protein 239 250	cyclophilin
+T6	protein 320 331	calcineurin
+T7	protein 468 498	cyclophilin B-binding-proteins
+T8	cell_line 574 588	Jurkat T cells
+T9	DNA 634 656	interleukin-2 enhancer
+T10	protein 676 713	T-cell-specific transcription factors
+T11	protein 714 719	NF-AT
+T12	protein 724 731	NF-IL2A
+T13	protein 754 798	calcium-signal modulating cyclophilin ligand
+T14	protein 800 804	CAML
+T15	protein 830 833	TCR
+T16	protein 850 861	calcineurin
+T17	protein 895 899	CAML
+T18	protein 988 1001	cyclophilin B

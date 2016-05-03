@@ -1,0 +1,41 @@
+T1	protein 4 7	AD1
+T2	protein 12 15	AD2
+T3	protein 43 46	E2A
+T4	protein 99 119	chimeric oncoprotein
+T5	protein 120 127	E2A-HLF
+T6	protein 133 153	chimeric oncoprotein
+T7	protein 154 161	E2A-HLF
+T8	DNA 180 214	t(17;19) chromosomal translocation
+T9	protein 276 299	transactivation domains
+T10	protein 303 306	E2A
+T11	protein 315 386	basic leucine zipper (bZIP) DNA-binding and protein dimerization domain
+T12	protein 390 393	HLF
+T13	protein 395 418	hepatic leukemic factor
+T14	protein 436 443	E2A-HLF
+T15	cell_line 471 520	interleukin-3 (IL-3)-dependent murine pro-B cells
+T16	protein 527 531	IL-3
+T17	cell_type 663 687	transformed lymphoblasts
+T18	protein 796 811	E2A-HLF mutants
+T19	cell_line 847 880	IL-3-dependent murine pro-B cells
+T20	cell_line 882 893	FL5.12 line
+T21	protein 939 942	E12
+T22	protein 951 954	E47
+T23	DNA 970 978	E2A gene
+T24	protein 987 1008	wild-type HLF protein
+T25	protein 1065 1069	IL-3
+T26	protein 1154 1169	HLF bZIP domain
+T27	protein 1225 1241	chimeric protein
+T28	protein 1284 1287	E2A
+T29	protein 1325 1336	bZIP domain
+T30	protein 1399 1422	transactivation domains
+T31	protein 1426 1429	E2A
+T32	protein 1470 1483	growth factor
+T33	protein 1537 1544	E2A-HLF
+T34	cell_type 1548 1565	pro-B lymphocytes
+T35	protein 1592 1615	transactivating regions
+T36	protein 1619 1622	E2A
+T37	protein 1687 1698	bZIP domain
+T38	protein 1702 1705	HLF
+T39	protein 1828 1831	E2A
+T40	protein 1842 1849	chimera
+T41	cell_type 1958 1969	pro-B cells

@@ -1,0 +1,31 @@
+T1	protein 0 23	Octamer binding factors
+T2	protein 34 45	coactivator
+T3	DNA 63 91	murine PU.1 (spi-1) promoter
+T4	protein 93 97	PU.1
+T5	protein 99 104	spi-1
+T6	protein 123 154	Ets transcription factor family
+T7	cell_type 186 205	myeloid and B cells
+T8	DNA 222 246	B cell and myeloid genes
+T9	DNA 511 524	PU.1 promoter
+T10	DNA 533 565	cell type-specific reporter gene
+T11	protein 609 613	PU.1
+T12	DNA 690 710	murine PU.1 promoter
+T13	cell_line 757 769	B cell lines
+T14	protein 779 784	Oct-1
+T15	protein 789 794	Oct-2
+T16	cell_type 897 904	B cells
+T17	cell_type 990 997	B cells
+T18	DNA 1002 1018	Sp1 binding site
+T19	DNA 1035 1047	octamer site
+T20	DNA 1057 1081	PU.1 autoregulatory site
+T21	protein 1116 1127	coactivator
+T22	protein 1128 1144	OBF-1/Bob1/OCA-B
+T23	cell_type 1166 1173	B cells
+T24	cell_type 1185 1198	myeloid cells
+T25	protein 1209 1225	OBF-1/Bob1/OCA-B
+T26	DNA 1248 1261	PU.1 promoter
+T27	cell_line 1265 1269	HeLa
+T28	cell_type 1274 1287	myeloid cells
+T29	protein 1294 1323	B cell restricted coactivator
+T30	protein 1381 1385	PU.1
+T31	DNA 1402 1414	octamer site

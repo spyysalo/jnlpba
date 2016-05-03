@@ -1,0 +1,31 @@
+T1	protein 0 14	Interleukin 12
+T2	protein 66 71	STAT4
+T3	cell_type 75 92	human lymphocytes
+T4	protein 94 108	Interleukin 12
+T5	protein 110 115	IL-12
+T6	protein 133 158	immunoregulatory cytokine
+T7	protein 193 227	hematopoietin receptor superfamily
+T8	cell_type 279 311	human T and natural killer cells
+T9	protein 317 322	IL-12
+T10	protein 363 391	Janus family tyrosine kinase
+T11	protein 392 396	JAK2
+T12	protein 401 405	Tyk2
+T13	protein 425 432	kinases
+T14	protein 474 479	IL-12
+T15	protein 491 512	transcription factors
+T16	protein 522 527	STATs
+T17	protein 529 579	signal transducers and activators of transcription
+T18	protein 668 677	cytokines
+T19	protein 688 711	hematopoietin receptors
+T20	protein 725 736	JAK kinases
+T21	protein 773 778	IL-12
+T22	protein 837 855	STAT family member
+T23	protein 857 862	STAT4
+T24	protein 878 883	STAT4
+T25	protein 956 961	IL-12
+T26	protein 988 1007	DNA-binding complex
+T27	protein 1064 1077	STAT proteins
+T28	protein 1109 1114	STAT4
+T29	protein 1160 1163	JAK
+T30	protein 1183 1188	IL-12
+T31	protein 1253 1258	IL-12

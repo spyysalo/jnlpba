@@ -1,0 +1,18 @@
+T1	protein 36 86	murine B-cell specific transcriptional coactivator
+T2	protein 87 91	Bob1
+T3	DNA 100 126	murine B-cell cDNA-library
+T4	DNA 144 148	cDNA
+T5	protein 162 196	murine B-cell specific coactivator
+T6	protein 197 202	mBob1
+T7	protein 266 288	human coactivator Bob1
+T8	protein 290 295	hBob1
+T9	protein 318 323	OBF-1
+T10	protein 327 332	OCA-B
+T11	protein 365 384	genomic mBob1 clone
+T12	protein 456 481	C-terminal splice variant
+T13	protein 483 488	mBob1
+T14	cell_line 531 543	B-cell lines
+T15	protein 601 606	mBob1
+T16	protein 626 655	octamer transcription factors
+T17	protein 656 661	Oct-1
+T18	protein 666 671	Oct-2

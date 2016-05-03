@@ -1,0 +1,20 @@
+T1	cell_type 54 77	blood-derived monocytes
+T2	cell_type 82 93	macrophages
+T3	cell_type 162 177	human monocytes
+T4	cell_type 182 210	monocyte-derived macrophages
+T5	protein 240 249	TNF-alpha
+T6	protein 254 263	IL-1 beta
+T7	cell_type 385 396	macrophages
+T8	DNA 447 462	Ad2 early genes
+T9	RNA 548 552	mRNA
+T10	protein 564 573	TNF-alpha
+T11	protein 578 587	IL-1 beta
+T12	cell_type 596 605	monocytes
+T13	cell_type 613 624	macrophages
+T14	protein 716 725	cytokines
+T15	cell_type 768 777	monocytes
+T16	cell_type 782 793	macrophages
+T17	protein 819 828	TNF-alpha
+T18	protein 858 867	IL-1 beta
+T19	DNA 909 923	cellular genes
+T20	protein 998 1017	viral gene products

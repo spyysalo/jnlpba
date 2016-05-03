@@ -1,0 +1,34 @@
+T1	protein 0 7	Caspase
+T2	protein 34 77	hematopoietic specific adaptor protein Gads
+T3	protein 105 120	T cell receptor
+T4	protein 122 126	Gads
+T5	protein 132 150	SH2 and SH3 domain
+T6	protein 163 201	hematopoietic-specific adaptor protein
+T7	protein 240 255	T cell receptor
+T8	protein 257 261	Gads
+T9	protein 278 284	SLP-76
+T10	protein 299 331	carboxy-terminal Gads SH3 domain
+T11	protein 336 363	tyrosine phosphorylated LAT
+T12	protein 401 416	Gads SH2 domain
+T13	protein 418 422	Gads
+T14	protein 445 449	Grb2
+T15	protein 474 486	Grap protein
+T16	protein 508 536	120 amino acid unique region
+T17	protein 549 559	SH2 domain
+T18	protein 568 595	carboxy terminal SH3 domain
+T19	protein 643 647	Gads
+T20	protein 659 679	capase cleavage site
+T21	cell_type 707 718	lymphocytes
+T22	protein 741 745	Gads
+T23	protein 766 770	Gads
+T24	protein 847 879	putative caspase 3 cleavage site
+T25	protein 956 960	Gads
+T26	protein 997 1001	Gads
+T27	protein 1067 1073	SLP-76
+T28	protein 1078 1081	LAT
+T29	protein 1101 1105	Gads
+T30	cell_line 1127 1141	Jurkat T cells
+T31	protein 1238 1242	Gads
+T32	protein 1304 1319	T cell receptor
+T33	protein 1353 1359	SLP-76
+T34	protein 1364 1367	LAT

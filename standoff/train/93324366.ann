@@ -1,0 +1,26 @@
+T1	protein 0 33	Human T cell transcription factor
+T2	protein 34 40	GATA-3
+T3	protein 123 135	GATA factors
+T4	protein 191 241	highly conserved C4 zinc finger DNA binding domain
+T5	protein 280 286	GATA-3
+T6	cell_type 320 333	T lymphocytes
+T7	protein 437 444	DNase I
+T8	DNA 480 501	hGATA-3 binding sites
+T9	DNA 509 518	U3 region
+T10	DNA 524 557	transcriptional regulatory domain
+T11	DNA 566 575	HIV-1 LTR
+T12	DNA 598 624	hGATA-3 expression plasmid
+T13	DNA 632 648	reporter plasmid
+T14	DNA 688 697	HIV-1 LTR
+T15	DNA 739 742	LTR
+T16	DNA 807 817	GATA sites
+T17	protein 870 877	hGATA-3
+T18	DNA 904 945	hGATA-3 transcriptional activation domain
+T19	protein 1078 1099	cotransfected hGATA-3
+T20	DNA 1121 1135	HIV-1 plasmids
+T21	DNA 1149 1159	GATA sites
+T22	cell_type 1189 1202	T lymphocytes
+T23	DNA 1242 1245	LTR
+T24	cell_line 1317 1335	stimulated T cells
+T25	cell_type 1403 1415	T lymphocyte
+T26	protein 1433 1440	hGATA-3

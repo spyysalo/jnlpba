@@ -1,0 +1,10 @@
+T1	protein 387 402	protein product
+T2	DNA 406 431	p53 tumor suppressor gene
+T3	protein 436 453	estrogen receptor
+T4	cell_type 468 479	tumor cells
+T5	cell_type 504 516	immune cells
+T6	cell_type 556 567	Tumor cells
+T7	protein 596 607	p53 protein
+T8	protein 617 634	estrogen receptor
+T9	cell_type 645 656	Macrophages
+T10	cell_type 661 680	T and B lymphocytes

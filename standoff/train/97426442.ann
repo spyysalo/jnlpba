@@ -1,0 +1,24 @@
+T1	protein 14 60	inosine-5'-monophosphate dehydrogenase type II
+T2	cell_type 80 93	human T cells
+T3	DNA 112 143	5' palindromic octamer sequence
+T4	protein 177 238	human inosine- 5'-monophosphate dehydrogenase (IMPDH) type II
+T5	protein 243 249	enzyme
+T6	cell_type 360 400	activated peripheral blood T lymphocytes
+T7	DNA 461 484	5'-regulatory sequences
+T8	cell_type 555 562	T cells
+T9	protein 564 571	DNase I
+T10	DNA 583 594	genomic DNA
+T11	DNA 608 630	hypersensitive element
+T12	DNA 640 669	transcription initiation site
+T13	cell_type 799 839	activated peripheral blood T lymphocytes
+T14	DNA 851 868	tandem CRE motifs
+T15	DNA 872 880	Sp1 site
+T16	DNA 897 911	Egr-1/Sp1 site
+T17	DNA 925 953	palindromic octamer sequence
+T18	DNA 955 958	POS
+T19	DNA 972 989	CRE and POS sites
+T20	DNA 1145 1169	human IMPDH type II gene
+T21	protein 1204 1219	nuclear factors
+T22	protein 1220 1225	ATF-2
+T23	protein 1253 1272	POS-binding protein
+T24	protein 1499 1530	pre-bound transcription factors

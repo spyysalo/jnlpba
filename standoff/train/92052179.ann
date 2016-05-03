@@ -1,0 +1,28 @@
+T1	protein 46 51	NF-E1
+T2	protein 53 57	YY-1
+T3	protein 59 64	delta
+T4	DNA 85 117	immunoglobulin kappa 3' enhancer
+T5	DNA 126 163	immunoglobulin heavy-chain mu E1 site
+T6	DNA 218 250	immunoglobulin kappa 3' enhancer
+T7	DNA 252 261	kappa E3'
+T8	DNA 315 353	positive- and negative-acting elements
+T9	DNA 390 408	kappa E3' enhancer
+T10	DNA 463 496	flanking negative-acting elements
+T11	DNA 502 527	negative-acting sequences
+T12	DNA 648 664	human cDNA clone
+T13	protein 676 695	zinc finger protein
+T14	protein 697 702	NF-E1
+T15	DNA 722 745	negative-acting segment
+T16	DNA 753 771	kappa E3' enhancer
+T17	DNA 804 850	immunoglobulin heavy-chain enhancer mu E1 site
+T18	protein 852 857	NF-E1
+T19	protein 893 905	YY-1 protein
+T20	DNA 926 960	adeno-associated virus P5 promoter
+T21	protein 962 967	NF-E1
+T22	protein 980 995	human homologue
+T23	DNA 1003 1022	mouse delta protein
+T24	DNA 1039 1071	ribosomal protein gene promoters
+T25	protein 1159 1185	transcriptional activators
+T26	protein 1197 1223	transcriptional repressors
+T27	DNA 1258 1262	cDNA
+T28	DNA 1292 1306	basal promoter

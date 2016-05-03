@@ -1,0 +1,29 @@
+T1	protein 14 36	nuclear factor-kappa B
+T2	protein 66 82	interferon-gamma
+T3	cell_type 184 193	microglia
+T4	cell_type 336 345	microglia
+T5	protein 406 433	nuclear factor (NF)-kappa B
+T6	cell_line 441 471	N9 murine microglial cell line
+T7	cell_type 491 500	microglia
+T8	protein 562 571	IFN gamma
+T9	protein 612 622	NF-kappa B
+T10	protein 808 826	NF-kappa B complex
+T11	protein 841 845	RelA
+T12	protein 850 853	p50
+T13	protein 911 921	NF-kappa B
+T14	protein 921 934	/Rel proteins
+T15	protein 936 940	RelA
+T16	protein 945 948	p50
+T17	protein 1040 1049	IFN gamma
+T18	protein 1131 1141	NF-kappa B
+T19	cell_line 1166 1189	N9 microglial cell line
+T20	cell_line 1197 1218	rat primary microglia
+T21	cell_type 1234 1249	human monocytes
+T22	cell_type 1279 1288	microglia
+T23	protein 1338 1348	NF-kappa B
+T24	protein 1413 1423	NF-kappa B
+T25	protein 1479 1487	RelA/p50
+T26	protein 1644 1654	NF-kappa B
+T27	DNA 1744 1767	kappa B-dependent genes
+T28	cell_type 1771 1780	microglia
+T29	protein 1815 1824	IFN gamma

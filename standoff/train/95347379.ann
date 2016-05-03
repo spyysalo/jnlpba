@@ -1,0 +1,24 @@
+T1	protein 62 74	CD4 epitopes
+T2	protein 80 94	CD4 coreceptor
+T3	protein 110 133	non-polymorphic regions
+T4	protein 137 188	major histocompatibility complex class II molecules
+T5	cell_type 192 216	antigen-presenting cells
+T6	protein 290 293	CD4
+T7	protein 360 381	monoclonal antibodies
+T8	protein 383 386	mAb
+T9	protein 414 426	CD4 epitopes
+T10	protein 448 451	CD4
+T11	protein 506 532	NF-AT transcription factor
+T12	protein 555 568	interleukin-2
+T13	protein 604 616	anti-CD4 mAb
+T14	protein 620 631	HIV-1 gp120
+T15	protein 668 692	protein tyrosine kinases
+T16	protein 693 699	p56lck
+T17	protein 704 710	p59fyn
+T18	protein 738 757	Shc adaptor protein
+T19	protein 785 788	Ras
+T20	protein 847 852	NF-AT
+T21	protein 881 886	NF-AT
+T22	protein 1060 1068	epitopes
+T23	protein 1076 1090	CD4 coreceptor
+T24	protein 1121 1141	Ras/protein kinase C

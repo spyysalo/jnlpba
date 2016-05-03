@@ -1,0 +1,10 @@
+T1	DNA 2 23	PMLRARalpha transgene
+T2	cell_type 75 90	malignant cells
+T3	DNA 191 218	promyelocytic leukemia gene
+T4	DNA 234 267	retinoic acid receptor alpha gene
+T5	protein 269 278	RAR alpha
+T6	protein 313 333	chimera PMLRAR alpha
+T7	DNA 381 398	PMLRAR alpha cDNA
+T8	cell_type 402 415	myeloid cells
+T9	cell_type 867 881	leukemic cells
+T10	protein 1018 1030	PMLRAR alpha

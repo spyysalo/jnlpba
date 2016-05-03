@@ -1,0 +1,34 @@
+T1	protein 0 27	Transcription factor GATA-3
+T2	cell_line 59 83	murine Th1 and Th2 cells
+T3	DNA 128 146	interleukin-5 gene
+T4	protein 148 161	Interleukin-5
+T5	protein 163 167	IL-5
+T6	cell_type 191 220	CD4(+) T helper 2 (Th2) cells
+T7	cell_type 233 242	Th1 cells
+T8	cell_type 418 439	CD4(+) T helper cells
+T9	cell_type 441 444	Th1
+T10	cell_type 449 452	Th2
+T11	protein 592 612	transcription factor
+T12	protein 613 619	GATA-3
+T13	DNA 623 636	IL-5 promoter
+T14	cell_line 651 661	EL-4 cells
+T15	protein 682 709	Th1- and Th2-type cytokines
+T16	protein 754 760	GATA-3
+T17	protein 795 799	IL-5
+T18	cell_type 808 827	bona fide Th2 cells
+T19	protein 854 860	GATA-3
+T20	protein 965 971	GATA-3
+T21	cell_type 975 984	Th1 cells
+T22	cell_line 993 1035	non-lymphoid, non-IL-5-producing cell line
+T23	DNA 1050 1063	IL-5 promoter
+T24	cell_type 1095 1115	naive CD4(+) T cells
+T25	protein 1163 1169	GATA-3
+T26	cell_type 1217 1226	Th2 cells
+T27	cell_type 1254 1263	Th1 cells
+T28	cell_type 1269 1305	antigen- or cAMP-activated Th2 cells
+T29	cell_type 1315 1324	Th1 cells
+T30	protein 1340 1354	GATA-3 protein
+T31	protein 1362 1368	GATA-3
+T32	cell_type 1419 1422	Th1
+T33	cell_type 1427 1438	Th2 subsets
+T34	protein 1474 1480	GATA-3

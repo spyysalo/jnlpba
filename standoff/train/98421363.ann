@@ -1,0 +1,30 @@
+T1	protein 21 26	BCL-6
+T2	protein 31 41	syndecan-1
+T3	cell_type 110 121	tumor cells
+T4	cell_type 214 228	B-cell lineage
+T5	cell_type 346 362	B-cell lymphomas
+T6	protein 419 424	BCL-6
+T7	protein 428 448	transcription factor
+T8	cell_type 462 490	germinal center (GC) B cells
+T9	protein 496 512	CD138/syndecan-1
+T10	protein 514 519	syn-1
+T11	cell_type 742 753	tumor cells
+T12	protein 779 784	BCL-6
+T13	protein 788 793	syn-1
+T14	cell_type 841 851	GC B cells
+T15	cell_type 911 922	tumor cells
+T16	protein 956 961	BCL-6
+T17	protein 965 970	syn-1
+T18	cell_type 1067 1078	tumor cells
+T19	protein 1098 1103	BCL-6
+T20	protein 1107 1112	syn-1
+T21	protein 1129 1134	BCL-6
+T22	protein 1138 1143	syn-1
+T23	cell_line 1160 1189	BCL-6(-)/syn-1(+) tumor cells
+T24	cell_type 1228 1235	T cells
+T25	protein 1247 1252	CD40L
+T26	protein 1291 1295	CD40
+T27	protein 1320 1325	BCL-6
+T28	cell_type 1363 1374	tumor cells
+T29	cell_type 1450 1461	tumor cells
+T30	cell_type 1546 1569	CD40L+ reactive T cells

@@ -1,0 +1,33 @@
+T1	protein 32 47	chaperone hsp90
+T2	protein 101 117	helix-loop-helix
+T3	protein 122 133	PAS domains
+T4	protein 139 168	intracellular dioxin receptor
+T5	protein 227 264	ligand-activated transcription factor
+T6	protein 280 315	basic helix-loop-helix (bHLH) motif
+T7	protein 334 368	Per-Arnt-Sim (PAS) homology region
+T8	protein 486 511	90-kDa heat shock protein
+T9	protein 513 518	hsp90
+T10	protein 523 542	molecular chaperone
+T11	protein 615 631	DNA-binding form
+T12	protein 645 660	dioxin receptor
+T13	protein 669 692	bHLH-PAS partner factor
+T14	protein 693 697	Arnt
+T15	protein 772 782	PAS domain
+T16	protein 842 846	Arnt
+T17	protein 969 979	PAS domain
+T18	protein 1094 1109	dioxin receptor
+T19	protein 1292 1307	dioxin receptor
+T20	protein 1313 1318	hsp90
+T21	protein 1392 1397	hsp90
+T22	protein 1403 1424	ligand-binding domain
+T23	protein 1444 1454	PAS region
+T24	protein 1478 1489	bHLH domain
+T25	protein 1556 1561	hsp90
+T26	protein 1568 1573	hsp90
+T27	protein 1705 1710	hsp90
+T28	protein 1725 1740	dioxin receptor
+T29	protein 1836 1840	Arnt
+T30	protein 1910 1921	bHLH domain
+T31	protein 1933 1948	dioxin receptor
+T32	protein 2018 2039	transcription factors
+T33	protein 2043 2048	hsp90

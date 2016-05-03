@@ -1,0 +1,23 @@
+T1	protein 0 10	Lymphokine
+T2	cell_type 148 155	B cells
+T3	cell_type 172 179	B cells
+T4	protein 183 205	surface immunoglobulin
+T5	protein 207 210	sIg
+T6	protein 333 359	STAT transcription factors
+T7	protein 427 447	phosphorylated STAT3
+T8	protein 496 522	B cell-derived lymphokines
+T9	protein 524 527	sIg
+T10	protein 550 555	STAT3
+T11	cell_type 583 590	B cells
+T12	protein 665 688	neutralizing antibodies
+T13	protein 722 733	lymphokines
+T14	protein 735 738	sIg
+T15	protein 802 850	IL-6- and IL-10-specific neutralizing antibodies
+T16	protein 876 899	neutralizing antibodies
+T17	cell_type 903 910	B cells
+T18	protein 968 973	IL-10
+T19	protein 1136 1140	IL-6
+T20	protein 1145 1150	IL-10
+T21	cell_type 1197 1215	stimulated B cells
+T22	protein 1431 1447	antigen receptor
+T23	protein 1487 1506	signaling mediators

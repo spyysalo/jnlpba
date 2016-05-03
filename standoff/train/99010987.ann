@@ -1,0 +1,53 @@
+T1	cell_type 37 50	T lymphocytes
+T2	protein 130 138	cytokine
+T3	protein 195 222	CD3/T-cell antigen receptor
+T4	protein 224 227	TCR
+T5	cell_type 268 281	T lymphocytes
+T6	protein 359 366	TCRzeta
+T7	protein 371 379	p56(lck)
+T8	protein 409 412	TCR
+T9	protein 449 507	RelA containing nuclear factor kappaB (NFkappaB) complexes
+T10	cell_type 562 569	T cells
+T11	protein 843 850	TCRzeta
+T12	protein 852 860	p56(lck)
+T13	protein 889 897	NFkappaB
+T14	cell_type 899 912	T lymphocytes
+T15	protein 1002 1010	cytokine
+T16	protein 1020 1038	interleukin (IL)-2
+T17	protein 1040 1049	IFN alpha
+T18	protein 1134 1141	TCRzeta
+T19	protein 1146 1154	p56(lck)
+T20	protein 1512 1520	NFkappaB
+T21	cell_type 1608 1615	T cells
+T22	protein 1660 1688	anti-CD3 monoclonal antibody
+T23	protein 1734 1742	cytokine
+T24	protein 1777 1784	TCRzeta
+T25	protein 1789 1797	p56(lck)
+T26	cell_type 1819 1843	peripheral blood T cells
+T27	protein 2056 2063	TCRzeta
+T28	protein 2080 2088	p56(lck)
+T29	protein 2109 2119	CD3epsilon
+T30	protein 2205 2214	IFN alpha
+T31	protein 2249 2256	TCRzeta
+T32	protein 2360 2367	TCRzeta
+T33	protein 2371 2379	p56(lck)
+T34	protein 2440 2447	TCRzeta
+T35	protein 2528 2536	NFkappaB
+T36	protein 2614 2642	anti-CD3 monoclonal antibody
+T37	protein 2764 2772	NFkappaB
+T38	cell_type 2776 2800	peripheral blood T cells
+T39	protein 2822 2830	cytokine
+T40	protein 2889 2897	NFkappaB
+T41	protein 2958 2966	NFkappaB
+T42	protein 3008 3015	TCRzeta
+T43	protein 3061 3068	TCRzeta
+T44	protein 3098 3104	kappaB
+T45	cell_type 3179 3203	peripheral blood T cells
+T46	protein 3212 3219	TCRzeta
+T47	protein 3224 3232	p56(lck)
+T48	protein 3275 3303	TCRzeta associated molecules
+T49	protein 3338 3346	cytokine
+T50	protein 3385 3393	NFkappaB
+T51	protein 3472 3481	IFN alpha
+T52	protein 3518 3526	NFkappaB
+T53	DNA 3587 3624	TCRzeta-associated signaling elements

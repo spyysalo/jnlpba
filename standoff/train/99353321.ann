@@ -1,0 +1,13 @@
+T1	protein 188 191	TCR
+T2	protein 227 240	MHC molecules
+T3	protein 389 402	MHC molecules
+T4	cell_line 429 502	CD4+, DQA1*0501/DQB1*0201 (DQ2.1)-restricted, HSV-2-specific T cell clone
+T5	cell_type 810 816	T cell
+T6	cell_type 886 892	T cell
+T7	protein 903 915	MHC class II
+T8	cell_type 931 934	APC
+T9	cell_line 954 987	DQ2 homo- and heterozygous B-LCLs
+T10	cell_type 991 995	APCs
+T11	cell_type 1058 1064	T cell
+T12	cell_line 1155 1167	T cell clone
+T13	protein 1186 1189	MHC

@@ -1,0 +1,33 @@
+T1	DNA 3 24	IL-2 response element
+T2	DNA 32 72	human IL-2 receptor alpha chain promoter
+T3	DNA 78 95	composite element
+T4	protein 107 112	Stat5
+T5	protein 114 119	Elf-1
+T6	protein 121 129	HMG-I(Y)
+T7	protein 136 155	GATA family protein
+T8	DNA 175 227	human interleukin-2 (IL-2) receptor alpha chain gene
+T9	protein 271 275	IL-2
+T10	DNA 330 351	IL-2 response element
+T11	DNA 371 409	consensus and non-consensus GAS motifs
+T12	DNA 424 441	Ets binding sites
+T13	DNA 443 446	EBS
+T14	DNA 475 494	consensus GAS motif
+T15	DNA 502 512	GATA motif
+T16	DNA 533 556	non-consensus GAS motif
+T17	protein 647 651	IL-2
+T18	protein 714 718	IL-2
+T19	DNA 739 760	heterologous promoter
+T20	protein 789 794	Stat5
+T21	protein 796 801	Elf-1
+T22	protein 803 811	HMG-I(Y)
+T23	protein 816 836	GATA family proteins
+T24	DNA 849 870	IL-2 response element
+T25	protein 975 993	Ets family protein
+T26	DNA 1007 1010	EBS
+T27	DNA 1027 1046	consensus GAS motif
+T28	DNA 1086 1112	human IL-2R alpha promoter
+T29	protein 1120 1124	IL-2
+T30	DNA 1133 1153	IL-2R alpha promoter
+T31	DNA 1174 1198	complex upstream element
+T32	DNA 1225 1238	binding sites
+T33	protein 1248 1288	positive and negative regulatory factors

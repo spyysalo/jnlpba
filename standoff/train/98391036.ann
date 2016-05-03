@@ -1,0 +1,22 @@
+T1	DNA 19 35	minimal promoter
+T2	DNA 45 56	NF-IL6 gene
+T3	protein 73 81	CREB/ATF
+T4	protein 86 98	SP1 proteins
+T5	cell_line 102 125	U937 promonocytic cells
+T6	protein 127 133	NF-IL6
+T7	cell_type 196 227	activated monocytes/macrophages
+T8	protein 233 239	NF-IL6
+T9	protein 252 297	CCAAT/enhancer-binding protein (C/EBP) family
+T10	cell_type 364 373	monocytes
+T11	DNA 423 434	NF-IL6 gene
+T12	RNA 486 497	NF-IL6 mRNA
+T13	cell_line 522 545	U937 promonocytic cells
+T14	DNA 568 598	104-bp minimal promoter region
+T15	DNA 606 617	NF-IL6 gene
+T16	cell_line 702 712	U937 cells
+T17	protein 757 826	cAMP response element-binding protein/activation transcription factor
+T18	protein 828 836	CREB/ATF
+T19	protein 842 845	Sp1
+T20	protein 858 879	transcription factors
+T21	DNA 971 982	NF-IL6 gene
+T22	cell_line 986 996	U937 cells

@@ -1,0 +1,22 @@
+T1	DNA 20 38	human LIM-Hox gene
+T2	DNA 40 45	hLH-2
+T3	DNA 116 125	9q33-34.1
+T4	protein 156 166	human LH-2
+T5	protein 170 199	putative transcription factor
+T6	protein 215 236	cysteine-rich regions
+T7	protein 238 249	LIM domains
+T8	protein 257 290	homeobox (Hox) DNA-binding domain
+T9	DNA 307 312	hLH-2
+T10	DNA 428 433	hLH-2
+T11	DNA 448 468	chromosome 9Q33-34.1
+T12	protein 538 553	BCR-ABL chimera
+T13	DNA 613 618	hLH-2
+T14	DNA 639 662	derivative 9 chromosome
+T15	DNA 695 700	c-ABL
+T16	DNA 719 724	hLH-2
+T17	DNA 746 758	chromosome 9
+T18	DNA 807 837	t(9;22)(q34;q11) translocation
+T19	DNA 862 867	hLH-2
+T20	cell_line 953 971	myeloid cell lines
+T21	DNA 1042 1047	hLH-2
+T22	DNA 1118 1123	hLH-2

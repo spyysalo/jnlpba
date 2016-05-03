@@ -1,0 +1,21 @@
+T1	protein 25 35	NF-kappa B
+T2	cell_type 39 71	primary human CD4+ T lymphocytes
+T3	protein 401 421	transcription factor
+T4	protein 423 433	NF-kappa B
+T5	protein 435 445	NF-kappa B
+T6	DNA 511 518	HIV-LTR
+T7	protein 607 617	NF-kappa B
+T8	cell_type 621 653	primary human CD4+ T lymphocytes
+T9	protein 680 690	NF-kappa B
+T10	protein 705 715	antibodies
+T11	protein 720 723	p65
+T12	protein 728 731	p50
+T13	protein 749 753	cRel
+T14	protein 775 794	p65:p50 heterodimer
+T15	protein 796 806	NF-kappa B
+T16	cell_line 888 908	primary CD4+ T cells
+T17	DNA 929 973	NF-kappa B dependent reporter gene construct
+T18	protein 995 1005	NF-kappa B
+T19	cell_line 1021 1033	T cell lines
+T20	cell_type 1149 1162	human T cells
+T21	protein 1188 1198	NF-kappa B

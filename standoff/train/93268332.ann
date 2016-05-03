@@ -1,0 +1,20 @@
+T1	DNA 18 53	interleukin-1 beta (IL-1 beta) gene
+T2	protein 57 81	mycobacterial components
+T3	DNA 124 149	nuclear factor-IL6 motifs
+T4	protein 185 194	IL-1 beta
+T5	protein 229 238	TNF-alpha
+T6	cell_type 256 278	mononuclear phagocytes
+T7	DNA 556 570	IL-1 beta gene
+T8	cell_type 585 600	human monocytes
+T9	protein 702 711	TNF-alpha
+T10	DNA 711 730	-inducible promoter
+T11	DNA 798 812	IL-1 beta gene
+T12	protein 838 871	chloramphenicol acetyltransferase
+T13	DNA 986 1026	nuclear factor-IL6 (NF-IL6) binding site
+T14	DNA 1080 1094	NF-IL-6 motifs
+T15	protein 1144 1153	TNF-alpha
+T16	protein 1266 1281	nuclear protein
+T17	cell_line 1290 1337	LAM-, LPS-, or TNF-alpha-stimulated THP-1 cells
+T18	DNA 1385 1397	NF-IL6 sites
+T19	protein 1419 1428	IL-1 beta
+T20	protein 1470 1479	TNF-alpha

@@ -1,0 +1,21 @@
+T1	protein 96 102	65-kDa
+T2	protein 108 131	50-kDa NF-kappa B dimer
+T3	cell_line 414 425	THP-1 cells
+T4	protein 481 508	DNA-protein binding complex
+T5	DNA 528 551	HIV-1 promoter-enhancer
+T6	RNA 582 591	viral RNA
+T7	DNA 649 666	NF-kappa B region
+T8	DNA 674 688	HIV-1 enhancer
+T9	protein 694 735	65-kDa plus 50-kDa NF-kappa B heterodimer
+T10	protein 777 795	NF-kappa B protein
+T11	protein 995 1006	heterodimer
+T12	protein 1051 1061	NF-kappa B
+T13	protein 1218 1228	NF-kappa B
+T14	protein 1262 1289	NF-kappa B binding proteins
+T15	protein 1335 1354	heterodimer complex
+T16	protein 1377 1405	NF-kappa B-binding complexes
+T17	protein 1465 1471	65-kDa
+T18	protein 1477 1495	50-kDa heterodimer
+T19	DNA 1503 1517	HIV-1 enhancer
+T20	cell_type 1549 1558	monocytes
+T21	DNA 1596 1606	HIV-1 gene

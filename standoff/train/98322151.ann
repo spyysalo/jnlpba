@@ -1,0 +1,45 @@
+T1	protein 20 25	Stat1
+T2	protein 30 35	Stat3
+T3	protein 48 62	erythropoietin
+T4	cell_line 102 126	human leukemia cell line
+T5	protein 156 170	erythropoietin
+T6	protein 172 175	EPO
+T7	protein 268 278	Stat1alpha
+T8	protein 280 285	Stat3
+T9	protein 291 296	Stat5
+T10	cell_line 305 335	human EPO-dependent cell lines
+T11	cell_line 337 341	UT-7
+T12	cell_line 346 354	UT-7/EPO
+T13	protein 432 442	Stat1alpha
+T14	protein 452 457	Stat3
+T15	protein 474 477	EPO
+T16	protein 550 560	Stat1alpha
+T17	protein 565 570	Stat3
+T18	protein 574 577	EPO
+T19	cell_line 613 620	UT-7/GM
+T20	cell_type 695 718	erythroid-lineage cells
+T21	protein 724 727	EPO
+T22	protein 790 793	EPO
+T23	protein 811 821	Stat1alpha
+T24	protein 825 830	Stat3
+T25	cell_line 834 847	UT-7/GM cells
+T26	protein 891 901	Stat1alpha
+T27	protein 906 911	Stat3
+T28	protein 939 942	EPO
+T29	RNA 946 1022	gamma-globin and erythroid-specific 5-aminolevulinate synthetase transcripts
+T30	cell_type 1070 1095	hemoglobin-positive cells
+T31	protein 1124 1134	Stat1alpha
+T32	protein 1138 1143	Stat3
+T33	protein 1157 1160	EPO
+T34	cell_line 1198 1211	UT-7/GM cells
+T35	protein 1237 1285	granulocyte-macrophage colony-stimulating factor
+T36	cell_line 1357 1377	parent UT-7/GM cells
+T37	protein 1394 1397	EPO
+T38	protein 1464 1474	Stat1alpha
+T39	protein 1484 1489	Stat3
+T40	protein 1544 1547	EPO
+T41	protein 1599 1609	Stat1alpha
+T42	protein 1614 1619	Stat3
+T43	protein 1650 1653	EPO
+T44	protein 1703 1713	Stat1alpha
+T45	DNA 1729 1755	cell cycle-associated gene

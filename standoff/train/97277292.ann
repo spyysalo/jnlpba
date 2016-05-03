@@ -1,0 +1,28 @@
+T1	protein 21 29	SLAP-130
+T2	protein 34 61	SLP-76-associated substrate
+T3	protein 69 128	T cell antigen receptor-stimulated protein tyrosine kinases
+T4	protein 166 172	SLP-76
+T5	protein 176 223	Grb2-associated tyrosine-phosphorylated protein
+T6	DNA 234 256	Interleukin-2 promoter
+T7	cell_line 292 310	Jurkat T cell line
+T8	protein 346 352	SLP-76
+T9	cell_type 419 426	T cells
+T10	protein 444 450	SLP-76
+T11	protein 560 568	SLAP-130
+T12	protein 572 604	SLP-76-associated phosphoprotein
+T13	protein 637 645	SLAP-130
+T14	protein 701 711	SH2 domain
+T15	protein 715 721	SLP-76
+T16	protein 750 758	SLAP-130
+T17	protein 781 820	T cell antigen receptor-induced protein
+T18	protein 821 837	tyrosine kinases
+T19	protein 882 888	SLP-76
+T20	protein 908 916	SLAP-130
+T21	protein 928 951	T cell antigen receptor
+T22	DNA 978 1000	interleukin-2 promoter
+T23	cell_line 1004 1018	Jurkat T cells
+T24	DNA 1059 1081	interleukin-2 promoter
+T25	protein 1101 1107	SLP-76
+T26	protein 1165 1171	SLP-76
+T27	protein 1203 1211	SLAP-130
+T28	cell_type 1270 1277	T cells

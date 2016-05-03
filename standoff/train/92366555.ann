@@ -1,0 +1,22 @@
+T1	protein 0 10	NF-kappa B
+T2	protein 38 48	NF-kappa B
+T3	DNA 49 74	p50 subunit gene promoter
+T4	cell_type 152 167	monocytic cells
+T5	protein 244 254	NF-kappa B
+T6	cell_line 267 287	U937 monocytic cells
+T7	DNA 383 391	promoter
+T8	protein 424 438	p105 precursor
+T9	protein 446 468	NF-kappa B p50 subunit
+T10	DNA 516 524	promoter
+T11	DNA 607 625	AP-1-binding motif
+T12	protein 640 660	p50/p65 heterodimers
+T13	protein 708 718	NF-kappa B
+T14	cell_type 744 762	HIV-infected cells
+T15	protein 793 803	NF-kappa B
+T16	protein 855 865	NF-kappa B
+T17	protein 926 955	PKC isoenzymes alpha and beta
+T18	cell_line 1079 1089	U937 cells
+T19	protein 1102 1112	NF-kappa B
+T20	protein 1114 1121	p50/p65
+T21	protein 1201 1211	NF-kappa B
+T22	protein 1326 1336	NF-kappa B

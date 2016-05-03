@@ -1,0 +1,35 @@
+T1	protein 4 41	interleukin 2 CD28-responsive complex
+T2	protein 81 98	NF kappa B family
+T3	protein 100 105	c-Rel
+T4	protein 107 110	p50
+T5	protein 116 119	p65
+T6	cell_type 143 150	T cells
+T7	protein 217 249	antigen-specific T-cell receptor
+T8	cell_type 335 358	antigen-presenting cell
+T9	protein 360 364	CD28
+T10	protein 370 393	T-cell surface molecule
+T11	cell_type 531 561	human peripheral blood T cells
+T12	protein 563 567	CD28
+T13	protein 610 629	rel family proteins
+T14	protein 631 636	c-Rel
+T15	protein 638 641	p50
+T16	protein 647 650	p65
+T17	cell_type 665 689	peripheral blood T cells
+T18	protein 737 766	anti-CD28 monoclonal antibody
+T19	protein 768 771	mAb
+T20	protein 800 813	nuclear c-Rel
+T21	protein 815 818	p50
+T22	protein 824 827	p65
+T23	protein 970 987	PMA/anti-CD28 mAb
+T24	protein 991 1013	anti-CD3/anti-CD28 mAb
+T25	protein 1015 1020	c-Rel
+T26	protein 1022 1025	p50
+T27	protein 1031 1034	p65
+T28	DNA 1055 1078	CD28-responsive element
+T29	DNA 1094 1102	promoter
+T30	DNA 1110 1134	human interleukin 2 gene
+T31	protein 1167 1172	c-Rel
+T32	protein 1192 1215	CD28-responsive complex
+T33	protein 1292 1297	c-Rel
+T34	DNA 1336 1383	chloramphenicol acetyltransferase reporter gene
+T35	DNA 1398 1421	CD28-responsive element

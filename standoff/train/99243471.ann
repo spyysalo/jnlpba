@@ -1,0 +1,14 @@
+T1	DNA 24 37	cytokine gene
+T2	protein 77 85	Cytokine
+T3	cell_type 219 249	naive CD4+ T helper (Th) cells
+T4	cell_line 269 302	cytokine-producing effector cells
+T5	protein 378 386	cytokine
+T6	protein 435 439	IL-2
+T7	protein 444 453	IFN-gamma
+T8	cell_line 463 472	Th2 cells
+T9	protein 481 485	IL-4
+T10	protein 487 491	IL-5
+T11	protein 493 497	IL-6
+T12	protein 499 504	IL-10
+T13	protein 510 515	IL-13
+T14	protein 801 823	Th1/Th2-like cytokines

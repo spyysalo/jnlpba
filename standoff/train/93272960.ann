@@ -1,0 +1,15 @@
+T1	protein 36 62	NF-AT transcription factor
+T2	protein 66 72	p59fyn
+T3	DNA 76 89	reporter gene
+T4	DNA 113 144	T-cell antigen receptor element
+T5	cell_line 162 174	Jurkat cells
+T6	protein 272 288	protein kinase C
+T7	DNA 371 384	reporter gene
+T8	protein 453 468	tyrosine kinase
+T9	protein 469 475	p59fyn
+T10	DNA 481 494	reporter gene
+T11	protein 512 515	PMA
+T12	protein 528 534	p59fyn
+T13	protein 593 609	protein kinase C
+T14	protein 629 635	p59fyn
+T15	protein 641 644	PMA

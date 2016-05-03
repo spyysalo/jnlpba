@@ -1,0 +1,30 @@
+T1	DNA 28 32	GATA
+T2	DNA 37 55	Ets binding motifs
+T3	DNA 83 118	platelet glycoprotein Ib alpha gene
+T4	protein 120 141	Platelet glycoprotein
+T5	protein 143 145	GP
+T6	protein 147 154	Ib-IX-V
+T7	protein 160 190	multisubunit adhesion receptor
+T8	cell_type 365 382	"giant" platelets
+T9	protein 504 522	GP Ib-IX-V complex
+T10	DNA 572 588	genetic elements
+T11	protein 622 635	alpha-subunit
+T12	protein 652 663	GP Ib alpha
+T13	DNA 666 686	GP Ib alpha promoter
+T14	cell_type 729 756	human erythroleukemia cells
+T15	protein 795 801	enzyme
+T16	protein 803 813	luciferase
+T17	DNA 892 916	transcription start site
+T18	cell_type 1003 1030	human erythroleukemia cells
+T19	cell_type 1044 1068	nonhematopoietic lineage
+T20	cell_type 1070 1087	human endothelial
+T21	cell_type 1092 1102	HeLa cells
+T22	DNA 1108 1128	GP Ib alpha promoter
+T23	DNA 1190 1213	promoterless constructs
+T24	DNA 1288 1292	GATA
+T25	DNA 1297 1315	Ets binding motifs
+T26	DNA 1316 1347	93 and 150 nucleotides upstream
+T27	DNA 1355 1379	transcription start site
+T28	DNA 1524 1543	cis-acting elements
+T29	protein 1578 1589	GP Ib alpha
+T30	cell_type 1664 1680	normal platelets

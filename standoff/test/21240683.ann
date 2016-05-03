@@ -1,0 +1,38 @@
+T1	protein 35 63	trans-acting T cell factor-1
+T2	protein 96 123	Ly-49 MHC class I receptors
+T3	cell_type 127 135	NK cells
+T4	DNA 152 169	Ly-49 gene family
+T5	protein 179 209	class I MHC-specific receptors
+T6	protein 281 296	Ly-49 receptors
+T7	cell_type 298 306	NK cells
+T8	protein 373 387	Ly-49 receptor
+T9	protein 389 395	Ly-49A
+T10	protein 425 460	transcriptional trans-acting factor
+T11	protein 461 485	T cell-specific factor-1
+T12	protein 487 492	TCF-1
+T13	protein 503 508	TCF-1
+T14	DNA 535 550	Ly-49a promoter
+T15	DNA 599 610	Ly-49a gene
+T16	protein 623 628	TCF-1
+T17	protein 637 642	TCF-1
+T18	protein 698 713	Ly-49 receptors
+T19	protein 744 771	TCF-1 beta(2)-microglobulin
+T20	protein 906 911	TCF-1
+T21	protein 977 992	Ly-49 receptors
+T22	protein 1026 1038	Ly-49A and D
+T23	protein 1069 1075	Ly-49C
+T24	protein 1105 1117	Ly-49G and I
+T25	protein 1152 1157	TCF-1
+T26	DNA 1225 1242	TCF binding sites
+T27	DNA 1261 1278	proximal promoter
+T28	protein 1299 1304	TCF-1
+T29	DNA 1320 1337	proximal promoter
+T30	protein 1382 1387	TCF-1
+T31	DNA 1412 1431	cis-acting elements
+T32	DNA 1482 1502	trans-acting factors
+T33	protein 1576 1581	TCF-1
+T34	protein 1586 1600	Ly-49 receptor
+T35	DNA 1696 1704	TCF site
+T36	DNA 1725 1740	Ly-49 promoters
+T37	protein 1785 1790	TCF-1
+T38	protein 1816 1832	NK cell receptor

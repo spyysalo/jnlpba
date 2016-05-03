@@ -1,0 +1,33 @@
+T1	DNA 0 3	RP1
+T2	DNA 25 80	adenomatous polyposis coli-binding EB1-like gene family
+T3	cell_type 113 130	activated T cells
+T4	protein 153 175	CD3 and CD28 molecules
+T5	cell_type 179 192	T lymphocytes
+T6	cell_type 242 254	T lymphocyte
+T7	cell_type 359 366	T cells
+T8	cell_type 396 409	T lymphocytes
+T9	protein 473 476	CD3
+T10	protein 481 485	CD28
+T11	protein 603 607	CD28
+T12	protein 612 615	CD3
+T13	cell_type 637 648	lymphocytes
+T14	DNA 739 753	cDNA fragments
+T15	protein 780 783	CD3
+T16	protein 789 793	CD28
+T17	cell_type 793 811	-activated T cells
+T18	DNA 827 830	RP1
+T19	DNA 836 868	predictive protein-coding region
+T20	DNA 872 875	RP1
+T21	DNA 936 1000	adenomatous polyposis coli (APC) protein-binding EB1 gene family
+T22	protein 1064 1075	RP1 protein
+T23	protein 1105 1114	wild-type
+T24	protein 1126 1145	mutated APC protein
+T25	RNA 1174 1182	RP1 mRNA
+T26	cell_type 1195 1212	activated T cells
+T27	DNA 1257 1284	immediate/early gene family
+T28	protein 1351 1354	TCR
+T29	DNA 1387 1395	RP1 gene
+T30	cell_type 1399 1416	activated T cells
+T31	cell_line 1435 1459	tumor-derived cell lines
+T32	DNA 1530 1550	EB1-like gene family
+T33	cell_type 1676 1688	normal cells

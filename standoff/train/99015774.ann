@@ -1,0 +1,18 @@
+T1	protein 0 6	GATA-3
+T2	DNA 17 30	gp91phox gene
+T3	cell_line 45 81	eosinophil-committed HL-60-C15 cells
+T4	DNA 120 133	gp91phox gene
+T5	cell_line 188 224	eosinophil-committed HL-60-C15 cells
+T6	DNA 230 258	gp91phox promoter constructs
+T7	DNA 277 293	negative element
+T8	DNA 302 314	-267 to -246
+T9	DNA 322 335	gp91phox gene
+T10	protein 455 461	GATA-3
+T11	DNA 475 494	GATA consensus site
+T12	DNA 503 516	-256 to -250.
+T13	DNA 606 625	GATA-3 binding site
+T14	DNA 633 657	bp -267 to +12 construct
+T15	DNA 694 718	bp -245 to +12 construct
+T16	protein 747 753	GATA-3
+T17	DNA 782 791	GATA site
+T18	cell_line 843 858	HL-60-C15 cells

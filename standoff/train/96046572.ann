@@ -1,0 +1,16 @@
+T1	cell_type 78 101	quiescent B lymphocytes
+T2	cell_type 125 138	B lymphocytes
+T3	cell_line 372 391	immortal cell lines
+T4	cell_type 450 474	peripheral B lymphocytes
+T5	DNA 532 559	cell cycle-associated genes
+T6	cell_type 563 593	quiescent and stimulated cells
+T7	DNA 631 641	cell genes
+T8	DNA 643 648	cdc-2
+T9	DNA 650 658	cyclin E
+T10	DNA 660 664	CD23
+T11	DNA 670 679	cyclin D2
+T12	cell_type 948 971	quiescent B lymphocytes
+T13	protein 998 1007	anti-CD40
+T14	protein 1009 1017	anti-IgM
+T15	protein 1023 1026	IL4
+T16	cell_type 1160 1172	B-lymphocyte

@@ -1,0 +1,23 @@
+T1	protein 4 38	ubiquitous octamer-binding protein
+T2	DNA 77 97	immunoglobulin genes
+T3	DNA 103 123	immunoglobulin genes
+T4	DNA 144 175	octanucleotide promoter element
+T5	DNA 327 332	cDNAs
+T6	protein 342 366	octamer-binding proteins
+T7	protein 424 429	OTF-2
+T8	protein 516 521	OTF-1
+T9	DNA 655 675	immunoglobulin genes
+T10	cell_line 711 733	human pre-B-cell lines
+T11	protein 771 776	OTF-2
+T12	RNA 810 854	steady-state immunoglobulin heavy-chain mRNA
+T13	DNA 893 912	immunoglobulin gene
+T14	protein 968 973	OTF-1
+T15	cell_line 997 1008	pre-B cells
+T16	cell_line 1017 1027	HeLa cells
+T17	DNA 1081 1100	immunoglobulin gene
+T18	protein 1188 1193	OTF-2
+T19	protein 1259 1264	OTF-1
+T20	protein 1274 1279	OTF-2
+T21	DNA 1316 1336	immunoglobulin genes
+T22	protein 1346 1351	OTF-2
+T23	DNA 1415 1434	immunoglobulin gene

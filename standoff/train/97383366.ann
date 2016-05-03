@@ -1,0 +1,5 @@
+T1	cell_type 35 47	plasma cells
+T2	cell_type 54 68	memory B cells
+T3	protein 253 269	CD40-CD40 ligand
+T4	protein 271 285	OX-OX40 ligand
+T5	protein 298 307	cytokines

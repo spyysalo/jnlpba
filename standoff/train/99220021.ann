@@ -1,0 +1,35 @@
+T1	protein 26 63	interferon (IFN)-inducible protein 10
+T2	cell_type 95 103	monocyte
+T3	cell_type 105 120	macrophage cell
+T4	protein 158 174	nuclear proteins
+T5	DNA 184 213	IFN stimulus response element
+T6	DNA 218 230	kappaB sites
+T7	protein 244 253	chemokine
+T8	cell_type 305 313	monocyte
+T9	cell_line 315 338	macrophage cell lineage
+T10	cell_line 344 371	human monoblastic cell line
+T11	cell_line 373 377	U937
+T12	cell_type 400 411	macrophages
+T13	protein 546 583	interferon (IFN)-inducible protein 10
+T14	protein 585 590	IP-10
+T15	protein 595 608	CXC chemokine
+T16	protein 640 648	IFNgamma
+T17	cell_line 688 698	U937 cells
+T18	cell_line 743 762	VitD3-treated cells
+T19	protein 814 844	monocyte chemotactic protein-1
+T20	protein 848 860	CC chemokine
+T21	protein 888 910	transcriptional factor
+T22	protein 912 921	FcRFgamma
+T23	DNA 936 957	gamma response region
+T24	protein 1003 1011	IFNgamma
+T25	cell_line 1051 1061	U937 cells
+T26	RNA 1089 1099	IP-10 mRNA
+T27	protein 1190 1198	IFNgamma
+T28	protein 1224 1232	IFNgamma
+T29	RNA 1241 1251	IP-10 mRNA
+T30	cell_line 1285 1295	U937 cells
+T31	DNA 1445 1481	IFN stimulus response element (ISRE)
+T32	DNA 1486 1494	kB sites
+T33	protein 1518 1534	nuclear proteins
+T34	RNA 1553 1563	IP-10 mRNA
+T35	protein 1580 1588	IFNgamma

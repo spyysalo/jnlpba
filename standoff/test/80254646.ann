@@ -1,0 +1,14 @@
+T1	protein 0 53	'Activation-labile' glucocorticoid-receptor complexes
+T2	cell_line 88 115	CEM-C7 human lymphoid cells
+T3	protein 121 166	cytoplasmic glucocorticoid-receptor complexes
+T4	protein 401 425	steroid-receptor complex
+T5	DNA 430 433	DNA
+T6	protein 523 542	activated complexes
+T7	protein 702 728	steroid-receptor complexes
+T8	cell_line 734 740	CEM-C7
+T9	cell_line 744 778	cloned human leukaemic T-cell line
+T10	cell_line 841 871	steroid-resistant subclone 4R4
+T11	protein 890 907	steroid receptors
+T12	cell_line 911 920	clone 4R4
+T13	cell_line 1064 1094	r-, r+nt-, or r+nti phenotypes
+T14	cell_line 1120 1143	mouse lymphoid variants

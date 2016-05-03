@@ -1,0 +1,21 @@
+T1	DNA 36 65	mammalian MCM5 and MCM6 genes
+T2	protein 82 102	transcription factor
+T3	protein 103 106	E2F
+T4	protein 163 180	MCM gene products
+T5	DNA 287 302	mammalian genes
+T6	DNA 310 320	MCM family
+T7	DNA 473 506	isolated human MCM gene promoters
+T8	DNA 508 537	Human MCM5 and MCM6 promoters
+T9	DNA 559 568	E2F sites
+T10	protein 641 644	E2F
+T11	DNA 692 709	E2F-like sequence
+T12	DNA 713 732	human MCM6 promoter
+T13	DNA 769 778	E2F sites
+T14	protein 782 785	E2F
+T15	protein 829 833	E2F1
+T16	DNA 880 900	endogenous MCM genes
+T17	cell_line 904 940	rat embryonal fibroblast REF52 cells
+T18	DNA 1007 1036	mammalian MCM5 and MCM6 genes
+T19	protein 1098 1101	E2F
+T20	DNA 1121 1139	multiple E2F sites
+T21	DNA 1147 1156	promoters

@@ -1,0 +1,19 @@
+T1	protein 27 37	E-selectin
+T2	protein 105 149	bactericidal/permeability-increasing protein
+T3	cell_type 151 168	Endothelial cells
+T4	protein 195 205	E-selectin
+T5	cell_type 250 260	neutrophil
+T6	protein 291 301	E-selectin
+T7	protein 389 395	rBPI21
+T8	protein 399 430	recombinant N-terminal fragment
+T9	protein 434 484	human bactericidal/permeability-increasing protein
+T10	protein 486 489	BPI
+T11	protein 514 524	E-selectin
+T12	protein 620 626	rBPI21
+T13	protein 672 686	nuclear factor
+T14	protein 688 698	NF-kappa B
+T15	cell_type 737 754	endothelial cells
+T16	protein 761 771	NF-kappa B
+T17	protein 807 813	rBPI21
+T18	protein 846 856	NF-kappa B
+T19	protein 973 979	rBPI21

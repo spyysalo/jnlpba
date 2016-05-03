@@ -1,0 +1,23 @@
+T1	protein 15 48	transcriptional repression domain
+T2	protein 56 94	lymphoid-specific transcription factor
+T3	protein 95 101	oct-2A
+T4	protein 107 145	lymphoid-specific transcription factor
+T5	protein 146 152	Oct-2a
+T6	protein 273 296	Oct-2a effector regions
+T7	protein 319 342	GAL4 DNA-binding domain
+T8	protein 357 363	Oct-2a
+T9	protein 400 418	activation domains
+T10	protein 426 445	N and the C termini
+T11	protein 546 574	B cell-specific coactivators
+T12	protein 607 624	repression domain
+T13	protein 644 654	N terminus
+T14	protein 658 664	Oct-2a
+T15	protein 666 682	amino acids 2-99
+T16	protein 831 848	N-terminal region
+T17	protein 852 858	Oct-2a
+T18	protein 876 901	minimal repression domain
+T19	DNA 1105 1113	enhancer
+T20	DNA 1129 1145	reporter plasmid
+T21	cell_line 1164 1173	cell line
+T22	protein 1203 1209	Oct-2a
+T23	protein 1305 1311	Oct-2a

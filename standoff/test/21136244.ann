@@ -1,0 +1,14 @@
+T1	cell_type 28 48	T helper cell type 2
+T2	cell_type 50 53	Th2
+T3	protein 79 85	GATA-3
+T4	protein 96 115	interleukin (IL)-12
+T5	protein 120 124	IL-4
+T6	cell_type 134 154	naive CD4(+) T cells
+T7	protein 232 241	cytokines
+T8	cell_type 277 300	uncommitted progenitors
+T9	cell_type 500 521	committed progenitors
+T10	protein 715 719	IL-4
+T11	cell_type 907 924	naive progenitors
+T12	protein 934 974	Th2-specific transcription factor GATA-3
+T13	cell_type 1199 1202	Th1
+T14	cell_type 1203 1206	Th2

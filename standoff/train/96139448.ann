@@ -1,0 +1,32 @@
+T1	protein 49 60	calcineurin
+T2	protein 65 100	nuclear factor of activated T cells
+T3	protein 102 107	NFATp
+T4	cell_type 113 126	T lymphocytes
+T5	protein 132 189	calcium/calmodulin-dependent serine/threonine phosphatase
+T6	protein 191 202	calcineurin
+T7	protein 315 326	calcineurin
+T8	protein 348 367	cytosolic component
+T9	protein 375 410	nuclear factor of activated T cells
+T10	protein 412 417	NFATp
+T11	protein 439 444	NFAT1
+T12	protein 471 492	transcription factors
+T13	protein 524 537	interleukin 2
+T14	protein 553 564	calcineurin
+T15	protein 650 655	NFATp
+T16	protein 734 745	calcineurin
+T17	protein 750 755	NFATp
+T18	protein 818 823	NFATp
+T19	cell_type 840 847	T cells
+T20	protein 863 874	calcineurin
+T21	cell_type 891 898	T cells
+T22	protein 965 970	NFATp
+T23	cell_type 1062 1069	T cells
+T24	protein 1186 1191	NFATp
+T25	protein 1201 1212	calcineurin
+T26	protein 1256 1261	NFATp
+T27	protein 1265 1276	calcineurin
+T28	protein 1310 1321	calcineurin
+T29	protein 1436 1447	calcineurin
+T30	protein 1453 1458	NFATp
+T31	DNA 1510 1531	phosphorylation sites
+T32	protein 1535 1540	NFATp

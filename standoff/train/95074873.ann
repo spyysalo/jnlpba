@@ -1,0 +1,53 @@
+T1	protein 0 36	Epstein-Barr virus nuclear protein 2
+T2	DNA 60 94	latent membrane protein 1 promoter
+T3	protein 110 117	J kappa
+T4	protein 122 126	PU.1
+T5	DNA 146 213	Epstein-Barr virus (EBV) latent membrane protein 1 (LMP-1) oncogene
+T6	protein 234 279	EBV nuclear protein 2 (EBNA-2) transactivator
+T7	protein 281 287	EBNA-2
+T8	protein 318 346	cellular DNA-binding protein
+T9	protein 347 354	J kappa
+T10	DNA 375 384	promoters
+T11	DNA 408 436	J kappa recognition sequence
+T12	DNA 442 482	minimal EBNA-2-responsive LMP-1 promoter
+T13	DNA 496 516	J kappa-binding site
+T14	protein 572 579	J kappa
+T15	protein 601 607	EBNA-2
+T16	DNA 681 710	LMP-1 EBNA-2 response element
+T17	DNA 712 716	E2RE
+T18	DNA 721 743	-236/-145 minimal E2RE
+T19	protein 845 852	J kappa
+T20	protein 854 858	PU.1
+T21	protein 864 868	AML1
+T22	DNA 881 891	LMP-1 E2RE
+T23	protein 936 940	LBF2
+T24	protein 944 948	LBF7
+T25	protein 994 998	LBF4
+T26	DNA 1044 1067	PU.1 GGAA core sequence
+T27	protein 1106 1110	LBF4
+T28	protein 1172 1176	PU.1
+T29	protein 1178 1182	LBF2
+T30	cell_line 1201 1222	epithelial cell lines
+T31	protein 1232 1236	LBF3
+T32	protein 1238 1242	LBF5
+T33	protein 1244 1248	LBF6
+T34	protein 1254 1258	LBF7
+T35	DNA 1305 1332	AML1- or LBF4-binding sites
+T36	protein 1350 1356	EBNA-2
+T37	DNA 1398 1415	PU.1-binding site
+T38	protein 1438 1444	EBNA-2
+T39	protein 1458 1483	gst-EBNA-2 fusion protein
+T40	protein 1506 1510	PU.1
+T41	protein 1563 1567	PU.1
+T42	protein 1613 1619	EBNA-2
+T43	protein 1619 1624	-PU.1
+T44	protein 1644 1650	EBNA-2
+T45	DNA 1674 1688	LMP-1 promoter
+T46	protein 1762 1782	DNA-binding proteins
+T47	protein 1784 1791	J kappa
+T48	protein 1796 1800	PU.1
+T49	protein 1802 1806	LBF3
+T50	protein 1808 1812	LBF5
+T51	protein 1814 1818	LBF6
+T52	protein 1823 1827	LBF7
+T53	protein 1895 1901	EBNA-2

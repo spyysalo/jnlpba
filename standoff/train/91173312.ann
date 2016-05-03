@@ -1,0 +1,25 @@
+T1	DNA 15 37	rel-related human cDNA
+T2	protein 67 80	65-kD subunit
+T3	protein 84 94	NF-kappa B
+T4	DNA 162 171	DNA probe
+T5	DNA 214 234	proto-oncogene c-rel
+T6	protein 240 267	Drosophila morphogen dorsal
+T7	protein 277 300	p50 DNA binding subunit
+T8	protein 304 314	NF-kappa B
+T9	DNA 334 365	Jurkat T cell complementary DNA
+T10	DNA 474 503	rel-related complementary DNA
+T11	RNA 525 551	2.6-kilobase messenger RNA
+T12	cell_type 563 588	human T and B lymphocytes
+T13	DNA 636 653	complementary DNA
+T14	protein 728 742	65 kilodaltons
+T15	protein 851 870	protein-DNA complex
+T16	protein 917 954	purified human p65 NF-kappa B subunit
+T17	protein 984 999	I kappa B-alpha
+T18	protein 1037 1050	65-kD protein
+T19	protein 1071 1082	p50 subunit
+T20	protein 1086 1096	NF-kappa B
+T21	DNA 1105 1118	kappa B probe
+T22	protein 1183 1205	NF-kappa B-DNA complex
+T23	protein 1221 1246	rel-related 65-kD protein
+T24	protein 1265 1276	p65 subunit
+T25	protein 1284 1330	active NF-kappa B transcription factor complex

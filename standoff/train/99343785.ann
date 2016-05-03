@@ -1,0 +1,24 @@
+T1	protein 9 19	NF-kappa B
+T2	cell_type 32 45	T lymphocytes
+T3	protein 123 131	p65-RelA
+T4	protein 312 323	Ag receptor
+T5	protein 355 365	lymphokine
+T6	protein 386 396	NF-kappa B
+T7	DNA 442 460	inflammatory genes
+T8	protein 585 611	NF-kappa B protein complex
+T9	cell_type 615 628	lupus T cells
+T10	cell_type 647 654	T cells
+T11	protein 774 777	TCR
+T12	protein 783 791	anti-CD3
+T13	protein 796 809	anti-CD28 Abs
+T14	protein 957 967	NF-kappa B
+T15	cell_type 1047 1059	normal cells
+T16	protein 1079 1089	NF-kappa B
+T17	protein 1176 1186	NF-kappa B
+T18	protein 1311 1321	NF-kappa B
+T19	protein 1410 1413	Abs
+T20	protein 1487 1497	NF-kappa B
+T21	protein 1508 1521	p65 complexes
+T22	protein 1615 1626	p65 protein
+T23	protein 1638 1651	p65 complexes
+T24	protein 1773 1790	abnormal cytokine

@@ -1,0 +1,34 @@
+T1	DNA 51 60	gp34 gene
+T2	protein 91 106	oncoprotein Tax
+T3	DNA 223 232	gp34 gene
+T4	protein 240 255	Tax oncoprotein
+T5	protein 304 308	gp34
+T6	protein 314 344	type II transmembrane molecule
+T7	cell_type 426 448	HTLV-I-producing cells
+T8	cell_type 457 479	normal resting T cells
+T9	DNA 526 535	gp34 gene
+T10	protein 560 563	Tax
+T11	cell_line 571 595	human T cell line Jurkat
+T12	protein 617 621	gp34
+T13	protein 636 639	Tax
+T14	DNA 681 704	NF-kappaB-like elements
+T15	DNA 735 752	regulatory region
+T16	DNA 759 782	NF-kappaB-like elements
+T17	protein 804 813	NF-kappaB
+T18	protein 844 847	Tax
+T19	protein 866 899	Chloramphenicol acetyltransferase
+T20	DNA 922 946	NF-kappaB-like element 1
+T21	protein 951 954	Tax
+T22	DNA 1013 1028	native promoter
+T23	protein 1030 1039	NF-kappaB
+T24	DNA 1101 1125	NF-kappaB-like element 1
+T25	DNA 1221 1239	NF-kappaB elements
+T26	DNA 1245 1268	NF-kappaB-like elements
+T27	protein 1272 1276	gp34
+T28	cell_line 1312 1324	Jurkat cells
+T29	protein 1369 1378	NF-kappaB
+T30	protein 1402 1435	Chloramphenicol acetyltransferase
+T31	DNA 1485 1508	NF-kappaB-like elements
+T32	DNA 1571 1608	cognate and noncognate core promoters
+T33	DNA 1696 1705	gp34 gene
+T34	protein 1733 1737	gp34

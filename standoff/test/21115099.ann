@@ -1,0 +1,15 @@
+T1	cell_type 81 116	Theileria parva-transformed B cells
+T2	cell_type 227 237	leucocytes
+T3	cell_type 281 293	tumour cells
+T4	cell_type 398 420	infected B lymphocytes
+T5	protein 609 614	PI3-K
+T6	cell_type 645 667	infected B lymphocytes
+T7	protein 698 744	granulocyte-monocyte colony-stimulating factor
+T8	protein 746 752	GM-CSF
+T9	protein 780 785	PI3-K
+T10	protein 799 805	GM-CSF
+T11	protein 888 893	PI3-K
+T12	protein 944 948	AP-1
+T13	protein 953 962	NF-kappaB
+T14	cell_type 1003 1013	leucocytes
+T15	cell_type 1161 1175	host leucocyte

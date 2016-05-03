@@ -1,0 +1,55 @@
+T1	DNA 35 62	Jun oncogene family members
+T2	protein 66 89	glucocorticoid receptor
+T3	protein 135 151	protein kinase C
+T4	protein 153 156	PKC
+T5	protein 163 186	glucocorticoid receptor
+T6	protein 188 190	GR
+T7	protein 246 249	PKC
+T8	protein 329 331	GR
+T9	DNA 396 416	long terminal repeat
+T10	DNA 418 421	LTR
+T11	DNA 553 561	MMTV LTR
+T12	cell_line 573 585	T cell lines
+T13	cell_line 608 627	NIH-3T3 fibroblasts
+T14	DNA 685 706	GR-responsive element
+T15	DNA 708 711	GRE
+T16	DNA 745 761	deletion mutants
+T17	DNA 765 795	synthetic GRE oligonucleotides
+T18	protein 804 838	chloramphenicol acetyl-transferase
+T19	protein 880 901	GR DNA-binding domain
+T20	protein 911 946	amino- or carboxyl-terminal domains
+T21	protein 997 1000	PKC
+T22	protein 1048 1051	PKC
+T23	protein 1063 1068	c-jun
+T24	protein 1070 1075	jun-B
+T25	protein 1081 1086	jun-D
+T26	DNA 1159 1187	AP-1/TPA responsive elements
+T27	DNA 1197 1239	chloramphenicol acetyl-transferase vectors
+T28	cell_type 1257 1264	T cells
+T29	protein 1341 1353	Jun proteins
+T30	protein 1372 1374	GR
+T31	cell_type 1378 1385	T cells
+T32	DNA 1430 1471	c-jun, jun-B, or jun-D expression vectors
+T33	protein 1489 1491	GR
+T34	DNA 1528 1536	MMTV LTR
+T35	DNA 1540 1543	GRE
+T36	protein 1557 1562	c-jun
+T37	protein 1567 1572	jun-B
+T38	protein 1594 1596	GR
+T39	cell_line 1624 1634	HeLa cells
+T40	protein 1652 1657	c-fos
+T41	protein 1686 1688	GR
+T42	protein 1776 1779	Jun
+T43	protein 1796 1798	GR
+T44	protein 1825 1830	c-fos
+T45	protein 1842 1846	AP-1
+T46	cell_line 1905 1915	HeLa cells
+T47	cell_type 1928 1935	T cells
+T48	protein 1967 1982	exogenous c-fos
+T49	protein 2011 2013	GR
+T50	DNA 2043 2046	GRE
+T51	cell_type 2050 2057	T cells
+T52	protein 2075 2078	Jun
+T53	protein 2108 2110	GR
+T54	DNA 2151 2154	GRE
+T55	protein 2299 2304	c-fos

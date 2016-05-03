@@ -1,0 +1,15 @@
+T1	cell_type 45 58	B lymphocytes
+T2	cell_type 104 117	human B cells
+T3	protein 458 467	cyclin D2
+T4	DNA 500 509	EBV genes
+T5	protein 536 541	E2F-4
+T6	protein 703 707	CD21
+T7	protein 817 829	BCL-2 family
+T8	cell_line 876 905	EBV-immortalized B-cell lines
+T9	protein 987 992	BCL-2
+T10	protein 997 1000	A20
+T11	protein 1030 1039	NF-kappaB
+T12	protein 1040 1060	transcription factor
+T13	protein 1100 1117	EBV LMP-1 protein
+T14	protein 1191 1204	LMP-1 protein
+T15	protein 1223 1232	NF-kappaB

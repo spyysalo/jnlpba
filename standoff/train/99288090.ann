@@ -1,0 +1,29 @@
+T1	protein 9 24	NF-ATc isoforms
+T2	cell_type 87 100	T lymphocytes
+T3	protein 106 126	transcription factor
+T4	protein 127 133	NF-ATc
+T5	cell_type 167 180	T lymphocytes
+T6	cell_type 185 208	embryonic cardiac cells
+T7	cell_type 371 384	naive T cells
+T8	protein 399 413	NF-ATc isoform
+T9	cell_type 417 433	effector T cells
+T10	protein 468 484	isoform NF-ATc/A
+T11	protein 513 523	C terminus
+T12	protein 546 547	B
+T13	protein 552 553	C
+T14	protein 656 697	strong N-terminal trans-activation domain
+T15	protein 699 704	TAD-A
+T16	protein 735 750	NF-ATc isoforms
+T17	protein 752 760	NF-ATc/C
+T18	protein 779 802	trans-activation domain
+T19	protein 804 809	TAD-B
+T20	cell_type 857 864	T cells
+T21	protein 893 898	TAD-A
+T22	protein 928 933	TAD-B
+T23	protein 947 952	TAD-A
+T24	protein 954 959	TAD-B
+T25	cell_line 1001 1060	12-O-tetradecanoyl 12-phorbol 13-acetate-stimulated T cells
+T26	protein 1104 1112	NF-ATc/B
+T27	protein 1178 1193	NF-ATc/B and -C
+T28	cell_type 1240 1259	naive T lymphocytes
+T29	protein 1269 1284	NF-ATc/B and -C

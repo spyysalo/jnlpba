@@ -1,0 +1,24 @@
+T1	protein 13 24	CD8 antigen
+T2	cell_line 73 102	CEM human leukemic cell clone
+T3	protein 169 190	cell surface antigens
+T4	cell_line 225 244	leukemic cell lines
+T5	cell_line 246 252	CEM C7
+T6	cell_line 275 281	CEM C1
+T7	protein 311 339	murine monoclonal antibodies
+T8	protein 341 354	anti-CD4-FITC
+T9	protein 356 369	anti-CD8-FITC
+T10	protein 371 384	anti-CD2-FITC
+T11	protein 389 404	anti-calla-FITC
+T12	cell_line 520 577	phytohemagglutinin-activated peripheral blood lymphocytes
+T13	cell_line 608 640	human leukemic cell clone CEM C7
+T14	protein 696 715	surface antigen CD8
+T15	cell_type 752 775	cytotoxic T-lymphocytes
+T16	protein 839 850	CD4 antigen
+T17	cell_line 963 975	CEM C7 cells
+T18	protein 1125 1128	CD8
+T19	protein 1132 1144	CD4 antigens
+T20	cell_line 1152 1173	leukemic clone CEM C1
+T21	cell_line 1234 1246	CEM C1 cells
+T22	protein 1342 1353	CD8 antigen
+T23	cell_line 1370 1380	CD4+ cells
+T24	cell_line 1435 1483	glucocorticoid receptor positive cell population

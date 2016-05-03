@@ -1,0 +1,15 @@
+T1	protein 97 120	glucocorticoid receptor
+T2	protein 430 453	glucocorticoid receptor
+T3	protein 525 548	glucocorticoid receptor
+T4	cell_type 585 619	peripheral blood mononuclear cells
+T5	protein 667 676	mediators
+T6	cell_type 1203 1237	peripheral blood mononuclear cells
+T7	cell_type 1266 1275	monocytes
+T8	protein 1297 1319	interleukin-2 receptor
+T9	cell_type 1332 1343	lymphocytes
+T10	protein 1466 1524	peripheral blood mononuclear cell glucocorticoid receptors
+T11	protein 1617 1641	glucocorticoid receptors
+T12	cell_type 1876 1885	monocytes
+T13	protein 1904 1926	interleukin-2 receptor
+T14	cell_type 1968 1979	lymphocytes
+T15	protein 2281 2304	glucocorticoid receptor

@@ -1,0 +1,57 @@
+T1	protein 0 13	Interleukin-7
+T2	cell_line 27 84	human B cell precursor acute lymphoblastic leukemia cells
+T3	cell_line 89 106	murine BAF3 cells
+T4	protein 130 135	STAT1
+T5	protein 140 145	STAT5
+T6	protein 163 197	interleukin-7 receptor alpha chain
+T7	protein 199 212	Interleukin-7
+T8	protein 214 218	IL-7
+T9	cell_type 252 313	normal and leukemic B and T cell precursors and T lymphocytes
+T10	protein 333 336	JAK
+T11	protein 336 341	/STAT
+T12	protein 373 378	IL-7R
+T13	protein 412 426	STAT complexes
+T14	cell_line 458 519	B cell precursor acute lymphoblastic leukemia (BCP-ALL) cells
+T15	protein 525 529	IL-7
+T16	protein 601 605	IL-7
+T17	protein 641 655	STAT complexes
+T18	cell_line 659 672	BCP-ALL cells
+T19	protein 732 737	STAT1
+T20	protein 742 757	STAT5 complexes
+T21	protein 775 779	STAT
+T22	protein 837 841	IL-7
+T23	protein 867 871	IL-7
+T24	protein 885 889	STAT
+T25	protein 961 965	IL-7
+T26	protein 998 1003	IL-7R
+T27	protein 1020 1023	JAK
+T28	protein 1023 1028	/STAT
+T29	protein 1128 1146	cytoplasmic domain
+T30	protein 1154 1179	IL-7 receptor alpha chain
+T31	protein 1181 1192	IL-7R alpha
+T32	protein 1211 1224	STAT proteins
+T33	cell_line 1247 1274	murine pro-B cell line BAF3
+T34	protein 1298 1316	chimeric receptors
+T35	protein 1335 1355	extracellular domain
+T36	protein 1359 1411	human granulocyte colony-stimulating factor receptor
+T37	protein 1413 1420	G-CSF-R
+T38	protein 1430 1469	transmembrane and intracellular domains
+T39	protein 1473 1490	human IL-7R alpha
+T40	protein 1510 1538	chimeric G-CSF-R/IL-7R alpha
+T41	protein 1544 1549	G-CSF
+T42	protein 1627 1631	JAK1
+T43	protein 1640 1644	JAK2
+T44	protein 1652 1666	STAT complexes
+T45	protein 1680 1699	G-CSF-R/IL-7R alpha
+T46	protein 1710 1715	STAT1
+T47	protein 1719 1724	STAT5
+T48	protein 1750 1776	STAT3-containing complexes
+T49	protein 1822 1827	STAT1
+T50	protein 1832 1837	STAT5
+T51	protein 1852 1857	STAT3
+T52	cell_type 1893 1910	precursor B cells
+T53	protein 1916 1920	IL-7
+T54	protein 1957 1975	IL-7R alpha chains
+T55	protein 2019 2023	JAKs
+T56	protein 2028 2033	STATs
+T57	cell_type 2086 2103	precursor B cells

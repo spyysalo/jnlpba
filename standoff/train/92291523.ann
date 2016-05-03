@@ -1,0 +1,28 @@
+T1	cell_line 45 89	ethyl-methanesulfonate-treated CEM subclones
+T2	protein 126 142	protein kinase C
+T3	cell_line 216 229	CEM subclones
+T4	protein 243 256	CD4 receptors
+T5	protein 274 279	gp120
+T6	protein 410 426	protein kinase C
+T7	protein 428 431	PKC
+T8	protein 470 500	CD3 and CD25 (IL-2R) receptors
+T9	cell_line 535 575	ethyl-methanesulfonate-derived subclones
+T10	protein 624 627	PKC
+T11	protein 668 671	PKC
+T12	protein 746 749	CD4
+T13	protein 812 824	c-raf kinase
+T14	DNA 843 869	HIV-1 long terminal repeat
+T15	DNA 894 939	nuclear factor kB (NF-kB) regulatory elements
+T16	protein 981 986	NF-kB
+T17	protein 1025 1059	Chloramphenicol acetyl transferase
+T18	protein 1061 1064	CAT
+T19	DNA 1083 1129	HIV-1 (-139)long terminal repeat-CAT construct
+T20	protein 1157 1160	CAT
+T21	protein 1267 1288	phosphatases 1 and 2A
+T22	protein 1401 1406	NF-kB
+T23	cell_type 1439 1456	PMA-treated cells
+T24	protein 1500 1530	nuclear NF-kB binding proteins
+T25	protein 1568 1581	wild type CEM
+T26	protein 1696 1718	NF-kB binding proteins
+T27	protein 1773 1776	PKC
+T28	protein 1793 1798	NF-kB

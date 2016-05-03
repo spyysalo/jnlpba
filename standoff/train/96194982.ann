@@ -1,0 +1,41 @@
+T1	cell_type 0 21	Rel-deficient T cells
+T2	protein 55 68	interleukin 3
+T3	protein 73 121	granulocyte-macrophage colony-stimulating factor
+T4	DNA 127 146	c-rel protooncogene
+T5	protein 172 219	NF-kappa B-like family of transcription factors
+T6	protein 234 237	Rel
+T7	cell_type 279 298	B and T lymphocytes
+T8	protein 465 468	Rel
+T9	protein 505 536	cell surface activation markers
+T10	cell_type 583 597	Rel-/- T cells
+T11	protein 652 700	interleukin 2 receptor alpha (IL-2R alpha) chain
+T12	protein 702 706	CD25
+T13	protein 709 713	CD69
+T14	protein 718 728	L-selectin
+T15	protein 730 734	CD62
+T16	cell_line 749 781	mitogen-activated Rel-/- T cells
+T17	protein 787 795	cytokine
+T18	cell_line 823 853	Rel-/- splenic T cell cultures
+T19	protein 943 992	granulocyte- macrophage colony-stimulating factor
+T20	protein 994 1000	GM-CSF
+T21	protein 1003 1030	tumor necrosis factor alpha
+T22	protein 1032 1041	TNF-alpha
+T23	protein 1048 1064	gamma interferon
+T24	protein 1066 1075	IFN-gamma
+T25	protein 1149 1157	anti-CD3
+T26	protein 1162 1171	anti-CD28
+T27	cell_line 1183 1197	Rel-/- T cells
+T28	protein 1255 1264	cytokines
+T29	protein 1276 1280	IL-2
+T30	cell_line 1333 1379	anti-CD3- and anti-CD28-treated Rel-/- T cells
+T31	protein 1410 1419	TNF-alpha
+T32	protein 1425 1434	IFN-gamma
+T33	protein 1444 1448	IL-3
+T34	protein 1453 1459	GM-CSF
+T35	cell_line 1518 1550	mitogen-activated Rel-/- T cells
+T36	cell_line 1582 1600	Rel-/- macrophages
+T37	protein 1638 1644	GM-CSF
+T38	protein 1676 1679	Rel
+T39	cell_type 1760 1773	T lymphocytes
+T40	protein 1792 1796	IL-3
+T41	protein 1801 1807	GM-CSF

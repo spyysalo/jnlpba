@@ -1,0 +1,26 @@
+T1	protein 30 66	nuclear regulatory factor-kappa beta
+T2	cell_type 70 85	human monocytes
+T3	protein 211 233	inflammatory cytokines
+T4	protein 345 381	nuclear regulatory factor-kappa beta
+T5	protein 382 398	(NF-kappa B)/Rel
+T6	protein 411 429	regulatory element
+T7	DNA 437 452	promoter region
+T8	DNA 460 487	inflammatory cytokine genes
+T9	protein 549 559	NF-kappa B
+T10	cell_type 574 589	human monocytes
+T11	cell_line 591 619	Adherence-isolated monocytes
+T12	protein 664 674	NF-kappa B
+T13	protein 757 767	NF-kappa B
+T14	cell_type 788 797	monocytes
+T15	protein 847 854	p50/p50
+T16	protein 856 880	NF-kappa B/Rel homodimer
+T17	protein 918 937	p65/p50 heterodimer
+T18	protein 1005 1024	p65/p50 heterodimer
+T19	protein 1111 1139	inhibitory p50/p50 homodimer
+T20	DNA 1218 1266	NF-kappa B-regulated inflammatory cytokine genes
+T21	protein 1385 1407	inflammatory cytokines
+T22	protein 1417 1444	tumor necrosis factor-alpha
+T23	protein 1446 1464	interleukin-1 beta
+T24	protein 1470 1483	interleukin-6
+T25	protein 1498 1508	NF-kappa B
+T26	cell_type 1522 1531	monocytes

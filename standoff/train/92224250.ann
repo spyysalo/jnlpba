@@ -1,0 +1,22 @@
+T1	protein 0 20	Transcription factor
+T2	cell_type 62 77	human monocytes
+T3	DNA 107 112	genes
+T4	protein 122 143	transcription factors
+T5	DNA 145 150	c-fos
+T6	DNA 155 160	c-jun
+T7	protein 178 205	AP1 transcriptional complex
+T8	cell_type 209 224	human monocytes
+T9	DNA 302 307	c-fos
+T10	DNA 312 317	c-jun
+T11	protein 340 343	AP1
+T12	protein 355 371	Interferon gamma
+T13	DNA 391 396	c-fos
+T14	DNA 408 413	c-jun
+T15	protein 418 421	AP1
+T16	protein 423 444	Tumor necrosis factor
+T17	DNA 462 467	c-fos
+T18	DNA 496 501	c-jun
+T19	protein 506 509	AP1
+T20	cell_type 581 590	monocytes
+T21	protein 604 611	factors
+T22	protein 687 694	factors

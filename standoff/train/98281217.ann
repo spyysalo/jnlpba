@@ -1,0 +1,33 @@
+T1	protein 0 4	IL-2
+T2	cell_type 23 64	CD8+ T cell prolymphocytic leukemia cells
+T3	protein 77 86	NF-kappaB
+T4	protein 101 120	IL-2 receptor alpha
+T5	protein 148 161	interleukin-2
+T6	protein 163 167	IL-2
+T7	cell_type 195 202	T cells
+T8	protein 233 254	nuclear factor kappaB
+T9	protein 256 265	NF-kappaB
+T10	DNA 286 324	IL-2 receptor (IL-2R) alpha chain gene
+T11	protein 384 389	IL-2R
+T12	cell_line 417 466	CD8+ T cell prolymphocytic leukemia (T-PLL) cells
+T13	cell_type 519 541	primary leukemia cells
+T14	protein 583 609	IL-2Ralpha and beta chains
+T15	protein 676 686	IL-2Ralpha
+T16	protein 725 729	IL-2
+T17	RNA 771 780	IL-2 mRNA
+T18	protein 798 802	IL-2
+T19	protein 906 910	IL-2
+T20	protein 921 930	NF-kappaB
+T21	cell_type 975 989	leukemia cells
+T22	protein 1030 1034	IL-2
+T23	protein 1081 1090	NF-kappaB
+T24	protein 1102 1107	c-Rel
+T25	protein 1112 1116	KBF1
+T26	protein 1133 1137	IL-2
+T27	protein 1173 1177	IL-2
+T28	protein 1224 1230	IL-2Rs
+T29	cell_type 1238 1252	leukemia cells
+T30	protein 1289 1309	high-affinity IL-2Rs
+T31	protein 1335 1339	IL-2
+T32	protein 1389 1398	NF-kappaB
+T33	cell_line 1402 1426	primary CD8+ T-PLL cells

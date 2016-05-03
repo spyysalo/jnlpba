@@ -1,0 +1,21 @@
+T1	protein 0 16	Protein kinase C
+T2	DNA 32 45	protooncogene
+T3	cell_line 100 126	human U-937 leukemia cells
+T4	cell_line 128 154	Human U-937 leukemia cells
+T5	cell_type 179 196	monocytic lineage
+T6	DNA 395 427	differentiation-associated genes
+T7	cell_type 450 480	TPA-differentiated U-937 cells
+T8	protein 723 731	cytokine
+T9	cell_type 813 828	uninduced cells
+T10	cell_line 843 854	U-937 cells
+T11	protein 901 917	protein kinase C
+T12	protein 919 922	PKC
+T13	protein 1024 1027	PKC
+T14	protein 1156 1159	PKC
+T15	protein 1192 1195	PKC
+T16	DNA 1245 1275	immediate early response genes
+T17	DNA 1325 1330	c-fos
+T18	DNA 1335 1356	c-jun gene expression
+T19	RNA 1368 1395	c-fos and c-jun transcripts
+T20	protein 1432 1435	PKC
+T21	protein 1603 1606	PKC

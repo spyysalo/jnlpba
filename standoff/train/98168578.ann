@@ -1,0 +1,21 @@
+T1	protein 136 167	transcription factor NF-kappa B
+T2	protein 343 374	xenoreactive natural antibodies
+T3	cell_line 485 517	Porcine aortic endothelial cells
+T4	cell_line 519 523	PAEC
+T5	cell_type 667 683	human leukocytes
+T6	cell_type 880 899	adherent leukocytes
+T7	cell_type 1033 1049	endothelial cell
+T8	cell_type 1155 1171	endothelial cell
+T9	protein 1219 1250	transcription factor NF-kappa B
+T10	protein 1320 1338	adhesive molecules
+T11	protein 1343 1359	chemoattractants
+T12	protein 1434 1444	NF-kappa B
+T13	protein 1446 1457	p65 subunit
+T14	cell_line 1476 1480	PAEC
+T15	protein 1537 1547	NF-kappa B
+T16	cell_line 1592 1596	PAEC
+T17	protein 1634 1644	NF-kappa B
+T18	cell_line 1704 1708	PAEC
+T19	protein 1746 1756	NF-kappa B
+T20	cell_line 1929 1933	PAEC
+T21	protein 2057 2067	NF-kappa B

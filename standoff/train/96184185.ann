@@ -1,0 +1,34 @@
+T1	protein 19 22	p23
+T2	protein 24 29	hsp90
+T3	protein 35 48	immunophilins
+T4	protein 68 99	progesterone receptor complexes
+T5	protein 153 174	progesterone receptor
+T6	protein 176 178	PR
+T7	protein 246 248	PR
+T8	protein 250 255	hsp90
+T9	protein 267 286	associated proteins
+T10	protein 293 295	PR
+T11	protein 361 366	hsp90
+T12	protein 368 373	hsp70
+T13	protein 385 398	immunophilins
+T14	protein 399 405	FKBP54
+T15	protein 407 413	FKBP52
+T16	protein 418 424	CyP-40
+T17	protein 435 438	p23
+T18	protein 517 519	PR
+T19	protein 570 573	p60
+T20	protein 578 581	p48
+T21	protein 595 608	immunophilins
+T22	protein 613 616	p23
+T23	protein 638 664	pre-formed hsp90 complexes
+T24	protein 705 717	PR complexes
+T25	protein 732 737	hsp90
+T26	protein 747 752	hsp70
+T27	protein 757 760	p60
+T28	protein 847 852	hsp90
+T29	protein 862 865	p23
+T30	protein 881 894	immunophilins
+T31	protein 904 909	hsp70
+T32	protein 1002 1007	hsp90
+T33	protein 1029 1032	p23
+T34	protein 1165 1177	PR complexes

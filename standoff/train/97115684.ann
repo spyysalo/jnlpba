@@ -1,0 +1,19 @@
+T1	DNA 0 9	HIV-1 LTR
+T2	cell_line 22 56	human CD40-activated B lymphocytes
+T3	protein 73 82	NF-kappaB
+T4	cell_line 84 119	CD40-stimulated human B lymphocytes
+T5	protein 228 243	nuclear factors
+T6	DNA 274 283	HIV-1 LTR
+T7	DNA 304 336	transcriptional control elements
+T8	DNA 438 448	LTR region
+T9	DNA 491 513	NF-kappaB binding site
+T10	DNA 532 541	HIV-1 LTR
+T11	cell_line 554 583	CD40-stimulated B lymphocytes
+T12	protein 675 684	NF-kappaB
+T13	protein 723 726	p50
+T14	protein 728 731	p65
+T15	protein 737 742	c-Rel
+T16	protein 743 761	NF-kappaB subunits
+T17	cell_line 787 810	CD40-stimulated B cells
+T18	cell_type 892 899	B cells
+T19	protein 951 960	NF-kappaB

@@ -1,0 +1,40 @@
+T1	cell_type 21 51	nasal polyp inflammatory cells
+T2	protein 368 406	glucocorticoid receptor splice variant
+T3	protein 407 413	GRbeta
+T4	cell_type 417 435	inflammatory cells
+T5	cell_type 578 613	nasal polyp (NP) inflammatory cells
+T6	protein 626 632	GRbeta
+T7	protein 656 662	GRbeta
+T8	protein 1043 1049	GRbeta
+T9	RNA 1073 1086	cytokine mRNA
+T10	cell_type 1225 1243	inflammatory cells
+T11	cell_type 1262 1265	NPs
+T12	cell_type 1285 1303	inflammatory cells
+T13	protein 1315 1321	GRbeta
+T14	protein 1387 1393	GRbeta
+T15	cell_type 1408 1411	NPs
+T16	cell_type 1436 1449	T lymphocytes
+T17	cell_type 1451 1462	eosinophils
+T18	cell_type 1468 1479	macrophages
+T19	protein 1556 1562	GRbeta
+T20	cell_type 1614 1638	EG2-positive eosinophils
+T21	cell_type 1640 1666	CD4-positive T lymphocytes
+T22	protein 1680 1686	VCAM-1
+T23	cell_type 1703 1727	IL-4 mRNA-positive cells
+T24	cell_type 1729 1732	NPs
+T25	cell_type 1787 1797	eosinophil
+T26	protein 1807 1826	major basic protein
+T27	cell_type 1879 1913	GRbeta-positive inflammatory cells
+T28	cell_type 1933 1971	GRbeta-positive/GRalpha-positive cells
+T29	cell_type 1998 2025	GRbeta-positive eosinophils
+T30	cell_type 2030 2041	macrophages
+T31	cell_type 2093 2113	"FP-insensitive" NPs
+T32	cell_type 2155 2187	IL-5-positive inflammatory cells
+T33	protein 2199 2205	GRbeta
+T34	protein 2249 2255	GRbeta
+T35	cell_type 2318 2321	NPs
+T36	protein 2337 2343	GRbeta
+T37	cell_type 2347 2368	NP inflammatory cells
+T38	cell_type 2383 2390	T cells
+T39	cell_type 2395 2406	eosinophils
+T40	cell_type 2508 2510	NP

@@ -1,0 +1,41 @@
+T1	protein 36 48	CD38 antigen
+T2	cell_type 52 65	myeloid cells
+T3	protein 86 114	retinoic acid receptor-alpha
+T4	protein 116 120	CD38
+T5	protein 126 159	leukocyte differentiation antigen
+T6	cell_type 239 259	T- and B-lymphocytes
+T7	cell_type 264 277	myeloid cells
+T8	protein 279 283	CD38
+T9	protein 406 410	CD38
+T10	protein 512 516	CD38
+T11	cell_type 531 565	human promyelocytic leukemia cells
+T12	protein 614 626	CD38 antigen
+T13	cell_type 630 643	myeloid cells
+T14	protein 664 692	retinoic acid-alpha receptor
+T15	protein 694 703	RAR alpha
+T16	protein 728 732	CD38
+T17	cell_line 749 764	mutant subclone
+T18	cell_line 772 804	HL-60 myeloid leukemia cell line
+T19	cell_line 817 823	HL-60R
+T20	protein 943 954	RA receptor
+T21	protein 956 965	RAR alpha
+T22	cell_line 977 992	HL-60R subclone
+T23	protein 1089 1093	CD38
+T24	protein 1108 1112	CD38
+T25	cell_line 1153 1165	HL-60R cells
+T26	protein 1197 1205	RAR beta
+T27	protein 1207 1216	RAR gamma
+T28	protein 1221 1239	RXR alpha receptor
+T29	protein 1254 1258	CD38
+T30	cell_type 1262 1319	acute promyelocytic and acute myeloblastic leukemia cells
+T31	protein 1412 1416	CD38
+T32	cell_type 1454 1484	normal CD34+ bone marrow cells
+T33	cell_type 1497 1528	normal circulating granulocytes
+T34	protein 1567 1571	CD38
+T35	cell_type 1593 1615	myeloid leukemia cells
+T36	cell_type 1620 1650	normal CD34+ bone marrow cells
+T37	protein 1717 1726	RAR alpha
+T38	cell_type 1730 1741	HL-60 cells
+T39	protein 1773 1782	RAR alpha
+T40	protein 1786 1790	CD38
+T41	cell_type 1811 1830	hematopoietic cells

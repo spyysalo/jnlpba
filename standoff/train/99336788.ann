@@ -1,0 +1,24 @@
+T1	protein 0 25	ETS transcription factors
+T2	DNA 63 75	third intron
+T3	protein 79 88	TNF-alpha
+T4	DNA 126 138	third intron
+T5	protein 142 169	tumor necrosis factor alpha
+T6	protein 171 180	TNF-alpha
+T7	DNA 185 203	reporter construct
+T8	DNA 219 237	5'-flanking region
+T9	DNA 251 265	TNF-alpha gene
+T10	cell_line 312 342	RAW264.7 macrophage-like cells
+T11	DNA 364 376	third intron
+T12	protein 380 389	TNF-alpha
+T13	protein 438 449	CAT protein
+T14	DNA 488 512	conserved 20-bp sequence
+T15	DNA 534 540	intron
+T16	protein 549 585	dominant-negative ets-binding factor
+T17	DNA 614 627	reporter gene
+T18	DNA 677 715	ets transcription factor binding sites
+T19	protein 839 843	GABP
+T20	cell_line 887 901	RAW264.7 cells
+T21	cell_line 945 976	bone marrow-derived macrophages
+T22	protein 1010 1026	interferon-gamma
+T23	protein 1064 1089	ets transcription factors
+T24	protein 1111 1120	TNF-alpha

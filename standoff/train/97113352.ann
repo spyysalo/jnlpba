@@ -1,0 +1,33 @@
+T1	DNA 17 27	CD11b gene
+T2	cell_line 53 77	monocytic cell line U937
+T3	protein 95 109	nuclear factor
+T4	protein 110 114	MS-2
+T5	cell_type 205 223	myeloid precursors
+T6	cell_type 236 256	myelomonocytic cells
+T7	protein 316 330	beta2 integrin
+T8	protein 331 336	CD11b
+T9	protein 342 363	transcription factors
+T10	protein 364 367	Sp1
+T11	protein 372 382	PU.1 prime
+T12	DNA 387 401	CD11b promoter
+T13	DNA 506 516	CD11b gene
+T14	protein 548 553	CD11a
+T15	protein 558 563	CD11c
+T16	DNA 657 677	nucleotide sequences
+T17	DNA 685 723	CD11a, CD11b, and CD11c gene promoters
+T18	DNA 872 886	CD11b promoter
+T19	protein 935 943	MS-2beta
+T20	protein 948 957	MS-2gamma
+T21	DNA 996 1006	CD11b gene
+T22	cell_line 1037 1065	pro-monocytic cell line U937
+T23	protein 1119 1127	MS-2beta
+T24	protein 1132 1141	MS-2gamma
+T25	protein 1156 1171	nuclear factors
+T26	cell_line 1196 1200	U937
+T27	DNA 1261 1275	CD11b promoter
+T28	protein 1435 1449	nuclear factor
+T29	protein 1450 1454	MS-2
+T30	protein 1495 1499	MS-2
+T31	DNA 1526 1536	CD11b gene
+T32	protein 1632 1636	MS-2
+T33	cell_type 1699 1719	mature myeloid cells

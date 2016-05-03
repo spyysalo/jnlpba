@@ -1,0 +1,49 @@
+T1	protein 21 25	CD80
+T2	protein 33 37	CD86
+T3	protein 58 79	transcription factors
+T4	DNA 95 114	human IL-2 promoter
+T5	cell_type 176 183	T cells
+T6	protein 290 294	CD28
+T7	cell_type 298 305	T cells
+T8	protein 315 319	CD80
+T9	protein 323 327	CD86
+T10	cell_type 331 355	antigen-presenting cells
+T11	cell_type 357 360	APC
+T12	protein 412 416	CD80
+T13	protein 421 425	CD86
+T14	cell_type 429 455	co-stimulate human T cells
+T15	cell_line 493 513	Raji B cell lymphoma
+T16	protein 547 551	CD80
+T17	protein 556 560	CD86
+T18	protein 629 633	CD80
+T19	cell_line 767 776	CHO cells
+T20	protein 788 806	human MHC class II
+T21	protein 821 825	CD80
+T22	protein 827 831	CD86
+T23	protein 835 839	CD80
+T24	protein 844 848	CD86
+T25	cell_type 884 896	CD4+ T cells
+T26	protein 929 933	CD80
+T27	protein 937 941	CD86
+T28	protein 952 956	IL-2
+T29	protein 1018 1022	CD86
+T30	protein 1047 1051	CD80
+T31	protein 1064 1068	IL-2
+T32	protein 1097 1101	CD80
+T33	protein 1106 1110	CD86
+T34	cell_type 1125 1132	T cells
+T35	cell_line 1141 1155	Jurkat T cells
+T36	DNA 1173 1208	luciferase reporter gene constructs
+T37	protein 1210 1214	CD80
+T38	DNA 1240 1253	IL-2 promoter
+T39	protein 1284 1288	CD86
+T40	protein 1319 1340	transcription factors
+T41	DNA 1356 1385	IL-2 promoter-enhancer region
+T42	protein 1396 1416	activation protein-1
+T43	DNA 1418 1439	CD28 response element
+T44	protein 1444 1465	nuclear factor kappaB
+T45	protein 1494 1498	CD80
+T46	protein 1511 1515	CD86
+T47	protein 1578 1582	CD80
+T48	cell_type 1605 1614	CD86+ APC
+T49	protein 1654 1658	IL-2

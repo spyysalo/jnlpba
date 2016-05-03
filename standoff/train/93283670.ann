@@ -1,0 +1,27 @@
+T1	RNA 14 18	mRNA
+T2	protein 27 48	GATA-binding proteins
+T3	cell_type 52 69	human eosinophils
+T4	cell_type 74 83	basophils
+T5	protein 145 180	hematopoietic transcription factors
+T6	protein 181 187	GATA-1
+T7	protein 189 195	GATA-2
+T8	protein 201 207	GATA-3
+T9	cell_type 223 234	eosinophils
+T10	cell_type 239 248	basophils
+T11	cell_type 250 261	Eosinophils
+T12	RNA 270 274	mRNA
+T13	protein 279 285	GATA-1
+T14	protein 287 293	GATA-2
+T15	protein 299 305	GATA-3
+T16	cell_type 307 316	Basophils
+T17	protein 325 331	GATA-2
+T18	protein 336 342	GATA-3
+T19	cell_line 357 384	HL-60 eosinophilic sublines
+T20	protein 397 410	interleukin-5
+T21	RNA 455 466	GATA-1 mRNA
+T22	DNA 502 527	eosinophil-specific genes
+T23	RNA 547 558	GATA-2 mRNA
+T24	RNA 605 609	mRNA
+T25	cell_type 632 643	eosinophils
+T26	cell_type 648 657	basophils
+T27	protein 729 750	GATA-binding proteins

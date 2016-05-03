@@ -1,0 +1,33 @@
+T1	protein 12 28	serine proteases
+T2	cell_type 60 75	monocytic cells
+T3	protein 103 137	nuclear factor-kappa B subunit p65
+T4	cell_line 233 256	U937 promonocytic cells
+T5	cell_line 406 419	"Plus" clones
+T6	cell_line 462 476	"minus" clones
+T7	protein 530 557	nuclear factor (NF)-kappa B
+T8	cell_line 631 642	plus clones
+T9	protein 667 682	p50-p65 complex
+T10	cell_line 715 727	minus clones
+T11	protein 758 782	faster-migrating complex
+T12	protein 862 886	faster-migrating complex
+T13	protein 908 911	p50
+T14	protein 916 919	p65
+T15	protein 934 945	p65 subunit
+T16	protein 1062 1065	p65
+T17	protein 1119 1145	lysosomal serine proteases
+T18	protein 1155 1163	elastase
+T19	protein 1165 1176	cathepsin G
+T20	protein 1182 1194	proteinase 3
+T21	cell_line 1284 1301	minus U937 clones
+T22	cell_line 1318 1329	plus clones
+T23	protein 1362 1373	cathepsin G
+T24	cell_line 1442 1447	THP-1
+T25	cell_line 1452 1463	HL-60 cells
+T26	cell_type 1479 1488	monocytes
+T27	protein 1542 1545	p65
+T28	protein 1583 1586	p65
+T29	protein 1599 1607	elastase
+T30	protein 1612 1623	cathepsin G
+T31	protein 1656 1672	serine proteases
+T32	cell_line 1732 1753	myelo-monocytic cells
+T33	cell_line 1846 1867	myelo-monocytic cells

@@ -1,0 +1,23 @@
+T1	protein 4 15	Ah receptor
+T2	DNA 27 44	DNA binding sites
+T3	protein 53 80	B cell transcription factor
+T4	protein 82 86	BSAP
+T5	DNA 143 152	CD19 gene
+T6	cell_type 167 186	human B lymphocytes
+T7	DNA 390 399	CD19 gene
+T8	cell_line 405 433	human B lymphocyte cell line
+T9	RNA 518 527	CD19 mRNA
+T10	cell_line 542 556	IM-9 cell line
+T11	protein 608 627	DNA-binding complex
+T12	protein 696 707	Ah receptor
+T13	protein 726 745	Ah receptor complex
+T14	DNA 759 775	DNA binding site
+T15	protein 780 821	B cell lineage-specific activator protein
+T16	protein 823 827	BSAP
+T17	DNA 836 851	promoter region
+T18	DNA 865 874	CD19 gene
+T19	DNA 899 937	consensus Ah receptor DNA binding site
+T20	protein 970 973	AhR
+T21	protein 995 999	BSAP
+T22	DNA 1011 1020	CD19 gene
+T23	DNA 1063 1079	DNA binding site

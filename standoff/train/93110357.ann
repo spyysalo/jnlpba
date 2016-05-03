@@ -1,0 +1,19 @@
+T1	protein 24 29	c-Fos
+T2	protein 39 44	v-Fos
+T3	protein 51 83	phosphorylation-dependent signal
+T4	protein 87 92	c-Jun
+T5	protein 98 121	proto-oncogene products
+T6	protein 122 127	c-Fos
+T7	protein 132 137	c-Jun
+T8	protein 167 182	leucine zippers
+T9	protein 195 220	AP-1 transcription factor
+T10	protein 366 371	c-Fos
+T11	protein 521 526	c-Fos
+T12	protein 577 597	phosphorylated c-Jun
+T13	protein 599 604	c-Jun
+T14	cell_line 627 654	phorbol ester-induced cells
+T15	protein 670 675	c-Fos
+T16	protein 713 718	c-Fos
+T17	protein 779 792	v-Fos protein
+T18	protein 824 829	c-Fos
+T19	protein 878 883	c-Jun

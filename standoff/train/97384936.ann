@@ -1,0 +1,26 @@
+T1	protein 0 13	Bcl-2 protein
+T2	protein 71 103	mitogen-activated protein kinase
+T3	cell_line 118 143	human leukemia U937 cells
+T4	cell_line 275 300	human leukemia U937 cells
+T5	protein 328 360	mitogen-activated protein kinase
+T6	protein 362 366	MAPK
+T7	protein 397 400	Ras
+T8	protein 402 407	Raf-1
+T9	protein 413 426	MAPK kinase-1
+T10	protein 476 481	bcl-2
+T11	cell_line 485 495	U937 cells
+T12	cell_line 625 635	U937 cells
+T13	protein 689 702	Bcl-2 protein
+T14	protein 764 777	MAPK kinase-1
+T15	cell_type 821 851	Bcl-2-overexpressed U937 cells
+T16	protein 880 884	MAPK
+T17	protein 953 958	Bcl-2
+T18	protein 978 1007	activated activator protein-1
+T19	protein 1083 1088	bcl-2
+T20	cell_line 1103 1113	U937 cells
+T21	protein 1143 1148	Bcl-2
+T22	protein 1168 1181	MAPK kinase-1
+T23	protein 1198 1202	MAPK
+T24	protein 1323 1342	activator protein-1
+T25	protein 1391 1395	MAPK
+T26	protein 1408 1413	Bcl-2

@@ -1,0 +1,31 @@
+T1	protein 13 17	IL-2
+T2	protein 30 39	cytokines
+T3	protein 41 45	JAKs
+T4	protein 47 52	STATs
+T5	protein 92 101	Cytokines
+T6	protein 119 167	interleukin-2 (IL-2) receptor common gamma chain
+T7	protein 169 176	gamma c
+T8	protein 189 193	IL-2
+T9	protein 195 199	IL-4
+T10	protein 201 205	IL-7
+T11	protein 207 211	IL-9
+T12	protein 217 222	IL-15
+T13	cell_type 276 295	T and B lymphocytes
+T14	cell_type 297 317	natural killer cells
+T15	cell_type 319 330	macrophages
+T16	cell_type 336 345	monoctyes
+T17	protein 353 362	cytokines
+T18	protein 439 470	shared receptor subunit gamma c
+T19	protein 512 521	cytokines
+T20	protein 553 586	intracellular signaling molecules
+T21	protein 602 615	Janus kinases
+T22	protein 616 620	JAK1
+T23	protein 625 629	JAK3
+T24	protein 649 676	transcription factor family
+T25	protein 680 698	signal transducers
+T26	protein 703 730	activators of transcription
+T27	protein 732 737	STATs
+T28	protein 918 925	gamma c
+T29	protein 930 934	JAK3
+T30	protein 1059 1077	cytokine receptors
+T31	protein 1241 1250	cytokines

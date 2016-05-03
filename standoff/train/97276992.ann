@@ -1,0 +1,9 @@
+T1	DNA 212 221	promoters
+T2	cell_type 288 317	human hematopoietic neoplasms
+T3	cell_type 528 547	hematopoietic cells
+T4	DNA 563 590	estrogen receptor (ER) gene
+T5	DNA 641 650	promoters
+T6	DNA 727 729	ER
+T7	DNA 731 734	P15
+T8	cell_type 1081 1093	normal cells
+T9	protein 1271 1292	DNA methyltransferase

@@ -1,0 +1,27 @@
+T1	protein 23 43	transcription factor
+T2	protein 121 144	T-cell antigen receptor
+T3	cell_type 161 174	T lymphocytes
+T4	protein 189 205	antigen receptor
+T5	protein 241 262	transcription factors
+T6	protein 274 279	NF-AT
+T7	protein 284 294	NF-kappa B
+T8	protein 412 432	transcription factor
+T9	cell_type 436 459	individual viable cells
+T10	protein 549 567	beta-galactosidase
+T11	protein 569 577	beta-gal
+T12	protein 617 622	NF-AT
+T13	cell_type 654 661	T cells
+T14	DNA 741 759	NF-AT-binding site
+T15	DNA 789 798	lacZ gene
+T16	cell_line 829 869	cloned stably transfected Jurkat T cells
+T17	protein 951 959	beta-gal
+T18	protein 1113 1121	beta-gal
+T19	protein 1150 1155	NF-AT
+T20	protein 1209 1214	NF-AT
+T21	protein 1315 1320	NF-AT
+T22	protein 1357 1380	transcription complexes
+T23	DNA 1388 1396	promoter
+T24	protein 1431 1441	NF-kappa B
+T25	DNA 1456 1478	interleukin-2 enhancer
+T26	protein 1585 1606	transcription factors
+T27	DNA 1635 1650	inducible genes

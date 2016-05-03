@@ -1,0 +1,26 @@
+T1	protein 0 13	Interleukin-4
+T2	RNA 68 97	c-jun and c-fos messenger RNA
+T3	protein 102 121	activator protein-1
+T4	cell_type 142 157	human monocytes
+T5	protein 184 197	interleukin-4
+T6	protein 199 203	IL-4
+T7	DNA 276 281	c-fos
+T8	DNA 286 291	c-jun
+T9	protein 335 350	dimeric complex
+T10	protein 351 370	activator protein-1
+T11	protein 372 376	AP-1
+T12	protein 400 422	transcriptional factor
+T13	RNA 455 484	c-fos and c-jun messenger RNA
+T14	protein 561 565	IL-4
+T15	DNA 679 684	c-fos
+T16	protein 709 713	IL-4
+T17	cell_type 717 734	LPS-treated cells
+T18	DNA 792 813	c-fos and c-jun genes
+T19	protein 815 819	IL-4
+T20	protein 856 861	c-fos
+T21	protein 866 883	c-jun transcripts
+T22	protein 966 970	IL-4
+T23	protein 1006 1010	AP-1
+T24	protein 1045 1049	IL-4
+T25	protein 1078 1099	transcription factors
+T26	cell_type 1103 1128	human activated monocytes

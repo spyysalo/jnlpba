@@ -1,0 +1,17 @@
+T1	protein 30 49	NF-kappa B moieties
+T2	cell_type 94 109	monocytic cells
+T3	protein 203 240	virally encoded and cellular proteins
+T4	cell_line 521 543	monocytic cell line U1
+T5	protein 691 727	factor-kappa B (NF-kappa B) moieties
+T6	protein 861 884	p50 NF-kappa B moieties
+T7	protein 898 912	p50 homodimers
+T8	protein 957 976	p50-p56 heterodimer
+T9	protein 980 990	NF-kappa B
+T10	protein 1015 1025	NF-kappa B
+T11	cell_type 1042 1075	T lymphocytic and monocytic cells
+T12	cell_line 1110 1118	U1 cells
+T13	protein 1136 1163	NF-kappa B-related moieties
+T14	cell_line 1181 1228	latently infected T lymphocytic cell line ACH-2
+T15	cell_line 1243 1262	U937 monocytic line
+T16	cell_line 1268 1286	parental cell line
+T17	cell_line 1294 1311	U1 cellular clone

@@ -1,0 +1,20 @@
+T1	protein 0 27	N- and C-terminal sequences
+T2	protein 51 71	MAD3/I kappa B alpha
+T3	protein 99 109	NF-kappa B
+T4	protein 155 173	inhibitory protein
+T5	protein 174 194	MAD3/I kappa B alpha
+T6	protein 284 304	transcription factor
+T7	protein 305 315	NF-kappa B
+T8	protein 347 376	human I kappa B alpha protein
+T9	cell_line 404 421	mouse 70Z/3 cells
+T10	protein 482 497	I kappa B alpha
+T11	protein 537 547	NF-kappa B
+T12	protein 663 673	proteasome
+T13	protein 836 865	human I kappa B alpha protein
+T14	cell_line 923 932	cell line
+T15	protein 1058 1073	I kappa B alpha
+T16	protein 1113 1123	C terminus
+T17	protein 1131 1146	I kappa B alpha
+T18	protein 1162 1176	amino acid 279
+T19	protein 1347 1362	I kappa B alpha
+T20	protein 1390 1400	N terminus

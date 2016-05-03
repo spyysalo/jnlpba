@@ -1,0 +1,5 @@
+T1	cell_type 79 107	malignant soft tissue tumors
+T2	cell_type 283 311	malignant soft tissue tumors
+T3	cell_type 519 544	Immunostained tumor cells
+T4	protein 730 747	estrogen receptor
+T5	cell_type 938 966	malignant soft tissue tumors

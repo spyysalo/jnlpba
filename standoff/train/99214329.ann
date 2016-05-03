@@ -1,0 +1,24 @@
+T1	protein 8 66	cellular tumor necrosis factor receptor-associated factors
+T2	protein 70 79	NF-kappaB
+T3	cell_type 95 105	lymphocyte
+T4	protein 144 147	STP
+T5	protein 153 169	STP oncoproteins
+T6	protein 293 359	tumor necrosis factor receptor-associated factor (TRAF) 1, 2, or 3
+T7	protein 404 411	PXQXT/S
+T8	protein 415 422	STP-A11
+T9	protein 439 443	TRAF
+T10	protein 501 509	STP-C488
+T11	protein 526 530	TRAF
+T12	protein 583 591	STP-C488
+T13	protein 600 609	NF-kappaB
+T14	protein 676 681	TRAFs
+T15	protein 691 699	STP-C488
+T16	protein 900 923	STP-C488 P10-->R mutant
+T17	protein 1031 1036	TRAF2
+T18	protein 1084 1089	TRAFs
+T19	protein 1093 1101	STP-C488
+T20	cell_type 1129 1146	human lymphocytes
+T21	cell_type 1158 1169	fibroblasts
+T22	cell_type 1222 1251	common marmoset T lymphocytes
+T23	cell_type 1302 1319	human lymphocytes
+T24	cell_type 1324 1342	rodent fibroblasts

@@ -1,0 +1,20 @@
+T1	protein 43 73	dominant-negative Ets-1 mutant
+T2	DNA 91 104	distal region
+T3	DNA 149 169	long terminal repeat
+T4	DNA 171 174	LTR
+T5	DNA 192 205	binding sites
+T6	protein 214 238	Ets-1 and USF-1 proteins
+T7	protein 279 303	Ets-1 and USF-1 proteins
+T8	DNA 348 380	HIV-1 LTR distal enhancer region
+T9	DNA 439 484	mutant Ets-1 lacking trans-activation domains
+T10	DNA 524 527	LTR
+T11	protein 574 598	Ets-1 and USF-1 proteins
+T12	DNA 693 698	Ets-1
+T13	DNA 700 707	dnEts-1
+T14	cell_type 731 738	T cells
+T15	DNA 775 780	dnEts
+T16	cell_line 822 833	T cell line
+T17	protein 878 921	transcriptionaly active USF-1/Ets-1 complex
+T18	protein 1038 1043	USF-1
+T19	protein 1048 1053	Ets-1
+T20	DNA 1063 1072	HIV-1 LTR

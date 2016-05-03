@@ -1,0 +1,23 @@
+T1	protein 15 60	herpes simplex virus type 2 tegument proteins
+T2	cell_type 64 75	CD4 T cells
+T3	cell_type 267 299	infiltrating CD4-bearing T cells
+T4	protein 354 364	lymphokine
+T5	cell_type 450 474	HSV-specific CD4 T cells
+T6	cell_type 524 531	T cells
+T7	DNA 595 602	HSV DNA
+T8	protein 709 725	tegument protein
+T9	protein 726 730	VP22
+T10	protein 739 752	viral dUTPase
+T11	DNA 765 784	genes UL49 and UL50
+T12	protein 804 819	T-cell antigens
+T13	protein 830 838	epitopes
+T14	protein 842 846	VP22
+T15	cell_line 864 877	T-cell clones
+T16	protein 927 943	tegument protein
+T17	DNA 955 959	UL21
+T18	protein 1040 1044	VP16
+T19	protein 1048 1064	tegument protein
+T20	protein 1081 1085	VP22
+T21	cell_line 1092 1127	tegument-specific CD4 T-cell clones
+T22	cell_type 1165 1183	HSV-infected cells
+T23	protein 1212 1244	herpes simplex tegument proteins

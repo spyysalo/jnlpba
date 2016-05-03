@@ -1,0 +1,20 @@
+T1	cell_line 4 40	human myelomonocytic cell line U-937
+T2	RNA 144 206	lipopolysaccharide-stimulated interleukin-1 beta messenger RNA
+T3	cell_line 483 499	human cell lines
+T4	cell_line 501 506	U-937
+T5	cell_line 508 513	THP-1
+T6	cell_line 519 524	HL-60
+T7	RNA 622 657	interleukin-1 beta (IL-1 beta) mRNA
+T8	protein 662 679	IL-1 beta protein
+T9	RNA 855 869	IL-1 beta mRNA
+T10	RNA 941 955	IL-1 beta mRNA
+T11	cell_line 971 976	U-937
+T12	cell_line 981 986	HL-60
+T13	cell_line 1102 1107	U-937
+T14	cell_line 1124 1129	HL-60
+T15	cell_line 1134 1139	THP-1
+T16	cell_line 1186 1197	U-937 cells
+T17	RNA 1426 1440	IL-1 beta mRNA
+T18	cell_line 1493 1504	U-937 cells
+T19	RNA 1552 1566	IL-1 beta mRNA
+T20	cell_line 1721 1732	U-937 cells

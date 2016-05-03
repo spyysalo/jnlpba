@@ -1,0 +1,19 @@
+T1	DNA 18 47	vitellogenin gene B1 promoter
+T2	cell_type 68 79	hepatocytes
+T3	DNA 177 206	vitellogenin gene B1 promoter
+T4	cell_type 260 279	Xenopus hepatocytes
+T5	DNA 412 440	estrogen responsive elements
+T6	DNA 447 471	promoter proximal region
+T7	DNA 488 496	TATA box
+T8	protein 564 585	transcription factors
+T9	protein 586 594	CTF/NF-1
+T10	protein 596 601	C/EBP
+T11	protein 606 610	HNF3
+T12	protein 633 652	restriction enzymes
+T13	DNA 688 717	vitellogenin gene B1 promoter
+T14	DNA 733 757	estrogen responsive unit
+T15	DNA 766 790	promoter proximal region
+T16	cell_type 835 863	estrogen-induced hepatocytes
+T17	DNA 944 953	chromatin
+T18	DNA 996 1013	promoter elements
+T19	DNA 1085 1105	B1 vitellogenin gene

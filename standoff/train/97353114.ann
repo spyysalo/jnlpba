@@ -1,0 +1,28 @@
+T1	DNA 3 30	acute myeloid leukemia gene
+T2	DNA 32 36	AML1
+T3	DNA 175 184	AML1 gene
+T4	DNA 188 201	chromosome 21
+T5	DNA 222 272	(8;21)(q22;q22) and (3;21)(q26;q22) translocations
+T6	protein 325 344	DNA-binding protein
+T7	DNA 351 360	AML1 gene
+T8	protein 400 405	AML1a
+T9	protein 410 415	AML1b
+T10	protein 474 492	DNA-binding domain
+T11	protein 498 503	AML1a
+T12	protein 561 566	AML1b
+T13	protein 597 602	AML1a
+T14	protein 716 721	AML1b
+T15	protein 732 737	AML1a
+T16	protein 788 793	AML1b
+T17	protein 809 831	dominant negative form
+T18	protein 835 839	AML1
+T19	protein 841 846	AML1a
+T20	protein 917 954	granulocyte colony-stimulating factor
+T21	protein 960 965	AML1a
+T22	cell_type 987 1014	32Dc13 murine myeloid cells
+T23	protein 1046 1051	AML1a
+T24	protein 1102 1107	AML1b
+T25	protein 1177 1181	AML1
+T26	protein 1289 1293	AML1
+T27	cell_line 1344 1366	hemopoietic cell lines
+T28	protein 1398 1402	AML1

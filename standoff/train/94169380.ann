@@ -1,0 +1,19 @@
+T1	cell_type 59 76	human neutrophils
+T2	cell_type 592 609	human neutrophils
+T3	protein 777 794	membrane proteins
+T4	protein 952 962	gelatinase
+T5	protein 975 986	lactoferrin
+T6	protein 1014 1024	gelatinase
+T7	protein 1126 1148	adhesion protein Mac-1
+T8	protein 1157 1191	NADPH-oxidase component cytochrome
+T9	protein 1192 1196	b558
+T10	protein 1213 1223	gelatinase
+T11	protein 1312 1322	gelatinase
+T12	protein 1348 1363	cytochrome b558
+T13	protein 1368 1373	Mac-1
+T14	cell_type 1394 1404	neutrophil
+T15	protein 1410 1414	FMLP
+T16	protein 1505 1515	gelatinase
+T17	protein 1602 1607	Mac-1
+T18	protein 1612 1627	cytochrome b558
+T19	protein 1645 1655	gelatinase

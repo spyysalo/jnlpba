@@ -1,0 +1,25 @@
+T1	protein 197 202	IL-12
+T2	protein 207 211	IL-4
+T3	protein 292 297	IL-12
+T4	cell_type 428 435	T cells
+T5	protein 493 498	IL-12
+T6	protein 526 530	IL-4
+T7	protein 561 566	IL-12
+T8	protein 599 612	IL-12R beta 2
+T9	protein 625 634	IFN-gamma
+T10	protein 653 662	IFN-alpha
+T11	protein 693 706	IL-12R beta 2
+T12	protein 730 735	IL-12
+T13	protein 893 926	IL-12R beta 1 and beta 2 subunits
+T14	protein 946 950	IL-4
+T15	protein 955 959	IFNs
+T16	protein 1015 1020	IL-12
+T17	protein 1074 1098	Stat4 inducible proteins
+T18	protein 1138 1147	IFN-alpha
+T19	protein 1175 1180	Stat4
+T20	protein 1217 1222	Stat4
+T21	protein 1275 1280	Stat4
+T22	DNA 1288 1302	IFN-gamma gene
+T23	protein 1342 1347	Stat4
+T24	DNA 1413 1431	non-cytokine genes
+T25	cell_type 1498 1506	Th1 cell

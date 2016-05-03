@@ -1,0 +1,29 @@
+T1	DNA 46 67	CD28 response element
+T2	DNA 79 101	interleukin-2 enhancer
+T3	protein 118 131	interleukin-2
+T4	cell_type 158 171	T lymphocytes
+T5	protein 211 226	T cell receptor
+T6	protein 231 254	costimulatory molecules
+T7	protein 263 267	CD28
+T8	cell_type 284 291	T cells
+T9	protein 303 316	interleukin-2
+T10	protein 318 322	IL-2
+T11	protein 384 388	IL-2
+T12	DNA 432 453	CD28 response element
+T13	DNA 455 461	CD28RE
+T14	DNA 539 545	CD28RE
+T15	DNA 581 611	consensus kappaB binding motif
+T16	DNA 638 644	CD28RE
+T17	protein 725 770	nuclear factor of mitogenic-activated T cells
+T18	protein 772 781	NF-MATp35
+T19	protein 824 853	NF- kappaB/Rel family members
+T20	protein 868 877	NF-MATp35
+T21	cell_type 949 956	T cells
+T22	protein 1040 1044	CD28
+T23	protein 1120 1129	NF-MATp35
+T24	protein 1242 1251	NF-MATp35
+T25	protein 1288 1292	IL-2
+T26	protein 1346 1355	NF-MATp35
+T27	protein 1427 1436	NF-MATp35
+T28	protein 1470 1474	IL-2
+T29	protein 1571 1575	IL-2

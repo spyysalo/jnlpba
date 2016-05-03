@@ -1,0 +1,25 @@
+T1	protein 40 46	GM-CSF
+T2	protein 48 52	IL-3
+T3	protein 54 68	M-CSF receptor
+T4	protein 70 75	C-FMS
+T5	DNA 78 106	early growth response gene-1
+T6	DNA 108 113	EGR-1
+T7	DNA 119 130	M-CSF genes
+T8	cell_type 309 315	blasts
+T9	DNA 394 427	IL-3, GM-CSF, FMS and EGR-1 genes
+T10	DNA 457 481	long arm of chromosome 5
+T11	DNA 505 515	M-CSF gene
+T12	DNA 558 583	short arm of chromosome 1
+T13	DNA 585 587	lp
+T14	cell_line 742 759	neoplastic clones
+T15	DNA 826 832	allele
+T16	DNA 870 876	allele
+T17	cell_type 902 916	leukemic cells
+T18	DNA 978 994	constitutive DNA
+T19	cell_type 1000 1016	skin fibroblasts
+T20	DNA 1022 1034	leukemic DNA
+T21	DNA 1091 1101	M-CSF gene
+T22	DNA 1135 1138	FMS
+T23	DNA 1147 1158	EGR-1 genes
+T24	DNA 1310 1329	M-CSF and FMS genes
+T25	protein 1461 1487	hemopoietic growth factors

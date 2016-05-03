@@ -1,0 +1,36 @@
+T1	protein 0 25	Thyroid hormone receptors
+T2	protein 40 91	nuclear protein-dependent and independent complexes
+T3	DNA 99 131	thyroid hormone response element
+T4	protein 165 181	nuclear proteins
+T5	protein 186 223	recombinant thyroid hormone receptors
+T6	protein 225 228	TRs
+T7	DNA 237 283	palindromic thyroid hormone responsive element
+T8	DNA 298 302	TREp
+T9	protein 368 389	protein-DNA complexes
+T10	cell_line 451 486	T3-responsive pituitary (GH3) cells
+T11	DNA 494 522	TREp-containing DNA fragment
+T12	DNA 551 555	TREp
+T13	protein 567 602	reticulocyte lysate-synthesized TRs
+T14	protein 604 614	TR alpha 1
+T15	protein 619 628	TR beta 2
+T16	protein 656 671	TR:TREp complex
+T17	protein 745 754	TR beta 1
+T18	DNA 812 816	TREp
+T19	protein 823 831	oligomer
+T20	protein 864 878	35S-TR alpha 1
+T21	DNA 902 906	TREp
+T22	protein 932 951	35S-TR:TREp complex
+T23	protein 1018 1032	35S-TR alpha 1
+T24	protein 1115 1118	TRs
+T25	cell_line 1132 1143	COS-7 cells
+T26	protein 1188 1191	TRs
+T27	protein 1254 1277	greatly shifted complex
+T28	protein 1341 1355	TR:TRE complex
+T29	cell_line 1384 1411	T3-unresponsive JEG-3 cells
+T30	protein 1453 1455	TR
+T31	DNA 1465 1469	TREp
+T32	protein 1537 1547	TR alpha 1
+T33	protein 1551 1565	amino acid 210
+T34	protein 1678 1695	carboxyl-terminus
+T35	protein 1703 1706	TRs
+T36	protein 1741 1757	nuclear proteins

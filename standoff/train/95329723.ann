@@ -1,0 +1,24 @@
+T1	protein 28 62	Epstein-Barr virus latent proteins
+T2	cell_type 94 133	Epstein-Barr virus (EBV)-infected cells
+T3	cell_line 188 213	lymphoblastoid cell lines
+T4	protein 219 247	EBV-encoded nuclear antigens
+T5	protein 249 274	EBNA1, 2, 3A, 3B, 3C, -LP
+T6	protein 283 307	latent membrane proteins
+T7	protein 309 313	LMP1
+T8	protein 315 317	2A
+T9	protein 319 321	2B
+T10	RNA 332 344	nuclear RNAs
+T11	RNA 346 351	EBERs
+T12	RNA 532 537	EBERs
+T13	protein 539 544	EBNA1
+T14	protein 554 558	LMPs
+T15	RNA 631 636	EBERs
+T16	protein 641 646	EBNA1
+T17	protein 713 725	EBV proteins
+T18	protein 799 803	LMP1
+T19	cell_type 840 851	tumor cells
+T20	protein 869 874	EBNA2
+T21	cell_type 896 907	tumor cells
+T22	protein 940 969	BZLF1 trans-activator protein
+T23	cell_type 993 1004	tumor cells
+T24	cell_line 1142 1155	BL cell lines

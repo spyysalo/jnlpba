@@ -1,0 +1,23 @@
+T1	DNA 34 70	vacuolar H(+)-ATPase B2 subunit gene
+T2	cell_line 74 101	differentiating THP-1 cells
+T3	protein 202 228	human vacuolar H(+)-ATPase
+T4	protein 230 238	V-ATPase
+T5	RNA 253 257	mRNA
+T6	protein 276 284	V-ATPase
+T7	cell_type 325 341	native monocytes
+T8	cell_line 350 359	cell line
+T9	cell_line 360 365	THP-1
+T10	protein 470 478	V-ATPase
+T11	protein 566 576	B2 isoform
+T12	DNA 688 714	B2 subunit promoter region
+T13	DNA 748 758	first exon
+T14	DNA 763 781	5'-flanking region
+T15	DNA 804 822	TATA-less promoter
+T16	protein 871 883	ribonuclease
+T17	DNA 922 954	major transcriptional start site
+T18	DNA 971 1008	promoter-luciferase reporter plasmids
+T19	cell_line 1014 1025	THP-1 cells
+T20	cell_line 1241 1246	THP-1
+T21	protein 1264 1271	DNase I
+T22	DNA 1342 1367	AP2 and Sp1 binding sites
+T23	DNA 1375 1418	5'-untranslated and proximal coding regions

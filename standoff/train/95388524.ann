@@ -1,0 +1,50 @@
+T1	DNA 35 69	human erythropoietin receptor gene
+T2	DNA 93 114	GATA-1 and Sp1 motifs
+T3	protein 116 130	Erythropoietin
+T4	protein 132 135	Epo
+T5	cell_type 181 196	erythroid cells
+T6	protein 219 240	cell surface receptor
+T7	protein 242 246	EpoR
+T8	cell_type 251 272	erythroid progenitors
+T9	DNA 329 353	reporter gene constructs
+T10	DNA 369 399	transcription control elements
+T11	DNA 407 425	5' flanking region
+T12	DNA 433 448	human EpoR gene
+T13	cell_type 453 468	erythroid cells
+T14	DNA 523 538	150 bp promoter
+T15	DNA 553 566	binding sites
+T16	protein 571 592	transcription factors
+T17	protein 593 596	AP2
+T18	protein 598 601	Sp1
+T19	protein 610 635	erythroid-specific GATA-1
+T20	DNA 641 662	150 bp hEpoR promoter
+T21	cell_line 708 713	OCIM1
+T22	cell_line 718 728	K562 cells
+T23	protein 795 800	hEpoR
+T24	DNA 817 845	GATA-1 and Sp1 binding sites
+T25	DNA 873 886	TATA sequence
+T26	protein 991 994	Sp1
+T27	protein 1009 1032	CCGCCC binding proteins
+T28	cell_type 1038 1071	erythroid and non-erythroid cells
+T29	DNA 1090 1107	Sp1 binding motif
+T30	protein 1123 1129	GATA-1
+T31	DNA 1192 1206	hEpoR promoter
+T32	cell_line 1210 1220	K562 cells
+T33	cell_type 1225 1244	non-erythroid cells
+T34	cell_type 1275 1286	OCIM1 cells
+T35	RNA 1297 1308	GATA-1 mRNA
+T36	cell_line 1335 1340	OCIM1
+T37	cell_line 1345 1349	K562
+T38	DNA 1386 1394	Sp1 site
+T39	DNA 1430 1444	hEpoR promoter
+T40	protein 1502 1508	GATA-1
+T41	cell_type 1519 1530	OCIM1 cells
+T42	protein 1562 1568	GATA-1
+T43	DNA 1591 1604	EpoR promoter
+T44	DNA 1619 1629	hEpoR gene
+T45	protein 1660 1666	GATA-1
+T46	protein 1682 1687	hEpoR
+T47	protein 1743 1746	Sp1
+T48	protein 1751 1757	GATA-1
+T49	protein 1769 1790	cell-specific factors
+T50	protein 1817 1842	Sp1-like binding proteins

@@ -1,0 +1,36 @@
+T1	protein 0 10	Fibrinogen
+T2	protein 21 53	NF-kappa B transcription factors
+T3	cell_type 57 79	mononuclear phagocytes
+T4	cell_type 209 231	Mononuclear phagocytes
+T5	protein 405 437	NF-kappa B transcription factors
+T6	cell_line 439 449	U937 cells
+T7	cell_line 477 496	nonadherent culture
+T8	protein 523 551	fibrinogen-binding integrins
+T9	protein 567 577	CD11b/CD18
+T10	protein 603 613	CD11c/CD18
+T11	protein 637 647	fibrinogen
+T12	protein 747 757	NF-kappa B
+T13	cell_type 781 799	unstimulated cells
+T14	protein 835 845	fibrinogen
+T15	protein 847 857	Fibrinogen
+T16	protein 884 888	AP-1
+T17	protein 898 901	SP1
+T18	protein 905 957	cAMP response element-binding protein (CREB) factors
+T19	protein 968 972	mAbs
+T20	protein 981 985	CD18
+T21	protein 990 995	CD11b
+T22	protein 1006 1016	fibrinogen
+T23	protein 1025 1035	NF-kappa B
+T24	cell_line 1104 1114	U937 cells
+T25	DNA 1162 1176	HIV-1 enhancer
+T26	DNA 1190 1206	NF-kappa B sites
+T27	DNA 1221 1269	chloramphenicol acetyltransferase (CAT) reporter
+T28	protein 1337 1340	CAT
+T29	protein 1366 1376	fibrinogen
+T30	protein 1400 1403	CAT
+T31	protein 1451 1461	fibrinogen
+T32	protein 1493 1496	CAT
+T33	protein 1558 1585	fibrinogen-derived proteins
+T34	protein 1658 1668	CD11b/CD18
+T35	protein 1707 1741	transcriptional regulatory factors
+T36	protein 1753 1763	NF-kappa B

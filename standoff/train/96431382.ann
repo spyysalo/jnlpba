@@ -1,0 +1,25 @@
+T1	DNA 19 68	human immunodeficiency virus long terminal repeat
+T2	cell_type 72 84	CD8+ T cells
+T3	DNA 105 119	NFAT-1 element
+T4	cell_type 121 139	CD8+ T lymphocytes
+T5	protein 180 194	soluble factor
+T6	DNA 337 340	LTR
+T7	protein 358 361	Tat
+T8	cell_line 426 481	Herpesvirus saimiri (HVS)-transformed CD8+ T cell clone
+T9	cell_type 536 548	CD8+ T cells
+T10	protein 590 594	CD4+
+T11	DNA 630 657	NF kappa B or Sp-1 elements
+T12	DNA 669 672	LTR
+T13	cell_type 713 724	CD8+ T cell
+T14	protein 818 827	HIV-1 Tat
+T15	DNA 833 836	LTR
+T16	DNA 850 891	interleukin (IL)-2 homology NFAT-1 region
+T17	cell_type 962 974	CD8+ T cells
+T18	DNA 1007 1024	NFAT-1 mutant LTR
+T19	protein 1042 1049	mitogen
+T20	DNA 1119 1138	NF kappa B elements
+T21	protein 1155 1158	CD8
+T22	DNA 1352 1371	NF kappa B enhancer
+T23	protein 1391 1394	CD8
+T24	protein 1439 1442	Tat
+T25	protein 1505 1511	NFAT-1

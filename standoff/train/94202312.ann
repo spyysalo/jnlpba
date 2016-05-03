@@ -1,0 +1,22 @@
+T1	protein 63 84	transcription factors
+T2	protein 85 95	NF-kappa B
+T3	protein 100 104	AP-1
+T4	cell_type 108 121	human T cells
+T5	protein 210 225	negative factor
+T6	protein 227 230	Nef
+T7	protein 268 289	transcription factors
+T8	protein 290 300	NF-kappa B
+T9	protein 305 309	AP-1
+T10	protein 361 364	Nef
+T11	cell_type 432 439	T cells
+T12	cell_type 513 520	T cells
+T13	cell_type 743 750	T cells
+T14	protein 806 809	CD3
+T15	protein 877 887	NF-kappa B
+T16	protein 892 896	AP-1
+T17	protein 991 994	Nef
+T18	protein 1049 1052	CD3
+T19	protein 1087 1090	Nef
+T20	protein 1142 1152	NF-kappa B
+T21	protein 1157 1161	AP-1
+T22	cell_type 1165 1172	T cells

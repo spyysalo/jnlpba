@@ -1,0 +1,19 @@
+T1	cell_type 18 33	human monocytes
+T2	cell_type 38 49	macrophages
+T3	protein 89 110	NF-KB-related factors
+T4	protein 216 218	B1
+T5	protein 220 222	B2
+T6	protein 227 229	B3
+T7	DNA 253 280	KB-enhancer target sequence
+T8	cell_type 333 356	HIV1-infected monocytes
+T9	cell_type 361 372	macrophages
+T10	protein 378 387	B2 factor
+T11	protein 459 468	B3 factor
+T12	cell_type 508 524	uninfected cells
+T13	cell_type 565 583	infected monocytes
+T14	cell_type 631 656	HIV1-infected macrophages
+T15	protein 697 706	B2 factor
+T16	cell_type 738 747	monocytes
+T17	cell_type 752 763	macrophages
+T18	protein 769 788	DNA-binding protein
+T19	protein 964 973	B3 factor

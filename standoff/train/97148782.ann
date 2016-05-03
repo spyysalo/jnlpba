@@ -1,0 +1,13 @@
+T1	cell_type 107 116	HIT cells
+T2	cell_type 253 274	pancreatic beta cells
+T3	cell_type 439 460	pancreatic beta cells
+T4	cell_type 486 499	HIT-T15 cells
+T5	DNA 629 642	reporter gene
+T6	DNA 670 691	insulin gene promoter
+T7	DNA 740 764	beta-actin gene promoter
+T8	DNA 798 819	insulin gene promoter
+T9	RNA 967 979	insulin mRNA
+T10	cell_type 1020 1043	glycation-induced cells
+T11	protein 1156 1189	insulin gene transcription factor
+T12	protein 1191 1207	PDX-1/IPF1/STF-1
+T13	cell_type 1539 1560	pancreatic beta cells

@@ -1,0 +1,50 @@
+T1	protein 14 57	interleukin (IL)-10 and IL-6-type cytokines
+T2	DNA 126 148	IL-6 response elements
+T3	protein 154 172	cytoplasmic domain
+T4	protein 193 207	interleukin 10
+T5	protein 209 215	IL-10R
+T6	protein 230 251	box 3 sequence motifs
+T7	protein 285 321	signal-transducing receptor subunits
+T8	protein 326 345	IL-6-type cytokines
+T9	protein 386 391	STAT3
+T10	DNA 427 451	IL-6-responsive elements
+T11	protein 478 484	IL-10R
+T12	protein 520 525	IL-6R
+T13	cell_type 572 582	leukocytes
+T14	cell_type 590 618	B-, T-, and NK-cell lineages
+T15	protein 659 668	cytokines
+T16	DNA 705 726	sis-inducible element
+T17	protein 740 745	STAT1
+T18	protein 750 755	STAT3
+T19	protein 778 783	IL-10
+T20	protein 825 835	IL-2/IL-15
+T21	protein 837 841	IL-4
+T22	protein 847 863	interferon gamma
+T23	protein 899 905	IL-10R
+T24	protein 930 943	STAT proteins
+T25	cell_line 1032 1064	transfected tissue culture cells
+T26	cell_line 1066 1077	COS-1 cells
+T27	protein 1103 1109	IL-10R
+T28	protein 1125 1138	STAT proteins
+T29	protein 1170 1176	IL-10R
+T30	protein 1181 1186	STAT3
+T31	protein 1191 1196	STAT1
+T32	protein 1210 1233	hematopoietin receptors
+T33	protein 1239 1245	IL-10R
+T34	protein 1274 1279	STAT5
+T35	protein 1285 1291	IL-10R
+T36	DNA 1353 1382	IL-6-responsive gene elements
+T37	cell_type 1401 1415	hepatoma cells
+T38	protein 1449 1454	IL-10
+T39	protein 1486 1490	IL-6
+T40	protein 1568 1581	STAT proteins
+T41	protein 1606 1612	IL-10R
+T42	protein 1617 1622	IL-6R
+T43	DNA 1654 1675	IL-6-responsive genes
+T44	cell_type 1697 1711	hepatoma cells
+T45	protein 1734 1740	IL-10R
+T46	protein 1796 1808	box 3 motifs
+T47	protein 1848 1854	IL-10R
+T48	protein 1877 1920	progressively truncated cytoplasmic domains
+T49	protein 1952 1958	IL-10R
+T50	protein 2076 2104	IL-6-type cytokine receptors

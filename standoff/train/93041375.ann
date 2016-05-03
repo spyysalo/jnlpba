@@ -1,0 +1,26 @@
+T1	protein 14 24	NF-kappa B
+T2	protein 28 41	interleukin 2
+T3	cell_type 45 66	human blood monocytes
+T4	protein 88 101	interleukin 2
+T5	protein 103 107	IL-2
+T6	cell_type 117 138	human blood monocytes
+T7	protein 176 207	transcription factor NF-kappa B
+T8	DNA 278 303	IL-2 receptor alpha chain
+T9	protein 305 308	p55
+T10	protein 322 326	IL-2
+T11	protein 337 347	NF-kappa B
+T12	cell_line 355 386	human monocytic cell line U 937
+T13	cell_type 399 420	resting human T-cells
+T14	protein 494 498	IL-2
+T15	protein 509 519	NF-kappa B
+T16	protein 602 627	IL-2 receptor alpha chain
+T17	protein 652 662	NF-kappa B
+T18	DNA 719 748	NF-kappa B consensus sequence
+T19	DNA 750 762	-291 to -245
+T20	DNA 771 801	IL-2 receptor alpha chain gene
+T21	protein 829 833	IL-2
+T22	protein 884 887	p50
+T23	protein 908 919	p50 subunit
+T24	protein 927 937	NF-kappa B
+T25	protein 987 990	p65
+T26	DNA 991 1006	NF-kappa B gene

@@ -1,0 +1,21 @@
+T1	DNA 0 9	IL-2 gene
+T2	protein 25 35	NF-kappa B
+T3	protein 55 59	CD28
+T4	protein 99 113	5-lipoxygenase
+T5	protein 133 154	CD28 surface receptor
+T6	protein 251 264	interleukin-2
+T7	protein 266 270	IL-2
+T8	cell_type 299 320	primary T lymphocytes
+T9	protein 334 338	CD28
+T10	protein 454 458	CD28
+T11	protein 486 496	NF-kappa B
+T12	protein 497 520	CD28-responsive complex
+T13	protein 525 529	IL-2
+T14	protein 561 565	CD28
+T15	protein 605 628	protein tyrosine kinase
+T16	protein 669 685	phospholipase A2
+T17	protein 690 704	5-lipoxygenase
+T18	protein 728 752	lipoxygenase metabolites
+T19	protein 794 798	IL-2
+T20	protein 814 824	NF-kappa B
+T21	protein 952 956	CD28

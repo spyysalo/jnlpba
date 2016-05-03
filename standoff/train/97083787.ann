@@ -1,0 +1,14 @@
+T1	protein 4 30	Oct-2 transcription factor
+T2	protein 36 62	Oct-2 transcription factor
+T3	protein 82 106	POU (Pit-Oct-Unc) family
+T4	protein 110 131	transcription factors
+T5	cell_type 157 170	B lymphocytes
+T6	cell_type 178 192	neuronal cells
+T7	RNA 226 248	primary RNA transcript
+T8	cell_type 400 413	B lymphocytes
+T9	cell_type 498 512	neuronal cells
+T10	DNA 595 637	herpes simplex virus immediate-early genes
+T11	DNA 646 680	cellular tyrosine hydroxylase gene
+T12	protein 687 692	Oct-2
+T13	cell_type 771 778	B cells
+T14	cell_type 783 797	neuronal cells

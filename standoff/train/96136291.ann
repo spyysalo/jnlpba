@@ -1,0 +1,18 @@
+T1	protein 14 24	NF-kappa B
+T2	cell_line 39 57	human T-cell lines
+T3	protein 83 110	Nuclear factor (NF)-kappa B
+T4	protein 116 162	redox sensitive cytosolic transcription factor
+T5	protein 184 194	NF-kappa B
+T6	protein 302 312	NF-kappa B
+T7	protein 740 750	NF-kappa B
+T8	protein 847 874	tumor necrosis factor alpha
+T9	protein 876 885	TNF alpha
+T10	protein 896 905	TNF alpha
+T11	protein 928 940	(NF)-kappa B
+T12	cell_line 950 964	Jurkat T-cells
+T13	protein 1078 1098	transcription factor
+T14	cell_line 1106 1147	peroxide sensitive human Wurzburg T-cells
+T15	cell_line 1174 1188	Wurzburg cells
+T16	cell_type 1250 1265	untreated cells
+T17	cell_line 1302 1316	Wurzburg cells
+T18	protein 1440 1450	NF-kappa B

@@ -1,0 +1,18 @@
+T1	cell_type 61 70	platelets
+T2	protein 326 359	regulatory and catalytic subunits
+T3	protein 363 392	cAMP-dependent protein kinase
+T4	protein 394 410	protein kinase A
+T5	protein 437 441	Rap1
+T6	cell_type 446 455	platelets
+T7	cell_type 564 573	Platelets
+T8	protein 720 749	cAMP-dependent protein kinase
+T9	protein 754 758	Rap1
+T10	protein 881 898	catalytic subunit
+T11	protein 902 931	cAMP-dependent protein kinase
+T12	protein 1219 1238	regulatory subunits
+T13	protein 1263 1292	cAMP-dependent protein kinase
+T14	protein 1316 1320	Rap1
+T15	protein 1456 1460	Rap1
+T16	protein 1469 1486	catalytic subunit
+T17	protein 1490 1519	cAMP-dependent protein kinase
+T18	cell_type 1539 1548	platelets

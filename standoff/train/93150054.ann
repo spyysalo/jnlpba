@@ -1,0 +1,46 @@
+T1	DNA 14 30	lymphokine genes
+T2	cell_type 34 41	T cells
+T3	DNA 51 74	cis-acting DNA elements
+T4	cell_type 132 139	T cells
+T5	cell_type 186 210	antigen presenting cells
+T6	cell_line 294 319	helper T cell (Th) clones
+T7	cell_line 321 324	Th1
+T8	cell_line 329 332	Th2
+T9	protein 384 392	cytokine
+T10	protein 394 404	lymphokine
+T11	DNA 520 536	lymphokine genes
+T12	DNA 698 714	lymphokine genes
+T13	protein 927 938	lymphokines
+T14	protein 962 1010	granulocyte-macrophage colony stimulating factor
+T15	protein 1012 1018	GM-CSF
+T16	DNA 1091 1108	cis-acting region
+T17	DNA 1122 1144	GM-CSF promoter region
+T18	DNA 1197 1211	reporter genes
+T19	DNA 1338 1341	GM2
+T20	DNA 1343 1349	GC-box
+T21	DNA 1354 1382	conserved lymphokine element
+T22	DNA 1384 1388	CLE0
+T23	DNA 1391 1394	GM2
+T24	DNA 1405 1417	binding site
+T25	protein 1481 1487	NF-GM2
+T26	protein 1506 1526	transcription factor
+T27	protein 1527 1532	NF-kB
+T28	DNA 1534 1540	GC-box
+T29	DNA 1546 1558	binding site
+T30	protein 1563 1592	constitutively bound proteins
+T31	DNA 1609 1621	binding site
+T32	protein 1692 1714	Viral trans-activators
+T33	protein 1723 1726	Tax
+T34	protein 1771 1773	E2
+T35	DNA 1845 1860	lymphokine gene
+T36	protein 1885 1900	T cell receptor
+T37	protein 1902 1905	TCR
+T38	protein 1958 1960	E2
+T39	protein 1965 1968	Tax
+T40	protein 2054 2076	viral trans-activators
+T41	protein 2103 2122	DNA binding protein
+T42	protein 2131 2136	NF-kB
+T43	protein 2141 2144	Sp1
+T44	DNA 2148 2167	cis-acting DNA site
+T45	DNA 2180 2195	lymphokine gene
+T46	protein 2215 2218	TCR

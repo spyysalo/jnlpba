@@ -1,0 +1,16 @@
+T1	DNA 7 8	X
+T2	DNA 128 154	alpha-galactosidase A gene
+T3	protein 296 317	alpha-galactosidase A
+T4	protein 414 433	alpha-galactosidase
+T5	cell_type 437 453	blood leucocytes
+T6	cell_type 455 471	skin fibroblasts
+T7	cell_line 473 523	Epstein-Barr virus transformed lymphoid cell lines
+T8	DNA 795 821	alpha-galactosidase A gene
+T9	DNA 894 918	position 10182 of exon 5
+T10	DNA 962 971	codon 231
+T11	DNA 1269 1279	inactive X
+T12	DNA 1308 1330	androgen receptor gene
+T13	DNA 1426 1457	maternally derived X chromosome
+T14	DNA 1514 1535	paternal X chromosome
+T15	DNA 1644 1665	paternal X chromosome
+T16	protein 1686 1707	alpha-galactosidase A

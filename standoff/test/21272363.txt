@@ -1,0 +1,9 @@
+Transforming growth factor-beta1 interferes with thrombopoietin-induced signal transduction in megakaryoblastic and erythroleukemic cells.
+OBJECTIVE:
+Thrombopoietin (TPO) and transforming growth factor-beta(1) (TGF-beta(1)) have been shown to exert opposite effects on proliferation and megakaryocytic differentiation of hematopoietic cells. To determine whether TGF-beta(1) interferes directly with TPO-induced signal transduction in hematopoietic cells, we compared the regulatory effects in the TPO-responsive cell lines Mo-7e and HEL.
+MATERIALS AND METHODS:
+The cells were stimulated by 100 ng/mL TPO and/or 100 ng/mL TGF-beta1 and analyzed for proliferation (3H thymidine incorporation), viability (trypan blue exclusion), and protein expression and phosphorylation (Western blot).
+RESULTS:
+TPO enhanced the proliferation of Mo-7e cells as determined by 3H-thymidine incorporation, whereas TGF-beta1 suppressed baseline cell growth and antagonized the proliferative effect of TPO. TPO-induced proliferation also was reduced by a specific inhibitor of the mitogen-activated protein kinase (MAPK) pathway (PD098059), which inhibits activation of the MAPK extracellular signal-regulated kinases (ERK) ERK1 and ERK2, and AG490, an inhibitor of Janus kinase-2, which completely blocked TPO-induced proliferation. As demonstrated by Western blotting, TGF-beta1 reduced the TPO-stimulated ERK1/ERK2 and STAT5 phosphorylation in Mo-7e and HEL cells. This effect was completely reversed by preincubation with a tyrosine phosphatase inhibitor (Na3VO4), which suggests that TGF-beta1 activated a phosphatase. Although STAT3 also was activated by TPO, STAT3 activation remained unaltered by TGF-beta1.
+CONCLUSION:
+Taken together, these data suggest that TGF-beta1 modulates TPO-mediated effects on megakaryocytic proliferation by interfering with TPO-induced signal transduction, particularly by reducing the activities of MAPK ERK1/ERK2 and STAT5.

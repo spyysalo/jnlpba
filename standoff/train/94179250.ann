@@ -1,0 +1,33 @@
+T1	DNA 4 45	interleukin-8 AP-1 and kappa B-like sites
+T2	protein 198 207	cytokines
+T3	cell_type 211 224	T lymphocytes
+T4	protein 283 303	chemotactic cytokine
+T5	protein 305 318	interleukin-8
+T6	protein 320 324	IL-8
+T7	cell_line 331 348	human T cell line
+T8	cell_line 350 362	Jurkat cells
+T9	DNA 496 510	IL-8 promoters
+T10	DNA 516 543	AP-1 and kappa B-like sites
+T11	DNA 658 662	AP-1
+T12	DNA 666 684	kappa B-like sites
+T13	DNA 859 868	AP-1 site
+T14	protein 938 947	anti-JunD
+T15	protein 951 965	c-Fos antibody
+T16	protein 1046 1081	kappa B-like site binding complexes
+T17	protein 1116 1126	antibodies
+T18	protein 1139 1164	human Rel family proteins
+T19	protein 1166 1171	c-Rel
+T20	protein 1173 1176	p65
+T21	protein 1178 1181	p50
+T22	protein 1187 1190	p49
+T23	DNA 1316 1328	kappa B site
+T24	DNA 1332 1356	immunoglobulin (Ig) gene
+T25	protein 1367 1377	NF-kappa B
+T26	DNA 1436 1458	IL-8 kappa B-like site
+T27	DNA 1466 1478	kappa B site
+T28	protein 1529 1544	binding factors
+T29	DNA 1594 1622	IL-2 NF-AT and NFIL-2A sites
+T30	DNA 1630 1642	kappa B site
+T31	protein 1657 1661	IL-8
+T32	DNA 1662 1666	AP-1
+T33	DNA 1671 1689	kappa B-like sites

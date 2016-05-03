@@ -1,0 +1,40 @@
+T1	protein 12 20	cytokine
+T2	protein 166 169	IgE
+T3	protein 173 182	cytokines
+T4	protein 198 224	STAT transcription factors
+T5	protein 243 246	IgE
+T6	protein 250 254	IL-4
+T7	protein 259 264	IL-13
+T8	protein 302 348	intracellular signal-transducing protein Stat6
+T9	protein 376 379	IgE
+T10	protein 399 411	interferon-y
+T11	protein 413 422	IFN-gamma
+T12	protein 457 462	Statl
+T13	protein 549 552	IgE
+T14	protein 607 610	IgE
+T15	protein 653 661	cytokine
+T16	protein 690 695	Stat6
+T17	cell_type 706 711	PBMCs
+T18	protein 765 768	IgE
+T19	protein 814 817	IgE
+T20	protein 879 882	IgE
+T21	protein 933 937	IL-4
+T22	protein 1087 1091	IL-4
+T23	protein 1169 1172	IgE
+T24	protein 1194 1199	IL-13
+T25	protein 1236 1241	Stat6
+T26	cell_type 1261 1266	PBMCs
+T27	protein 1335 1340	Stat6
+T28	protein 1392 1396	IL-4
+T29	cell_type 1496 1503	B cells
+T30	protein 1534 1537	IgE
+T31	cell_type 1550 1555	PBMCs
+T32	protein 1640 1643	IgE
+T33	protein 1719 1723	IL-4
+T34	protein 1733 1738	IL-13
+T35	protein 1788 1792	IL-4
+T36	protein 1847 1852	Stat6
+T37	cell_type 1867 1872	PBMCs
+T38	protein 1972 1975	IgE
+T39	protein 2010 2013	IgE
+T40	cell_type 2052 2059	B cells

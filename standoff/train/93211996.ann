@@ -1,0 +1,25 @@
+T1	protein 25 50	transcriptional activator
+T2	protein 51 61	NF-kappa B
+T3	protein 81 96	I kappa B-alpha
+T4	protein 102 141	NK-kappa B transcription factor complex
+T5	protein 200 215	I kappa B-alpha
+T6	protein 217 222	MAD-3
+T7	protein 316 326	NF-kappa B
+T8	cell_type 418 437	human T lymphocytes
+T9	cell_type 442 451	monocytes
+T10	protein 486 513	tumor necrosis factor alpha
+T11	protein 578 593	I kappa B-alpha
+T12	protein 626 636	NF-kappa B
+T13	RNA 673 693	I kappa B-alpha mRNA
+T14	RNA 754 774	I kappa B-alpha mRNA
+T15	protein 823 833	NF-kappa B
+T16	protein 855 858	p65
+T17	protein 866 871	c-Rel
+T18	protein 901 911	NF-kappa B
+T19	protein 916 931	I kappa B-alpha
+T20	protein 1010 1025	I kappa B-alpha
+T21	protein 1095 1105	NF-kappa B
+T22	RNA 1121 1141	I kappa B-alpha mRNA
+T23	protein 1198 1208	NF-kappa B
+T24	protein 1229 1244	I kappa B-alpha
+T25	protein 1293 1303	NF-kappa B

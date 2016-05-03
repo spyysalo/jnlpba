@@ -1,0 +1,47 @@
+T1	protein 48 99	human T-cell lymphotropic virus type 1 Tax1 protein
+T2	protein 108 129	CCAAT binding protein
+T3	protein 130 134	NF-Y
+T4	protein 136 140	Tax1
+T5	DNA 273 287	cellular genes
+T6	protein 289 293	Tax1
+T7	protein 391 430	sequence-specific transcription factors
+T8	protein 509 513	Tax1
+T9	protein 531 540	B subunit
+T10	protein 548 569	CCAAT binding protein
+T11	protein 570 574	NF-Y
+T12	DNA 582 599	HeLa cDNA library
+T13	protein 620 624	Tax1
+T14	protein 630 635	NF-YB
+T15	protein 657 662	NF-YB
+T16	protein 704 725	transcription factors
+T17	protein 737 769	human immunodeficiency virus Tat
+T18	protein 771 794	human papillomavirus E6
+T19	protein 800 806	Bicoid
+T20	protein 820 856	M7 (amino acids 29CP-AS) Tax1 mutant
+T21	protein 867 872	NF-YB
+T22	protein 895 918	C-terminal Tax1 mutants
+T23	protein 919 922	M22
+T24	protein 924 932	130TL-AS
+T25	protein 938 941	M47
+T26	protein 943 951	319LL-RS
+T27	protein 992 997	NF-YB
+T28	protein 1022 1067	glutathione S-transferase-Tax1 fusion protein
+T29	protein 1078 1082	Tax1
+T30	protein 1109 1113	NF-Y
+T31	cell_type 1139 1163	HTLV-1-transformed cells
+T32	protein 1211 1215	Tax1
+T33	protein 1220 1225	NF-YB
+T34	protein 1255 1259	Tax1
+T35	DNA 1287 1318	NF-Y-responsive DQbeta promoter
+T36	DNA 1333 1349	minimal promoter
+T37	DNA 1374 1387	Y-box element
+T38	DNA 1418 1431	Y-box element
+T39	protein 1448 1452	Tax1
+T40	protein 1515 1519	Tax1
+T41	protein 1535 1539	NF-Y
+T42	protein 1552 1561	B subunit
+T43	DNA 1617 1667	major histocompatibility complex class II promoter
+T44	protein 1706 1710	NF-Y
+T45	DNA 1718 1727	promoters
+T46	protein 1733 1737	Tax1
+T47	protein 1737 1742	-NF-Y

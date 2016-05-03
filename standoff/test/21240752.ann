@@ -1,0 +1,16 @@
+T1	DNA 0 4	Pax5
+T2	cell_type 32 39	B cells
+T3	DNA 220 229	Pax5 gene
+T4	protein 243 268	transcription factor BSAP
+T5	cell_type 345 371	Pax5-deficient pro-B cells
+T6	cell_type 411 429	B-lymphoid lineage
+T7	DNA 495 499	Pax5
+T8	DNA 575 595	non-B-lymphoid genes
+T9	DNA 647 671	B-lineage-specific genes
+T10	DNA 673 677	Pax5
+T11	protein 779 791	corepressors
+T12	protein 799 821	Groucho protein family
+T13	protein 862 882	TATA-binding protein
+T14	cell_type 906 915	B-lineage
+T15	cell_type 917 924	B cells
+T16	DNA 933 937	Pax5

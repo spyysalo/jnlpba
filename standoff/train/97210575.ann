@@ -1,0 +1,62 @@
+T1	protein 16 21	c-Fos
+T2	cell_type 25 65	activated T lymphoid and monocytic cells
+T3	protein 69 111	human immunodeficiency virus-1 Tat protein
+T4	protein 117 139	regulatory Tat protein
+T5	protein 383 386	Tat
+T6	protein 443 454	Tat protein
+T7	cell_line 483 540	T lymphoblastoid (Jurkat) and monocytic (U937) cell lines
+T8	cell_type 556 598	primary peripheral blood mononuclear cells
+T9	cell_type 600 604	PBMC
+T10	DNA 635 643	tat cDNA
+T11	DNA 666 671	tat/S
+T12	DNA 690 697	plasmid
+T13	DNA 713 727	c-fos promoter
+T14	DNA 729 732	FC3
+T15	DNA 740 750	711 to +42
+T16	DNA 768 822	bacterial chloramphenicol acetyltransferase (CAT) gene
+T17	protein 846 849	CAT
+T18	cell_line 862 874	Jurkat cells
+T19	protein 950 968	phytohemagglutinin
+T20	cell_line 1023 1033	U937 cells
+T21	protein 1112 1115	Tat
+T22	cell_line 1123 1129	Jurkat
+T23	cell_line 1134 1144	U937 cells
+T24	DNA 1171 1179	tat cDNA
+T25	DNA 1206 1212	tat/AS
+T26	DNA 1215 1218	tat
+T27	protein 1246 1267	aminoacid cys22-gly22
+T28	DNA 1269 1277	tat 22/S
+T29	DNA 1291 1312	backbone vector alone
+T30	DNA 1314 1324	pRPneo-SL3
+T31	DNA 1369 1383	c-fos promoter
+T32	DNA 1431 1442	FC3 plasmid
+T33	DNA 1483 1497	c-fos promoter
+T34	DNA 1517 1537	minimal DNA sequence
+T35	protein 1551 1554	Tat
+T36	DNA 1584 1605	nucleotides -404/-220
+T37	DNA 1619 1643	serum responsive element
+T38	DNA 1645 1648	SRE
+T39	DNA 1650 1659	-317/-288
+T40	protein 1714 1717	Tat
+T41	DNA 1721 1742	single point mutation
+T42	DNA 1750 1753	SRE
+T43	DNA 1797 1802	tat/S
+T44	protein 1814 1837	recombinant Tat protein
+T45	DNA 1866 1880	c-fos promoter
+T46	cell_line 1920 1930	U937 cells
+T47	RNA 1954 1964	c-fos mRNA
+T48	protein 1980 1985	c-Fos
+T49	cell_line 2012 2038	serum-activated cell lines
+T50	cell_type 2043 2055	primary PBMC
+T51	protein 2057 2062	c-Fos
+T52	DNA 2135 2155	long terminal repeat
+T53	DNA 2157 2160	LTR
+T54	protein 2165 2168	Tat
+T55	cell_line 2184 2196	Jurkat cells
+T56	protein 2284 2287	Tat
+T57	DNA 2314 2340	LTR-CAT reporter construct
+T58	protein 2358 2365	gag p24
+T59	cell_line 2397 2409	Jurkat cells
+T60	cell_type 2414 2418	PBMC
+T61	DNA 2474 2479	c-fos
+T62	protein 2505 2508	Tat

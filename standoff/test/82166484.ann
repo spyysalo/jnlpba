@@ -1,0 +1,18 @@
+T1	protein 134 160	human leukocyte interferon
+T2	protein 242 268	human leukocyte interferon
+T3	protein 499 537	cytosol and nuclear estrogen receptors
+T4	protein 539 542	ERC
+T5	protein 547 550	ERN
+T6	protein 570 589	progestin receptors
+T7	protein 591 594	PRC
+T8	protein 599 602	PRN
+T9	protein 949 959	interferon
+T10	protein 1188 1221	endometrial ERC, ERN, PRC and PRN
+T11	protein 1234 1244	interferon
+T12	protein 1274 1284	interferon
+T13	cell_type 1322 1331	leukocyte
+T14	protein 1394 1420	serum alkaline phosphatase
+T15	protein 1425 1450	gamma-glutamyltransferase
+T16	protein 1462 1472	interferon
+T17	protein 1492 1502	interferon
+T18	protein 1609 1619	interferon

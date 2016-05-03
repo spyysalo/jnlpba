@@ -1,0 +1,46 @@
+T1	DNA 91 125	NF-kappaB and Sp1 binding elements
+T2	DNA 250 259	NF-kappaB
+T3	DNA 267 287	Sp1 binding elements
+T4	DNA 442 481	NF-kappaB and four Spl binding elements
+T5	cell_line 546 588	peripheral blood mononuclear cell cultures
+T6	cell_line 708 721	CEMxl74 cells
+T7	protein 725 733	NFKappaB
+T8	protein 741 750	SlVmac239
+T9	protein 765 778	deltaNFkappaB
+T10	protein 793 804	deltaSpl234
+T11	protein 819 832	substNFkappaB
+T12	protein 847 856	substSpl2
+T13	protein 871 880	substSp23
+T14	cell_line 960 973	CEMxl74 cells
+T15	protein 987 996	substSp34
+T16	protein 999 1023	deltaNFkappaBdeltaSpl234
+T17	protein 1038 1059	deltaNFkappaBdeltaSp1
+T18	protein 1062 1073	substSpl234
+T19	DNA 1136 1152	U3 and R regions
+T20	DNA 1156 1168	proviral DNA
+T21	cell_line 1174 1187	CEMxl74 cells
+T22	cell_type 1345 1378	peripheral blood mononuclear cell
+T23	cell_line 1383 1399	CEMx174 cultures
+T24	cell_type 1463 1505	primary rhesus monkey alveolar macrophages
+T25	protein 1531 1541	2xNFkappaB
+T26	protein 1556 1569	substNFkappaB
+T27	protein 1572 1585	deltaNFkappaB
+T28	protein 1588 1601	deltaNFkappaB
+T29	protein 1601 1612	deltaSpl234
+T30	protein 1627 1648	deltaNFkappaBdeltaSpl
+T31	protein 1651 1662	deltaSpl234
+T32	protein 1677 1686	substSpl2
+T33	protein 1689 1698	substSp23
+T34	protein 1713 1722	substSp34
+T35	protein 1737 1748	substSpl234
+T36	DNA 1789 1806	Sp1 binding sites
+T37	cell_line 1862 1889	primary macrophage cultures
+T38	DNA 1903 1923	long terminal repeat
+T39	protein 1940 1960	alkaline phosphatase
+T40	DNA 2051 2075	SIV long terminal repeat
+T41	DNA 2089 2104	enhancer region
+T42	DNA 2126 2143	NF-kappaB element
+T43	DNA 2220 2243	NF-kappaB and Sp1 sites
+T44	protein 2293 2296	Tat
+T45	DNA 2315 2327	SIV TATA box
+T46	DNA 2542 2566	enhancer/promoter region

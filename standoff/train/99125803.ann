@@ -1,0 +1,32 @@
+T1	protein 59 89	CREB/ATF-1/CREM family members
+T2	cell_type 93 127	peripheral blood mononuclear cells
+T3	cell_line 132 146	Jurkat T cells
+T4	protein 524 551	virally encoded Tax protein
+T5	protein 553 556	Tax
+T6	protein 597 715	cyclic adenosine monophosphate (cAMP) response element binding (CREB)/activating transcription factor 1 (ATF-1) family
+T7	protein 719 740	transcription factors
+T8	DNA 752 765	21-bp repeats
+T9	DNA 767 791	Tax-responsive element-1
+T10	DNA 796 801	TRE-1
+T11	DNA 814 828	viral promoter
+T12	cell_type 928 962	peripheral blood mononuclear cells
+T13	cell_type 964 968	PBMC
+T14	cell_line 974 986	Jurkat cells
+T15	protein 1062 1083	transcription factors
+T16	DNA 1089 1094	TRE-1
+T17	protein 1152 1179	phosphorylated CREB protein
+T18	protein 1181 1187	P-CREB
+T19	cell_type 1214 1218	PBMC
+T20	cell_line 1223 1235	Jurkat cells
+T21	protein 1260 1266	P-CREB
+T22	cell_type 1293 1297	PBMC
+T23	cell_line 1353 1365	Jurkat cells
+T24	protein 1423 1429	P-CREB
+T25	cell_type 1445 1449	PBMC
+T26	cell_line 1454 1466	Jurkat cells
+T27	cell_type 1709 1713	PBMC
+T28	cell_line 1779 1793	Jurkat T cells
+T29	protein 1891 1901	CREB/ATF-1
+T30	DNA 1905 1910	TRE-1
+T31	cell_type 2087 2091	PBMC
+T32	protein 2120 2126	P-CREB

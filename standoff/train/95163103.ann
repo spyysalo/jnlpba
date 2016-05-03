@@ -1,0 +1,28 @@
+T1	protein 0 5	OBF-1
+T2	protein 9 42	novel B cell-specific coactivator
+T3	DNA 59 82	immunoglobulin promoter
+T4	protein 117 141	octamer-binding proteins
+T5	protein 215 239	octamer-binding proteins
+T6	protein 240 245	Oct-1
+T7	protein 250 255	Oct-2
+T8	protein 263 280	B cell components
+T9	DNA 341 369	immunoglobulin gene promoter
+T10	DNA 430 450	B cell-derived cDNAs
+T11	protein 460 480	Oct-binding factor 1
+T12	protein 482 487	OBF-1
+T13	protein 540 545	Oct-1
+T14	protein 550 555	Oct-2
+T15	protein 594 599	OBF-1
+T16	protein 657 668	POU domains
+T17	protein 672 677	Oct-1
+T18	protein 682 687	Oct-2
+T19	protein 706 711	Oct-4
+T20	protein 716 721	Oct-6
+T21	RNA 727 737	OBF-1 mRNA
+T22	cell_type 808 815	B cells
+T23	protein 912 917	OBF-1
+T24	cell_line 921 931	HeLa cells
+T25	DNA 981 1004	immunoglobulin promoter
+T26	DNA 1011 1023	octamer site
+T27	protein 1048 1053	OBF-1
+T28	protein 1092 1143	B cell-specific transcriptional coactivator protein

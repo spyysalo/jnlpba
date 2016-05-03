@@ -1,0 +1,12 @@
+T1	protein 14 31	RNA polymerase II
+T2	cell_type 49 60	human cells
+T3	cell_type 174 185	human cells
+T4	protein 255 297	cellular DNA-binding transcription factors
+T5	protein 459 480	transcription factors
+T6	protein 481 486	Ets-1
+T7	protein 488 522	lymphoid-enhancer binding factor 1
+T8	protein 528 552	TATA-box binding protein
+T9	protein 619 639	transcription factor
+T10	cell_type 768 811	isolated human peripheral blood lymphocytes
+T11	DNA 902 915	DNA sequences
+T12	DNA 931 958	RNA polymerase II promoters

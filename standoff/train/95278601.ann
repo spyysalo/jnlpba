@@ -1,0 +1,25 @@
+T1	cell_type 57 81	steroid-responsive cells
+T2	RNA 88 92	mRNA
+T3	DNA 142 173	steroid-regulated gene networks
+T4	protein 177 202	nuclear receptor proteins
+T5	DNA 263 275	target genes
+T6	RNA 486 490	mRNA
+T7	protein 512 533	reverse transcriptase
+T8	cell_type 600 609	thymocyte
+T9	cell_type 614 628	prostate cells
+T10	DNA 709 747	differentially expressed sequence tags
+T11	DNA 749 754	DESTs
+T12	cell_line 765 790	mouse thymocyte cell line
+T13	cell_line 791 799	WEHI 7.2
+T14	DNA 814 819	DESTs
+T15	DNA 821 826	GIG10
+T16	DNA 831 836	GIG18
+T17	DNA 900 905	GIG10
+T18	DNA 930 935	GIG18
+T19	DNA 964 992	human expressed sequence tag
+T20	cell_type 1007 1030	activated B lymphocytes
+T21	DNA 1062 1067	DESTs
+T22	RNA 1182 1188	3' end
+T23	RNA 1192 1231	prostatic spermine binding protein mRNA
+T24	DNA 1241 1264	androgen-regulated gene
+T25	DNA 1394 1399	DESTs

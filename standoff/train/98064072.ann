@@ -1,0 +1,24 @@
+T1	cell_type 0 13	B lymphocytes
+T2	protein 70 127	signal transducer and activator of transcription (STAT) 1
+T3	protein 132 137	STAT3
+T4	protein 306 369	signal transducer and activator of transcription (STAT) factors
+T5	protein 472 476	STAT
+T6	cell_line 480 489	CLL cells
+T7	protein 543 548	STAT1
+T8	protein 553 558	STAT3
+T9	cell_line 562 571	CLL cells
+T10	protein 634 639	STAT1
+T11	protein 682 687	STAT3
+T12	protein 768 773	STAT1
+T13	protein 778 783	STAT3
+T14	cell_type 878 891	B lymphocytes
+T15	cell_type 895 908	CD5+) B cells
+T16	protein 1000 1005	STAT1
+T17	protein 1010 1015	STAT3
+T18	protein 1138 1143	STATs
+T19	cell_line 1187 1196	CLL cells
+T20	protein 1206 1225	kinase inhibitor H7
+T21	protein 1368 1400	mitogen-activated protein kinase
+T22	protein 1405 1414	pp70(s6k)
+T23	protein 1471 1476	STAT1
+T24	protein 1481 1486	STAT3

@@ -1,0 +1,39 @@
+T1	protein 14 26	sialoadhesin
+T2	cell_type 41 56	rat macrophages
+T3	protein 106 114	IFN-beta
+T4	protein 116 125	IFN-gamma
+T5	protein 127 131	IL-4
+T6	protein 157 169	Sialoadhesin
+T7	protein 175 203	macrophage-restricted member
+T8	protein 211 225	Ig superfamily
+T9	cell_type 254 280	lymphoid and myeloid cells
+T10	cell_type 320 331	macrophages
+T11	protein 450 462	sialoadhesin
+T12	protein 525 537	sialoadhesin
+T13	cell_type 569 584	rat macrophages
+T14	cell_line 593 620	rat macrophage cell line R2
+T15	protein 626 635	cytokines
+T16	protein 636 644	IFN-beta
+T17	protein 646 655	IFN-gamma
+T18	protein 657 661	IL-4
+T19	protein 698 710	sialoadhesin
+T20	protein 783 795	sialoadhesin
+T21	protein 797 809	Sialoadhesin
+T22	cell_type 874 884	human RBCs
+T23	protein 1035 1044	cytokines
+T24	protein 1114 1126	sialoadhesin
+T25	protein 1144 1152	IFN-beta
+T26	protein 1157 1161	IL-4
+T27	protein 1185 1194	IFN-gamma
+T28	protein 1229 1238	IFN-gamma
+T29	protein 1287 1295	IFN-beta
+T30	protein 1300 1304	IL-4
+T31	protein 1361 1373	sialoadhesin
+T32	protein 1405 1416	GC receptor
+T33	protein 1429 1455	mineralocorticoid receptor
+T34	cell_type 1552 1563	macrophages
+T35	protein 1638 1650	sialoadhesin
+T36	protein 1712 1724	sialoadhesin
+T37	cell_type 1739 1754	rat macrophages
+T38	protein 1797 1805	IFN-beta
+T39	protein 1807 1831	T cell-derived cytokines

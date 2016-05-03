@@ -1,0 +1,33 @@
+T1	protein 54 72	vitamin D receptor
+T2	cell_line 76 101	human HL60 leukemia cells
+T3	cell_type 106 134	peripheral blood lymphocytes
+T4	protein 198 221	High affinity receptors
+T5	protein 223 226	VDR
+T6	cell_type 340 368	peripheral blood lymphocytes
+T7	cell_type 370 373	PBL
+T8	cell_line 376 386	HL60 cells
+T9	cell_line 423 436	promyelocytes
+T10	protein 532 550	[3H]calcitriol/VDR
+T11	cell_type 582 593	whole cells
+T12	protein 758 776	[3H]calcitriol/VDR
+T13	cell_line 898 908	HL60 cells
+T14	cell_type 994 997	PBL
+T15	cell_line 1017 1021	HL60
+T16	protein 1156 1177	1600 radiolabeled VDR
+T17	protein 1208 1211	VDR
+T18	protein 1221 1237	Radiolabeled VDR
+T19	protein 1453 1456	VDR
+T20	cell_type 1516 1519	PBL
+T21	protein 1527 1530	VDR
+T22	protein 1685 1724	Radiolabeled hormone/receptor complexes
+T23	protein 1998 2018	DNA relaxing enzymes
+T24	protein 2025 2048	topoisomerases I and II
+T25	cell_line 2265 2269	HL60
+T26	cell_type 2274 2277	PBL
+T27	cell_type 2326 2329	PBL
+T28	cell_line 2371 2375	HL60
+T29	cell_line 2399 2423	ethanol treated controls
+T30	protein 2572 2589	receptor proteins
+T31	protein 2613 2652	Translocated hormone/receptor complexes
+T32	protein 2738 2752	topoisomerases
+T33	protein 2795 2798	VDR

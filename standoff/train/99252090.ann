@@ -1,0 +1,49 @@
+T1	cell_line 0 46	Unicellular-unilineage erythropoietic cultures
+T2	cell_type 318 344	progenitor/precursor cells
+T3	cell_type 440 479	purified hematopoietic progenitor cells
+T4	protein 593 606	growth factor
+T5	protein 608 610	GF
+T6	cell_type 629 661	cord blood (CB) progenitor cells
+T7	cell_type 724 741	erythroid lineage
+T8	cell_type 887 912	hematopoietic progenitors
+T9	protein 1100 1121	reverse transcriptase
+T10	protein 1243 1252	receptors
+T11	protein 1254 1280	markers of differentiation
+T12	protein 1286 1307	transcription factors
+T13	protein 1309 1313	EKLF
+T14	protein 1315 1321	GATA-1
+T15	protein 1323 1329	GATA-2
+T16	protein 1331 1340	p45 NF-E2
+T17	protein 1342 1346	PU.1
+T18	protein 1352 1360	SCL/Tal1
+T19	cell_type 1429 1442	CD34(+) cells
+T20	protein 1453 1457	CD34
+T21	protein 1459 1464	c-kit
+T22	protein 1466 1470	PU.1
+T23	protein 1476 1482	GATA-2
+T24	protein 1503 1507	CD36
+T25	protein 1509 1532	erythropoietin receptor
+T26	protein 1534 1538	EpoR
+T27	protein 1541 1549	SCL/Tal1
+T28	protein 1551 1555	EKLF
+T29	protein 1564 1570	GATA-1
+T30	protein 1575 1589	glyocophorin A
+T31	protein 1591 1594	GPA
+T32	protein 1688 1692	CD36
+T33	protein 1694 1698	Tal1
+T34	protein 1700 1704	EKLF
+T35	protein 1706 1711	NF-E2
+T36	protein 1717 1723	GATA-1
+T37	protein 1753 1757	EpoR
+T38	protein 1799 1802	GPA
+T39	protein 1828 1832	CD34
+T40	protein 1834 1839	c-kit
+T41	protein 1841 1845	PU.1
+T42	protein 1851 1857	GATA-2
+T43	RNA 1949 1970	CD34 mRNA transcripts
+T44	cell_line 1974 2002	sibling CD34(+)CD38(-) cells
+T45	cell_line 2022 2051	unilineage erythroid cultures
+T46	RNA 2126 2135	CD34 mRNA
+T47	cell_type 2141 2157	progenitor cells
+T48	cell_line 2172 2205	differentiating erythroid progeny
+T49	cell_type 2390 2426	hematopoietic progenitors/precursors

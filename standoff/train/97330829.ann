@@ -1,0 +1,23 @@
+T1	DNA 38 43	c-fos
+T2	protein 82 93	H2 receptor
+T3	cell_line 101 134	human promonocytic cell line U937
+T4	DNA 215 246	c-fos and c-myc proto-oncogenes
+T5	cell_line 302 335	human promonocytic U937 cell line
+T6	DNA 378 383	c-fos
+T7	protein 403 415	H2 receptors
+T8	RNA 447 457	c-fos mRNA
+T9	protein 462 469	protein
+T10	DNA 636 641	c-fos
+T11	DNA 707 712	c-fos
+T12	protein 727 739	H2 receptors
+T13	protein 780 782	H7
+T14	protein 786 829	protein kinase A/protein kinase C inhibitor
+T15	DNA 839 844	c-fos
+T16	protein 924 940	protein kinase C
+T17	DNA 971 976	c-myc
+T18	DNA 1129 1143	proto-oncogene
+T19	cell_line 1295 1305	U937 cells
+T20	protein 1511 1522	H2 receptor
+T21	DNA 1689 1694	c-fos
+T22	cell_line 1747 1757	U937 cells
+T23	protein 1806 1818	H2 receptors

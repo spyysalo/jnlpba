@@ -1,0 +1,38 @@
+T1	cell_type 22 55	tumor-draining lymph node T cells
+T2	protein 76 105	signal transduction molecules
+T3	cell_type 163 170	T cells
+T4	protein 194 202	anti-CD3
+T5	protein 207 220	interleukin 2
+T6	protein 222 226	IL-2
+T7	cell_type 318 336	activated LN cells
+T8	cell_line 382 410	genetically modified variant
+T9	cell_line 423 427	D5G6
+T10	protein 443 491	granulocyte/macrophage-colony-stimulating factor
+T11	cell_line 508 540	anti-CD3/IL-2-activated LN cells
+T12	cell_type 580 605	tumor-draining LN T cells
+T13	protein 798 814	tyrosine kinases
+T14	protein 815 821	p56lck
+T15	protein 826 832	p59fyn
+T16	protein 853 869	NF-kappaB family
+T17	cell_type 887 912	tumor-draining LN T cells
+T18	protein 928 934	p56lck
+T19	protein 939 945	p59fyn
+T20	cell_type 983 1000	normal LN T cells
+T21	protein 1019 1053	tyrosine-phosphorylated substrates
+T22	protein 1087 1095	anti-CD3
+T23	protein 1121 1129	anti-CD3
+T24	protein 1129 1134	/IL-2
+T25	protein 1157 1163	p56lck
+T26	protein 1168 1174	p59fyn
+T27	protein 1252 1258	p56lck
+T28	protein 1260 1266	p59fyn
+T29	cell_type 1312 1329	activated T cells
+T30	protein 1443 1448	c-Rel
+T31	protein 1453 1458	Rel A
+T32	protein 1525 1531	kappaB
+T33	protein 1564 1576	anti-CD3 mAb
+T34	cell_type 1622 1640	activated LN cells
+T35	cell_type 1646 1660	D5 tumor cells
+T36	protein 1698 1707	NF-kappaB
+T37	protein 1805 1832	T cell receptor/CD3 complex
+T38	cell_type 1836 1846	LN T cells

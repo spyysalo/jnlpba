@@ -1,0 +1,16 @@
+T1	cell_line 58 88	human breast cancer cell lines
+T2	cell_type 101 134	lymphokine-activated killer cells
+T3	cell_line 300 401	Estrogen receptor positive (ER+: MCF-7) and negative (ER-: MDA-MB-231) human breast cancer cell lines
+T4	cell_type 543 582	lymphokine-activated killer (LAK) cells
+T5	cell_line 584 607	E2-stimulated ER+ cells
+T6	cell_type 642 651	LAK cells
+T7	cell_line 671 682	TAM-treated
+T8	cell_type 686 699	control cells
+T9	cell_line 720 729	ER- cells
+T10	cell_line 841 858	ER+ and ER- cells
+T11	cell_type 922 931	LAK cells
+T12	protein 949 1013	adenocarcinoma reactive human-mouse chimeric monoclonal antibody
+T13	protein 1015 1020	ING-1
+T14	cell_line 1099 1153	control, E2-treated, and TAM-treated ER+ and ER- cells
+T15	protein 1238 1251	interleukin-2
+T16	protein 1253 1257	IL-2

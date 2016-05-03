@@ -1,0 +1,22 @@
+T1	protein 23 59	55 kd tumor necrosis factor receptor
+T2	protein 175 196	tumor necrosis factor
+T3	protein 198 201	TNF
+T4	protein 232 254	cell surface receptors
+T5	protein 258 263	55 kd
+T6	protein 265 272	TNFRp55
+T7	protein 278 283	75 kd
+T8	protein 285 292	TNFRp75
+T9	protein 332 339	TNFRp55
+T10	protein 416 423	TNFRp55
+T11	protein 454 485	high affinity TNFRp75 molecules
+T12	cell_type 487 496	Thymocyte
+T13	cell_type 513 535	lymphocyte populations
+T14	cell_type 586 607	self-reactive T cells
+T15	protein 634 637	TNF
+T16	protein 698 701	TNF
+T17	protein 712 722	NF-kappa B
+T18	cell_type 726 739	T lymphocytes
+T19	protein 745 752	TNFRp55
+T20	protein 781 788	TNFRp55
+T21	protein 872 895	S. aureus enterotoxin B
+T22	protein 1025 1035	55 kd TNFR

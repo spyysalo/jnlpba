@@ -1,0 +1,17 @@
+T1	protein 39 48	NF-kappaB
+T2	protein 52 80	tumour necrosis factor-alpha
+T3	cell_type 84 91	T-cells
+T4	protein 413 443	NF-kappaB transcription factor
+T5	cell_line 447 461	Jurkat T-cells
+T6	protein 476 504	tumour necrosis factor-alpha
+T7	protein 506 515	TNF-alpha
+T8	protein 614 623	NF-kappaB
+T9	cell_line 634 667	TNF-alpha-stimulated Jurkat cells
+T10	protein 728 744	IkBalpha protein
+T11	protein 807 816	NF-kappaB
+T12	protein 850 859	NF-kappaB
+T13	DNA 892 927	HIV-1 long terminal repeat promoter
+T14	cell_line 931 964	TNF-alpha-stimulated Jurkat cells
+T15	protein 1094 1103	TNF-alpha
+T16	protein 1113 1122	NF-kappaB
+T17	cell_type 1352 1359	T-cells

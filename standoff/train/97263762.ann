@@ -1,0 +1,16 @@
+T1	protein 18 47	SAF-like transcription factor
+T2	DNA 69 89	serum amyloid A gene
+T3	cell_type 93 118	monocyte/macrophage cells
+T4	protein 142 157	Serum amyloid A
+T5	protein 159 162	SAA
+T6	DNA 477 485	SAA gene
+T7	cell_line 489 520	THP-1 monocyte/macrophage cells
+T8	protein 651 654	SAA
+T9	cell_type 674 699	monocyte/macrophage cells
+T10	DNA 777 798	SAA promoter sequence
+T11	protein 993 1012	DNA-binding protein
+T12	protein 1144 1158	nuclear factor
+T13	protein 1170 1173	SAF
+T14	protein 1220 1223	SAA
+T15	cell_type 1242 1267	monocyte/macrophage cells
+T16	protein 1305 1308	SAF

@@ -1,0 +1,15 @@
+T1	protein 44 67	coactivator BOB.1/OBF.1
+T2	cell_type 71 78	T cells
+T3	protein 95 106	BOB.1/OBF.1
+T4	protein 112 139	transcriptional coactivator
+T5	cell_type 176 183	B cells
+T6	protein 221 242	transcription factors
+T7	cell_line 263 277	Jurkat T cells
+T8	cell_type 282 307	primary murine thymocytes
+T9	protein 343 354	BOB.1/OBF.1
+T10	protein 409 420	BOB.1/OBF.1
+T11	cell_type 601 608	B cells
+T12	cell_type 678 685	T cells
+T13	cell_type 715 722	B cells
+T14	protein 730 741	BOB.1/OBF.1
+T15	protein 747 774	transcriptional coactivator

@@ -1,0 +1,26 @@
+T1	DNA 12 39	NF-kappa B1 (p50/p105) gene
+T2	cell_type 68 93	human blood T-lymphocytes
+T3	protein 98 129	CD2 and CD28 adhesion molecules
+T4	cell_type 146 173	primary human T-lymphocytes
+T5	protein 178 209	CD2 and CD28 adhesion molecules
+T6	cell_type 325 334	monocytes
+T7	protein 362 375	interleukin 2
+T8	protein 377 381	IL-2
+T9	DNA 482 531	CD25/IL-2 receptor alpha (IL-2R alpha) chain gene
+T10	protein 537 568	transcription factor NF-kappa B
+T11	DNA 608 634	IL-2 and IL-2R alpha genes
+T12	DNA 647 670	multiple cellular genes
+T13	protein 729 739	NF-kappa B
+T14	cell_type 743 779	human peripheral blood T-lymphocytes
+T15	protein 822 850	NF-kappa B-related complexes
+T16	protein 931 950	p50/p65 heterodimer
+T17	protein 954 984	putative p65/c-Rel heterodimer
+T18	protein 1027 1047	KBF1/p50 homodimers.
+T19	protein 1063 1066	p50
+T20	protein 1116 1127	NF-kappa B1
+T21	protein 1129 1137	p50/p105
+T22	DNA 1251 1267	NF-kappa B1 gene
+T23	protein 1309 1317	CD2+CD28
+T24	cell_type 1584 1608	peripheral blood T-cells
+T25	protein 1659 1670	NF-kappa B1
+T26	protein 1745 1761	CD25/IL-2R alpha

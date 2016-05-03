@@ -1,0 +1,29 @@
+T1	DNA 43 89	human T-cell receptor beta-chain core promoter
+T2	DNA 95 137	T-cell receptor (TCR) beta-chain promoters
+T3	DNA 165 194	nonstructured basal promoters
+T4	DNA 225 265	ubiquitous cyclic AMP-responsive element
+T5	DNA 292 311	human TCR beta gene
+T6	DNA 381 403	TCR Vbeta 8.1 promoter
+T7	DNA 421 429	promoter
+T8	DNA 431 451	positions -42 to +11
+T9	protein 474 518	lymphoid cell-specific transcription factors
+T10	protein 519 524	Ets-1
+T11	protein 526 530	LEF1
+T12	protein 536 540	AML1
+T13	protein 555 565	CREB/ATF-1
+T14	protein 651 655	LEF1
+T15	cell_type 697 704	T cells
+T16	DNA 706 719	Binding sites
+T17	DNA 769 784	consensus sites
+T18	protein 799 803	CREB
+T19	protein 805 810	Ets-1
+T20	protein 816 820	AML1
+T21	DNA 886 912	nonconsensus binding sites
+T22	DNA 920 940	core promoter region
+T23	protein 995 1019	CREB/ATF and Sp1 factors
+T24	DNA 1028 1054	proximal upstream elements
+T25	DNA 1060 1099	tissue-specific core promoter structure
+T26	DNA 1133 1168	T-cell-specifically expressed genes
+T27	DNA 1181 1189	CD4 gene
+T28	DNA 1230 1238	enhancer
+T29	DNA 1247 1255	promoter

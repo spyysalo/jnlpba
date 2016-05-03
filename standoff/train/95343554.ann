@@ -1,0 +1,19 @@
+T1	DNA 0 8	E1A gene
+T2	cell_type 57 65	NK cells
+T3	cell_type 124 135	human cells
+T4	protein 167 170	E1A
+T5	protein 278 281	E1A
+T6	cell_type 296 307	human cells
+T7	cell_line 321 345	transfected target cells
+T8	protein 425 437	E1A proteins
+T9	cell_line 441 460	Ad-infected targets
+T10	DNA 479 487	E1A gene
+T11	cell_type 635 647	target cells
+T12	DNA 654 664	viral gene
+T13	protein 676 695	class I MHC antigen
+T14	cell_type 710 722	target cells
+T15	protein 752 755	E1A
+T16	cell_type 830 841	human cells
+T17	cell_type 856 870	human NK cells
+T18	cell_line 971 993	E1A-immortalized cells
+T19	cell_type 1032 1059	persistently infected cells

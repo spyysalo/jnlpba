@@ -1,0 +1,30 @@
+T1	cell_type 0 19	Activated platelets
+T2	protein 27 57	monocyte chemotactic protein-1
+T3	cell_type 94 127	intercellular adhesion molecule-1
+T4	cell_type 131 148	endothelial cells
+T5	protein 320 350	monocyte chemotactic protein-1
+T6	protein 352 357	MCP-1
+T7	cell_type 395 428	intercellular adhesion molecule-1
+T8	protein 430 436	ICAM-1
+T9	cell_type 441 458	endothelial cells
+T10	cell_type 513 551	human umbilical vein endothelial cells
+T11	cell_type 589 612	ADP-activated platelets
+T12	protein 643 648	MCP-1
+T13	protein 675 681	ICAM-1
+T14	cell_type 760 783	ADP-activated platelets
+T15	protein 790 795	MCP-1
+T16	protein 810 816	ICAM-1
+T17	cell_type 879 902	nonstimulated platelets
+T18	protein 931 973	transcription factor nuclear factor-kappaB
+T19	protein 975 984	NF-kappaB
+T20	protein 1041 1047	kappaB
+T21	cell_type 1115 1134	activated platelets
+T22	cell_type 1149 1172	ADP-activated platelets
+T23	protein 1356 1361	MCP-1
+T24	protein 1398 1404	ICAM-1
+T25	cell_type 1486 1505	activated platelets
+T26	protein 1528 1533	MCP-1
+T27	protein 1549 1555	ICAM-1
+T28	cell_type 1571 1588	endothelial cells
+T29	protein 1596 1605	NF-kappaB
+T30	protein 1662 1671	NF-kappaB

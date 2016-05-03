@@ -1,0 +1,18 @@
+T1	protein 14 24	NF-kappa B
+T2	protein 78 98	transcription factor
+T3	protein 99 121	nuclear factor-kappa B
+T4	protein 123 133	NF-kappa B
+T5	DNA 188 212	cellular and viral genes
+T6	protein 262 275	interleukin-1
+T7	protein 277 281	IL-1
+T8	protein 284 288	IL-6
+T9	protein 294 312	adhesion molecules
+T10	protein 400 410	NF-kappa B
+T11	protein 524 544	NF-kappa B inhibitor
+T12	protein 546 555	I kappa B
+T13	protein 571 581	NF-kappa B
+T14	protein 656 666	NF-kappa B
+T15	DNA 700 717	Ig kappa enhancer
+T16	DNA 726 781	human immunodeficiency virus (HIV) long terminal repeat
+T17	DNA 783 786	LTR
+T18	cell_line 791 810	transfected T cells

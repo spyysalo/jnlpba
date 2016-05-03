@@ -1,0 +1,39 @@
+T1	protein 0 9	HIV-1 Tat
+T2	protein 22 25	TNF
+T3	protein 34 44	NF-kappa B
+T4	protein 140 195	human immunodeficiency virus type 1 (HIV-1) Tat protein
+T5	protein 222 243	tumor necrosis factor
+T6	protein 245 248	TNF
+T7	protein 318 328	NF-kappa B
+T8	cell_line 333 343	HeLa cells
+T9	DNA 372 386	HIV-1 tat gene
+T10	cell_line 388 402	HeLa-tat cells
+T11	protein 423 434	Tat protein
+T12	protein 449 452	TNF
+T13	protein 475 485	NF-kappa B
+T14	protein 490 493	TNF
+T15	protein 543 546	TNF
+T16	cell_line 590 600	HeLa cells
+T17	protein 622 633	Tat protein
+T18	protein 635 638	TNF
+T19	protein 662 672	NF-kappa B
+T20	protein 772 775	Tat
+T21	cell_type 844 851	T cells
+T22	cell_line 856 866	HeLa cells
+T23	protein 867 876	HIV-1 Tat
+T24	protein 906 939	Mn-dependent superoxide dismutase
+T25	protein 941 947	Mn-SOD
+T26	protein 952 972	mitochondrial enzyme
+T27	protein 1049 1055	Mn-SOD
+T28	protein 1129 1132	Tat
+T29	protein 1144 1150	Mn-SOD
+T30	protein 1277 1288	Tat protein
+T31	protein 1290 1297	Tat1-72
+T32	DNA 1327 1353	HIV-1 long terminal repeat
+T33	DNA 1355 1358	LTR
+T34	protein 1380 1386	Mn-SOD
+T35	protein 1427 1430	TNF
+T36	protein 1497 1514	C-terminal region
+T37	protein 1518 1527	HIV-1 Tat
+T38	protein 1552 1558	Mn-SOD
+T39	protein 1653 1656	GSH

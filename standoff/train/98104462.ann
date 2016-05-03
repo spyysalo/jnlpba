@@ -1,0 +1,28 @@
+T1	cell_type 17 38	monocytes/macrophages
+T2	DNA 78 95	DNA binding motif
+T3	protein 125 150	NF-kappa B p50 homodimers
+T4	cell_type 157 166	monocytes
+T5	DNA 265 297	TNF (tumor necrosis factor) gene
+T6	protein 385 398	CD14 receptor
+T7	protein 443 453	NF-kappa B
+T8	DNA 533 551	human TNF promoter
+T9	cell_line 605 630	human monocytic cell line
+T10	cell_line 631 641	Mono Mac 6
+T11	protein 669 675	p50p50
+T12	protein 679 689	NF-kappa B
+T13	DNA 710 722	mutant motif
+T14	protein 782 795	p50 homodimer
+T15	cell_line 833 855	human Mono Mac 6 cells
+T16	cell_line 910 944	murine P388D1 macrophage cell line
+T17	DNA 966 976	-516 motif
+T18	DNA 984 1003	murine TNF promoter
+T19	DNA 1029 1044	wild type motif
+T20	protein 1072 1078	p50p50
+T21	cell_type 1108 1122	tolerant cells
+T22	protein 1180 1186	p50p50
+T23	DNA 1204 1243	murine kappa light chain enhancer motif
+T24	protein 1297 1303	p50p50
+T25	cell_line 1309 1341	tolerant murine P388 macrophages
+T26	protein 1465 1479	p50 homodimers
+T27	cell_type 1487 1501	tolerant cells
+T28	DNA 1560 1577	DNA binding motif

@@ -1,0 +1,22 @@
+T1	cell_line 395 407	T cell lines
+T2	cell_line 484 496	T cell lines
+T3	protein 553 561	antigens
+T4	protein 577 586	cytokines
+T5	protein 588 615	tumor necrosis factor alpha
+T6	protein 617 626	TNF-alpha
+T7	protein 629 642	interleukin 1
+T8	protein 648 661	interleukin-2
+T9	DNA 768 788	long terminal repeat
+T10	DNA 790 793	LTR
+T11	DNA 802 815	reporter gene
+T12	cell_type 929 963	chronically infected T lymphocytes
+T13	cell_type 965 974	monocytes
+T14	cell_type 979 990	macrophages
+T15	cell_line 1156 1161	ACH-2
+T16	cell_line 1178 1195	human T cell line
+T17	cell_line 1197 1200	CEM
+T18	cell_line 1289 1294	ACH-2
+T19	protein 1424 1433	cytokines
+T20	protein 1435 1444	TNF-alpha
+T21	cell_line 1484 1489	ACH-2
+T22	cell_line 1698 1764	phytohemagglutinin-stimulated peripheral blood lymphocyte cultures

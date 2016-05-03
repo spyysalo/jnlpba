@@ -1,0 +1,50 @@
+T1	DNA 67 108	Tat-activated, transduced interferon gene
+T2	cell_type 133 183	human immunodeficiency virus type 1-infected cells
+T3	protein 227 237	interferon
+T4	protein 239 242	IFN
+T5	DNA 389 427	HIV-1 long terminal repeat (LTR)-IFNA2
+T6	DNA 463 472	IFN genes
+T7	DNA 506 517	hybrid gene
+T8	cell_line 525 545	HIV-1-infected cells
+T9	DNA 547 556	HIV-1 LTR
+T10	DNA 587 606	NF-kappa B elements
+T11	DNA 614 623	HIV-1 LTR
+T12	protein 648 651	Tat
+T13	cell_line 680 692	T-cell lines
+T14	cell_line 710 723	monocyte line
+T15	cell_line 725 729	U937
+T16	DNA 750 769	NF-kappa B elements
+T17	DNA 777 786	HIV-1 LTR
+T18	DNA 792 804	DNA fragment
+T19	DNA 822 840	5'-flanking region
+T20	DNA 844 866	IFN-stimulated gene 15
+T21	DNA 868 873	ISG15
+T22	DNA 891 922	IFN-stimulated response element
+T23	protein 943 946	Tat
+T24	DNA 970 973	LTR
+T25	cell_type 977 984	T cells
+T26	cell_type 999 1008	monocytes
+T27	DNA 1028 1045	chimeric promoter
+T28	DNA 1047 1056	ISG15 LTR
+T29	DNA 1074 1090	human IFNA2 gene
+T30	protein 1115 1118	IFN
+T31	cell_line 1132 1152	Tat-expressing cells
+T32	protein 1196 1223	tumor necrosis factor alpha
+T33	DNA 1245 1270	ISG15-LTR-IFN hybrid gene
+T34	DNA 1289 1306	retrovirus vector
+T35	cell_line 1327 1333	Jurkat
+T36	cell_line 1338 1348	U937 cells
+T37	cell_line 1359 1377	transfected clones
+T38	protein 1401 1406	IFN A
+T39	protein 1408 1412	IFNA
+T40	protein 1461 1474	interleukin-2
+T41	protein 1479 1501	interleukin-2 receptor
+T42	protein 1524 1542	phytohemagglutinin
+T43	protein 1603 1607	IFNA
+T44	cell_line 1758 1778	IFNA-producing cells
+T45	cell_line 1808 1818	U937 cells
+T46	cell_line 1856 1866	U937 cells
+T47	DNA 1887 1896	IFNA gene
+T48	protein 1935 1938	IFN
+T49	cell_line 1952 1972	HIV-1-infected cells
+T50	protein 2014 2017	IFN

@@ -1,0 +1,14 @@
+T1	protein 14 27	SART3 antigen
+T2	cell_type 45 49	CTLs
+T3	protein 128 158	SART3 tumour-rejection antigen
+T4	cell_type 209 255	HLA-class I-restricted cytotoxic T lymphocytes
+T5	cell_type 257 261	CTLs
+T6	protein 306 319	SART3 antigen
+T7	protein 437 450	SART3 antigen
+T8	cell_line 478 502	breast cancer cell lines
+T9	DNA 630 659	positions 109-118 and 315-323
+T10	cell_type 687 691	CTLs
+T11	cell_type 708 727	breast cancer cells
+T12	cell_type 737 771	peripheral blood mononuclear cells
+T13	cell_type 773 778	PBMCs
+T14	protein 822 835	SART3 antigen

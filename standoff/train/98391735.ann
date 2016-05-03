@@ -1,0 +1,26 @@
+T1	protein 4 31	MHC class II transactivator
+T2	protein 33 38	CIITA
+T3	protein 59 82	leucine charged domains
+T4	DNA 119 141	W box promoter element
+T5	protein 147 170	class II transactivator
+T6	protein 171 176	CIITA
+T7	DNA 227 280	major histocompatibility complex (MHC) class II genes
+T8	DNA 296 347	N-terminal acidic transcriptional activation domain
+T9	protein 423 428	CIITA
+T10	protein 569 581	MHC class II
+T11	DNA 592 624	W-X-Y or X-Y regulatory elements
+T12	DNA 701 710	promoters
+T13	DNA 746 776	W-X-Y but not the X-Y elements
+T14	protein 848 853	CIITA
+T15	DNA 869 895	CIITA mutant constructions
+T16	protein 933 938	CIITA
+T17	protein 1039 1063	acidic activation domain
+T18	protein 1076 1093	GTP-binding motif
+T19	protein 1102 1125	leucine charged domains
+T20	protein 1127 1137	LCD motifs
+T21	protein 1258 1271	CIITA mutants
+T22	DNA 1340 1345	W box
+T23	protein 1369 1374	CIITA
+T24	protein 1438 1448	LCD motifs
+T25	protein 1462 1467	CIITA
+T26	protein 1540 1545	CIITA

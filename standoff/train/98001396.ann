@@ -1,0 +1,11 @@
+T1	DNA 49 74	BcLF1 and BFRF3 promoters
+T2	DNA 192 204	viral genome
+T3	protein 316 331	binding factors
+T4	DNA 611 641	late promoter-reporter fusions
+T5	cell_line 693 713	tissue culture cells
+T6	DNA 883 903	cis-active sequences
+T7	DNA 1004 1040	viral immediate-early transactivator
+T8	DNA 1042 1047	ZEBRA
+T9	DNA 1143 1148	ZEBRA
+T10	protein 1242 1262	viral DNA polymerase
+T11	DNA 1432 1456	transcriptional template

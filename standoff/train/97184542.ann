@@ -1,0 +1,24 @@
+T1	protein 27 40	p50 homodimer
+T2	cell_type 44 76	freshly isolated human monocytes
+T3	cell_type 207 216	monocytes
+T4	cell_type 325 351	differentiated macrophages
+T5	cell_type 360 386	freshly isolated monocytes
+T6	protein 469 478	NF-kappaB
+T7	protein 558 567	NF-kappaB
+T8	cell_type 571 594	primary human monocytes
+T9	cell_type 650 678	monocyte-derived macrophages
+T10	cell_type 680 684	MDMs
+T11	cell_type 717 737	alveolar macrophages
+T12	cell_type 739 742	AMs
+T13	protein 812 852	transcriptionally inactive p50 homodimer
+T14	protein 931 964	p50/p65 and p50/RelB heterodimers
+T15	cell_type 972 976	MDMs
+T16	cell_type 978 981	AMs
+T17	protein 1007 1014	p50/p65
+T18	protein 1019 1027	p50/RelB
+T19	cell_type 1077 1086	monocytes
+T20	protein 1104 1111	p50/p65
+T21	cell_type 1123 1127	MDMs
+T22	protein 1148 1162	p50 homodimers
+T23	cell_type 1300 1309	monocytes
+T24	protein 1366 1386	NF-kappaB components

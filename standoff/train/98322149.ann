@@ -1,0 +1,31 @@
+T1	protein 0 14	Erythropoietin
+T2	protein 51 55	Jak2
+T3	protein 57 63	STAT5A
+T4	protein 69 75	STAT5B
+T5	cell_type 79 122	primary cultured human erythroid precursors
+T6	protein 149 163	erythropoietin
+T7	cell_type 167 224	highly purified human colony forming unit-erythroid cells
+T8	cell_type 250 263	CD34(+) cells
+T9	protein 279 293	erythropoietin
+T10	protein 330 334	Jak2
+T11	protein 336 342	STAT5A
+T12	protein 348 354	STAT5B
+T13	protein 384 388	Jak2
+T14	protein 468 482	erythropoietin
+T15	protein 512 517	STAT5
+T16	protein 567 572	STAT5
+T17	DNA 663 681	STAT5 binding site
+T18	DNA 689 709	beta-casein promoter
+T19	protein 736 741	STAT1
+T20	protein 745 750	STAT3
+T21	cell_type 771 797	human erythroid precursors
+T22	protein 821 835	erythropoietin
+T23	protein 837 841	Crkl
+T24	protein 846 869	SH2/SH3 adapter protein
+T25	protein 918 923	STAT5
+T26	cell_type 929 970	erythropoietin-stimulated erythroid cells
+T27	protein 1020 1025	c-Cbl
+T28	cell_line 1047 1057	cell lines
+T29	cell_type 1065 1091	human erythroid precursors
+T30	cell_type 1262 1305	primary cultured human erythroid precursors
+T31	cell_type 1396 1408	erythrocytes

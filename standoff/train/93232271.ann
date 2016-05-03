@@ -1,0 +1,34 @@
+T1	DNA 39 70	human interleukin 2 (IL-2) gene
+T2	protein 116 145	nuclear transcription factors
+T3	protein 146 150	AP-1
+T4	protein 155 160	NF-AT
+T5	DNA 162 171	IL-2 gene
+T6	protein 209 225	nuclear proteins
+T7	DNA 296 305	IL-2 gene
+T8	protein 356 372	nuclear proteins
+T9	cell_type 427 454	primary human T lymphocytes
+T10	protein 579 583	AP-1
+T11	protein 588 593	NF-AT
+T12	protein 606 611	NF-kB
+T13	protein 616 625	OCT-1/OAF
+T14	DNA 663 681	IL-2 gene promoter
+T15	DNA 820 833	IL-2 promoter
+T16	cell_line 883 895	Jurkat cells
+T17	DNA 918 926	plasmids
+T18	DNA 956 969	IL-2 promoter
+T19	DNA 977 1006	AP-1, NF-AT, and NF-kB motifs
+T20	DNA 1026 1039	IL-2 promoter
+T21	DNA 1048 1052	AP-1
+T22	DNA 1066 1071	NF-AT
+T23	DNA 1076 1090	NF-kB plasmids
+T24	DNA 1123 1136	IL-2 promoter
+T25	DNA 1145 1150	NF-AT
+T26	DNA 1164 1168	AP-1
+T27	DNA 1173 1187	NF-kB plasmids
+T28	cell_type 1219 1238	human T lymphocytes
+T29	DNA 1266 1275	IL-2 gene
+T30	protein 1316 1337	transcription factors
+T31	protein 1338 1342	AP-1
+T32	protein 1347 1352	NF-AT
+T33	protein 1430 1451	transcription factors
+T34	protein 1453 1457	AP-1

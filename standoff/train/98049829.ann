@@ -1,0 +1,21 @@
+T1	protein 53 94	murine cDNA encoding transcription factor
+T2	protein 95 100	NFATc
+T3	protein 102 123	Transcription factors
+T4	protein 131 180	NFAT (nuclear factor of activated T cells) family
+T5	protein 286 295	cytokines
+T6	protein 300 325	immunoregulatory proteins
+T7	protein 388 418	cDNA encoding murine (m) NFATc
+T8	protein 463 490	conserved structural motifs
+T9	protein 494 513	NFAT family members
+T10	protein 554 574	NFAT homology domain
+T11	protein 614 620	mNFATc
+T12	protein 636 640	AP-1
+T13	protein 667 704	murine IL-2 NFAT recognition sequence
+T14	DNA 742 770	co-transfected IL-2 promoter
+T15	cell_line 774 785	COS-7 cells
+T16	DNA 826 836	cDNA probe
+T17	cell_type 902 916	murine T cells
+T18	RNA 957 974	mNFATc transcript
+T19	RNA 1046 1063	mNFATc transcript
+T20	protein 1183 1189	mNFATc
+T21	cell_type 1235 1249	mature T cells

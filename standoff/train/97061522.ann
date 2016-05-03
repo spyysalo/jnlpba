@@ -1,0 +1,10 @@
+T1	protein 34 51	estrogen receptor
+T2	cell_type 55 89	peripheral blood mononuclear cells
+T3	protein 225 247	intracellular receptor
+T4	protein 304 321	estrogen receptor
+T5	protein 323 325	ER
+T6	cell_type 355 372	mononuclear cells
+T7	protein 459 485	full length wild-type form
+T8	protein 508 510	ER
+T9	DNA 533 539	exon V
+T10	protein 761 790	wild-type or the truncated ER

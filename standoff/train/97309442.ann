@@ -1,0 +1,41 @@
+T1	protein 20 43	interleukin-10 receptor
+T2	cell_line 58 99	B-cell chronic lymphocytic leukemia cells
+T3	cell_line 101 150	B-cell chronic lymphocytic leukemia (B-CLL) cells
+T4	protein 327 344	molecular factors
+T5	protein 439 455	interferon-alpha
+T6	protein 457 466	IFN-alpha
+T7	protein 472 481	IFN-gamma
+T8	protein 585 616	interleukin-10 (IL-10) receptor
+T9	protein 642 661	IFN receptor family
+T10	protein 679 684	IL-10
+T11	cell_line 727 738	B-CLL cells
+T12	protein 801 815	IL-10 receptor
+T13	cell_line 847 858	B-CLL cells
+T14	protein 910 915	IL-10
+T15	protein 931 964	constitutively expressed receptor
+T16	cell_line 979 990	B-CLL cells
+T17	protein 996 1001	IL-10
+T18	protein 1062 1076	IL-10 receptor
+T19	protein 1203 1217	IL-10 receptor
+T20	cell_line 1231 1242	B-CLL cells
+T21	protein 1277 1327	signal transducer and activator of transcription 1
+T22	protein 1329 1334	STAT1
+T23	protein 1340 1345	STAT3
+T24	protein 1372 1384	STAT protein
+T25	protein 1417 1431	IL-10 receptor
+T26	cell_type 1446 1458	normal cells
+T27	protein 1474 1483	IFN-alpha
+T28	protein 1485 1490	STAT1
+T29	protein 1495 1500	STAT3
+T30	protein 1506 1515	IFN-gamma
+T31	protein 1517 1522	STAT1
+T32	cell_line 1547 1550	CLL
+T33	cell_line 1627 1638	B-CLL cells
+T34	protein 1656 1661	IL-10
+T35	cell_line 1672 1677	B-CLL
+T36	cell_line 1702 1707	B-CLL
+T37	protein 1763 1768	IL-10
+T38	protein 1775 1784	IFN-gamma
+T39	protein 1911 1920	cytokines
+T40	protein 1947 1964	interferon family
+T41	cell_line 2017 2028	B-CLL cells

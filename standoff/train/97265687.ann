@@ -1,0 +1,27 @@
+T1	protein 43 46	E2F
+T2	cell_type 76 125	human T-cell leukemia virus type I-infected cells
+T3	protein 166 169	E2F
+T4	protein 177 230	human T-cell leukemia virus I transactivating protein
+T5	protein 232 235	Tax
+T6	protein 237 257	Transcription factor
+T7	protein 258 261	E2F
+T8	DNA 271 289	cellular promoters
+T9	DNA 301 341	growth- and cell cycle-controlling genes
+T10	protein 361 382	heteromeric complexes
+T11	protein 394 410	nuclear proteins
+T12	protein 448 451	E2F
+T13	protein 641 677	E2F-containing DNA-binding complexes
+T14	cell_line 695 723	HTLV-I-infected T-cell lines
+T15	cell_type 728 742	leukemic cells
+T16	cell_line 784 806	uninfected T-cell line
+T17	cell_line 808 814	Jurkat
+T18	cell_type 820 861	normal peripheral blood mononuclear cells
+T19	protein 867 878	Tax protein
+T20	DNA 956 970	cellular genes
+T21	protein 1006 1009	Tax
+T22	protein 1025 1061	E2F-containing DNA-binding complexes
+T23	cell_line 1065 1079	Jurkat T cells
+T24	protein 1087 1090	Tax
+T25	protein 1143 1146	E2F
+T26	cell_type 1256 1263	T cells
+T27	DNA 1358 1367	oncogenes

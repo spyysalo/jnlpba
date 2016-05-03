@@ -1,0 +1,31 @@
+T1	protein 15 36	transcription factors
+T2	protein 37 41	RFX1
+T3	protein 46 51	MIBP1
+T4	DNA 61 72	gamma motif
+T5	DNA 80 107	negative regulatory element
+T6	DNA 115 146	hepatitis B virus core promoter
+T7	DNA 152 179	negative regulatory element
+T8	DNA 181 184	NRE
+T9	DNA 193 230	hepatitis B virus (HBV) core promoter
+T10	DNA 344 353	NRE gamma
+T11	cell_line 373 402	HeLa cervical carcinoma cells
+T12	cell_line 407 426	Huh7 hepatoma cells
+T13	protein 523 543	transcription factor
+T14	protein 544 548	RFX1
+T15	DNA 561 570	NRE gamma
+T16	DNA 593 606	core promoter
+T17	DNA 685 694	NRE gamma
+T18	protein 705 709	RFX1
+T19	DNA 726 735	NRE gamma
+T20	protein 750 754	RFX1
+T21	protein 797 808	heterodimer
+T22	protein 819 839	transcription factor
+T23	protein 840 845	MIBP1
+T24	DNA 849 858	NRE gamma
+T25	DNA 887 897	MIBP1 gene
+T26	protein 939 943	RFX1
+T27	protein 954 959	MIBP1
+T28	DNA 1022 1036	NRE gamma site
+T29	protein 1053 1057	RFX1
+T30	DNA 1079 1092	core promoter
+T31	protein 1121 1125	RFX1

@@ -1,0 +1,20 @@
+T1	cell_line 43 67	CD4+ T-cell clonal lines
+T2	cell_line 95 101	CEM-C7
+T3	cell_line 105 147	human leukemic CD4+ T-lymphocyte cell line
+T4	cell_line 176 183	CEM-4R4
+T5	cell_line 185 193	CEM-3R43
+T6	cell_line 199 205	ICR-27
+T7	protein 410 421	transferrin
+T8	protein 426 433	insulin
+T9	protein 469 489	bovine serum albumin
+T10	cell_line 549 561	clonal lines
+T11	cell_line 565 568	CEM
+T12	cell_line 654 660	CEM-C7
+T13	cell_line 781 823	serum-supplemented and serum-free cultures
+T14	protein 971 974	CD4
+T15	cell_type 989 1013	T-derived lymphoid cells
+T16	cell_line 1102 1108	CEM-C7
+T17	protein 1184 1207	glucocorticoid receptor
+T18	protein 1246 1266	glutamine synthetase
+T19	cell_line 1348 1354	CEM-C7
+T20	cell_line 1593 1605	CEM-C7 cells

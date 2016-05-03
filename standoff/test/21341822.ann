@@ -1,0 +1,33 @@
+T1	protein 109 155	extracellular signal-regulated kinases 1 and 2
+T2	protein 157 166	C/EBPbeta
+T3	protein 171 176	STAT1
+T4	protein 186 190	CD14
+T5	protein 195 222	Toll-like receptors 2 and 4
+T6	cell_type 524 552	monocyte-derived macrophages
+T7	cell_type 554 557	MDM
+T8	cell_type 612 615	MDM
+T9	protein 763 785	cell surface receptors
+T10	protein 797 801	CD14
+T11	protein 806 826	Toll-like receptor 2
+T12	protein 828 832	TLR2
+T13	protein 837 841	TLR4
+T14	protein 863 891	signal-transducing receptors
+T15	protein 1017 1065	extracellular signal-regulated kinases (Erk) 1/2
+T16	protein 1096 1117	Jun N-terminal kinase
+T17	protein 1119 1122	JNK
+T18	protein 1127 1155	p38 mitogen-activated kinase
+T19	protein 1181 1186	STAT1
+T20	protein 1227 1232	STAT3
+T21	protein 1236 1241	STAT5
+T22	cell_type 1277 1294	MB-stimulated MDM
+T23	cell_line 1302 1316	MonoMac6 cells
+T24	protein 1335 1344	C/EBPbeta
+T25	protein 1349 1353	AP-1
+T26	protein 1379 1388	NF-kappaB
+T27	protein 1438 1447	C/EBPbeta
+T28	cell_line 1517 1539	MB-treated THP-1 cells
+T29	protein 1609 1613	CD14
+T30	protein 1618 1627	TLR2 or 4
+T31	protein 1783 1795	co-receptors
+T32	protein 1807 1811	TLR2
+T33	protein 1816 1820	TLR4

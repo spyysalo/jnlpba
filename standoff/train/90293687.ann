@@ -1,0 +1,15 @@
+T1	DNA 167 250	human immunodeficiency virus type 1-long terminal repeat (HIV-1-LTR) CAT constructs
+T2	cell_line 268 303	monocyte/macrophage-like cell lines
+T3	cell_line 314 325	T cell line
+T4	protein 387 409	nuclear factor kappa B
+T5	protein 411 421	NF-kappa B
+T6	protein 537 547	NF-kappa B
+T7	cell_line 551 555	U937
+T8	cell_line 560 571	THP-1 cells
+T9	cell_line 640 702	chronically infected monocyte/macrophage-like cloned cell line
+T10	cell_line 704 706	U1
+T11	protein 861 909	granulocyte/macrophage colony-stimulating factor
+T12	protein 911 917	GM-CSF
+T13	RNA 1030 1039	HIV-1 RNA
+T14	protein 1062 1072	NF-kappa B
+T15	cell_line 1129 1140	T cell line

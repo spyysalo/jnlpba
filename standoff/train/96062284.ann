@@ -1,0 +1,33 @@
+T1	protein 14 23	IkB alpha
+T2	protein 103 131	Ca(2+)-dependent phosphatase
+T3	protein 132 143	calcineurin
+T4	protein 188 191	PKC
+T5	protein 214 241	nuclear factor (NF)-kappa B
+T6	cell_line 245 257	T cell lines
+T7	protein 389 399	NF-kappa B
+T8	cell_line 470 494	monocytic cell line U937
+T9	protein 495 506	calcineurin
+T10	protein 538 548	NF-kappa B
+T11	protein 659 668	IkB alpha
+T12	protein 702 711	IkB alpha
+T13	protein 735 738	PKC
+T14	protein 837 846	IkB alpha
+T15	cell_line 850 862	T cell lines
+T16	protein 931 940	IkB alpha
+T17	protein 1103 1112	IkB alpha
+T18	cell_line 1116 1124	Jurkat T
+T19	cell_line 1131 1141	U937 cells
+T20	cell_type 1156 1163	T cells
+T21	protein 1183 1186	PKC
+T22	protein 1233 1242	IkB alpha
+T23	protein 1375 1384	IkB alpha
+T24	protein 1396 1405	TNF-alpha
+T25	protein 1409 1412	PKC
+T26	protein 1468 1471	PKC
+T27	protein 1514 1523	TNF-alpha
+T28	protein 1544 1553	IkB alpha
+T29	protein 1677 1688	phosphatase
+T30	protein 1689 1700	calcineurin
+T31	protein 1735 1745	NF-kappa B
+T32	protein 1792 1795	PKC
+T33	protein 1848 1857	IkB alpha

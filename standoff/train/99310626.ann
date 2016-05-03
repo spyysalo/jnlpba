@@ -1,0 +1,31 @@
+T1	protein 55 69	erythropoietin
+T2	protein 99 113	Erythropoietin
+T3	protein 115 118	EPO
+T4	protein 138 142	EPOR
+T5	protein 230 234	EPOR
+T6	cell_type 374 395	erythroid progenitors
+T7	cell_type 423 447	EPO-responsive cell type
+T8	protein 496 500	EPOR
+T9	cell_line 507 541	growth factor-dependent cell lines
+T10	protein 557 561	EPOR
+T11	protein 577 580	EPO
+T12	cell_line 691 731	interleukin-2 [IL-2]-dependent HT-2 line
+T13	protein 746 749	EPO
+T14	protein 769 773	EPOR
+T15	protein 815 821	STAT-5
+T16	protein 836 840	MAPK
+T17	protein 894 898	EPOR
+T18	protein 903 907	JAK2
+T19	protein 956 960	IL-2
+T20	cell_line 991 1001	HT-2 cells
+T21	protein 1017 1021	EPOR
+T22	cell_line 1027 1038	Ba/F3 cells
+T23	cell_line 1081 1091	hybridomas
+T24	protein 1128 1134	STAT-5
+T25	protein 1139 1143	MAPK
+T26	protein 1159 1162	EPO
+T27	protein 1192 1220	unidentified cellular factor
+T28	protein 1259 1263	EPOR
+T29	cell_line 1275 1286	Ba/F3 cells
+T30	protein 1364 1367	EPO
+T31	cell_line 1386 1396	HT-2 cells

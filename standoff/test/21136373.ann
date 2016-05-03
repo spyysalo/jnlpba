@@ -1,0 +1,35 @@
+T1	protein 10 63	Src homology 2 domain-containing tyrosine phosphatase
+T2	protein 65 70	SHP-1
+T3	protein 98 101	CD3
+T4	cell_type 110 116	T cell
+T5	protein 161 190	protein tyrosine phosphatases
+T6	protein 192 196	PTPs
+T7	protein 207 210	CD3
+T8	protein 281 285	PTPs
+T9	protein 349 352	PTP
+T10	cell_type 378 384	T cell
+T11	cell_line 490 504	Jurkat T cells
+T12	protein 530 583	Src homology 2 domain-containing tyrosine phosphatase
+T13	protein 585 590	SHP-1
+T14	protein 661 666	SHP-2
+T15	protein 739 756	transmembrane PTP
+T16	protein 758 762	CD45
+T17	protein 803 808	SHP-1
+T18	protein 813 818	SHP-2
+T19	protein 874 893	signaling molecules
+T20	protein 902 939	Lck, linker for activation of T cells
+T21	protein 945 953	CD3 zeta
+T22	protein 997 1000	CD3
+T23	protein 1099 1103	PTPs
+T24	protein 1162 1166	PTPs
+T25	cell_type 1242 1248	T cell
+T26	protein 1296 1301	SHP-1
+T27	protein 1332 1356	N-terminal region of Lck
+T28	protein 1358 1372	residues 1--14
+T29	protein 1419 1436	Lck/SHP-1 chimera
+T30	protein 1476 1479	CD3
+T31	protein 1516 1532	CD3 zeta/epsilon
+T32	protein 1579 1584	NF-AT
+T33	protein 1644 1648	PTPs
+T34	protein 1702 1705	TCR
+T35	protein 1706 1709	CD3

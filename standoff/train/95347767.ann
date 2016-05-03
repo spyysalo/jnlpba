@@ -1,0 +1,24 @@
+T1	protein 21 46	IL-2 receptor alpha-chain
+T2	cell_type 50 66	human peripheral
+T3	cell_line 71 85	Jurkat T cells
+T4	protein 92 108	protein kinase C
+T5	protein 167 180	Ca(2+)-ATPase
+T6	protein 365 369	IL-2
+T7	cell_line 373 387	Jurkat T cells
+T8	protein 425 441	protein kinase C
+T9	protein 443 446	PKC
+T10	protein 482 501	IL-2R alpha protein
+T11	RNA 513 529	IL-2R alpha mRNA
+T12	cell_line 533 547	Jurkat T cells
+T13	protein 598 609	IL-2R alpha
+T14	cell_type 637 661	human peripheral T cells
+T15	protein 702 712	NF kappa B
+T16	cell_line 716 730	Jurkat T cells
+T17	protein 786 797	IL-2R alpha
+T18	protein 844 855	IL-2R alpha
+T19	protein 883 918	PMA- but not TG-induced IL-2R alpha
+T20	protein 939 942	PKC
+T21	protein 965 1000	TG- but not PMA-induced IL-2R alpha
+T22	protein 1117 1128	IL-2R alpha
+T23	cell_type 1132 1145	human T cells
+T24	protein 1156 1159	PKC

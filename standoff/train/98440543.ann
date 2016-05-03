@@ -1,0 +1,33 @@
+T1	DNA 0 12	CD4 promoter
+T2	DNA 113 121	CD4 gene
+T3	cell_line 154 166	CD4(-) cells
+T4	DNA 634 658	reporter gene constructs
+T5	DNA 673 685	CD4 promoter
+T6	DNA 743 759	genetic elements
+T7	DNA 779 791	CD4 promoter
+T8	DNA 906 954	immediate-early and early classes of viral genes
+T9	DNA 992 1012	CD4 promoter mutants
+T10	DNA 1031 1051	ATF/CRE binding site
+T11	DNA 1063 1094	nucleotides -67 to -60 upstream
+T12	DNA 1102 1135	CD4 gene transcription start site
+T13	DNA 1185 1197	ATF/CRE site
+T14	DNA 1220 1232	CD4 promoter
+T15	protein 1377 1383	CREB-1
+T16	DNA 1410 1427	-79 to -52 region
+T17	DNA 1435 1447	CD4 promoter
+T18	DNA 1478 1497	open reading frames
+T19	DNA 1499 1503	ORFs
+T20	DNA 1515 1518	U86
+T21	DNA 1523 1526	U89
+T22	DNA 1588 1600	CD4 promoter
+T23	cell_line 1604 1614	HeLa cells
+T24	DNA 1648 1660	CD4 promoter
+T25	DNA 1664 1668	ORFs
+T26	DNA 1669 1672	U86
+T27	DNA 1677 1680	U89
+T28	DNA 1703 1714	CRE element
+T29	DNA 1743 1753	HHV-6 ORFs
+T30	DNA 1782 1790	CD4 gene
+T31	DNA 1912 1924	CD4 promoter
+T32	protein 1983 2004	transcription factors
+T33	DNA 2032 2040	CD4 gene

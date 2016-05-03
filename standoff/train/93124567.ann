@@ -1,0 +1,24 @@
+T1	DNA 42 73	heterologous enhancer/promoters
+T2	DNA 147 209	human immunodeficiency virus (HIV) type 1 long terminal repeat
+T3	DNA 211 214	LTR
+T4	protein 243 265	nuclear factor kappa B
+T5	protein 267 277	NF-kappa B
+T6	protein 312 336	transcription factor Sp1
+T7	DNA 572 603	heterologous enhancer/promoters
+T8	DNA 627 636	HIV-1 LTR
+T9	protein 653 663	NF-kappa B
+T10	DNA 668 685	Sp1 binding sites
+T11	cell_line 758 768	HeLa cells
+T12	cell_type 793 827	human peripheral blood lymphocytes
+T13	cell_line 831 863	continuous T-leukemia cell lines
+T14	DNA 898 921	NF-kappa B/Sp1 enhancer
+T15	DNA 931 954	downstream TATA element
+T16	DNA 974 1005	heterologous enhancer/promoters
+T17	DNA 1052 1098	human cytomegalovirus immediate-early enhancer
+T18	cell_type 1165 1209	activated human peripheral blood lymphocytes
+T19	cell_line 1214 1223	AA2 cells
+T20	cell_line 1259 1275	H9 and CEM cells
+T21	DNA 1305 1335	heterologous enhancer elements
+T22	protein 1361 1364	Tat
+T23	DNA 1387 1394	HIV LTR
+T24	DNA 1423 1436	reporter gene

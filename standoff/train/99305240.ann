@@ -1,0 +1,25 @@
+T1	DNA 18 35	Wilms' tumor gene
+T2	DNA 37 40	WT1
+T3	cell_line 119 142	leukemic cell line K562
+T4	DNA 148 165	Wilms' tumor gene
+T5	DNA 167 170	WT1
+T6	protein 182 202	transcription factor
+T7	protein 210 226	zinc finger type
+T8	DNA 249 252	WT1
+T9	DNA 306 309	WT1
+T10	cell_line 366 385	leukemic cell lines
+T11	DNA 405 408	WT1
+T12	cell_line 417 435	myeloid cell lines
+T13	DNA 524 527	WT1
+T14	cell_type 542 561	hematopoietic cells
+T15	DNA 654 657	WT1
+T16	cell_line 698 721	leukemic cell line K562
+T17	cell_line 723 733	K562 cells
+T18	DNA 753 756	WT1
+T19	DNA 959 962	WT1
+T20	cell_line 966 970	K562
+T21	protein 1046 1056	hemoglobin
+T22	protein 1072 1077	hemin
+T23	protein 1099 1134	megakaryocytic cell surface markers
+T24	DNA 1229 1232	WT1
+T25	cell_line 1267 1277	K562 cells

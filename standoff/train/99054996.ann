@@ -1,0 +1,21 @@
+T1	cell_type 49 56	B cells
+T2	protein 80 100	metalloproteinases-1
+T3	cell_line 328 362	Burkitt's lymphoma (BL) cell lines
+T4	protein 400 447	tissue inhibitor of metalloproteinases (TIMP)-1
+T5	cell_line 471 495	TIMP-1-positive BL lines
+T6	protein 570 576	TIMP-1
+T7	protein 586 592	TIMP-2
+T8	cell_line 790 814	TIMP-1-negative BL lines
+T9	protein 816 822	TIMP-1
+T10	protein 856 873	metalloproteinase
+T11	protein 921 927	TIMP-1
+T12	protein 983 989	TIMP-1
+T13	protein 1180 1202	anti-TIMP-1 antibodies
+T14	protein 1232 1238	TIMP-1
+T15	protein 1285 1291	TIMP-1
+T16	protein 1327 1333	Bcl-XL
+T17	protein 1342 1347	Bcl-2
+T18	protein 1369 1378	NF-kappaB
+T19	protein 1446 1452	TIMP-1
+T20	cell_type 1477 1484	B cells
+T21	protein 1519 1525	TIMP-1

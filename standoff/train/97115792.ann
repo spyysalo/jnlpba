@@ -1,0 +1,30 @@
+T1	protein 37 50	kinase domain
+T2	protein 54 60	ZAP-70
+T3	protein 78 93	T-cell receptor
+T4	protein 118 141	protein-tyrosine kinase
+T5	protein 142 148	ZAP-70
+T6	protein 182 192	Src kinase
+T7	protein 193 201	p56(lck)
+T8	protein 266 269	TCR
+T9	protein 339 345	ZAP-70
+T10	cell_line 447 465	Jurkat T-cell line
+T11	protein 466 472	ZAP-70
+T12	protein 543 556	kinase domain
+T13	protein 580 583	TCR
+T14	protein 606 641	nuclear factor of activated T cells
+T15	protein 702 705	Ras
+T16	protein 730 768	extracellular signal-regulated kinases
+T17	protein 780 783	TCR
+T18	protein 811 818	pp36-38
+T19	protein 927 943	wild-type ZAP-70
+T20	protein 979 1014	nuclear factor of activated T cells
+T21	protein 1020 1026	ZAP-70
+T22	protein 1106 1120	TCR zeta chain
+T23	protein 1142 1150	p56(lck)
+T24	protein 1276 1284	p56(lck)
+T25	protein 1290 1296	ZAP-70
+T26	protein 1368 1371	TCR
+T27	protein 1379 1385	ZAP-70
+T28	protein 1421 1429	p56(lck)
+T29	protein 1520 1526	ZAP-70
+T30	protein 1544 1550	ZAP-70

@@ -1,0 +1,27 @@
+T1	cell_type 56 68	tumour cells
+T2	protein 123 126	CD4
+T3	cell_type 253 265	tumour cells
+T4	protein 332 336	CD4+
+T5	protein 390 431	anti-Z Epstein-Barr replicative activator
+T6	protein 433 438	ZEBRA
+T7	protein 441 459	anti-early antigen
+T8	protein 461 463	EA
+T9	protein 466 491	anti-viral capsid antigen
+T10	protein 493 496	VCA
+T11	protein 695 699	CD4+
+T12	protein 756 761	ZEBRA
+T13	protein 975 985	anti-ZEBRA
+T14	protein 987 1026	anti-EA-restricted, anti-VCA antibodies
+T15	protein 1152 1156	CD4+
+T16	protein 1337 1362	recombinant ZEBRA protein
+T17	protein 1389 1397	antigens
+T18	protein 1408 1413	BZLF1
+T19	protein 1415 1420	ZEBRA
+T20	protein 1425 1444	early gene products
+T21	protein 1446 1450	EA-R
+T22	protein 1455 1470	EA-D/BHLF1/NotI
+T23	cell_type 1523 1535	tumour cells
+T24	protein 1693 1697	CD4+
+T25	protein 1766 1771	ZEBRA
+T26	cell_type 2012 2024	tumour cells
+T27	protein 2064 2069	ZEBRA

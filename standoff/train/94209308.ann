@@ -1,0 +1,32 @@
+T1	DNA 24 34	human gene
+T2	protein 44 47	LBR
+T3	protein 52 68	integral protein
+T4	DNA 135 145	human gene
+T5	protein 155 158	LBR
+T6	protein 163 179	integral protein
+T7	DNA 255 273	transcription unit
+T8	DNA 382 410	translation initiation codon
+T9	DNA 458 480	5'-untranslated region
+T10	RNA 493 514	mature HeLa cell mRNA
+T11	DNA 537 561	transcription start site
+T12	DNA 570 585	CCAAT sequences
+T13	DNA 590 617	potential recognition sites
+T14	protein 630 651	transcription factors
+T15	protein 662 665	Sp1
+T16	protein 667 671	AP-1
+T17	protein 673 677	AP-2
+T18	protein 683 688	NF-kB
+T19	DNA 718 723	exons
+T20	DNA 731 739	LBR gene
+T21	protein 741 744	LBR
+T22	protein 747 767	nucleoplasmic domain
+T23	DNA 782 791	exons 1-4
+T24	protein 801 819	hydrophobic domain
+T25	protein 841 863	transmembrane segments
+T26	DNA 879 889	exons 5-13
+T27	protein 895 913	hydrophobic domain
+T28	DNA 978 1000	higher eukaryotic gene
+T29	protein 1069 1092	soluble nuclear protein
+T30	DNA 1099 1120	membrane protein gene
+T31	DNA 1224 1239	vertebrate gene
+T32	protein 1252 1277	integral membrane protein

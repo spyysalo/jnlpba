@@ -1,0 +1,33 @@
+T1	protein 10 19	cytokines
+T2	protein 55 59	IL-2
+T3	cell_line 75 111	human antigen-specific T cell clones
+T4	protein 277 286	cytokines
+T5	protein 290 294	IL-2
+T6	cell_line 328 366	human antigen-specific T helper clones
+T7	protein 382 390	cytokine
+T8	protein 426 430	IL-2
+T9	protein 432 448	interferon-alpha
+T10	protein 450 459	IFN-alpha
+T11	protein 466 474	IFN-beta
+T12	protein 485 489	IL-2
+T13	cell_line 515 539	Th0, Th1, and Th2 clones
+T14	protein 560 564	IL-2
+T15	cell_line 574 587	T cell clones
+T16	protein 593 597	IL-2
+T17	protein 681 684	P53
+T18	protein 686 688	Rb
+T19	protein 693 708	Bcl-xL proteins
+T20	protein 723 737	IFN-alpha/beta
+T21	cell_line 746 759	T cell clones
+T22	protein 823 852	apoptosis-associated proteins
+T23	cell_type 916 923	T cells
+T24	protein 937 941	IL-2
+T25	cell_type 1033 1040	T cells
+T26	protein 1054 1068	IFN-alpha/beta
+T27	protein 1098 1112	IFN-alpha/beta
+T28	protein 1193 1260	signal transducers and activators of transcription (STAT) 2 protein
+T29	cell_line 1268 1281	T cell clones
+T30	protein 1315 1320	STAT2
+T31	cell_line 1376 1389	T cell clones
+T32	protein 1420 1439	IFN-alpha and -beta
+T33	protein 1506 1510	IL-2

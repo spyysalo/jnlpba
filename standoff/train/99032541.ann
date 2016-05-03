@@ -1,0 +1,60 @@
+T1	DNA 34 50	beta-casein gene
+T2	protein 54 63	cytokines
+T3	protein 84 89	STAT5
+T4	protein 100 119	signaling molecules
+T5	DNA 125 145	beta-casein promoter
+T6	protein 196 252	STAT (signal transducer and activator of transcription)5
+T7	protein 259 264	STAT5
+T8	protein 317 328	beta-casein
+T9	DNA 380 396	beta-casein gene
+T10	protein 410 415	STAT5
+T11	protein 486 489	Ras
+T12	DNA 557 573	beta-casein gene
+T13	protein 577 586	cytokines
+T14	cell_type 590 597	T cells
+T15	DNA 622 638	beta-casein gene
+T16	cell_line 657 678	cytotoxic T cell line
+T17	cell_line 680 686	CTLL-2
+T18	protein 703 716	interleukin-2
+T19	protein 718 722	IL-2
+T20	protein 741 746	STAT5
+T21	protein 754 758	IL-4
+T22	protein 777 782	STAT5
+T23	DNA 809 830	STAT5-regulated genes
+T24	cell_line 834 840	CTLL-2
+T25	protein 847 858	beta-casein
+T26	protein 862 903	cytokine-inducible SH2-containing protein
+T27	protein 905 908	CIS
+T28	protein 915 927	oncostatin M
+T29	protein 929 932	OSM
+T30	protein 970 974	IL-4
+T31	protein 1007 1012	STAT5
+T32	cell_type 1016 1023	T cells
+T33	protein 1025 1029	IL-2
+T34	protein 1038 1049	beta-casein
+T35	DNA 1167 1180	-155 and -193
+T36	DNA 1188 1208	beta-casein promoter
+T37	protein 1265 1269	IL-2
+T38	protein 1292 1303	beta-casein
+T39	protein 1337 1340	Ras
+T40	protein 1342 1351	Ras(G12V)
+T41	protein 1368 1372	IL-2
+T42	protein 1381 1392	beta-casein
+T43	protein 1397 1400	OSM
+T44	protein 1445 1448	Ras
+T45	DNA 1483 1496	-105 and -193
+T46	DNA 1504 1524	beta-casein promoter
+T47	protein 1595 1598	Ras
+T48	protein 1600 1606	RasN17
+T49	protein 1623 1627	IL-2
+T50	DNA 1686 1711	beta-casein STAT5 element
+T51	protein 1740 1743	CIS
+T52	protein 1748 1751	OSM
+T53	protein 1766 1775	Ras(G12V)
+T54	protein 1805 1835	erythropoietin receptor mutant
+T55	protein 1849 1852	Ras
+T56	DNA 1900 1920	beta-casein promoter
+T57	protein 1928 1958	mutant erythropoietin receptor
+T58	protein 2000 2003	Ras
+T59	protein 2007 2012	Stat5
+T60	protein 2098 2103	STAT5

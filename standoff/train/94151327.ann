@@ -1,0 +1,42 @@
+T1	protein 22 47	NF-kappa B transactivator
+T2	protein 48 52	RelA
+T3	protein 54 57	p65
+T4	protein 71 93	cytoplasmic inhibitors
+T5	protein 105 119	ankyrin motifs
+T6	protein 121 125	RelA
+T7	protein 127 130	p65
+T8	protein 191 231	heterodimeric p50-p65 NF-kappa B complex
+T9	protein 247 273	high-affinity binding site
+T10	protein 282 303	cytoplasmic inhibitor
+T11	protein 305 320	I kappa B alpha
+T12	protein 349 364	I kappa B alpha
+T13	protein 438 448	NF-kappa B
+T14	protein 486 513	tumor necrosis factor alpha
+T15	protein 537 552	I kappa B alpha
+T16	cell_type 556 569	human T cells
+T17	protein 646 661	I kappa B alpha
+T18	protein 746 750	RelA
+T19	protein 794 810	cytoplasmic RelA
+T20	protein 846 861	I kappa B alpha
+T21	protein 882 909	ankyrin motif-rich proteins
+T22	DNA 940 987	NF-kappa B2 (p100) and NF-kappa B1 (p105) genes
+T23	protein 1009 1013	RelA
+T24	protein 1013 1029	-I kappa B alpha
+T25	protein 1031 1062	RelA-p100 cytoplasmic complexes
+T26	protein 1093 1120	tumor necrosis factor alpha
+T27	protein 1139 1143	p100
+T28	protein 1179 1183	RelA
+T29	protein 1240 1244	RelA
+T30	protein 1249 1253	p100
+T31	protein 1267 1296	conserved Rel homology domain
+T32	protein 1326 1353	nuclear localization signal
+T33	protein 1357 1361	RelA
+T34	protein 1385 1400	I kappa B alpha
+T35	protein 1414 1418	p100
+T36	protein 1433 1437	RelA
+T37	protein 1460 1491	C-terminal ankyrin motif domain
+T38	protein 1533 1537	RelA
+T39	protein 1565 1580	I kappa B alpha
+T40	protein 1590 1594	RelA
+T41	RNA 1606 1615	p100 mRNA
+T42	protein 1787 1805	nuclear NF-kappa B

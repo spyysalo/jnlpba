@@ -1,0 +1,18 @@
+T1	protein 65 75	NF-kappa B
+T2	protein 146 156	NF-kappa B
+T3	protein 250 259	cytokines
+T4	protein 261 288	tumor necrosis factor alpha
+T5	protein 537 547	NF-kappa B
+T6	protein 651 661	NF-kappa B
+T7	cell_line 692 710	human T-cell lines
+T8	cell_line 712 720	Wurzburg
+T9	cell_line 729 735	Jurkat
+T10	protein 746 773	tumor necrosis factor alpha
+T11	protein 1105 1115	NF-kappa B
+T12	cell_line 1130 1142	Jurkat cells
+T13	protein 1177 1187	NF-kappa B
+T14	protein 1340 1350	NF-kappa B
+T15	protein 1489 1497	cytokine
+T16	protein 1523 1533	NF-kappa B
+T17	protein 1689 1699	NF-kappa B
+T18	protein 1789 1799	NF-kappa B

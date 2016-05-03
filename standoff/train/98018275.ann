@@ -1,0 +1,37 @@
+T1	protein 14 36	nuclear factor-kappa B
+T2	protein 55 76	I kappa B-alpha/MAD-3
+T3	cell_type 80 89	monocytes
+T4	cell_type 151 166	Blood monocytes
+T5	protein 286 311	proinflammatory cytokines
+T6	protein 321 330	TNF-alpha
+T7	protein 366 371	IL-2R
+T8	cell_type 382 391	monocytes
+T9	cell_type 570 579	monocytes
+T10	protein 597 606	cytokines
+T11	cell_type 661 670	monocytes
+T12	protein 761 776	I kappa B-alpha
+T13	protein 788 809	cytoplasmic inhibitor
+T14	protein 813 835	nuclear factor kappa B
+T15	protein 837 847	NF-kappa B
+T16	cell_type 870 874	PBMC
+T17	cell_type 879 888	monocytes
+T18	protein 935 950	I kappa B-alpha
+T19	cell_type 961 965	PBMC
+T20	cell_type 970 979	monocytes
+T21	protein 1123 1133	NF-kappa B
+T22	cell_type 1151 1160	monocytes
+T23	protein 1206 1221	I kappa B-alpha
+T24	protein 1265 1275	NF-kappa B
+T25	cell_type 1297 1301	PBMC
+T26	cell_type 1306 1315	monocytes
+T27	cell_type 1342 1359	mononuclear cells
+T28	DNA 1463 1495	adherence-associated early genes
+T29	protein 1505 1509	IL-8
+T30	protein 1514 1523	IL-1 beta
+T31	cell_type 1549 1553	PBMC
+T32	protein 1612 1622	tuberculin
+T33	protein 1624 1651	purified protein derivative
+T34	protein 1680 1695	I kappa B-alpha
+T35	RNA 1718 1738	I kappa B-alpha mRNA
+T36	protein 1798 1808	NF-kappa B
+T37	cell_type 1812 1821	monocytes

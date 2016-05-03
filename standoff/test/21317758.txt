@@ -1,0 +1,7 @@
+Hepatic ischemia-reperfusion injury.
+BACKGROUND:
+The morbidity associated with liver transplantation and major hepatic resections is partly a result of ischemia-reperfusion injury.
+DATA SOURCES:
+The entire world literature on the subject was searched via Medline. Keywords included reperfusion injury, transplantation, liver resection, nitric oxide, endothelin, cytokines, Kupffer cells, ischemic/ischaemic preconditioning, and nuclear factor-kappa B.
+CONCLUSIONS:
+An imbalance between endothelin and nitric oxide levels results in failure of the hepatic microcirculation at the onset of reperfusion. Activation of nuclear factor-kappa B in the liver promotes proinflammatory cytokine and adhesion molecule synthesis. These result in oxygen-derived free radical production and neutrophil recruitment, further contributing to cellular injury. Various therapeutic modalities acting on the above mediators have been successfully used to attenuate reperfusion injury in animal models of hepatic transplantation and resection. Application of the knowledge gained from animal models of hepatic ischemia-reperfusion to the clinical setting will improve the outcome of hepatic surgery.

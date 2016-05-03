@@ -1,0 +1,15 @@
+T1	DNA 12 40	early growth response gene 1
+T2	DNA 42 47	egr-1
+T3	DNA 104 125	immediate early genes
+T4	protein 292 321	transcription factor products
+T5	DNA 378 400	function-related genes
+T6	DNA 451 471	immediate early gene
+T7	DNA 473 478	egr-1
+T8	DNA 547 561	egr-1 promoter
+T9	protein 661 670	cytokines
+T10	DNA 737 742	egr-1
+T11	cell_type 789 812	myeloid cell precursors
+T12	protein 891 923	zinc-finger transcription factor
+T13	DNA 935 940	egr-1
+T14	DNA 953 1013	interleukin-2, CD44, ICAM-1, and tumor necrosis factor genes
+T15	DNA 1027 1032	egr-1

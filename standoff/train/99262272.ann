@@ -1,0 +1,34 @@
+T1	protein 31 36	IL-10
+T2	protein 40 48	cytokine
+T3	protein 61 66	IL-10
+T4	protein 83 134	immunosuppressive and/or anti-inflammatory cytokine
+T5	cell_line 194 217	IL-10 primed leukocytes
+T6	protein 255 276	tumor necrosis factor
+T7	protein 278 281	TNF
+T8	cell_type 337 346	Monocytes
+T9	cell_type 351 385	peripheral blood mononuclear cells
+T10	cell_type 387 391	PBMC
+T11	protein 474 497	recombinant human IL-10
+T12	protein 534 537	TNF
+T13	protein 573 576	TNF
+T14	cell_type 663 667	PBMC
+T15	protein 716 721	IL-10
+T16	protein 771 776	IL-10
+T17	protein 870 878	IL-1beta
+T18	protein 903 906	TNF
+T19	cell_type 948 952	PBMC
+T20	protein 1013 1018	IL-10
+T21	RNA 1020 1028	TNF mRNA
+T22	cell_type 1095 1099	PBMC
+T23	protein 1105 1110	IL-10
+T24	protein 1201 1206	IL-10
+T25	protein 1296 1301	IL-10
+T26	protein 1383 1387	CD16
+T27	protein 1462 1467	IL-10
+T28	cell_type 1520 1524	PBMC
+T29	protein 1570 1575	IL-10
+T30	protein 1601 1609	cytokine
+T31	cell_type 1672 1681	red cells
+T32	cell_type 1726 1730	PBMC
+T33	protein 1800 1805	IL-10
+T34	protein 1833 1857	monocyte surface markers

@@ -1,0 +1,45 @@
+T1	protein 13 28	T-cell receptor
+T2	protein 63 69	p95vav
+T3	protein 99 122	T-cell antigen receptor
+T4	protein 124 127	TCR
+T5	protein 160 176	tyrosine kinases
+T6	protein 262 268	p95vav
+T7	cell_type 304 339	hematopoietic and trophoblast cells
+T8	protein 365 382	structural motifs
+T9	protein 394 457	Src homology 2, Src homology 3, and pleckstrin homology domains
+T10	protein 464 507	putative guanine nucleotide exchange domain
+T11	protein 521 527	p95vav
+T12	protein 531 534	TCR
+T13	protein 613 619	p95vav
+T14	cell_type 636 643	T cells
+T15	protein 671 686	nuclear factors
+T16	protein 698 702	NFAT
+T17	protein 716 729	interleukin-2
+T18	protein 755 761	p95vav
+T19	protein 778 781	TCR
+T20	protein 868 872	NFAT
+T21	protein 889 915	G-protein-coupled receptor
+T22	protein 936 942	p95vav
+T23	protein 1005 1008	TCR
+T24	protein 1053 1073	first 67 amino acids
+T25	protein 1077 1083	p95vav
+T26	cell_line 1124 1137	NIH 3T3 cells
+T27	cell_type 1194 1201	T cells
+T28	protein 1235 1241	p95vav
+T29	protein 1250 1254	NFAT
+T30	protein 1285 1288	Ras
+T31	protein 1339 1342	Ras
+T32	protein 1347 1350	Raf
+T33	protein 1392 1398	p95vav
+T34	protein 1465 1476	calcineurin
+T35	protein 1497 1503	p95vav
+T36	protein 1519 1522	TCR
+T37	cell_line 1554 1568	Jurkat mutants
+T38	protein 1582 1585	TCR
+T39	protein 1608 1611	TCR
+T40	protein 1649 1652	TCR
+T41	protein 1687 1693	p95vav
+T42	protein 1734 1740	p95vav
+T43	protein 1770 1773	TCR
+T44	protein 1895 1901	p95vav
+T45	protein 1974 1977	TCR

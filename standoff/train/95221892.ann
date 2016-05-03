@@ -1,0 +1,18 @@
+T1	DNA 0 4	cDNA
+T2	protein 18 59	NGFI-B/nur77-related transcription factor
+T3	cell_line 68 95	apoptotic human T cell line
+T4	cell_line 99 125	human T lymphoid cell line
+T5	cell_line 127 131	PEER
+T6	DNA 203 207	gene
+T7	DNA 209 214	TINUR
+T8	cell_line 232 252	apoptotic PEER cells
+T9	DNA 276 286	TINUR gene
+T10	protein 340 366	T cell Ag receptor complex
+T11	DNA 368 373	TINUR
+T12	protein 389 408	NGFI-B/nur77 family
+T13	protein 416 444	steroid receptor superfamily
+T14	protein 455 470	orphan receptor
+T15	DNA 472 477	TINUR
+T16	DNA 496 508	DNA sequence
+T17	protein 512 524	NGFI-B/nur77
+T18	protein 551 570	NGFI-B/nur77 family

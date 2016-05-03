@@ -1,0 +1,31 @@
+T1	DNA 0 17	Complementary DNA
+T2	protein 31 65	human T-cell FK506-binding protein
+T3	protein 69 103	peptidylprolyl cis-trans isomerase
+T4	protein 118 129	cyclophilin
+T5	protein 464 493	cyclosporin A-binding protein
+T6	protein 494 505	cyclophilin
+T7	protein 522 556	peptidylprolyl cis-trans isomerase
+T8	protein 560 584	cellular binding protein
+T9	protein 625 636	cyclophilin
+T10	DNA 707 711	cDNA
+T11	protein 746 750	FKBP
+T12	cell_type 780 787	T cells
+T13	protein 917 928	bovine FKBP
+T14	protein 1144 1148	FKBP
+T15	protein 1223 1227	FKBP
+T16	protein 1306 1310	FKBP
+T17	protein 1454 1465	cyclophilin
+T18	protein 1529 1540	cyclophilin
+T19	protein 1545 1549	FKBP
+T20	RNA 1601 1613	mRNA species
+T21	DNA 1666 1681	human FKBP cDNA
+T22	RNA 1699 1712	poly(A)+ RNAs
+T23	cell_type 1742 1757	placental cells
+T24	cell_type 1762 1772	leukocytes
+T25	cell_line 1787 1810	Jurkat leukemic T cells
+T26	RNA 1890 1899	FKBP mRNA
+T27	DNA 1927 1944	human genomic DNA
+T28	protein 1969 1988	restriction enzymes
+T29	protein 2062 2066	FKBP
+T30	DNA 2135 2151	cyclophilin gene
+T31	DNA 2199 2215	mammalian genome

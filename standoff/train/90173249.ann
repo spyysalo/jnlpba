@@ -1,0 +1,16 @@
+T1	cell_type 26 38	lymphoblasts
+T2	cell_type 142 154	lymphoblasts
+T3	protein 238 262	glucocorticoid receptors
+T4	protein 487 503	steroid receptor
+T5	cell_type 541 564	leukemic T lymphoblasts
+T6	cell_line 566 598	CEM-ICR 27 leukemic lymphoblasts
+T7	cell_line 611 620	CEM cells
+T8	protein 643 667	glucocorticoid receptors
+T9	protein 740 760	glutamine synthetase
+T10	protein 791 808	steroid receptors
+T11	protein 936 956	glutamine synthetase
+T12	cell_line 964 981	transfected cells
+T13	cell_line 1044 1062	ICR27 lymphoblasts
+T14	protein 1124 1142	DNA binding region
+T15	DNA 1172 1181	GRE sites
+T16	protein 1408 1434	steroid-receptor complexes

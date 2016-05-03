@@ -1,0 +1,32 @@
+T1	protein 11 25	interleukin-10
+T2	cell_type 29 68	human peripheral blood mononuclear cell
+T3	cell_type 165 187	mononuclear phagocytes
+T4	protein 327 348	deactivating cytokine
+T5	protein 349 363	interleukin 10
+T6	protein 365 370	IL-10
+T7	cell_type 375 414	human peripheral blood mononuclear cell
+T8	cell_type 416 420	PBMC
+T9	protein 508 513	IL-10
+T10	protein 552 579	tumor necrosis factor alpha
+T11	protein 581 590	TNF-alpha
+T12	cell_type 603 607	PBMC
+T13	protein 792 797	IL-10
+T14	protein 808 817	TNF-alpha
+T15	protein 866 871	IL-10
+T16	protein 904 912	IL-1beta
+T17	cell_type 918 922	PBMC
+T18	RNA 956 970	TNF-alpha mRNA
+T19	protein 1005 1010	IL-10
+T20	RNA 1090 1104	IL-1 beta mRNA
+T21	protein 1152 1157	IL-10
+T22	protein 1208 1213	IL-10
+T23	protein 1241 1250	NF-kappaB
+T24	protein 1324 1329	IL-10
+T25	cell_type 1344 1348	PBMC
+T26	protein 1377 1382	IL-10
+T27	protein 1472 1477	IL-10
+T28	cell_type 1506 1510	PBMC
+T29	protein 1634 1639	IL-10
+T30	protein 1643 1667	proinflammatory cytokine
+T31	protein 1732 1741	TNF-alpha
+T32	protein 1799 1807	IL-1beta

@@ -1,0 +1,28 @@
+T1	protein 32 73	matrix associating region-binding protein
+T2	protein 119 125	bright
+T3	protein 127 133	Bright
+T4	protein 135 172	B cell regulator of IgH transcription
+T5	cell_type 179 185	B cell
+T6	protein 196 237	matrix associating region-binding protein
+T7	DNA 283 304	IgH intronic enhancer
+T8	DNA 306 310	E mu
+T9	protein 331 337	Bright
+T10	protein 392 417	transcriptional activator
+T11	protein 419 425	Bright
+T12	protein 467 493	concatenated binding sites
+T13	DNA 587 600	binding sites
+T14	DNA 604 608	E mu
+T15	protein 631 637	Bright
+T16	protein 659 684	Bright DNA binding domain
+T17	protein 722 726	SWI1
+T18	protein 747 762	SWI.SNF complex
+T19	protein 855 887	high mobility group box proteins
+T20	protein 889 895	Bright
+T21	DNA 905 922	E mu binding site
+T22	DNA 990 994	E mu
+T23	protein 1046 1052	Bright
+T24	protein 1197 1203	Bright
+T25	DNA 1260 1264	E mu
+T26	protein 1325 1331	Bright
+T27	DNA 1394 1414	immunoglobulin locus
+T28	cell_type 1422 1428	B cell

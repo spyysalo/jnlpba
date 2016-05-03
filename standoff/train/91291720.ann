@@ -1,0 +1,29 @@
+T1	cell_type 45 60	human monocytes
+T2	protein 68 104	macrophage colony-stimulating factor
+T3	protein 110 146	macrophage colony-stimulating factor
+T4	protein 148 153	M-CSF
+T5	cell_type 205 227	mononuclear phagocytes
+T6	protein 354 359	M-CSF
+T7	DNA 420 452	jun and fos early response genes
+T8	protein 468 485	c-jun transcripts
+T9	cell_type 505 545	resting human peripheral blood monocytes
+T10	protein 592 615	human recombinant M-CSF
+T11	RNA 669 679	c-jun mRNA
+T12	protein 755 760	M-CSF
+T13	DNA 771 776	c-jun
+T14	RNA 869 886	c-jun transcripts
+T15	protein 888 893	M-CSF
+T16	DNA 954 964	jun-B gene
+T17	DNA 1033 1038	c-jun
+T18	protein 1068 1073	M-CSF
+T19	RNA 1084 1094	c-fos mRNA
+T20	cell_type 1105 1120	human monocytes
+T21	DNA 1222 1232	c-fos gene
+T22	DNA 1262 1272	fos-B gene
+T23	protein 1284 1289	M-CSF
+T24	DNA 1316 1332	fos-related gene
+T25	DNA 1334 1339	fra-1
+T26	DNA 1379 1384	c-fos
+T27	DNA 1389 1394	fos-B
+T28	protein 1438 1443	M-CSF
+T29	DNA 1524 1538	jun/fos family

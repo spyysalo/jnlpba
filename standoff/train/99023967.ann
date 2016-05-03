@@ -1,0 +1,31 @@
+T1	protein 8 12	IKK1
+T2	protein 17 21	IKK2
+T3	cell_type 57 78	human monocytic cells
+T4	cell_type 80 102	Mononuclear phagocytes
+T5	cell_type 202 211	monocytes
+T6	protein 260 301	NF-kappaB/Rel transcription factor family
+T7	protein 339 360	tumor necrosis factor
+T8	protein 365 378	interleukin 1
+T9	protein 420 424	IKK1
+T10	protein 429 433	IKK2
+T11	protein 458 488	IkappaB cytoplasmic inhibitors
+T12	protein 490 502	IkappaBalpha
+T13	protein 504 515	IkappaBbeta
+T14	protein 521 535	IkappaBepsilon
+T15	protein 606 628	NF-kappaB/Rel proteins
+T16	protein 757 760	IKK
+T17	cell_type 773 788	human monocytes
+T18	cell_line 793 814	THP-1 monocytic cells
+T19	cell_type 865 880	monocytic cells
+T20	protein 983 991	IkappaBs
+T21	protein 1025 1034	NF-kappaB
+T22	protein 1093 1097	IKK1
+T23	protein 1101 1130	dominant negative mutant IKK1
+T24	protein 1132 1136	K44M
+T25	protein 1142 1156	wild type IKK2
+T26	protein 1184 1190	kappaB
+T27	cell_type 1218 1233	monocytic cells
+T28	protein 1278 1282	IKK2
+T29	protein 1310 1316	kappaB
+T30	cell_type 1450 1471	human monocytic cells
+T31	protein 1495 1499	IKK2

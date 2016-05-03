@@ -1,0 +1,40 @@
+T1	protein 0 3	ERP
+T2	protein 25 68	ets transcription factor/oncoprotein family
+T3	DNA 162 177	ets gene family
+T4	protein 224 245	transcription factors
+T5	DNA 401 449	murine immunoglobulin heavy-chain (IgH) enhancer
+T6	DNA 451 453	pi
+T7	DNA 458 464	microB
+T8	DNA 503 516	binding sites
+T9	DNA 521 541	ets-related proteins
+T10	protein 555 593	ets-related transcriptional regulators
+T11	cell_type 607 624	pre-B lymphocytes
+T12	DNA 659 661	pi
+T13	DNA 669 680	microB site
+T14	DNA 794 804	ets family
+T15	protein 840 872	ets-related transcription factor
+T16	protein 874 877	ERP
+T17	protein 879 898	ets-related protein
+T18	cell_line 910 932	murine pre-B cell line
+T19	cell_line 933 941	BASC 6C2
+T20	protein 974 977	ERP
+T21	protein 1082 1125	ets transcription factor/oncoprotein family
+T22	protein 1191 1196	SAP-1
+T23	DNA 1222 1237	ets gene family
+T24	protein 1262 1283	serum response factor
+T25	protein 1297 1300	ERP
+T26	protein 1374 1390	carboxy terminus
+T27	protein 1399 1402	ERP
+T28	DNA 1433 1450	ets-binding sites
+T29	DNA 1465 1473	E74 site
+T30	DNA 1479 1499	IgH enhancer pi site
+T31	DNA 1509 1530	lck promoter ets site
+T32	protein 1545 1588	carboxy-terminal negative regulatory domain
+T33	protein 1605 1628	ERP-related transcripts
+T34	cell_type 1688 1702	B-cell lineage
+T35	protein 1704 1707	ERP
+T36	cell_type 1757 1769	B-lymphocyte
+T37	DNA 1889 1900	IgH pi site
+T38	protein 1926 1929	ERP
+T39	cell_type 1951 1957	B-cell
+T40	DNA 1977 1985	IgH gene

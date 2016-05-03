@@ -1,0 +1,29 @@
+T1	DNA 14 40	transcription factor genes
+T2	cell_type 95 104	monocytes
+T3	protein 153 178	proinflammatory cytokines
+T4	protein 211 221	chemokines
+T5	cell_type 233 247	infected cells
+T6	protein 423 433	NF-kappa B
+T7	DNA 492 522	proinflammatory cytokine genes
+T8	DNA 572 586	cytokine genes
+T9	DNA 603 616	binding sites
+T10	DNA 626 642	promoter regions
+T11	protein 690 711	transcription factors
+T12	protein 743 747	CREB
+T13	protein 749 752	CTF
+T14	protein 754 759	OTF-1
+T15	protein 765 770	OTF-2
+T16	protein 849 870	transcription factors
+T17	protein 941 982	metabolized transcription factor proteins
+T18	DNA 1065 1110	CREB, CTF, OTF-1, OFT-2, and NF-kappa B genes
+T19	cell_line 1187 1206	monocytic cell line
+T20	cell_line 1207 1217	Mono Mac 6
+T21	cell_type 1251 1260	monocytes
+T22	cell_type 1311 1320	monocytes
+T23	protein 1364 1368	CREB
+T24	protein 1370 1373	CTF
+T25	protein 1379 1384	OTF-2
+T26	protein 1475 1495	transcription factor
+T27	cell_type 1515 1538	non-proliferating cells
+T28	cell_type 1606 1626	apoptosisprone cells
+T29	protein 1656 1685	transcription factor proteins

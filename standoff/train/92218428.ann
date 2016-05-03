@@ -1,0 +1,27 @@
+T1	protein 4 34	B cell-specific nuclear factor
+T2	protein 35 40	OTF-2
+T3	DNA 83 118	human class II transplantation gene
+T4	DNA 120 123	DRA
+T5	DNA 145 183	major histocompatibility class II gene
+T6	DNA 184 187	DRA
+T7	DNA 200 215	octamer element
+T8	DNA 258 261	DRA
+T9	cell_type 276 283	B cells
+T10	protein 293 313	DNA-binding proteins
+T11	protein 378 399	B cell-specific OTF-2
+T12	protein 419 424	OTF-1
+T13	protein 465 470	OTF-2
+T14	protein 479 484	OTF-1
+T15	DNA 499 507	DRA gene
+T16	protein 606 611	OTF-2
+T17	protein 655 660	OTF-2
+T18	DNA 664 672	DRA gene
+T19	protein 701 706	OTF-1
+T20	DNA 749 757	DRA gene
+T21	protein 841 866	Recombinant OTF-2 protein
+T22	DNA 933 941	DRA gene
+T23	DNA 1018 1041	OTF-2 expression vector
+T24	protein 1077 1090	OTF-2 protein
+T25	DNA 1100 1108	DRA gene
+T26	DNA 1164 1179	octamer element
+T27	protein 1268 1308	lymphoid-specific octamer-binding factor

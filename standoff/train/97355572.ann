@@ -1,0 +1,20 @@
+T1	protein 24 33	Gs(alpha)
+T2	protein 61 77	adenylyl cyclase
+T3	protein 137 146	G protein
+T4	protein 148 157	G(S)alpha
+T5	protein 302 311	G(S)alpha
+T6	protein 509 518	G(S)alpha
+T7	protein 540 556	adenylyl cyclase
+T8	cell_line 622 635	HEK 293 cells
+T9	protein 671 680	G(S)alpha
+T10	DNA 701 736	inducible metallothionein promoters
+T11	protein 863 872	G(S)alpha
+T12	protein 898 907	G(S)alpha
+T13	protein 986 995	G(S)alpha
+T14	protein 1096 1105	G(S)alpha
+T15	protein 1204 1213	G(S)alpha
+T16	protein 1336 1373	cAMP response element binding protein
+T17	DNA 1408 1437	cAMP-dependent reporter genes
+T18	protein 1489 1498	G(S)alpha
+T19	protein 1665 1674	G(S)alpha
+T20	DNA 1731 1751	cAMP-dependent genes

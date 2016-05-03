@@ -1,0 +1,19 @@
+T1	protein 44 48	IL-2
+T2	cell_type 178 194	human lymphocyte
+T3	cell_type 483 495	human T cell
+T4	protein 578 585	cyclins
+T5	protein 591 615	cyclin-dependent kinases
+T6	protein 741 745	IL-2
+T7	protein 749 778	IL-2R alpha- and gamma-chains
+T8	protein 792 796	IL-2
+T9	protein 911 915	IL-2
+T10	cell_type 919 926	T cells
+T11	protein 1072 1082	NF-kappa B
+T12	protein 1087 1091	AP-1
+T13	protein 1139 1149	NF-kappa B
+T14	protein 1208 1223	I kappa B-alpha
+T15	protein 1228 1242	I kappa B-beta
+T16	protein 1322 1332	NF-kappa B
+T17	cell_type 1354 1361	T cells
+T18	protein 1389 1393	CD40
+T19	cell_type 1411 1424	B lymphocytes

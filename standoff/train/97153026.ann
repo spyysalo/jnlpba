@@ -1,0 +1,19 @@
+T1	protein 0 6	GATA-1
+T2	cell_type 65 80	erythroid cells
+T3	protein 239 260	transcription factors
+T4	cell_line 271 290	erythroid cell line
+T5	protein 354 393	lineage-restricted transcription factor
+T6	protein 394 400	GATA-1
+T7	protein 438 444	GATA-1
+T8	protein 572 593	transcription factors
+T9	protein 595 599	Oct1
+T10	protein 604 607	Sp1
+T11	protein 630 636	GATA-1
+T12	RNA 649 653	mRNA
+T13	protein 813 834	transcription factors
+T14	protein 963 1002	lineage-restricted transcription factor
+T15	protein 1124 1130	GATA-1
+T16	DNA 1206 1230	erythroid-specific genes
+T17	DNA 1276 1295	non-erythroid genes
+T18	DNA 1307 1331	GATA-responsive elements
+T19	protein 1390 1396	GATA-1

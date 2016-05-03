@@ -1,0 +1,14 @@
+T1	protein 14 27	bcl-6 protein
+T2	protein 68 81	Bcl-6 protein
+T3	protein 113 133	transcription factor
+T4	cell_type 273 296	germinal center B cells
+T5	cell_type 307 330	neoplastic counterparts
+T6	protein 372 385	bcl-6 protein
+T7	cell_type 453 468	epidermal cells
+T8	cell_line 474 514	squamous cell carcinoma (SCC) cell lines
+T9	protein 571 584	bcl-6 protein
+T10	cell_line 617 637	normal prickle cells
+T11	cell_type 668 689	epidermal basal cells
+T12	cell_line 1165 1178	SCC cell line
+T13	protein 1244 1257	bcl-6 protein
+T14	cell_type 1325 1351	neoplastic epidermal cells

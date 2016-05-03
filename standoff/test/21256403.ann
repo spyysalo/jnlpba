@@ -1,0 +1,31 @@
+T1	protein 18 39	transcription factors
+T2	protein 40 44	AP-1
+T3	protein 49 58	NF-kappaB
+T4	cell_type 62 73	CD4 T cells
+T5	protein 77 133	peroxisome proliferator-activated receptor gamma ligands
+T6	protein 139 187	peroxisome proliferator-activated receptor gamma
+T7	protein 189 198	PPARgamma
+T8	protein 217 253	nuclear hormone receptor superfamily
+T9	protein 323 332	PPARgamma
+T10	protein 406 414	mitogens
+T11	protein 449 458	PPARgamma
+T12	cell_type 507 522	resting T cells
+T13	cell_type 558 565	T cells
+T14	protein 576 584	anti-CD3
+T15	protein 589 598	anti-CD28
+T16	protein 652 668	PPARgamma ligand
+T17	cell_type 712 719	T cells
+T18	protein 763 771	anti-CD3
+T19	protein 776 785	anti-CD28
+T20	cell_type 912 923	CD4 T cells
+T21	protein 973 994	transcription factors
+T22	protein 995 998	AP1
+T23	protein 1003 1012	NF-kappaB
+T24	protein 1014 1031	PPARgamma ligands
+T25	protein 1177 1194	PPARgamma ligands
+T26	cell_type 1198 1219	activated macrophages
+T27	protein 1248 1257	PPARgamma
+T28	protein 1263 1281	negative regulator
+T29	cell_type 1321 1331	macrophage
+T30	cell_type 1336 1343	T cells
+T31	protein 1345 1354	PPARgamma

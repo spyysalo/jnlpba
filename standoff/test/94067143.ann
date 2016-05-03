@@ -1,0 +1,30 @@
+T1	protein 8 26	NF-kappa B complex
+T2	protein 38 52	p65 homodimers
+T3	protein 171 202	NF-kappa B transcription factor
+T4	protein 208 227	heteromeric complex
+T5	protein 243 275	Rel-related DNA-binding subunits
+T6	protein 277 287	termed p65
+T7	protein 292 295	p50
+T8	protein 351 371	p65 and p50 subunits
+T9	protein 403 420	stable homodimers
+T10	protein 422 425	p65
+T11	protein 477 480	p50
+T12	protein 540 554	p50 homodimers
+T13	protein 574 578	KBF1
+T14	protein 696 710	p65 homodimers
+T15	protein 827 841	p65 homodimers
+T16	cell_type 852 865	human T cells
+T17	protein 892 922	NF-kappa B p50-p65 heterodimer
+T18	protein 935 955	p65 homodimeric form
+T19	protein 959 969	NF-kappa B
+T20	protein 1175 1178	p65
+T21	protein 1264 1280	protein kinase A
+T22	protein 1282 1286	RRPS
+T23	protein 1372 1391	Rel homology domain
+T24	protein 1502 1505	p65
+T25	protein 1511 1514	p50
+T26	protein 1674 1689	I kappa B alpha
+T27	protein 1705 1708	p65
+T28	protein 1823 1845	p65 and p50 homodimers
+T29	protein 1981 1991	NF-kappa B
+T30	protein 1992 1995	Rel

@@ -1,0 +1,32 @@
+T1	protein 0 16	Interferon-alpha
+T2	protein 30 40	STATs1, -3
+T3	protein 89 92	Lck
+T4	protein 104 128	mitogen-activated kinase
+T5	cell_type 132 139	T cells
+T6	protein 148 159	interferons
+T7	protein 161 165	IFNs
+T8	protein 183 192	cytokines
+T9	protein 288 297	cytokines
+T10	protein 427 430	JAK
+T11	protein 430 435	-STAT
+T12	protein 501 518	Src-family kinase
+T13	protein 519 522	Lck
+T14	protein 526 529	JAK
+T15	protein 529 534	-STAT
+T16	protein 604 607	Lck
+T17	protein 611 620	IFN-alpha
+T18	cell_line 661 684	Lck-defective cell line
+T19	cell_line 698 704	Jurkat
+T20	cell_line 711 719	JCam/Lck
+T21	cell_line 721 731	JCam cells
+T22	protein 737 740	Lck
+T23	protein 774 783	IFN-alpha
+T24	protein 795 799	MAPK
+T25	protein 839 842	Lck
+T26	protein 857 870	STATs1 and -3
+T27	protein 946 949	Lck
+T28	cell_line 964 987	IFN-alpha-treated cells
+T29	protein 1027 1036	IFN-alpha
+T30	protein 1122 1125	Lck
+T31	protein 1137 1141	MAPK
+T32	protein 1156 1165	IFN-alpha

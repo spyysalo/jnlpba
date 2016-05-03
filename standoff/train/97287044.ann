@@ -1,0 +1,7 @@
+T1	protein 57 73	immunoregulatory
+T2	protein 165 183	prolactin receptor
+T3	protein 201 244	hematopoietin/cytokine receptor superfamily
+T4	cell_type 329 340	lymphocytes
+T5	protein 733 752	signaling molecules
+T6	DNA 757 789	prolactin-inducible target genes
+T7	DNA 846 901	prolactin-inducible interferon regulatory factor-1 gene

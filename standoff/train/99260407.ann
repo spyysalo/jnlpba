@@ -1,0 +1,23 @@
+T1	protein 14 40	Th1 and Th2 type cytokines
+T2	protein 55 60	HBsAg
+T3	protein 65 70	HBxAg
+T4	protein 108 124	cytokine pattern
+T5	protein 305 313	cytokine
+T6	protein 395 412	Cytokine profiles
+T7	cell_type 416 450	peripheral blood mononuclear cells
+T8	protein 517 522	HBsAg
+T9	protein 550 559	IFN-gamma
+T10	protein 561 565	IL-2
+T11	protein 567 571	IL-4
+T12	protein 577 582	IL-10
+T13	protein 664 673	cytokines
+T14	protein 693 702	IFN-gamma
+T15	protein 738 751	serum AST/ALT
+T16	protein 786 804	Th2 type cytokines
+T17	cell_type 832 843	hepatocytes
+T18	protein 850 855	HBxAg
+T19	protein 910 927	cytokine patterns
+T20	protein 980 992	Th1 cytokine
+T21	protein 994 1003	IFN-gamma
+T22	protein 1008 1013	HBsAg
+T23	protein 1124 1137	Th2 cytokines

@@ -1,0 +1,24 @@
+T1	cell_type 0 14	Human monocyte
+T2	protein 26 37	fibronectin
+T3	protein 47 56	IFN-gamma
+T4	protein 89 108	Leukocyte integrins
+T5	protein 345 353	integrin
+T6	protein 567 576	IFN-gamma
+T7	protein 614 623	IFN-gamma
+T8	protein 741 752	fibronectin
+T9	protein 756 805	arginine-glycine-aspartate (RGD)-coated substrata
+T10	cell_type 843 864	matrix-adherent cells
+T11	protein 959 970	fibronectin
+T12	RNA 1048 1070	IFN-gamma-induced mRNA
+T13	protein 1079 1112	high affinity Fc gammaRI receptor
+T14	RNA 1173 1177	mRNA
+T15	protein 1230 1266	STAT1-containing DNA-binding complex
+T16	DNA 1281 1309	Fc gammaRI promoter elements
+T17	protein 1356 1361	STAT1
+T18	protein 1370 1386	tyrosine kinases
+T19	protein 1387 1391	JAK1
+T20	protein 1396 1400	JAK2
+T21	cell_type 1431 1453	RGD-adherent monocytes
+T22	cell_type 1468 1481	control cells
+T23	protein 1532 1540	integrin
+T24	protein 1594 1602	cytokine

@@ -1,0 +1,37 @@
+T1	protein 51 80	interleukin-12 fusion protein
+T2	protein 82 90	Flexi-12
+T3	cell_type 105 134	acute myeloid leukemic blasts
+T4	protein 165 179	Interleukin-12
+T5	protein 181 186	IL-12
+T6	protein 193 201	cytokine
+T7	cell_type 239 250	lymphocytes
+T8	cell_type 255 275	natural killer cells
+T9	protein 367 396	immune costimulatory molecule
+T10	protein 397 401	B7.1
+T11	protein 406 411	IL-12
+T12	DNA 506 526	IL-12 and B7.1 cDNAs
+T13	protein 682 687	IL-12
+T14	protein 700 705	IL-12
+T15	protein 711 722	heterodimer
+T16	protein 832 848	functional IL-12
+T17	DNA 998 1017	co-stimulatory gene
+T18	DNA 1096 1100	cDNA
+T19	protein 1116 1136	single-chain protein
+T20	protein 1145 1153	Flexi-12
+T21	protein 1222 1227	IL-12
+T22	protein 1229 1235	rIL-12
+T23	protein 1264 1272	Flexi-12
+T24	cell_line 1312 1343	phytohemagglutinin (PHA) blasts
+T25	cell_line 1352 1362	PHA blasts
+T26	protein 1374 1390	interferon-gamma
+T27	protein 1392 1401	IFN-gamma
+T28	cell_type 1478 1482	PBLs
+T29	protein 1560 1566	rIL-12
+T30	protein 1624 1651	STAT 4 transcription factor
+T31	protein 1694 1699	IL-12
+T32	protein 1731 1739	Flexi-12
+T33	protein 1777 1783	rIL-12
+T34	protein 1802 1810	Flexi-12
+T35	cell_type 1890 1925	acute myeloid leukemic (AML) blasts
+T36	cell_type 1936 1946	AML blasts
+T37	protein 2087 2096	cytokines

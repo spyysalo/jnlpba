@@ -1,0 +1,26 @@
+T1	protein 15 37	nuclear factor kappa B
+T2	protein 42 46	CD18
+T3	cell_line 171 205	cultured corneal endothelial cells
+T4	protein 225 237	CD18 antigen
+T5	protein 335 357	nuclear factor kappa B
+T6	protein 359 367	NFkappaB
+T7	protein 458 485	tumor necrosis factor alpha
+T8	protein 487 495	TNFalpha
+T9	protein 536 544	TNFalpha
+T10	protein 684 702	anti-CD18 antibody
+T11	cell_type 775 786	neutrophils
+T12	cell_type 872 883	neutrophils
+T13	protein 974 982	NFkappaB
+T14	protein 989 997	TNFalpha
+T15	protein 1065 1082	anti-p65 antibody
+T16	cell_line 1116 1150	cultured corneal endothelial cells
+T17	protein 1190 1198	TNFalpha
+T18	protein 1354 1372	anti-CD18 antibody
+T19	protein 1570 1578	NFkappaB
+T20	cell_type 1611 1629	unstimulated cells
+T21	protein 1656 1664	TNFalpha
+T22	protein 1672 1680	NFkappaB
+T23	protein 1754 1762	NFkappaB
+T24	protein 1882 1886	CD18
+T25	cell_type 1900 1920	activated leukocytes
+T26	protein 2049 2057	NFkappaB

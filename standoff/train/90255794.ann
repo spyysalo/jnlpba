@@ -1,0 +1,37 @@
+T1	cell_line 0 21	Lymphocyte cell lines
+T2	protein 94 133	1 alpha,25-dihydroxyvitamin D3 receptor
+T3	cell_line 135 156	Lymphocyte cell lines
+T4	cell_line 474 496	T-lymphocyte cell line
+T5	cell_line 498 503	S-LB1
+T6	cell_line 559 564	S-LB1
+T7	protein 606 643	chick intestinal 1,25(OH)2D3 receptor
+T8	cell_line 810 820	cell lines
+T9	protein 864 867	VDR
+T10	protein 872 875	VDR
+T11	protein 884 887	VDR
+T12	protein 936 944	receptor
+T13	cell_line 966 980	cultured cells
+T14	protein 1125 1156	functional 1,25(OH)2D3 receptor
+T15	cell_line 1170 1179	cell line
+T16	cell_line 1181 1187	A1-VDR
+T17	protein 1249 1272	25(OH)D3-24-hydroxylase
+T18	cell_line 1380 1389	cell line
+T19	cell_line 1402 1408	Ro-VDR
+T20	cell_line 1478 1495	control cell line
+T21	protein 1537 1545	receptor
+T22	cell_line 1573 1579	Ro-VDR
+T23	cell_line 1588 1598	cell lines
+T24	protein 1630 1638	receptor
+T25	protein 1659 1667	receptor
+T26	cell_line 1844 1850	Ro-VDR
+T27	cell_line 1855 1867	A1-VDR cells
+T28	protein 1963 1983	1,25(OH)2D3 receptor
+T29	cell_line 1991 2003	Ro-VDR cells
+T30	protein 2047 2078	unoccupied 1,25(OH)2D3 receptor
+T31	protein 2120 2128	receptor
+T32	cell_line 2134 2146	A1-VDR cells
+T33	RNA 2267 2272	mRNAs
+T34	DNA 2293 2307	c-myc oncogene
+T35	protein 2423 2443	1,25(OH)2D3 receptor
+T36	cell_line 2480 2490	cell lines
+T37	protein 2555 2563	receptor

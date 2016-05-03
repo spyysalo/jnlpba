@@ -1,0 +1,14 @@
+T1	protein 13 41	tumour necrosis factor alpha
+T2	cell_type 71 105	peripheral blood mononuclear cells
+T3	cell_type 454 471	mononuclear cells
+T4	protein 512 540	tumour necrosis factor alpha
+T5	protein 542 551	TNF-alpha
+T6	protein 632 641	TNF-alpha
+T7	cell_type 663 680	mononuclear cells
+T8	protein 872 881	TNF-alpha
+T9	protein 1008 1017	TNF-alpha
+T10	protein 1110 1119	NF-kappaB
+T11	protein 1123 1143	transcription factor
+T12	protein 1161 1170	TNF-alpha
+T13	protein 1194 1203	TNF-alpha
+T14	protein 1243 1252	TNF-alpha

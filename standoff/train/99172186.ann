@@ -1,0 +1,17 @@
+T1	protein 106 115	NF-kappaB
+T2	protein 394 398	IL-4
+T3	protein 403 429	granulocyte-macrophage CSF
+T4	protein 525 545	transcription factor
+T5	protein 546 555	NF-kappaB
+T6	protein 619 628	cytokines
+T7	cell_type 632 634	DC
+T8	protein 674 680	HLA-DR
+T9	protein 682 686	CD86
+T10	protein 688 692	B7-2
+T11	protein 699 713	CD40 molecules
+T12	protein 806 810	CD40
+T13	cell_type 918 920	DC
+T14	cell_type 1049 1062	naive T cells
+T15	cell_type 1078 1080	DC
+T16	cell_type 1183 1185	DC
+T17	cell_type 1389 1391	DC

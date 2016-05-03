@@ -1,0 +1,47 @@
+T1	protein 21 27	ZAP-70
+T2	protein 67 81	activated SHP1
+T3	protein 127 139	SHP1 protein
+T4	protein 140 160	tyrosine phosphatase
+T5	protein 224 247	T cell antigen receptor
+T6	protein 249 252	TCR
+T7	protein 298 302	SHP1
+T8	cell_type 306 319	T lymphocytes
+T9	protein 398 402	SHP1
+T10	protein 481 485	SHP1
+T11	protein 489 492	TCR
+T12	protein 518 532	wild-type SHP1
+T13	protein 604 610	ZAP-70
+T14	protein 615 618	Syk
+T15	protein 630 634	SHP1
+T16	protein 672 687	endogenous SHP1
+T17	protein 689 708	Inactive SHP1-D421A
+T18	protein 713 727	wild-type SHP2
+T19	protein 750 785	Constitutively active SHP1-DeltaSH2
+T20	protein 818 824	ZAP-70
+T21	protein 829 832	Syk
+T22	protein 884 897	SHP1-DeltaSH2
+T23	protein 934 940	ZAP-70
+T24	protein 945 948	Syk
+T25	protein 976 1008	mitogen-activated protein kinase
+T26	protein 1009 1013	Erk2
+T27	DNA 1056 1074	interleukin-2 gene
+T28	protein 1113 1126	SHP2-DeltaSH2
+T29	protein 1329 1343	TCR zeta-chain
+T30	protein 1347 1368	phospholipase Cgamma1
+T31	protein 1386 1403	Src family kinase
+T32	protein 1478 1484	ZAP-70
+T33	protein 1489 1492	Syk
+T34	protein 1522 1526	SHP1
+T35	protein 1561 1572	SH2 domains
+T36	protein 1576 1580	SHP1
+T37	protein 1619 1625	ZAP-70
+T38	protein 1630 1633	Syk
+T39	protein 1692 1696	SHP1
+T40	protein 1734 1737	TCR
+T41	protein 1840 1859	inhibitory receptor
+T42	protein 1888 1892	SHP1
+T43	protein 1901 1912	SH2 domains
+T44	protein 1928 1932	SHP1
+T45	protein 1964 1967	TCR
+T46	protein 1983 2002	inhibitory receptor
+T47	protein 2024 2027	TCR

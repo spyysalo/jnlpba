@@ -1,0 +1,25 @@
+T1	cell_type 40 63	CD4(+)CD8(+) thymocytes
+T2	protein 67 82	Ikaros proteins
+T3	protein 113 126	Ets activator
+T4	protein 128 134	Ikaros
+T5	DNA 195 226	pericentromeric heterochromatin
+T6	protein 336 349	Ikaros dimers
+T7	protein 366 379	Ets activator
+T8	DNA 401 433	lymphocyte-specific TdT promoter
+T9	DNA 491 514	integrated TdT promoter
+T10	cell_line 555 582	CD4(+)CD8(+) thymocyte line
+T11	protein 679 685	Ikaros
+T12	protein 1007 1013	Ikaros
+T13	protein 1045 1052	isoform
+T14	protein 1070 1089	dimerization domain
+T15	protein 1104 1122	DNA-binding domain
+T16	cell_line 1145 1172	CD4(+)CD8(+) thymocyte line
+T17	protein 1194 1214	small Ikaros isoform
+T18	protein 1314 1320	Ikaros
+T19	protein 1340 1347	isoform
+T20	protein 1363 1383	multimeric complexes
+T21	protein 1389 1405	DNA-bound Ikaros
+T22	protein 1514 1527	Ikaros dimers
+T23	DNA 1541 1553	TdT promoter
+T24	DNA 1573 1605	pericentromeric repeat sequences
+T25	DNA 1665 1678	inactive gene

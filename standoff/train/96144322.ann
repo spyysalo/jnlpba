@@ -1,0 +1,41 @@
+T1	protein 0 4	MEK1
+T2	protein 13 51	extracellular signal-regulated kinases
+T3	DNA 88 97	IL-2 gene
+T4	cell_type 115 122	T cells
+T5	protein 124 127	TCR
+T6	protein 172 186	protein kinase
+T7	protein 187 192	Raf-1
+T8	protein 201 206	Raf-1
+T9	protein 240 325	mitogen-activated protein (MAP) kinase/extracellular signal-regulated kinase kinase 1
+T10	protein 327 331	MEK1
+T11	protein 381 431	MAP kinases/extracellular signal regulated kinases
+T12	protein 433 437	ERK1
+T13	protein 442 446	ERK2
+T14	protein 448 453	Raf-1
+T15	cell_type 501 514	T lymphocytes
+T16	protein 558 562	MEK1
+T17	protein 567 570	ERK
+T18	DNA 597 606	IL-2 gene
+T19	protein 658 663	Raf-1
+T20	protein 667 671	MEK1
+T21	cell_line 675 689	Jurkat T cells
+T22	DNA 718 731	IL-2 promoter
+T23	protein 893 898	NF-AT
+T24	protein 923 947	MEK1-interfering mutants
+T25	DNA 977 990	IL-2 promoter
+T26	protein 1061 1064	Ras
+T27	protein 1069 1074	Raf-1
+T28	protein 1090 1095	NF-AT
+T29	protein 1149 1180	MAP kinase-specific phosphatase
+T30	protein 1182 1187	MKP-1
+T31	protein 1202 1205	ERK
+T32	DNA 1228 1241	IL-2 promoter
+T33	protein 1246 1251	NF-AT
+T34	protein 1333 1338	MKP-1
+T35	protein 1448 1458	MAP kinase
+T36	protein 1501 1506	Raf-1
+T37	protein 1508 1512	MEK1
+T38	protein 1518 1522	ERK1
+T39	protein 1527 1531	ERK2
+T40	DNA 1561 1570	IL-2 gene
+T41	cell_type 1598 1611	T lymphocytes

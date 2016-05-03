@@ -1,0 +1,23 @@
+T1	protein 0 5	BCL-6
+T2	cell_type 19 49	normal germinal center B cells
+T3	DNA 100 107	Ig loci
+T4	DNA 200 208	Ig genes
+T5	DNA 290 297	Ig loci
+T6	cell_type 299 315	B cell lymphomas
+T7	DNA 378 398	5'-regulatory region
+T8	protein 402 407	BCL-6
+T9	DNA 411 425	proto-oncogene
+T10	protein 441 482	POZ/Zinc finger transcriptional repressor
+T11	cell_type 496 524	germinal center (GC) B cells
+T12	protein 577 582	BCL-6
+T13	cell_type 688 714	human tonsillar GC B cells
+T14	DNA 746 771	BCL-6 5'-noncoding region
+T15	DNA 783 816	Ig variable heavy chain sequences
+T16	cell_type 836 846	GC B cells
+T17	cell_type 856 869	naive B cells
+T18	DNA 898 911	742 bp region
+T19	protein 948 953	BCL-6
+T20	protein 1059 1064	BCL-6
+T21	DNA 1155 1196	mutated Ig variable heavy chain sequences
+T22	cell_type 1272 1282	GC B cells
+T23	DNA 1307 1323	non-Ig sequences

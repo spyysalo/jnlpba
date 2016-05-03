@@ -1,0 +1,9 @@
+T1	protein 109 114	STAT4
+T2	protein 119 124	STAT6
+T3	cell_type 251 260	Th1 cells
+T4	cell_type 335 349	CD8(+) T cells
+T5	cell_type 368 388	anti-tumor effectors
+T6	cell_type 786 800	CD8(+) T cells
+T7	cell_type 854 870	4T1-specific CTL
+T8	cell_type 917 933	Th1 or Th2 cells
+T9	DNA 1042 1052	STAT6 gene

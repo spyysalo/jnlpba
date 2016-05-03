@@ -1,0 +1,20 @@
+T1	cell_type 40 60	autoreactive T-cells
+T2	protein 97 111	autoantibodies
+T3	protein 176 197	islet cell antibodies
+T4	protein 205 224	64,000-M(r) protein
+T5	protein 248 275	glutamic acid decarboxylase
+T6	protein 318 328	antibodies
+T7	protein 332 359	glutamic acid decarboxylase
+T8	protein 381 400	38,000-M(r) protein
+T9	DNA 476 501	bacteriophage lambda cDNA
+T10	cell_type 538 549	human islet
+T11	cell_line 554 570	placental clones
+T12	protein 580 585	jun-B
+T13	protein 591 620	nuclear transcription protein
+T14	cell_type 648 672	Peripheral blood T-cells
+T15	protein 750 755	jun-B
+T16	protein 1088 1093	jun-B
+T17	protein 1127 1150	human leukocyte antigen
+T18	cell_type 1165 1185	autoreactive T-cells
+T19	protein 1197 1210	novel antigen
+T20	protein 1212 1221	p38 jun-B

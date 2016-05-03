@@ -1,0 +1,45 @@
+T1	protein 0 19	Retinoid X receptor
+T2	protein 21 24	RXR
+T3	protein 74 77	RXR
+T4	protein 260 263	RAR
+T5	protein 268 311	retinoid X receptor (RXR) nuclear receptors
+T6	DNA 340 360	DNA target sequences
+T7	protein 364 376	heterodimers
+T8	protein 378 385	RXR-RAR
+T9	protein 390 400	homodimers
+T10	protein 402 409	RXR-RXR
+T11	protein 522 556	COOH-terminally truncated RARalpha
+T12	protein 596 607	RARalpha403
+T13	cell_line 649 697	hematopoietic growth factor-dependent cell lines
+T14	cell_type 961 979	MPRO promyelocytes
+T15	protein 999 1012	interleukin-3
+T16	protein 1014 1018	IL-3
+T17	cell_type 1042 1051	EML cells
+T18	protein 1123 1126	RXR
+T19	protein 1132 1135	RAR
+T20	protein 1238 1256	truncated RARalpha
+T21	protein 1340 1343	RXR
+T22	protein 1369 1372	RAR
+T23	cell_type 1440 1458	MPRO promyelocytes
+T24	DNA 1518 1539	DNA response elements
+T25	protein 1557 1577	RAR-RXR heterodimers
+T26	protein 1590 1608	RXR-RXR homodimers
+T27	protein 1615 1618	RXR
+T28	protein 1650 1653	RAR
+T29	protein 1736 1763	RXR-RARalpha403 heterodimer
+T30	cell_type 1812 1821	EML cells
+T31	protein 1844 1847	RXR
+T32	protein 1900 1904	IL-3
+T33	cell_type 1928 1937	EML cells
+T34	cell_type 1945 1964	granulocyte lineage
+T35	DNA 1987 2012	RAR-RXR response elements
+T36	protein 2034 2042	RARalpha
+T37	cell_type 2105 2114	EML cells
+T38	protein 2159 2170	coactivator
+T39	protein 2194 2230	histone deacetylase (HDAC) inhibitor
+T40	DNA 2267 2293	RXR-RAR reporter construct
+T41	cell_type 2313 2322	EML cells
+T42	cell_type 2348 2366	MPRO promyelocytes
+T43	protein 2399 2434	HDAC-containing repressor complexes
+T44	cell_type 2477 2499	hematopoietic lineages
+T45	protein 2553 2581	RXR-RARalpha403 heterodimers

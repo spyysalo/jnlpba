@@ -1,0 +1,13 @@
+T1	cell_type 9 21	T lymphocyte
+T2	protein 72 85	IkappaB alpha
+T3	protein 134 150	NF-kappaB family
+T4	protein 249 258	NF-kappaB
+T5	protein 316 329	IkappaB alpha
+T6	cell_type 423 441	TCRhigh thymocytes
+T7	cell_type 449 466	alphabeta lineage
+T8	cell_type 498 516	TCRhigh population
+T9	cell_line 559 580	double-positive cells
+T10	cell_type 660 684	peripheral T lymphocytes
+T11	cell_type 695 706	CD8 lineage
+T12	protein 795 824	NF-kappaB/Rel family proteins
+T13	cell_type 843 855	T lymphocyte

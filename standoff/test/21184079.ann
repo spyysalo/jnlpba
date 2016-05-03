@@ -1,0 +1,32 @@
+T1	protein 62 67	IL-10
+T2	cell_type 82 123	cutaneous natural killer/T-cell lymphomas
+T3	cell_type 129 191	nasal type, extranodal natural killer or T(NK/T)-cell lymphoma
+T4	DNA 568 575	EBV-DNA
+T5	RNA 577 600	EBV-encoded nuclear RNA
+T6	RNA 602 606	EBER
+T7	DNA 627 644	EBV-DNA fragments
+T8	DNA 660 676	terminal repeats
+T9	DNA 693 710	EBV-encoded genes
+T10	protein 851 871	EBV-related antigens
+T11	cell_line 963 986	EBV-positive cell lines
+T12	RNA 1056 1089	EBV nuclear antigen (EBNA)-1 mRNA
+T13	DNA 1122 1132	Q promoter
+T14	DNA 1151 1161	Q promoter
+T15	DNA 1174 1191	upstream promoter
+T16	DNA 1193 1198	Cp/Wp
+T17	cell_line 1213 1236	EBV-positive cell lines
+T18	cell_line 1238 1243	B95.8
+T19	cell_line 1245 1249	Raji
+T20	cell_line 1254 1260	Jiyoye
+T21	RNA 1262 1300	Latent membrane protein-1 (LMP-1) mRNA
+T22	cell_line 1349 1359	cell lines
+T23	RNA 1369 1387	EBNA-2 transcripts
+T24	cell_line 1411 1421	cell lines
+T25	protein 1448 1479	LMP-1, EBNA-2 or ZEBRA antigens
+T26	cell_line 1557 1572	cell line cells
+T27	RNA 1574 1598	Latent BHRF1 transcripts
+T28	RNA 1608 1623	bcl-2 homologue
+T29	RNA 1628 1645	BCRF1 transcripts
+T30	protein 1655 1681	viral interleukin (vIL)-10
+T31	DNA 1905 1933	latency-associated EBV genes
+T32	RNA 1956 1982	vIL-10 and bcl-2 homologue

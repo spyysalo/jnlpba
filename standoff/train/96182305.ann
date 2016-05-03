@@ -1,0 +1,36 @@
+T1	protein 24 40	interferon-gamma
+T2	protein 44 56	STAT factors
+T3	cell_type 104 111	T cells
+T4	protein 139 166	T cell receptor/CD3 complex
+T5	protein 171 195	co-stimulatory molecules
+T6	protein 316 337	transcription factors
+T7	protein 347 374	nuclear factor (NF)-kappa B
+T8	protein 379 384	NF-AT
+T9	protein 486 495	cytokines
+T10	protein 504 517	interleukin-2
+T11	protein 519 546	tumor necrosis factor-alpha
+T12	protein 552 574	interferon (IFN)-gamma
+T13	protein 596 612	immunoregulatory
+T14	protein 644 662	DNA-binding factor
+T15	protein 674 679	STAT1
+T16	cell_type 706 742	human peripheral blood T lymphocytes
+T17	cell_line 746 758	Jurkat cells
+T18	cell_line 848 873	mononuclear cell cultures
+T19	protein 948 953	STAT1
+T20	protein 1196 1205	IFN-gamma
+T21	protein 1221 1230	cytokines
+T22	protein 1295 1304	IFN-gamma
+T23	cell_line 1346 1362	stimulated cells
+T24	protein 1394 1403	IFN-gamma
+T25	cell_type 1433 1444	naive cells
+T26	protein 1459 1464	STAT1
+T27	protein 1465 1485	transcription factor
+T28	protein 1502 1511	IFN-gamma
+T29	cell_type 1557 1581	T lymphocyte populations
+T30	cell_line 1589 1601	Jurkat cells
+T31	protein 1630 1639	IFN-gamma
+T32	protein 1744 1752	cytokine
+T33	cell_line 1760 1785	mononuclear cell cultures
+T34	cell_line 1825 1834	Th1 cells
+T35	protein 1844 1853	IFN-gamma
+T36	protein 1897 1902	STAT1

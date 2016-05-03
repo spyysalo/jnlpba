@@ -1,0 +1,22 @@
+T1	protein 29 61	glucocorticoid receptor isoforms
+T2	cell_type 65 85	cultured lymphocytes
+T3	protein 179 208	human glucocorticoid receptor
+T4	protein 210 212	GR
+T5	protein 266 273	GRalpha
+T6	protein 278 284	GRbeta
+T7	protein 294 301	GRalpha
+T8	protein 325 345	transcription factor
+T9	protein 347 353	GRbeta
+T10	protein 464 471	GRalpha
+T11	protein 500 511	GR isoforms
+T12	cell_type 601 626	neoplastic lymphoid cells
+T13	cell_line 809 832	transformed lymphocytes
+T14	cell_line 992 1001	CLL cells
+T15	DNA 1089 1096	GR cDNA
+T16	DNA 1179 1199	5'-regulatory region
+T17	DNA 1233 1242	3'-region
+T18	protein 1333 1350	immunoreactive GR
+T19	protein 1400 1421	C-terminal antibodies
+T20	protein 1450 1457	GRalpha
+T21	protein 1479 1485	GRbeta
+T22	protein 1556 1567	GR isoforms

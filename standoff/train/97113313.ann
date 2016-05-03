@@ -1,0 +1,38 @@
+T1	protein 14 35	nuclear factor-kappaB
+T2	protein 40 55	T cell receptor
+T3	protein 67 77	Raf kinase
+T4	protein 122 125	Raf
+T5	protein 130 141	calcineurin
+T6	protein 170 173	TCR
+T7	protein 187 207	transcription factor
+T8	protein 208 229	nuclear factor-kappaB
+T9	protein 231 240	NF-kappaB
+T10	cell_type 409 416	T cells
+T11	protein 426 442	protein kinase C
+T12	protein 559 562	TCR
+T13	protein 590 593	TCR
+T14	protein 673 682	NF-kappaB
+T15	protein 693 696	TCR
+T16	protein 710 713	TCR
+T17	cell_line 750 764	Jurkat T cells
+T18	protein 770 773	PHA
+T19	protein 777 789	anti-CD3 Abs
+T20	protein 795 804	NF-kappaB
+T21	protein 881 887	kappaB
+T22	protein 941 957	protein kinase C
+T23	protein 973 976	TCR
+T24	protein 1000 1009	NF-kappaB
+T25	protein 1076 1085	NF-kappaB
+T26	protein 1089 1092	PHA
+T27	protein 1169 1172	PHA
+T28	protein 1281 1286	Raf-1
+T29	protein 1321 1331	Raf kinase
+T30	protein 1337 1340	TCR
+T31	protein 1364 1373	NF-kappaB
+T32	protein 1523 1532	NF-kappaB
+T33	protein 1595 1606	calcineurin
+T34	protein 1776 1781	Raf-1
+T35	protein 1786 1797	calcineurin
+T36	protein 1822 1828	kappaB
+T37	protein 1931 1937	kinase
+T38	protein 1946 1957	phosphatase

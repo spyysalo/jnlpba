@@ -1,0 +1,25 @@
+T1	cell_type 18 38	natural killer cells
+T2	protein 62 65	MHC
+T3	cell_line 88 119	adenovirus 12 transformed cells
+T4	DNA 147 158	E1A domains
+T5	cell_type 193 205	rodent cells
+T6	protein 379 399	MHC-class I antigens
+T7	cell_type 464 487	cytotoxic T lymphocytes
+T8	cell_type 489 492	CTL
+T9	cell_line 538 548	cell lines
+T10	cell_type 578 603	natural killer (NK) cells
+T11	DNA 622 632	E1A domain
+T12	cell_line 677 687	cell lines
+T13	cell_line 717 744	baby rat kidney (BRK) cells
+T14	DNA 759 767	plasmids
+T15	protein 789 822	Ad2/Ad12 hybrid E1A gene products
+T16	DNA 828 844	MHC class 1 gene
+T17	protein 894 915	Ad12 13S mRNA product
+T18	protein 946 978	Ad2/Ad12 hybrid E1A gene product
+T19	protein 993 1008	C-terminal part
+T20	DNA 1016 1039	conserved region (CR) 3
+T21	cell_line 1085 1095	cell lines
+T22	cell_type 1099 1107	NK cells
+T23	DNA 1182 1198	Ad12 E1A domains
+T24	cell_line 1240 1250	cell lines
+T25	cell_type 1254 1262	NK cells

@@ -1,0 +1,25 @@
+T1	protein 0 35	Stromal cell-derived factor 1 alpha
+T2	cell_type 58 65	T cells
+T3	protein 114 149	Stromal cell-derived factor 1 alpha
+T4	protein 151 161	SDF1 alpha
+T5	protein 179 203	chemokine receptor CXCR4
+T6	cell_type 274 304	hematopoietic progenitor cells
+T7	cell_type 309 320	lymphocytes
+T8	protein 367 377	SDF1 alpha
+T9	protein 499 530	transcription factor NF-kappa B
+T10	protein 534 544	SDF1 alpha
+T11	protein 571 581	SDF1 alpha
+T12	cell_line 595 609	Jurkat T cells
+T13	protein 636 647	NO synthase
+T14	cell_line 720 732	Jurkat cells
+T15	cell_type 746 750	PBLs
+T16	protein 801 811	SDF1 alpha
+T17	protein 861 872	NO synthase
+T18	protein 1002 1033	transcription factor NF-kappa B
+T19	protein 1108 1118	SDF1 alpha
+T20	protein 1211 1221	SDF1 alpha
+T21	protein 1347 1357	SDF1 alpha
+T22	protein 1378 1381	AKT
+T23	protein 1459 1469	SDF1 alpha
+T24	protein 1552 1562	SDF1 alpha
+T25	protein 1591 1623	mitogen-activated protein kinase

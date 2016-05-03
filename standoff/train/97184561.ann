@@ -1,0 +1,27 @@
+T1	cell_type 14 37	cytotoxic T lymphocytes
+T2	protein 46 70	immunorecessive epitopes
+T3	cell_type 287 309	cytotoxic T lymphocyte
+T4	cell_type 311 314	CTL
+T5	cell_type 391 394	CTL
+T6	protein 456 479	immunodominant epitopes
+T7	protein 559 582	immunodominant epitopes
+T8	protein 822 844	immunodominant antigen
+T9	cell_type 857 860	CTL
+T10	protein 985 1007	immunodominant antigen
+T11	DNA 1011 1014	E1A
+T12	DNA 1143 1152	E1 region
+T13	DNA 1300 1303	E1B
+T14	DNA 1356 1359	E1A
+T15	DNA 1364 1367	E1B
+T16	protein 1372 1396	immunorecessive epitopes
+T17	cell_type 1473 1477	CTLs
+T18	DNA 1540 1543	E1B
+T19	DNA 1566 1622	major histocompatibility complex (MHC) class I Dd allele
+T20	DNA 1644 1646	E1
+T21	DNA 1667 1676	Kd allele
+T22	DNA 1716 1718	E1
+T23	protein 1748 1784	immunodominant Kd-restricted epitope
+T24	cell_type 1819 1823	CTLs
+T25	cell_type 1885 1889	CTLs
+T26	protein 1898 1922	immunorecessive epitopes
+T27	protein 2082 2085	MHC

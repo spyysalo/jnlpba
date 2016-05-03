@@ -1,0 +1,20 @@
+T1	protein 14 21	Stat 5b
+T2	cell_type 25 46	erythroid progenitors
+T3	protein 78 82	ErbB
+T4	cell_type 146 167	erythroid progenitors
+T5	protein 186 210	receptor tyrosine kinase
+T6	protein 211 217	c-ErbB
+T7	protein 233 242	receptors
+T8	protein 244 255	c-Kit/Epo-R
+T9	protein 370 376	c-ErbB
+T10	protein 462 494	Stat transcription factor family
+T11	protein 517 523	c-ErbB
+T12	DNA 579 592	reporter gene
+T13	protein 610 617	Stat 5b
+T14	cell_type 621 634	erythroblasts
+T15	protein 670 675	c-Kit
+T16	protein 755 778	erythropoietin receptor
+T17	protein 810 817	Stat 5b
+T18	DNA 840 853	reporter gene
+T19	protein 946 952	c-ErbB
+T20	cell_type 988 1009	erythroid progenitors

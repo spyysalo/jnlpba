@@ -1,0 +1,31 @@
+T1	protein 34 74	interleukin-10-stimulated STAT molecules
+T2	cell_type 78 93	human monocytes
+T3	protein 125 141	interferon-gamma
+T4	protein 143 152	IFN-gamma
+T5	protein 158 172	interleukin-10
+T6	protein 174 179	IL-10
+T7	cell_type 213 224	macrophages
+T8	protein 360 405	IL-10- and IFN-gamma-activated STAT molecules
+T9	DNA 422 425	GAS
+T10	protein 443 464	IL-10-activated STAT1
+T11	DNA 483 501	GAS-motif sequence
+T12	protein 532 548	Fcgamma receptor
+T13	DNA 573 588	promoter region
+T14	DNA 596 606	COX-2 gene
+T15	protein 616 641	IFN-gamma-activated STAT1
+T16	protein 646 651	STAT5
+T17	protein 682 687	IL-10
+T18	protein 698 707	IFN-gamma
+T19	protein 716 720	STAT
+T20	protein 740 765	newly synthesized protein
+T21	protein 839 848	IFN-gamma
+T22	protein 857 861	STAT
+T23	protein 917 938	IL-10-activated STAT1
+T24	DNA 975 994	GAS-motif sequences
+T25	protein 1004 1029	IFN-gamma-activated STAT1
+T26	protein 1034 1039	STAT5
+T27	DNA 1082 1101	GAS-motif sequences
+T28	protein 1143 1148	IL-10
+T29	protein 1153 1162	IFN-gamma
+T30	protein 1216 1221	IL-10
+T31	protein 1225 1234	IFN-gamma

@@ -1,0 +1,50 @@
+T1	protein 0 5	IL-13
+T2	protein 48 65	JAK2 Janus kinase
+T3	cell_line 69 101	human colon carcinoma cell lines
+T4	protein 124 128	IL-4
+T5	protein 133 138	IL-13
+T6	protein 181 187	IL-13R
+T7	protein 215 220	IL-4R
+T8	protein 247 251	IL-4
+T9	protein 256 261	IL-13
+T10	cell_line 288 320	human colon carcinoma cell lines
+T11	cell_line 322 327	HT-29
+T12	cell_line 332 336	WiDr
+T13	protein 339 344	IL-13
+T14	protein 420 443	Janus family of kinases
+T15	protein 445 449	JAKs
+T16	protein 465 476	JAK2 kinase
+T17	protein 532 537	IL-13
+T18	protein 567 571	JAK2
+T19	protein 627 632	IL-13
+T20	protein 648 676	insulin response substrate-1
+T21	protein 678 688	IL-4R p140
+T22	protein 690 694	JAK1
+T23	protein 700 704	Tyk2
+T24	protein 714 725	JAK3 kinase
+T25	protein 727 731	IL-4
+T26	protein 758 765	kinases
+T27	cell_type 796 808	immune cells
+T28	protein 810 814	IL-4
+T29	protein 831 835	JAK3
+T30	cell_line 868 891	colon cancer cell lines
+T31	protein 906 910	JAK2
+T32	protein 931 941	IL-4R p140
+T33	protein 976 981	IL-13
+T34	protein 988 993	IL-13
+T35	protein 998 1002	IL-4
+T36	protein 1030 1039	IL-4 STAT
+T37	protein 1041 1046	STAT6
+T38	protein 1056 1061	STAT1
+T39	protein 1063 1068	STAT3
+T40	protein 1073 1078	STAT5
+T41	protein 1080 1090	125I-IL-13
+T42	cell_line 1107 1130	colon cancer cell lines
+T43	protein 1146 1151	IL-13
+T44	protein 1180 1189	125I-IL-4
+T45	protein 1213 1218	IL-13
+T46	protein 1228 1233	IL-4R
+T47	protein 1265 1269	JAK2
+T48	protein 1316 1321	IL-4R
+T49	protein 1326 1332	IL-13R
+T50	cell_type 1336 1354	colon cancer cells

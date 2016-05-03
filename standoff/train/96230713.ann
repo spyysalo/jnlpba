@@ -1,0 +1,15 @@
+T1	protein 0 21	Transcription factors
+T2	cell_type 25 44	T and B lymphocytes
+T3	protein 158 179	transcription factors
+T4	DNA 286 295	promoters
+T5	DNA 300 309	enhancers
+T6	protein 313 341	nuclear trans-acting factors
+T7	cell_type 345 356	lymphocytes
+T8	protein 384 405	transcription factors
+T9	protein 468 489	transcription factors
+T10	protein 536 556	trans-acting factors
+T11	cell_type 560 579	T and B lymphocytes
+T12	protein 586 591	NF-kB
+T13	protein 593 598	NF-AT
+T14	protein 603 616	STAT families
+T15	protein 713 734	transcription factors

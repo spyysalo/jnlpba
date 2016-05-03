@@ -1,0 +1,40 @@
+T1	protein 23 27	CD40
+T2	protein 30 43	interleukin-4
+T3	protein 53 56	IgE
+T4	protein 125 134	anti-CD40
+T5	protein 137 150	interleukin-4
+T6	protein 152 156	IL-4
+T7	protein 242 251	anti-CD40
+T8	protein 271 275	IL-4
+T9	cell_type 329 369	human peripheral blood mononuclear cells
+T10	cell_type 371 375	PBMC
+T11	cell_type 381 388	B cells
+T12	protein 408 417	Anti-CD40
+T13	protein 420 424	IL-4
+T14	cell_type 451 455	PBMC
+T15	cell_type 460 467	B cells
+T16	cell_type 557 561	PBMC
+T17	cell_type 582 589	B cells
+T18	protein 669 672	IgE
+T19	cell_type 771 778	B cells
+T20	cell_type 802 806	PBMC
+T21	protein 830 833	IgE
+T22	cell_type 849 856	B cells
+T23	protein 977 980	IgE
+T24	protein 1067 1070	IgA
+T25	protein 1072 1075	IgG
+T26	protein 1081 1084	IgM
+T27	protein 1146 1149	IgE
+T28	DNA 1180 1188	germline
+T29	protein 1245 1261	interferon-gamma
+T30	protein 1263 1272	IFN-gamma
+T31	protein 1369 1404	RA receptors alpha, beta, and gamma
+T32	protein 1428 1451	retinoic acid receptors
+T33	protein 1453 1456	RAR
+T34	protein 1474 1495	reverse transcriptase
+T35	cell_type 1551 1588	unstimulated human peripheral B cells
+T36	protein 1609 1643	RA receptor alpha, beta, and gamma
+T37	protein 1765 1768	IgE
+T38	protein 1853 1867	alpha receptor
+T39	protein 1941 1944	IgE
+T40	cell_line 1959 1994	anti-CD40 + IL-4-stimulated B cells

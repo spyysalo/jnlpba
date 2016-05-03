@@ -1,0 +1,29 @@
+T1	cell_type 128 141	human T cells
+T2	protein 198 206	cytokine
+T3	cell_type 217 230	T lymphocytes
+T4	protein 265 293	Janus tyrosine kinase (Jak)3
+T5	protein 298 319	transcription factors
+T6	protein 320 326	Stat5a
+T7	protein 331 337	Stat5b
+T8	cell_type 377 391	normal T cells
+T9	cell_line 438 475	HTLV-1-transformed human T cell lines
+T10	cell_type 480 491	lymphocytes
+T11	protein 725 735	Jak3/Stat5
+T12	cell_line 750 769	murine T cell lines
+T13	cell_type 887 914	primary human T lymphocytes
+T14	cell_line 973 1010	HTLV-1-transformed human T cell lines
+T15	cell_line 1012 1019	HuT-102
+T16	cell_line 1024 1028	MT-2
+T17	cell_type 1098 1119	primary human T cells
+T18	cell_type 1129 1150	HTLV-1-infected cells
+T19	protein 1276 1280	Jak3
+T20	protein 1282 1288	Stat5a
+T21	protein 1305 1311	Stat5b
+T22	protein 1353 1359	Stat5a
+T23	protein 1396 1414	phosphospecific Ab
+T24	DNA 1451 1488	Stat5-responsive beta-casein promoter
+T25	protein 1542 1560	p50/p65 components
+T26	protein 1564 1573	NF-kappaB
+T27	protein 1577 1597	transcription factor
+T28	protein 1615 1649	HTLV-1-encoded phosphoprotein, Tax
+T29	cell_type 1715 1741	HTLV-1-transformed T cells

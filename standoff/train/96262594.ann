@@ -1,0 +1,35 @@
+T1	protein 0 14	Interleukin 10
+T2	DNA 23 28	c-fos
+T3	cell_type 43 56	human B cells
+T4	protein 74 99	divergent protein kinases
+T5	protein 101 106	IL-10
+T6	cell_type 131 143	human B cell
+T7	protein 210 215	IL-10
+T8	cell_type 219 226	B cells
+T9	protein 277 282	IL-10
+T10	DNA 308 327	protooncogene c-fos
+T11	cell_type 444 451	B cells
+T12	protein 550 579	anti CD20 monoclonal antibody
+T13	cell_type 612 619	B cells
+T14	protein 702 707	IL-10
+T15	RNA 739 742	RNA
+T16	DNA 782 787	c-fos
+T17	DNA 875 880	c-fos
+T18	protein 939 944	IL-10
+T19	DNA 969 974	c-fos
+T20	protein 1026 1031	IL-10
+T21	protein 1097 1102	IL-10
+T22	protein 1108 1113	IL-10
+T23	DNA 1124 1129	c-fos
+T24	protein 1256 1261	IL-10
+T25	DNA 1270 1275	c-fos
+T26	protein 1355 1379	serine/threonine kinases
+T27	protein 1403 1408	IL-10
+T28	DNA 1418 1423	c-fos
+T29	protein 1483 1488	IL-10
+T30	DNA 1497 1502	c-fos
+T31	cell_type 1517 1530	human B-cells
+T32	protein 1561 1585	serine/threonine kinases
+T33	protein 1621 1626	IL-10
+T34	protein 1726 1731	IL-10
+T35	cell_type 1743 1756	human B-cells

@@ -1,0 +1,20 @@
+T1	DNA 42 71	early T cell activation genes
+T2	DNA 140 169	early T cell activation genes
+T3	protein 232 267	T cell activation-specific enhancer
+T4	protein 271 284	interleukin-2
+T5	protein 286 290	IL-2
+T6	protein 341 347	NFAT-1
+T7	cell_type 397 404	T cells
+T8	DNA 474 483	IL-2 gene
+T9	DNA 591 600	IL-2 gene
+T10	cell_line 604 618	Jurkat T cells
+T11	protein 660 666	NFAT-1
+T12	protein 668 674	NFAT-1
+T13	DNA 737 757	long terminal repeat
+T14	DNA 759 762	LTR
+T15	DNA 812 815	LTR
+T16	cell_type 869 875	T cell
+T17	DNA 892 904	binding site
+T18	cell_type 974 1008	antigen receptor-activated T cells
+T19	protein 1070 1076	NFAT-1
+T20	protein 1112 1135	T cell antigen receptor

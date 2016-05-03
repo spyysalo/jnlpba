@@ -1,0 +1,20 @@
+T1	protein 8 13	T-bet
+T2	cell_type 31 40	TH1 cells
+T3	protein 48 53	IL-12
+T4	protein 79 88	cytokines
+T5	cell_type 116 135	helper T (TH) cells
+T6	protein 167 172	T-bet
+T7	protein 207 229	interleukin 12 (IL-12)
+T8	protein 230 235	STAT4
+T9	cell_type 247 250	TH1
+T10	DNA 313 349	interferon-gamma (IFN-gamma) alleles
+T11	DNA 366 386	IL-12 receptor beta2
+T12	protein 429 434	IL-12
+T13	protein 435 440	STAT4
+T14	cell_type 494 503	TH1 cells
+T15	protein 508 521	growth signal
+T16	protein 567 582	trans-activator
+T17	protein 595 604	IFN-gamma
+T18	protein 654 665	coactivator
+T19	protein 667 687	CREB-binding protein
+T20	protein 718 726	cytokine

@@ -1,0 +1,16 @@
+T1	protein 41 84	G-protein-coupled chemoattractant receptors
+T2	protein 100 126	leukocyte chemoattractants
+T3	protein 138 148	chemokines
+T4	protein 336 374	G-protein-coupled serpentine receptors
+T5	cell_type 461 471	leukocytes
+T6	protein 473 494	Transcription factors
+T7	protein 504 514	NF kappa B
+T8	protein 519 523	AP-1
+T9	protein 712 721	G-protein
+T10	protein 753 768	protein kinases
+T11	protein 850 859	TNF-alpha
+T12	DNA 927 948	immediate-early genes
+T13	protein 1003 1025	inflammatory cytokines
+T14	protein 1030 1040	chemokines
+T15	protein 1158 1166	cytokine
+T16	protein 1171 1180	chemokine

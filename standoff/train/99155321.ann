@@ -1,0 +1,38 @@
+T1	protein 0 14	Interleukin-10
+T2	DNA 43 96	interferon alpha- and interferon gamma- induced genes
+T3	protein 140 145	STAT1
+T4	protein 147 161	Interleukin-10
+T5	protein 163 168	IL-10
+T6	cell_type 185 209	polarized T-helper cells
+T7	cell_type 215 252	T-helper lymphocyte 2 (Th2) phenotype
+T8	cell_type 321 330	Th1 cells
+T9	protein 362 378	interferon gamma
+T10	protein 380 388	IFNgamma
+T11	cell_type 413 422	monocytes
+T12	cell_type 470 479	monocytes
+T13	protein 608 613	IL-10
+T14	cell_type 730 739	monocytes
+T15	protein 760 765	IL-10
+T16	protein 810 818	IFNgamma
+T17	protein 822 830	IFNalpha
+T18	protein 832 837	IL-10
+T19	DNA 910 927	IFN-induced genes
+T20	protein 937 942	IP-10
+T21	protein 944 949	ISG54
+T22	protein 955 988	intercellular adhesion molecule-1
+T23	protein 1052 1057	IL-10
+T24	protein 1070 1073	IFN
+T25	protein 1094 1157	signal transducer and activator of transcription (STAT) factors
+T26	DNA 1161 1185	specific promoter motifs
+T27	DNA 1189 1227	IFNalpha- and IFNgamma-inducible genes
+T28	protein 1309 1314	STAT1
+T29	protein 1336 1388	IFNalpha- and IFNgamma-induced DNA binding complexes
+T30	protein 1401 1406	IL-10
+T31	DNA 1428 1462	STAT-dependent early response gene
+T32	protein 1490 1498	IFNalpha
+T33	protein 1503 1511	IFNgamma
+T34	cell_type 1515 1524	monocytes
+T35	protein 1572 1577	STAT1
+T36	protein 1617 1622	IL-10
+T37	protein 1671 1691	cytokine signaling 3
+T38	protein 1693 1698	SOCS3

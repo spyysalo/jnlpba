@@ -1,0 +1,9 @@
+T1	protein 62 66	AP-1
+T2	protein 617 621	AP-1
+T3	protein 737 741	AP-1
+T4	cell_type 982 999	transfected cells
+T5	cell_line 1034 1051	hepatic HTC cells
+T6	DNA 1083 1125	endogenous tyrosine amino transferase gene
+T7	DNA 1127 1130	TAT
+T8	protein 1452 1496	proinflammatory lymphokine interleukin-1beta
+T9	cell_line 1554 1581	human monocytic THP 1 cells

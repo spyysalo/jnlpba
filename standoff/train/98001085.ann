@@ -1,0 +1,12 @@
+T1	DNA 28 54	human immunoglobulin genes
+T2	DNA 196 221	immunoglobulin (Ig) genes
+T3	cell_type 244 255	human cells
+T4	DNA 347 374	heavy and light chain genes
+T5	cell_type 378 394	B-lymphoid cells
+T6	DNA 417 425	Ig genes
+T7	DNA 510 521	kappa genes
+T8	DNA 603 625	gamma and lambda genes
+T9	DNA 695 707	lambda genes
+T10	DNA 751 762	gamma genes
+T11	cell_type 903 923	different cell types
+T12	DNA 1302 1313	chromosomes

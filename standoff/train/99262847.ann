@@ -1,0 +1,29 @@
+T1	DNA 15 44	NFATp/AP-1 composite elements
+T2	cell_type 89 101	immune cells
+T3	DNA 103 121	Composite elements
+T4	DNA 126 144	regulatory modules
+T5	DNA 148 157	promoters
+T6	DNA 161 170	enhancers
+T7	protein 234 255	transcription factors
+T8	DNA 283 331	nuclear factors of activated T-cell (NFAT) sites
+T9	DNA 366 421	NFATp/c and an activating protein 1 (AP-1) binding site
+T10	DNA 488 505	NFAT target genes
+T11	DNA 568 591	NFAT composite elements
+T12	DNA 638 663	transcription start sites
+T13	DNA 712 735	NFAT composite elements
+T14	DNA 792 826	T-cell-specific promoter sequences
+T15	DNA 841 859	functional regions
+T16	DNA 861 890	coding and intronic sequences
+T17	DNA 919 928	promoters
+T18	DNA 932 953	muscle-specific genes
+T19	DNA 965 981	random sequences
+T20	DNA 1028 1051	NFAT composite elements
+T21	DNA 1055 1064	promoters
+T22	DNA 1068 1082	cytokine genes
+T23	DNA 1117 1126	promoters
+T24	protein 1140 1159	AP-1 family members
+T25	protein 1161 1182	Ca2+-binding proteins
+T26	cell_type 1248 1265	activated T-cells
+T27	cell_type 1276 1288	immune cells
+T28	DNA 1361 1379	composite elements
+T29	DNA 1417 1440	NFAT composite elements

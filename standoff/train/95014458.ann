@@ -1,0 +1,39 @@
+T1	protein 12 45	cellular transcription factor E2F
+T2	RNA 67 76	cdc2 mRNA
+T3	cell_type 120 139	hematopoietic cells
+T4	RNA 141 162	cdc2 mRNA transcripts
+T5	cell_type 180 206	immature bone marrow cells
+T6	cell_type 259 289	Peripheral blood resting cells
+T7	RNA 306 315	cdc2 mRNA
+T8	cell_type 339 352	T-lymphocytes
+T9	RNA 440 449	cdc2 mRNA
+T10	cell_type 474 486	granulocytes
+T11	cell_type 491 500	monocytes
+T12	RNA 616 625	cdc2 mRNA
+T13	cell_type 640 659	hematopoietic cells
+T14	DNA 677 697	5'-flanking sequence
+T15	DNA 705 714	cdc2 gene
+T16	DNA 742 754	binding site
+T17	DNA 774 798	nucleotides -124 to -117
+T18	protein 815 818	E2F
+T19	protein 878 884	DNaseI
+T20	cell_line 901 944	phytohemagglutinin-stimulated T-lymphocytes
+T21	RNA 990 999	cdc2 mRNA
+T22	protein 1001 1004	E2F
+T23	cell_type 1038 1050	granulocytes
+T24	cell_type 1055 1064	monocytes
+T25	protein 1076 1109	chloramphenicol acetyltransferase
+T26	DNA 1152 1168	E2F binding site
+T27	DNA 1241 1257	E2F binding site
+T28	RNA 1306 1326	E2F-1 and DP-1 mRNAs
+T29	cell_type 1350 1362	granulocytes
+T30	cell_type 1364 1373	monocytes
+T31	cell_type 1378 1399	resting T-lymphocytes
+T32	cell_type 1452 1465	T-lymphocytes
+T33	protein 1484 1487	E2F
+T34	RNA 1524 1533	cdc2 mRNA
+T35	protein 1572 1575	E2F
+T36	cell_type 1597 1617	cdc2 mRNA expression
+T37	RNA 1646 1655	cdc2 mRNA
+T38	cell_type 1701 1733	normal human hematopoietic cells
+T39	protein 1743 1746	E2F

@@ -1,0 +1,24 @@
+T1	protein 0 14	5-Lipoxygenase
+T2	protein 77 123	internal bipartite nuclear localizing sequence
+T3	protein 128 158	nuclear factor kappa B complex
+T4	protein 209 225	residues 639-656
+T5	protein 233 262	human 5-lipoxygenase sequence
+T6	protein 275 322	consensus bipartite nuclear localizing sequence
+T7	protein 362 409	Kaposi fibroblast growth factor signal sequence
+T8	protein 423 482	5-lipoxygenase639-656 bipartite nuclear localizing sequence
+T9	protein 520 534	5-lipoxygenase
+T10	cell_line 561 572	HL-60 cells
+T11	protein 623 637	5-lipoxygenase
+T12	protein 716 730	5-lipoxygenase
+T13	cell_line 775 786	HL-60 cells
+T14	protein 809 831	5-Lipoxygenase protein
+T15	protein 848 893	nuclear factor kappaB (NF-kappaB) p65 subunit
+T16	cell_line 936 946	HL-60 cell
+T17	protein 970 992	5-lipoxygenase protein
+T18	protein 1121 1135	5-lipoxygenase
+T19	protein 1166 1180	5-lipoxygenase
+T20	protein 1206 1215	NF-kappaB
+T21	protein 1275 1321	internal bipartite nuclear localizing sequence
+T22	protein 1360 1374	5-lipoxygenase
+T23	cell_type 1407 1425	granulocytic cells
+T24	cell_type 1595 1613	granulocytic cells

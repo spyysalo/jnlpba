@@ -1,0 +1,24 @@
+T1	DNA 13 32	human homeobox gene
+T2	DNA 50 83	diverged Drosophila homeobox gene
+T3	cell_type 114 125	lymphocytes
+T4	DNA 133 146	homeobox gene
+T5	DNA 148 152	HB24
+T6	RNA 238 256	polyadenylated RNA
+T7	cell_type 271 294	activated human B cells
+T8	RNA 306 328	single mRNA transcript
+T9	DNA 358 369	cDNA clones
+T10	DNA 424 436	DNA sequence
+T11	DNA 468 513	methionine codon-initiated open reading frame
+T12	DNA 542 550	homeobox
+T13	DNA 557 567	CAX repeat
+T14	DNA 577 595	open reading frame
+T15	DNA 657 668	homeodomain
+T16	DNA 674 678	HB24
+T17	DNA 701 738	mammalian and Drosophila homeodomains
+T18	DNA 831 853	Drosophila homeodomain
+T19	RNA 899 908	HB24 mRNA
+T20	cell_type 961 974	T lymphocytes
+T21	RNA 1024 1033	HB24 mRNA
+T22	DNA 1126 1130	HB24
+T23	DNA 1329 1333	HB24
+T24	cell_type 1373 1384	lymphocytes

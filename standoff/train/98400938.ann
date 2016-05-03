@@ -1,0 +1,17 @@
+T1	protein 0 13	Interleukin-6
+T2	protein 193 202	cytokines
+T3	cell_type 222 233	neutrophils
+T4	cell_type 235 238	PMN
+T5	protein 359 372	interleukin-6
+T6	protein 374 378	IL-6
+T7	protein 535 539	IL-6
+T8	protein 558 563	Stat3
+T9	RNA 628 637	IL-6 mRNA
+T10	protein 745 749	IL-6
+T11	cell_type 786 814	bronchial and alveolar cells
+T12	protein 915 920	Stat3
+T13	RNA 957 966	IL-6 mRNA
+T14	protein 1005 1010	Stat3
+T15	protein 1082 1086	IL-6
+T16	protein 1292 1296	IL-6
+T17	protein 1312 1317	Stat3

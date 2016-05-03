@@ -1,0 +1,13 @@
+T1	protein 0 10	NF-kappa B
+T2	cell_type 161 198	latently infected T lymphocytic cells
+T3	protein 253 274	inflammatory cytokine
+T4	protein 276 285	TNF-alpha
+T5	protein 357 386	cellular transcription factor
+T6	protein 388 398	NF-kappa B
+T7	cell_line 612 625	ACH-2 T cells
+T8	protein 667 676	TNF-alpha
+T9	protein 740 750	NF-kappa B
+T10	protein 811 821	NF-kappa B
+T11	cell_line 875 890	ACH-2 cell line
+T12	protein 932 942	NF-kappa B
+T13	protein 1130 1140	NF-kappa B

@@ -1,0 +1,29 @@
+T1	protein 83 100	interleukin 1beta
+T2	protein 105 113	NFkappaB
+T3	protein 134 142	NFkappaB
+T4	cell_type 169 184	human monocytes
+T5	protein 186 203	interleukin 1beta
+T6	protein 361 378	interleukin 1beta
+T7	protein 399 416	interleukin 1beta
+T8	protein 427 436	cytokines
+T9	protein 446 459	interleukin 6
+T10	protein 464 491	tumor necrosis factor alpha
+T11	protein 549 569	transcription factor
+T12	protein 571 579	NFkappaB
+T13	protein 645 660	tyrosine kinase
+T14	protein 692 700	NFkappaB
+T15	protein 755 763	NFkappaB
+T16	protein 795 810	tyrosine kinase
+T17	cell_line 894 917	pro-monocytic cell line
+T18	cell_line 919 924	THP-1
+T19	protein 971 988	interleukin 1beta
+T20	protein 1005 1020	tyrosine kinase
+T21	protein 1124 1132	NFkappaB
+T22	protein 1161 1176	tyrosine kinase
+T23	protein 1202 1210	NFkappaB
+T24	protein 1300 1308	NFkappaB
+T25	protein 1328 1343	tyrosine kinase
+T26	protein 1354 1358	AP-1
+T27	protein 1471 1493	inflammatory mediators
+T28	protein 1503 1518	tyrosine kinase
+T29	protein 1529 1544	tyrosine kinase

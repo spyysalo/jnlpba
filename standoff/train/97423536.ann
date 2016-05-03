@@ -1,0 +1,32 @@
+T1	cell_type 63 80	endothelial cells
+T2	protein 96 106	NF-kappa B
+T3	cell_type 138 147	monocytes
+T4	cell_line 406 464	cytokine-stimulated human umbilical vein endothelial cells
+T5	cell_line 466 471	HUVEC
+T6	cell_type 474 491	Endothelial cells
+T7	protein 625 652	tumor necrosis factor-alpha
+T8	protein 654 663	TNF-alpha
+T9	protein 682 700	interleukin-1 beta
+T10	protein 702 711	IL-1 beta
+T11	protein 775 808	vascular cell adhesion molecule-1
+T12	protein 810 816	VCAM-1
+T13	protein 818 823	CD106
+T14	protein 829 839	E-selectin
+T15	protein 841 847	ELAM-1
+T16	protein 849 854	CD62E
+T17	protein 868 901	intercellular adhesion molecule-1
+T18	protein 903 909	ICAM-1
+T19	protein 911 915	CD54
+T20	protein 1048 1066	TNF-induced VCAM-1
+T21	protein 1071 1081	E-selectin
+T22	protein 1270 1287	adhesion molecule
+T23	cell_line 1432 1442	U-937 cell
+T24	cell_line 1455 1496	TNF-alpha-stimulated (10 U/ml, 6 h) HUVEC
+T25	cell_line 1523 1549	IL-1 beta-stimulated HUVEC
+T26	cell_line 1611 1616	HUVEC
+T27	protein 1617 1633	nuclear proteins
+T28	protein 1657 1700	TNF-alpha-stimulated nuclear factor-kappa B
+T29	protein 1702 1712	NF-kappa B
+T30	cell_line 1747 1752	HUVEC
+T31	cell_type 1953 1970	endothelial cells
+T32	protein 2003 2013	NF-kappa B

@@ -1,0 +1,31 @@
+T1	protein 4 17	interleukin-5
+T2	protein 49 78	Lyn and Jak2 tyrosine kinases
+T3	protein 110 130	Ras-Raf-1-MAP kinase
+T4	protein 139 142	Jak
+T5	protein 142 147	-STAT
+T6	cell_type 160 171	eosinophils
+T7	protein 211 229	interleukin (IL)-5
+T8	protein 258 277	Lyn tyrosine kinase
+T9	protein 295 315	Jak2 tyrosine kinase
+T10	protein 332 336	IL-5
+T11	protein 368 374	p21ras
+T12	protein 440 445	Raf-1
+T13	protein 447 450	MEK
+T14	protein 456 467	MAP kinases
+T15	protein 554 565	Jak2 kinase
+T16	protein 598 619	STAT nuclear proteins
+T17	protein 639 659	STAT nuclear factors
+T18	DNA 720 741	gamma activation site
+T19	DNA 743 746	GAS
+T20	protein 769 773	IL-5
+T21	protein 786 806	GAS-binding proteins
+T22	cell_type 810 821	eosinophils
+T23	protein 839 844	STAT1
+T24	protein 863 867	IL-5
+T25	protein 934 937	Lyn
+T26	protein 940 943	Ras
+T27	protein 946 951	Raf-1
+T28	protein 954 957	MEK
+T29	protein 960 970	MAP kinase
+T30	protein 979 983	Jak2
+T31	protein 986 991	STAT1

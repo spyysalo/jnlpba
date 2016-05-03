@@ -1,0 +1,22 @@
+T1	cell_type 86 127	persistently infected human T-lymphocytes
+T2	DNA 169 193	reiterated DNA sequences
+T3	DNA 201 211	E1a region
+T4	cell_line 226 254	human T-lymphocyte cell line
+T5	cell_line 256 262	Molt-4
+T6	protein 385 397	Endonuclease
+T7	DNA 520 536	DNA reiterations
+T8	DNA 558 590	six-base-pair consensus sequence
+T9	DNA 628 632	exon
+T10	DNA 640 650	E1a region
+T11	DNA 749 753	exon
+T12	DNA 762 781	inserting sequences
+T13	DNA 854 879	reiterated splicing sites
+T14	cell_line 1244 1248	HeLa
+T15	cell_line 1250 1254	A549
+T16	cell_line 1260 1268	KB cells
+T17	cell_line 1316 1326	CREF cells
+T18	protein 1454 1474	early viral proteins
+T19	DNA 1482 1491	viral DNA
+T20	cell_type 1499 1513	infected cells
+T21	cell_line 1593 1603	CREF cells
+T22	DNA 1618 1634	E1a reiterations

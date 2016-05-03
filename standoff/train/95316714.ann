@@ -1,0 +1,16 @@
+T1	protein 17 21	CD30
+T2	cell_type 69 76	T cells
+T3	protein 78 82	CD30
+T4	protein 334 338	CD30
+T5	protein 352 356	CD30
+T6	protein 443 454	CD30 ligand
+T7	protein 456 461	CD30L
+T8	protein 491 495	CD30
+T9	cell_line 542 553	ACH-2 cells
+T10	protein 620 634	TNF alpha/beta
+T11	protein 666 670	CD30
+T12	protein 680 690	NF-kappa B
+T13	protein 740 744	CD30
+T14	protein 744 750	-CD30L
+T15	protein 858 861	TNF
+T16	cell_line 954 966	CD4+ T cells

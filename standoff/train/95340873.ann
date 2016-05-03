@@ -1,0 +1,24 @@
+T1	protein 23 31	cytokine
+T2	protein 123 141	adhesion molecules
+T3	protein 146 171	proinflammatory cytokines
+T4	cell_line 261 319	cytokine-stimulated human saphenous vein endothelial cells
+T5	protein 401 434	vascular cell adhesion molecule-1
+T6	protein 436 442	VCAM-1
+T7	protein 495 513	interleukin (IL)-1
+T8	protein 531 537	VCAM-1
+T9	protein 829 839	IL-1 alpha
+T10	protein 841 850	IL-1 beta
+T11	protein 852 856	IL-4
+T12	protein 858 879	tumor necrosis factor
+T13	protein 881 890	TNF alpha
+T14	protein 980 1008	leukocyte adhesion molecules
+T15	protein 1010 1020	E-selectin
+T16	protein 1045 1078	intercellular adhesion molecule-1
+T17	protein 1095 1104	cytokines
+T18	protein 1106 1110	IL-6
+T19	protein 1115 1119	IL-8
+T20	protein 1219 1225	VCAM-1
+T21	protein 1264 1270	VCAM-1
+T22	DNA 1341 1381	VCAM-1 promoter reporter gene constructs
+T23	protein 1453 1459	VCAM-1
+T24	protein 1503 1513	NF-kappa B

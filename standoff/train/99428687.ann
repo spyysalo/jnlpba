@@ -1,0 +1,23 @@
+T1	protein 134 162	calcium-mobilizing receptors
+T2	DNA 166 224	nuclear factor of activated T cells (NFAT)-dependent genes
+T3	protein 276 287	phosphatase
+T4	protein 288 299	calcineurin
+T5	protein 308 328	transcription factor
+T6	protein 329 333	NFAT
+T7	protein 351 362	calcineurin
+T8	protein 442 467	calcineurin docking motif
+T9	protein 471 475	NFAT
+T10	protein 509 513	NFAT
+T11	protein 529 533	NFAT
+T12	DNA 558 583	endogenous cytokine genes
+T13	cell_type 587 594	T cells
+T14	protein 638 647	cytokines
+T15	protein 661 672	calcineurin
+T16	protein 681 685	NFAT
+T17	protein 751 775	calcineurin docking site
+T18	protein 790 801	calcineurin
+T19	protein 820 824	NFAT
+T20	protein 872 883	calcineurin
+T21	protein 883 888	-NFAT
+T22	protein 919 930	calcineurin
+T23	protein 931 942	phosphatase

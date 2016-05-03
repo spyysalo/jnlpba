@@ -1,0 +1,30 @@
+T1	protein 0 20	Transcription factor
+T2	protein 21 27	GATA-1
+T3	protein 143 149	GATA-1
+T4	cell_type 153 161	red cell
+T5	protein 238 244	GATA-1
+T6	DNA 343 354	GATA-1 gene
+T7	DNA 462 486	protein-coding sequences
+T8	cell_line 954 977	GATA-1- erythroid cells
+T9	protein 1058 1064	GATA-1
+T10	protein 1069 1081	Epo receptor
+T11	cell_type 1097 1105	red cell
+T12	protein 1232 1244	Epo receptor
+T13	DNA 1315 1326	GATA-1 gene
+T14	cell_line 1331 1348	GATA-1- red cells
+T15	DNA 1459 1471	globin genes
+T16	protein 1507 1513	GATA-1
+T17	cell_line 1654 1684	targeted erythroleukemia cells
+T18	protein 1756 1791	GATA-binding protein family members
+T19	protein 1855 1872	chimeric proteins
+T20	protein 2033 2039	GATA-1
+T21	protein 2076 2082	GATA-1
+T22	DNA 2092 2106	red cell genes
+T23	DNA 2112 2118	globin
+T24	protein 2126 2138	Epo receptor
+T25	protein 2187 2208	GATA-binding proteins
+T26	protein 2241 2247	GATA-1
+T27	protein 2314 2320	GATA-1
+T28	protein 2358 2364	GATA-1
+T29	DNA 2473 2489	globin promoters
+T30	DNA 2593 2604	globin gene

@@ -1,0 +1,51 @@
+T1	protein 45 59	erythropoietin
+T2	cell_line 117 146	human hematopoietic cell line
+T3	cell_line 148 152	UT-7
+T4	DNA 274 286	globin genes
+T5	DNA 295 331	erythropoietin receptor (Epo-R) gene
+T6	protein 373 393	transcription factor
+T7	protein 394 400	GATA-1
+T8	protein 473 479	GATA-1
+T9	protein 558 564	GATA-1
+T10	protein 566 571	Epo-R
+T11	DNA 576 588	globin genes
+T12	cell_line 626 630	UT-7
+T13	cell_line 689 775	parental granulocyte-macrophage colony-stimulating factor (GM-CSF)-dependent cell line
+T14	cell_line 777 781	UT-7
+T15	protein 897 900	Epo
+T16	protein 902 910	UT-7 Epo
+T17	cell_line 915 919	UT-7
+T18	RNA 948 959	GATA-1 mRNA
+T19	RNA 1032 1042	Epo-R mRNA
+T20	protein 1063 1066	Epo
+T21	cell_line 1084 1098	UT-7 Epo cells
+T22	cell_line 1127 1137	UT-7 cells
+T23	cell_line 1263 1273	UT-7 cells
+T24	cell_line 1308 1318	UT-7 cells
+T25	cell_line 1367 1377	UT-7 cells
+T26	protein 1409 1431	beta- and gamma-globin
+T27	protein 1440 1452	alpha-globin
+T28	cell_line 1469 1483	UT-7 Epo cells
+T29	protein 1528 1540	gamma-globin
+T30	protein 1554 1565	beta-globin
+T31	protein 1603 1616	Globin chains
+T32	protein 1618 1623	alpha
+T33	protein 1625 1629	beta
+T34	protein 1634 1639	gamma
+T35	protein 1695 1703	UT-7 Epo
+T36	cell_line 1715 1725	UT-7 cells
+T37	DNA 1770 1798	beta- and gamma-globin genes
+T38	protein 1867 1902	beta- and gamma-specific antibodies
+T39	cell_line 1918 1938	gamma-positive cells
+T40	protein 1987 1995	UT-7 Epo
+T41	cell_line 2004 2014	UT-7 cells
+T42	RNA 2132 2143	globin mRNA
+T43	protein 2156 2164	UT-7 Epo
+T44	protein 2267 2279	gamma-globin
+T45	protein 2295 2301	GATA-1
+T46	protein 2303 2308	Epo-R
+T47	RNA 2313 2324	globin mRNA
+T48	protein 2402 2405	Epo
+T49	protein 2407 2413	GM-CSF
+T50	protein 2417 2430	interleukin-3
+T51	protein 2432 2436	IL-3

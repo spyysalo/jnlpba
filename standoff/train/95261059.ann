@@ -1,0 +1,52 @@
+T1	cell_type 0 11	Neutrophils
+T2	cell_type 16 25	monocytes
+T3	protein 49 53	PU.1
+T4	protein 55 60	Spi-1
+T5	protein 70 75	Spi-B
+T6	protein 77 81	PU.1
+T7	DNA 87 101	Spi-1 oncogene
+T8	protein 107 112	Spi-B
+T9	protein 148 179	ets transcription factor family
+T10	protein 243 262	DNA binding domains
+T11	protein 264 268	PU.1
+T12	protein 273 278	Spi-B
+T13	cell_type 359 370	macrophages
+T14	cell_type 375 382	B cells
+T15	cell_type 487 496	monocytes
+T16	cell_type 501 512	macrophages
+T17	cell_type 519 530	neutrophils
+T18	RNA 591 600	PU.1 mRNA
+T19	cell_line 650 676	human purified CD34+ cells
+T20	cell_line 681 720	murine multipotential FDCP-mix A4 cells
+T21	protein 738 742	PU.1
+T22	cell_type 802 833	multipotential progenitor cells
+T23	protein 835 839	PU.1
+T24	cell_line 908 926	myeloid cell lines
+T25	cell_line 927 931	U937
+T26	cell_line 936 941	HL-60
+T27	cell_type 945 977	monocytic and neutrophilic cells
+T28	protein 979 983	PU.1
+T29	cell_type 1018 1040	mature human monocytes
+T30	cell_type 1045 1079	human peripheral blood neutrophils
+T31	protein 1096 1100	PU.1
+T32	RNA 1124 1134	Spi-B mRNA
+T33	cell_line 1170 1182	B-cell lines
+T34	cell_line 1215 1233	myeloid cell lines
+T35	cell_type 1235 1246	neutrophils
+T36	cell_type 1251 1262	macrophages
+T37	protein 1284 1297	Spi-B protein
+T38	DNA 1310 1328	PU.1 binding sites
+T39	DNA 1332 1349	myeloid promoters
+T40	DNA 1374 1383	promoters
+T41	cell_type 1387 1403	nonmyeloid cells
+T42	protein 1425 1429	PU.1
+T43	protein 1434 1439	Spi-B
+T44	protein 1573 1578	Spi-B
+T45	cell_type 1582 1595	myeloid cells
+T46	protein 1619 1624	Spi-B
+T47	protein 1715 1719	PU.1
+T48	cell_type 1760 1769	monocytes
+T49	cell_type 1774 1785	macrophages
+T50	cell_type 1798 1809	neutrophils
+T51	protein 1827 1831	PU.1
+T52	cell_type 1869 1891	major myeloid lineages

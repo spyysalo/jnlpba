@@ -1,0 +1,32 @@
+T1	DNA 34 55	HLA-DRA gene promoter
+T2	DNA 90 102	octamer site
+T3	protein 141 157	interferon gamma
+T4	DNA 175 230	major histocompatibility complex class II gene promoter
+T5	DNA 231 234	DRA
+T6	DNA 275 293	cis-acting regions
+T7	DNA 348 360	DRA promoter
+T8	cell_type 397 408	intact cell
+T9	cell_line 521 533	B-cell lines
+T10	DNA 541 553	octamer site
+T11	DNA 562 581	Y, X1, and X2 boxes
+T12	cell_line 583 623	Class II antigen expressing T-cell lines
+T13	cell_line 657 669	B-cell lines
+T14	cell_line 677 707	class II-negative T-cell lines
+T15	cell_line 738 757	lymphoid cell lines
+T16	DNA 763 775	octamer site
+T17	protein 872 902	lymphoid-specific OTF-2 factor
+T18	cell_line 921 973	class II-positive nonlymphoid glioblastoma cell line
+T19	DNA 1011 1023	octamer site
+T20	protein 1052 1075	ubiquitous OTF-1 factor
+T21	DNA 1083 1100	open binding site
+T22	DNA 1112 1124	DRA promoter
+T23	protein 1147 1152	OTF-1
+T24	cell_line 1199 1216	glioblastoma line
+T25	protein 1218 1234	Interferon gamma
+T26	cell_line 1271 1293	glioblastoma cell line
+T27	protein 1439 1455	interferon gamma
+T28	DNA 1471 1486	poised promoter
+T29	DNA 1539 1546	X boxes
+T30	DNA 1661 1663	X1
+T31	DNA 1668 1670	X2
+T32	protein 1719 1735	interferon gamma

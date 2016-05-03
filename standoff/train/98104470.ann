@@ -1,0 +1,20 @@
+T1	protein 48 54	NF-ATp
+T2	protein 105 111	NF-ATp
+T3	protein 160 187	NF-AT transcription factors
+T4	cell_type 191 215	peripheral T lymphocytes
+T5	protein 269 275	NF-ATp
+T6	protein 315 321	NF-ATp
+T7	RNA 434 439	mRNAs
+T8	protein 444 464	Th2-type lymphokines
+T9	protein 474 478	IL-4
+T10	protein 480 484	IL-5
+T11	protein 486 491	IL-10
+T12	protein 496 501	IL-13
+T13	cell_type 544 556	spleen cells
+T14	cell_line 602 631	V beta 11+/CD4+ T lymphocytes
+T15	protein 701 707	NF-ATp
+T16	cell_type 774 785	lymphocytes
+T17	protein 838 856	activation markers
+T18	protein 857 861	CD44
+T19	protein 866 870	CD69
+T20	protein 899 903	CD62

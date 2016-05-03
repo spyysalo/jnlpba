@@ -1,0 +1,51 @@
+T1	protein 20 24	CD40
+T2	protein 59 81	nuclear factor-kappa B
+T3	cell_type 96 109	B lymphocytes
+T4	protein 111 115	CD40
+T5	cell_type 129 136	B cells
+T6	protein 203 207	CD40
+T7	protein 328 350	cell surface molecules
+T8	cell_type 381 395	memory B cells
+T9	protein 452 456	CD40
+T10	protein 494 504	NF-kappa B
+T11	protein 506 516	NF-kappa B
+T12	protein 533 537	CD40
+T13	protein 571 581	NF-kappa B
+T14	protein 639 649	NF-kappa B
+T15	cell_line 674 700	mouse B cell transfectants
+T16	protein 712 742	wild-type or mutant human CD40
+T17	protein 756 779	CD40 cytoplasmic domain
+T18	protein 819 871	10-amino acid CD40 cytoplasmic signaling determinant
+T19	protein 885 895	NF-kappa B
+T20	protein 931 943	position 234
+T21	protein 982 986	CD40
+T22	protein 1004 1036	TNF receptor-associated factor 2
+T23	protein 1038 1043	TRAF2
+T24	protein 1046 1051	TRAF3
+T25	protein 1057 1062	TRAF5
+T26	protein 1085 1095	NF-kappa B
+T27	cell_type 1130 1137	B cells
+T28	protein 1139 1143	CD40
+T29	protein 1152 1162	NF-kappa B
+T30	protein 1201 1206	TRAF2
+T31	protein 1211 1216	TRAF5
+T32	protein 1230 1240	NF-kappa B
+T33	protein 1275 1295	transmembrane domain
+T34	protein 1299 1303	CD40
+T35	protein 1342 1345	p23
+T36	protein 1379 1383	CD40
+T37	protein 1411 1429	cytoplasmic domain
+T38	protein 1478 1493	I kappa B alpha
+T39	protein 1499 1513	I kappa B beta
+T40	protein 1549 1553	CD40
+T41	protein 1576 1580	CD40
+T42	protein 1590 1600	NF-kappa B
+T43	protein 1707 1717	NF-kappa B
+T44	protein 1760 1764	CD40
+T45	protein 1813 1819	ICAM-1
+T46	protein 1824 1829	LFA-1
+T47	protein 1840 1850	NF-kappa B
+T48	protein 1883 1887	CD40
+T49	protein 1914 1918	B7-1
+T50	protein 1920 1923	Fas
+T51	protein 1929 1933	CD23

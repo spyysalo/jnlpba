@@ -1,0 +1,21 @@
+T1	protein 0 8	PU.1/Pip
+T2	protein 13 64	basic helix loop helix zipper transcription factors
+T3	DNA 79 92	binding sites
+T4	DNA 100 113	CD20 promoter
+T5	protein 171 175	CD20
+T6	cell_type 179 192	B lymphocytes
+T7	protein 194 198	CD20
+T8	DNA 204 227	B-lineage-specific gene
+T9	cell_type 322 334	plasma cells
+T10	DNA 525 537	-45 and -160
+T11	protein 565 569	CD20
+T12	DNA 584 592	-45 site
+T13	DNA 599 604	E box
+T14	protein 616 654	basic helix-loop-helix-zipper proteins
+T15	DNA 667 676	-160 site
+T16	DNA 682 717	composite PU.1 and Pip binding site
+T17	DNA 745 764	reporter constructs
+T18	DNA 840 867	composite PU.1 and Pip site
+T19	protein 934 938	CD20
+T20	protein 951 978	CD20 E box binding proteins
+T21	DNA 1044 1060	distant enhancer

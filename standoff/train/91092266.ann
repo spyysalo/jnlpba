@@ -1,0 +1,31 @@
+T1	DNA 0 3	TAR
+T2	cell_type 91 104	T lymphocytes
+T3	DNA 106 134	Multiple regulatory elements
+T4	DNA 142 191	human immunodeficiency virus long terminal repeat
+T5	DNA 193 200	HIV LTR
+T6	DNA 287 305	HIV LTR constructs
+T7	DNA 320 358	chloramphenicol acetyltransferase gene
+T8	DNA 383 401	regulatory regions
+T9	DNA 416 424	enhancer
+T10	DNA 426 429	SP1
+T11	DNA 431 435	TATA
+T12	DNA 440 451	TAR regions
+T13	DNA 514 533	regulatory elements
+T14	DNA 608 616	HIV LTRs
+T15	cell_line 714 724	HeLa cells
+T16	cell_line 726 738	Jurkat cells
+T17	cell_line 742 752	U937 cells
+T18	protein 927 942	p24 gag protein
+T19	DNA 1066 1069	SP1
+T20	DNA 1071 1075	TATA
+T21	DNA 1193 1207	enhancer motif
+T22	DNA 1211 1231	TAR primary sequence
+T23	DNA 1319 1337	TAR loop sequences
+T24	cell_line 1425 1437	Jurkat cells
+T25	cell_line 1490 1524	phorbol ester-treated Jurkat cells
+T26	cell_line 1536 1562	phorbol ester-treated HeLa
+T27	cell_line 1566 1576	U937 cells
+T28	DNA 1614 1635	TAR mutant constructs
+T29	cell_line 1639 1673	phorbol ester-treated Jurkat cells
+T30	DNA 1721 1736	enhancer region
+T31	DNA 1761 1769	tat gene

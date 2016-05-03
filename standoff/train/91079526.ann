@@ -1,0 +1,22 @@
+T1	DNA 15 40	transcriptional enhancers
+T2	cell_type 73 79	T cell
+T3	cell_type 100 106	T cell
+T4	DNA 340 360	long terminal repeat
+T5	DNA 362 365	LTR
+T6	DNA 384 408	transcriptional enhancer
+T7	DNA 429 452	conserved binding sites
+T8	protein 461 483	nuclear factor kappa B
+T9	protein 485 495	NF kappa B
+T10	DNA 598 621	NF kappa B binding site
+T11	DNA 647 656	HIV-1 LTR
+T12	DNA 682 691	HIV-2 LTR
+T13	cell_type 771 777	T cell
+T14	DNA 818 842	HIV-1 or HIV-2 enhancers
+T15	DNA 868 889	heterologous promoter
+T16	DNA 910 919	enhancers
+T17	DNA 958 961	LTR
+T18	protein 1005 1015	NF kappa B
+T19	DNA 1053 1083	HIV-1 transcriptional enhancer
+T20	DNA 1129 1159	HIV-2 transcriptional enhancer
+T21	protein 1172 1182	NF kappa B
+T22	protein 1188 1207	activator protein 3

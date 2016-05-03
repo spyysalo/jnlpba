@@ -1,0 +1,35 @@
+T1	protein 24 28	NFAT
+T2	protein 30 65	nuclear factor of activated T cells
+T3	cell_type 78 103	human T and B lymphocytes
+T4	protein 142 146	NFAT
+T5	protein 153 178	transcriptional activator
+T6	DNA 210 239	interleukin-2 (IL-2) promoter
+T7	protein 321 325	IL-2
+T8	protein 404 408	NFAT
+T9	cell_type 451 464	human B cells
+T10	protein 470 489	B cell NFAT complex
+T11	DNA 570 631	NFAT-driven chloramphenicol acetyltransferase (CAT) construct
+T12	DNA 653 663	AP-1 motif
+T13	protein 672 680	anti-Jun
+T14	protein 685 704	anti-Fos antibodies
+T15	DNA 730 740	NFAT motif
+T16	cell_type 749 762	T and B cells
+T17	protein 809 821	NFAT complex
+T18	protein 873 893	Jun and Fos proteins
+T19	DNA 925 935	NFAT motif
+T20	protein 1074 1086	NFAT complex
+T21	protein 1117 1156	constitutively expressed nuclear factor
+T22	cell_type 1163 1176	B and T cells
+T23	protein 1212 1224	NFAT complex
+T24	protein 1248 1252	NFAT
+T25	DNA 1295 1314	5' purine-rich part
+T26	DNA 1322 1335	NFAT sequence
+T27	protein 1405 1417	NFAT complex
+T28	cell_type 1436 1449	T and B cells
+T29	protein 1495 1507	NFAT complex
+T30	protein 1522 1525	Jun
+T31	protein 1527 1530	Fos
+T32	protein 1538 1565	constitutive nuclear factor
+T33	cell_type 1584 1597	T and B cells
+T34	cell_type 1687 1694	B cells
+T35	protein 1737 1741	NFAT

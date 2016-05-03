@@ -1,0 +1,20 @@
+T1	protein 0 5	CIITA
+T2	DNA 34 52	MHC class II genes
+T3	protein 102 124	MHC class II molecules
+T4	cell_type 142 155	human T cells
+T5	cell_type 184 197	mouse T cells
+T6	protein 293 320	MHC class II transactivator
+T7	protein 322 327	CIITA
+T8	protein 355 378	major regulatory factor
+T9	DNA 437 455	MHC class II genes
+T10	cell_type 475 488	human T cells
+T11	protein 518 523	CIITA
+T12	cell_type 564 577	human T cells
+T13	cell_type 582 595	mouse T cells
+T14	DNA 622 640	MHC class II genes
+T15	cell_type 644 657	mouse T cells
+T16	DNA 706 722	human CIITA cDNA
+T17	protein 767 772	CIITA
+T18	protein 822 834	MHC class II
+T19	cell_type 838 843	human
+T20	cell_type 848 861	mouse T cells

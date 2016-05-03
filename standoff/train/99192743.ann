@@ -1,0 +1,28 @@
+T1	protein 0 4	IL-2
+T2	protein 82 92	NF-kappa B
+T3	protein 158 162	IL-2
+T4	cell_type 218 231	T lymphocytes
+T5	protein 269 273	IL-2
+T6	cell_type 342 362	Ag-activated T cells
+T7	protein 428 438	NF-kappa B
+T8	protein 446 466	activating protein-1
+T9	protein 468 472	AP-1
+T10	protein 590 611	transcription factors
+T11	protein 683 687	IL-2
+T12	cell_type 689 710	primary human T cells
+T13	protein 837 841	IL-2
+T14	protein 858 867	I kappa B
+T15	protein 889 899	NF-kappa B
+T16	cell_type 914 935	primary human T cells
+T17	protein 952 956	IL-2
+T18	protein 1019 1023	IL-2
+T19	protein 1042 1045	JNK
+T20	protein 1060 1064	AP-1
+T21	DNA 1097 1153	o-tetradecanoylphorbol 13-acetate (TPA) response element
+T22	protein 1178 1191	growth factor
+T23	protein 1222 1227	STAT3
+T24	protein 1232 1237	STAT5
+T25	protein 1320 1330	NF-kappa B
+T26	protein 1335 1339	AP-1
+T27	protein 1367 1371	IL-2
+T28	cell_type 1429 1450	primary human T cells

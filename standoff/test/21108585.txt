@@ -1,0 +1,9 @@
+Expression of oestrogen and progesterone receptors by mast cells alone, but not lymphocytes, macrophages or other immune cells in human upper airways.
+BACKGROUND:
+Nasal polyposis often coexists with asthma in airway inflammatory conditions characterised by the infiltration of a range of immune cells. A potentially important role for ovarian hormones has been implicated in airway inflammation but the cellular target for such action is not known.
+METHODS:
+Expression of oestrogen receptors (ER) and progesterone receptors (PR) was examined using immunohistochemistry in formalin fixed nasal polyp tissues from 47 subjects. The cells positive for ER or PR were confirmed by spatial location, dual immunolabelling, and histochemical staining.
+RESULTS:
+Consistent with the known features of nasal polyps, CD4+ (T helper/inducer), CD8+ (cytotoxic/suppressor), CD68+ (macrophages), mast cells, eosinophils and neutrophils were all clearly detected by their relevant monoclonal antibodies or appropriate histochemical staining, but only mast cells tested positive for ER/PR labelling with their polyclonal and monoclonal antibodies. The frequencies for expression were 61.7% for ER positive and 59.6% for PR positive cells. The expression of ER/PR was independent of patient sex and age but was highly correlated with the numbers of mast cells (r = 0.973, p<0.001 for ER; r = 0.955, p<0.001 for PR). Fewer than 5% of mast cells were found to be negative for ER/PR expression.
+CONCLUSIONS:
+Mast cells alone, but not lymphocytes, macrophages, or other immune cells, express ER/PR in human upper airways. Numerous ER/PR positive mast cells exist in nasal polyps, indicating that this may be a major route for the involvement of sex hormones in airway inflammation when exposed to the higher and varying concentration of oestrogen and progesterone characteristic of females.

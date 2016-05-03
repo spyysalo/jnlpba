@@ -1,0 +1,58 @@
+T1	protein 0 4	CD80
+T2	protein 9 13	CD86
+T3	protein 92 96	CD28
+T4	protein 117 121	CD80
+T5	protein 123 127	B7-1
+T6	protein 132 136	CD86
+T7	protein 138 142	B7-2
+T8	protein 171 175	CD28
+T9	protein 354 358	CD80
+T10	protein 362 366	CD86
+T11	cell_line 368 401	Purified human peripheral T cells
+T12	cell_line 405 419	Jurkat T cells
+T13	protein 493 503	human CD80
+T14	protein 505 513	CHO-CD80
+T15	protein 518 528	human CD86
+T16	protein 530 538	CHO-CD86
+T17	protein 548 577	anti-CD28 monoclonal antibody
+T18	protein 642 650	CHO-CD80
+T19	protein 655 663	CHO-CD86
+T20	protein 670 683	anti-CD28 mAb
+T21	protein 713 721	cytokine
+T22	cell_type 743 767	human peripheral T cells
+T23	cell_line 772 786	Jurkat T cells
+T24	protein 793 801	CHO-CD80
+T25	protein 806 814	CHO-CD86
+T26	protein 835 847	anti-CD3 mAb
+T27	protein 862 866	NFAT
+T28	protein 927 945	signaling proteins
+T29	protein 955 958	CBL
+T30	protein 963 966	VAV
+T31	protein 1015 1019	CD80
+T32	protein 1021 1025	CD86
+T33	protein 1031 1044	anti-CD28 mAb
+T34	cell_line 1084 1098	Jurkat T cells
+T35	protein 1111 1119	CHO-CD80
+T36	protein 1123 1136	anti-CD28 mAb
+T37	protein 1184 1188	CD28
+T38	protein 1211 1219	CHO-CD86
+T39	protein 1252 1256	CD28
+T40	protein 1353 1378	phosphoinositide 3-kinase
+T41	protein 1384 1388	CD28
+T42	protein 1540 1548	CHO-CD86
+T43	protein 1580 1584	CD28
+T44	protein 1597 1601	CD80
+T45	protein 1605 1609	CD86
+T46	protein 1699 1702	CBL
+T47	protein 1707 1710	VAV
+T48	protein 1715 1719	NFAT
+T49	protein 1785 1798	interleukin-2
+T50	protein 1803 1851	granulocyte-macrophage colony-stimulating factor
+T51	protein 1873 1877	CD80
+T52	protein 1882 1886	CD86
+T53	protein 1979 1983	CD28
+T54	protein 1988 2009	phospholipase Cgamma1
+T55	protein 2018 2021	SH2
+T56	protein 2047 2072	phosphoinositide 3-kinase
+T57	protein 2078 2082	CD28
+T58	protein 2189 2193	CD28

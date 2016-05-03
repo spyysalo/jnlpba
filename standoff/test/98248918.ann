@@ -1,0 +1,17 @@
+T1	protein 0 4	CD14
+T2	cell_type 29 52	human endothelial cells
+T3	protein 372 382	E-selectin
+T4	RNA 480 504	E-selectin-specific mRNA
+T5	protein 562 572	NF-kappa B
+T6	protein 576 596	transcription factor
+T7	DNA 611 626	E-selectin gene
+T8	cell_type 651 657	HUVECs
+T9	protein 853 863	E-selectin
+T10	cell_type 887 903	endothelial cell
+T11	protein 987 997	NF-kappa B
+T12	RNA 1034 1049	E-selectin mRNA
+T13	protein 1471 1492	monoclonal antibodies
+T14	protein 1510 1520	human CD14
+T15	protein 1577 1587	NF-kappa B
+T16	cell_type 1805 1827	human endothelial cell
+T17	protein 1852 1856	CD14

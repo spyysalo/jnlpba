@@ -1,0 +1,42 @@
+T1	protein 0 14	Interleukin-10
+T2	protein 37 49	kappaB-alpha
+T3	cell_type 53 68	human monocytes
+T4	protein 70 84	Interleukin-10
+T5	protein 86 91	IL-10
+T6	protein 197 218	inflammatory cytokine
+T7	protein 241 268	tumor necrosis factor-alpha
+T8	protein 270 279	TNF-alpha
+T9	protein 305 310	IL-10
+T10	protein 341 361	transcription factor
+T11	protein 362 383	nuclear factor-kappaB
+T12	protein 385 394	NF-kappaB
+T13	protein 426 435	NF-kappaB
+T14	protein 551 574	inhibitory kappaB-alpha
+T15	protein 576 589	IkappaB-alpha
+T16	protein 613 618	IL-10
+T17	protein 643 652	NF-kappaB
+T18	protein 678 687	TNF-alpha
+T19	protein 719 732	IkappaB-alpha
+T20	protein 791 796	IL-10
+T21	protein 848 857	TNF-alpha
+T22	protein 870 879	NF-kappaB
+T23	protein 896 909	IkappaB-alpha
+T24	protein 993 1002	endotoxin
+T25	protein 1043 1048	IL-10
+T26	protein 1084 1093	TNF-alpha
+T27	protein 1138 1147	NF-kappaB
+T28	protein 1202 1215	IkappaB-alpha
+T29	cell_type 1282 1297	human monocytes
+T30	protein 1299 1308	TNF-alpha
+T31	protein 1364 1369	IL-10
+T32	protein 1396 1405	TNF-alpha
+T33	cell_type 1481 1496	human monocytes
+T34	protein 1498 1511	IkappaB-alpha
+T35	protein 1542 1551	NF-kappaB
+T36	protein 1575 1580	IL-10
+T37	protein 1629 1642	IkappaB-alpha
+T38	protein 1673 1682	NF-kappaB
+T39	protein 1696 1701	IL-10
+T40	protein 1735 1744	NF-kappaB
+T41	protein 1759 1772	IkappaB-alpha
+T42	protein 1815 1824	TNF-alpha

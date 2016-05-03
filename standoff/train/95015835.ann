@@ -1,0 +1,26 @@
+T1	protein 27 29	Ig
+T2	protein 34 39	Oct-2
+T3	protein 75 87	MHC class II
+T4	protein 102 106	IL-6
+T5	cell_type 136 143	B cells
+T6	cell_type 147 159	plasma cells
+T7	protein 201 203	Ig
+T8	protein 222 234	MHC class II
+T9	protein 280 284	IL-6
+T10	protein 355 357	Ig
+T11	cell_line 361 386	clonal human B cell lines
+T12	cell_type 397 430	isolated polyclonal B lymphocytes
+T13	cell_line 445 463	IL-6-induced cells
+T14	cell_type 473 485	plasma cells
+T15	protein 533 553	surface MHC class II
+T16	protein 564 566	Ig
+T17	DNA 634 642	Ig genes
+T18	RNA 721 725	mRNA
+T19	protein 756 770	Ig heavy chain
+T20	protein 825 829	IL-6
+T21	protein 892 894	Ig
+T22	protein 956 992	B cell-enriched transcription factor
+T23	protein 993 998	Oct-2
+T24	cell_type 1039 1046	B cells
+T25	protein 1052 1056	IL-6
+T26	protein 1133 1138	Oct-2

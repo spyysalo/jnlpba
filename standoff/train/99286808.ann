@@ -1,0 +1,16 @@
+T1	cell_type 101 114	T lymphocytes
+T2	protein 191 213	cell-surface receptors
+T3	protein 215 248	intracellular signaling molecules
+T4	protein 254 283	nuclear transcription factors
+T5	protein 340 368	T cell transcription factors
+T6	protein 409 415	Ikaros
+T7	protein 417 421	LKLF
+T8	protein 427 453	GATA3 zinc-finger proteins
+T9	protein 459 462	Ets
+T10	protein 464 472	CREB/ATF
+T11	protein 478 519	NF-kappa B/Rel/NFAT transcription factors
+T12	protein 525 538	Stat proteins
+T13	protein 544 573	HMG box transcription factors
+T14	protein 582 586	LEF1
+T15	protein 588 592	TCF1
+T16	protein 598 602	Sox4

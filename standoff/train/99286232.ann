@@ -1,0 +1,21 @@
+T1	protein 14 20	Ikaros
+T2	protein 25 31	Aiolos
+T3	protein 52 81	histone deacetylase complexes
+T4	protein 105 141	lymphoid lineage-determining factors
+T5	protein 142 148	Ikaros
+T6	protein 153 159	Aiolos
+T7	protein 176 209	strong transcriptional repressors
+T8	protein 249 267	repression domains
+T9	protein 340 355	Ikaros proteins
+T10	protein 392 405	core histones
+T11	DNA 409 423	promoter sites
+T12	protein 443 462	histone deacetylase
+T13	protein 507 513	Ikaros
+T14	protein 522 540	repression domains
+T15	protein 584 596	mSin3 family
+T16	protein 628 648	histone deacetylases
+T17	protein 713 719	Ikaros
+T18	protein 724 733	Mi-2-HDAC
+T19	protein 751 772	Ikaros family members
+T20	protein 851 880	histone deacetylase complexes
+T21	DNA 884 902	specific promoters

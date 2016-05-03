@@ -1,0 +1,20 @@
+T1	protein 175 196	nuclear factor-kappaB
+T2	protein 231 266	endothelial cell adhesion molecules
+T3	cell_line 529 585	human umbilical vein endothelial cell (HUVEC) monolayers
+T4	cell_type 918 928	neutrophil
+T5	cell_line 941 947	HUVECs
+T6	cell_type 1066 1076	neutrophil
+T7	cell_type 1282 1292	neutrophil
+T8	protein 1373 1406	Intercellular adhesion molecule-1
+T9	protein 1411 1452	P-selectin-specific monoclonal antibodies
+T10	cell_type 1478 1488	neutrophil
+T11	protein 1529 1564	anti-E-selectin monoclonal antibody
+T12	protein 1706 1727	nuclear factor-kappaB
+T13	protein 1731 1750	activator protein-1
+T14	protein 1897 1930	intercellular adhesion molecule-1
+T15	protein 1932 1942	P-selectin
+T16	protein 1948 1958	E-selectin
+T17	cell_line 1962 1968	HUVECs
+T18	cell_type 2003 2013	neutrophil
+T19	protein 2192 2227	endothelial cell adhesion molecules
+T20	cell_type 2254 2264	neutrophil

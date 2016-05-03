@@ -1,0 +1,28 @@
+T1	DNA 23 31	PML gene
+T2	protein 94 113	PML and Rb proteins
+T3	DNA 155 163	PML gene
+T4	cell_type 199 229	hematopoietic progenitor cells
+T5	cell_type 231 235	HPCs
+T6	RNA 302 310	PML mRNA
+T7	protein 315 322	protein
+T8	cell_type 361 365	HPCs
+T9	protein 395 408	growth factor
+T10	protein 480 483	PML
+T11	protein 624 627	PML
+T12	RNA 698 706	PML mRNA
+T13	protein 708 717	alpha-PML
+T14	cell_type 758 762	HPCs
+T15	protein 769 778	alpha-PML
+T16	cell_line 806 841	erythroid and granulocytic colonies
+T17	protein 965 968	PML
+T18	protein 1068 1071	PML
+T19	cell_type 1122 1136	retinoblastoma
+T20	protein 1137 1144	pRb 105
+T21	cell_type 1168 1172	HPCs
+T22	protein 1178 1187	alpha-PML
+T23	protein 1322 1325	PML
+T24	protein 1330 1337	pRb 105
+T25	cell_type 1398 1418	erythroid precursors
+T26	protein 1540 1543	PML
+T27	protein 1676 1679	PML
+T28	protein 1685 1692	pRb 105

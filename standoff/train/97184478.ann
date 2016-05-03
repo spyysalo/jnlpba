@@ -1,0 +1,46 @@
+T1	protein 26 30	NFAT
+T2	cell_type 63 90	CD4+ T helper 2 (Th2) cells
+T3	cell_type 102 111	Th1 cells
+T4	protein 113 136	Transcriptional factors
+T5	protein 144 155	NFAT family
+T6	DNA 219 233	cytokine genes
+T7	protein 284 297	interleukin 2
+T8	protein 299 303	IL-2
+T9	protein 309 313	IL-4
+T10	cell_type 365 390	CD4+ T helper (pTh) cells
+T11	cell_type 445 459	effector cells
+T12	cell_type 461 465	eTh1
+T13	cell_type 470 474	eTh2
+T14	protein 519 528	cytokines
+T15	cell_type 576 586	eTh2 cells
+T16	protein 611 615	IL-4
+T17	protein 623 639	gamma interferon
+T18	cell_type 655 665	eTh1 cells
+T19	protein 769 773	NFAT
+T20	cell_type 828 837	pTh cells
+T21	cell_type 850 854	eTh1
+T22	cell_type 858 868	eTh2 cells
+T23	protein 898 902	IL-2
+T24	protein 965 969	NFAT
+T25	cell_type 1011 1015	eTh1
+T26	cell_type 1020 1030	eTh2 cells
+T27	protein 1066 1080	NFAT complexes
+T28	cell_type 1092 1102	eTh2 cells
+T29	protein 1171 1175	NFAT
+T30	cell_type 1216 1226	eTh1 cells
+T31	cell_type 1253 1262	pTh cells
+T32	cell_type 1272 1276	eTh1
+T33	cell_type 1281 1291	eTh2 cells
+T34	protein 1313 1317	IL-2
+T35	protein 1359 1363	NFAT
+T36	protein 1419 1423	IL-4
+T37	cell_type 1481 1491	eTh2 cells
+T38	protein 1527 1531	NFAT
+T39	cell_type 1572 1582	eTh2 cells
+T40	cell_type 1607 1617	eTh1 cells
+T41	protein 1629 1633	IL-4
+T42	DNA 1743 1752	IL-4 gene
+T43	protein 1756 1760	NFAT
+T44	protein 1776 1780	NFAT
+T45	cell_type 1842 1846	eTh1
+T46	cell_type 1850 1854	eTh2

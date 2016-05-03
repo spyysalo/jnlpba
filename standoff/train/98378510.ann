@@ -1,0 +1,36 @@
+T1	protein 4 33	small GTP-binding protein Rho
+T2	protein 46 50	AP-1
+T3	cell_type 68 75	T cells
+T4	protein 81 84	Rho
+T5	protein 95 121	small GTP-binding proteins
+T6	protein 325 328	Rho
+T7	protein 338 342	AP-1
+T8	cell_line 355 369	Jurkat T cells
+T9	protein 436 439	Rho
+T10	protein 441 447	V14Rho
+T11	protein 476 480	NFAT
+T12	protein 482 487	Oct-1
+T13	DNA 493 519	NF-kappaB enhancer element
+T14	DNA 577 593	V14Rho construct
+T15	DNA 630 642	CAAX deleted
+T16	protein 666 670	AP-1
+T17	protein 713 716	Rho
+T18	protein 720 724	AP-1
+T19	protein 747 779	mitogen-activated protein kinase
+T20	protein 794 815	dominant-negative MEK
+T21	protein 822 825	MEK
+T22	protein 861 864	Rho
+T23	protein 873 877	AP-1
+T24	protein 888 894	V14Rho
+T25	protein 913 934	protein kinase Calpha
+T26	protein 936 944	PKCalpha
+T27	DNA 980 989	CAAX site
+T28	protein 993 999	V14Rho
+T29	protein 1062 1070	PKCalpha
+T30	protein 1089 1092	Rho
+T31	protein 1150 1167	N-terminal domain
+T32	protein 1171 1179	PKCalpha
+T33	protein 1213 1216	Rho
+T34	protein 1229 1233	AP-1
+T35	protein 1284 1287	Rho
+T36	protein 1300 1304	AP-1

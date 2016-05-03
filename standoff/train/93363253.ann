@@ -1,0 +1,31 @@
+T1	protein 0 30	Tumor necrosis factor receptor
+T2	cell_type 69 89	HIV-1-infected cells
+T3	protein 195 228	tumor necrosis factor (TNF)-alpha
+T4	cell_type 312 325	promyelocytic
+T5	cell_type 330 348	promonocytic cells
+T6	protein 407 420	TNF receptors
+T7	protein 431 434	TNF
+T8	protein 490 509	monoclonal antibody
+T9	protein 653 674	reverse transcriptase
+T10	protein 826 844	75 kd TNF receptor
+T11	protein 846 850	TR75
+T12	protein 872 890	55 kD TNF receptor
+T13	protein 892 896	TR55
+T14	cell_line 948 983	uninfected parental HL-60 subclones
+T15	protein 996 1000	TR75
+T16	protein 1035 1044	TNF-alpha
+T17	protein 1065 1069	TR75
+T18	protein 1116 1125	TNF-alpha
+T19	protein 1196 1200	TR75
+T20	cell_line 1276 1295	HL-60 promyelocytes
+T21	protein 1306 1310	TR55
+T22	protein 1343 1352	TNF-alpha
+T23	protein 1469 1473	TR55
+T24	protein 1493 1512	exogenous TNF-alpha
+T25	protein 1576 1580	TR75
+T26	protein 1594 1604	NF-kappa B
+T27	protein 1680 1711	antagonistic anti-TR55 antibody
+T28	protein 1722 1740	Anti-TR55 antibody
+T29	cell_line 1758 1803	chronically infected U1 promonocytic cultures
+T30	protein 1987 2000	TNF receptors
+T31	protein 2065 2081	immunoregulatory

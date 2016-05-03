@@ -1,0 +1,38 @@
+T1	protein 21 54	endogenous NF-kappa B p50 subunit
+T2	cell_type 73 99	follicular dendritic cells
+T3	protein 121 131	NF-kappa B
+T4	protein 135 170	50 kDa/65 kDa (p50/p65) heterodimer
+T5	protein 177 208	ubiquitous transcription factor
+T6	DNA 256 268	immune genes
+T7	protein 317 327	NF-kappa B
+T8	protein 524 541	105 kDa precursor
+T9	protein 545 548	p50
+T10	cell_type 664 690	follicular dendritic cells
+T11	cell_type 692 695	FDC
+T12	protein 723 726	p50
+T13	cell_type 780 783	FDC
+T14	cell_type 815 818	FDC
+T15	protein 833 836	p50
+T16	cell_type 882 893	lymphocytes
+T17	cell_type 934 937	FDC
+T18	protein 1014 1017	p50
+T19	cell_type 1051 1054	FDC
+T20	cell_type 1066 1077	lymphocytes
+T21	cell_type 1083 1086	FDC
+T22	cell_type 1163 1166	FDC
+T23	protein 1177 1180	p65
+T24	cell_type 1214 1217	FDC
+T25	protein 1262 1265	p65
+T26	cell_type 1301 1312	lymphocytes
+T27	protein 1314 1327	c-Rel protein
+T28	cell_type 1366 1377	lymphocytes
+T29	cell_type 1418 1421	FDC
+T30	cell_type 1520 1523	FDC
+T31	protein 1534 1537	p50
+T32	cell_type 1559 1562	FDC
+T33	protein 1616 1619	p65
+T34	cell_type 1672 1683	lymphocytes
+T35	cell_type 1734 1745	lymphocytes
+T36	cell_type 1751 1754	FDC
+T37	protein 1814 1824	NF-kappa B
+T38	protein 1833 1846	c-Rel protein

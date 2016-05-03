@@ -1,0 +1,33 @@
+T1	protein 17 37	Syk-antigen receptor
+T2	protein 57 82	green fluorescent protein
+T3	protein 107 110	Syk
+T4	protein 115 118	Lyn
+T5	protein 203 221	B cell Ag receptor
+T6	protein 223 226	BCR
+T7	protein 338 362	protein tyrosine kinases
+T8	protein 375 395	Src and Syk families
+T9	protein 451 454	Syk
+T10	cell_type 458 465	B cells
+T11	protein 480 483	BCR
+T12	protein 515 518	Syk
+T13	cell_line 529 541	DT40 B cells
+T14	protein 544 558	fusion protein
+T15	protein 573 576	Syk
+T16	protein 588 613	green fluorescent protein
+T17	protein 645 657	anti-IgM Abs
+T18	protein 690 696	kinase
+T19	protein 758 779	cross-linked receptor
+T20	protein 808 830	Syk-receptor complexes
+T21	protein 920 923	Syk
+T22	protein 964 985	internalized receptor
+T23	protein 1008 1011	Syk
+T24	protein 1053 1081	tightly capped BCR complexes
+T25	protein 1106 1109	Lyn
+T26	protein 1149 1152	Syk
+T27	protein 1160 1181	cross-linked receptor
+T28	protein 1240 1253	BCR complexes
+T29	protein 1273 1276	Lyn
+T30	protein 1278 1300	receptor-Syk complexes
+T31	protein 1384 1410	NF-AT transcription factor
+T32	protein 1430 1433	Lyn
+T33	protein 1488 1491	BCR

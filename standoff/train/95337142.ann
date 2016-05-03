@@ -1,0 +1,27 @@
+T1	protein 21 34	nm23 proteins
+T2	cell_type 80 100	human leukemia cells
+T3	protein 127 160	differentiation inhibitory factor
+T4	protein 162 170	I-factor
+T5	cell_line 175 206	mouse myeloid leukemia M1 cells
+T6	protein 212 226	murine homolog
+T7	protein 234 260	human nm23-H2 gene product
+T8	DNA 262 272	nm23 genes
+T9	protein 452 465	nm23 proteins
+T10	protein 474 509	nucleoside diphosphate (NDP) kinase
+T11	protein 607 620	nm23 proteins
+T12	protein 675 688	nm23 proteins
+T13	cell_type 737 757	human leukemic cells
+T14	cell_line 768 815	HL-60, U937, HEL/S, KU812F, K562, and HEL cells
+T15	protein 817 860	Native human erythrocyte NDP kinase protein
+T16	cell_line 917 942	HEL, KU812 and K562 cells
+T17	cell_line 1014 1041	HL-60, U937 and HEL/S cells
+T18	cell_line 1076 1085	HEL cells
+T19	protein 1103 1166	recombinant human nm23-H1, -H2, mouse nm23-M1, and -M2 proteins
+T20	protein 1187 1212	mutant nm23-H2His protein
+T21	protein 1217 1242	truncated nm23-H2 protein
+T22	protein 1254 1279	N-terminal (1-60) peptide
+T23	protein 1299 1309	NDP kinase
+T24	cell_line 1364 1373	HEL cells
+T25	protein 1449 1470	I-factor/nm23 protein
+T26	cell_line 1521 1529	M1 cells
+T27	protein 1656 1679	nm23/NDP kinase protein

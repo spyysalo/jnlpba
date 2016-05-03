@@ -1,0 +1,23 @@
+T1	protein 0 4	NF-M
+T2	protein 6 24	chicken C/EBP beta
+T3	cell_line 82 116	hematopoietic progenitor cell line
+T4	protein 118 148	CAAT/enhancer binding proteins
+T5	protein 150 156	C/EBPs
+T6	protein 286 290	NF-M
+T7	protein 296 311	chicken homolog
+T8	protein 315 325	C/EBP beta
+T9	cell_type 356 393	myelomonocytic and eosinophilic cells
+T10	protein 450 454	NF-M
+T11	cell_line 458 484	hematopoietic cell lineage
+T12	protein 566 588	hormone binding domain
+T13	protein 596 619	human estrogen receptor
+T14	cell_line 662 694	multipotent progenitor cell line
+T15	protein 714 733	Myb-Ets oncoprotein
+T16	DNA 760 794	NF-M-dependent promoter constructs
+T17	cell_line 870 915	NF-M-estrogen receptor expressing progenitors
+T18	protein 968 1003	progenitor-specific surface markers
+T19	protein 1029 1052	differentiation markers
+T20	cell_type 1071 1081	eosinophil
+T21	cell_type 1086 1102	myeloid lineages
+T22	protein 1230 1234	NF-M
+T23	cell_type 1283 1301	eosinophil lineage

@@ -1,0 +1,17 @@
+T1	protein 12 24	XPB helicase
+T2	protein 35 62	repair/transcription factor
+T3	protein 63 68	TFIIH
+T4	protein 145 148	XPB
+T5	protein 175 195	transcription factor
+T6	protein 196 201	TFIIH
+T7	DNA 347 355	XPB gene
+T8	protein 481 486	TFIIH
+T9	protein 568 576	TFIIHmut
+T10	protein 615 622	TFIIHwt
+T11	protein 738 745	TFIIHwt
+T12	protein 747 755	TFIIHmut
+T13	protein 782 785	XPB
+T14	protein 832 852	DNA-dependent ATPase
+T15	protein 911 922	XPB protein
+T16	protein 928 931	XPB
+T17	protein 1296 1322	basal transcription factor

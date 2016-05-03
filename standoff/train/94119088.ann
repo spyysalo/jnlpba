@@ -1,0 +1,33 @@
+T1	protein 35 38	Tax
+T2	protein 90 119	NF-kappa B2 p100 gene product
+T3	cell_line 294 321	activated human CD4 T cells
+T4	protein 351 365	40-kDa protein
+T5	protein 373 376	Tax
+T6	DNA 479 493	cellular genes
+T7	protein 495 498	Tax
+T8	cell_type 526 533	T cells
+T9	DNA 588 602	cellular genes
+T10	cell_type 626 636	lymphocyte
+T11	protein 700 721	transcription factors
+T12	protein 738 741	Tax
+T13	protein 810 831	transcription factors
+T14	protein 858 872	NF-kappa B/Rel
+T15	protein 877 894	CREB/ATF families
+T16	protein 911 927	cellular factors
+T17	protein 928 933	HEB-1
+T18	protein 938 944	p67SRF
+T19	cell_type 1080 1104	primary leukemic T cells
+T20	protein 1148 1151	Tax
+T21	protein 1182 1186	p100
+T22	DNA 1207 1235	Rel-related NF-kappa B2 gene
+T23	cell_line 1245 1262	transfected cells
+T24	cell_line 1270 1307	HTLV-I-infected leukemic T-cell lines
+T25	protein 1350 1353	Tax
+T26	protein 1359 1363	p100
+T27	protein 1391 1394	Tax
+T28	DNA 1432 1489	human immunodeficiency virus type 1 long terminal repeats
+T29	protein 1502 1506	p100
+T30	protein 1578 1589	Tax protein
+T31	protein 1616 1619	Tax
+T32	protein 1663 1673	NF-kappa B
+T33	protein 1709 1713	p100

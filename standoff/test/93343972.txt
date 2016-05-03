@@ -1,0 +1,9 @@
+Presence of estrogen-binding sites on macrophage-like synoviocytes and CD8+, CD29+, CD45RO+ T lymphocytes in normal and rheumatoid synovium.
+OBJECTIVE:
+To study the presence of estrogen-binding sites (EBS) in the synovial tissues of male and female patients with rheumatoid arthritis (RA) and in age- and sex-matched healthy controls.
+METHODS:
+Both type 1 (high affinity, low binding capacity) and type 2 (reduced affinity, higher binding capacity) EBS were investigated in both soluble and nuclear fractions of homogenized synovial tissue samples by a dextran-coated charcoal method. To determine what type of synovial cell was positive for EBS, cryosections of synovial tissues were immunostained with a specific monoclonal anti-estrogen receptor antibody (anti-ER MAb) using both immunofluorescence and immunoperoxidase techniques. Double immunostaining with the anti-ER MAb and with specific MAb to detect different macrophage antigens (Ber-MAC3, MAC387, CD68) and CD8+ T cell subsets (CD29+, CD45RO+ and CD29-, CD45RO-) was performed.
+RESULTS:
+Higher affinity EBS were found mostly in nuclear cell fractions of either RA or control synovial tissues (28 of the 33). These EBS were present to a lesser extent in soluble cell fractions (11 of the 33). Immunostaining showed the estrogen receptor-positive cells to be the macrophage-like synoviocytes and the CD8+, CD29+ T cells both in RA and in control synovial tissues. Higher nuclear content of EBS was consistent with more intense nuclear staining of synoviocytes and T cells.
+CONCLUSION:
+It is conceivable that the immunomodulatory activity exerted by estrogens is at least partly mediated through their interaction with EBS that are present on macrophage-like synoviocytes, functioning as antigen-processing and antigen-presenting cells, and on antigen-experienced (memory) CD8+ T lymphocytes (CD29+, CD45RO+).

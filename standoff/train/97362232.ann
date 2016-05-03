@@ -1,0 +1,31 @@
+T1	protein 4 22	cytoplasmic domain
+T2	protein 26 106	granulocyte-macrophage colony-stimulating factor (GM-CSF) receptor alpha subunit
+T3	protein 129 135	GM-CSF
+T4	protein 173 221	Granulocyte-macrophage colony-stimulating factor
+T5	protein 223 229	GM-CSF
+T6	cell_line 289 348	colony-forming unit-granulocyte-macrophage progenitor cells
+T7	protein 374 380	GM-CSF
+T8	protein 467 490	alpha and beta subunits
+T9	cell_line 522 553	murine FDC-P1-derived cell line
+T10	cell_line 554 559	WT-19
+T11	protein 581 626	human GM-CSF receptor alpha and beta subunits
+T12	protein 628 649	GM-CSFRalpha and beta
+T13	protein 702 714	human GM-CSF
+T14	protein 716 723	hGM-CSF
+T15	protein 752 772	GM-CSFRalpha mutants
+T16	cell_line 776 786	WT19 cells
+T17	protein 811 829	amino acid domains
+T18	protein 837 849	GM-CSFRalpha
+T19	protein 850 868	cytoplasmic domain
+T20	protein 952 989	membrane proximal proline-rich domain
+T21	protein 994 1014	adjacent 16 residues
+T22	protein 1038 1045	hGM-CSF
+T23	protein 1113 1130	C-terminal region
+T24	protein 1138 1169	GM-CSFRalpha cytoplasmic domain
+T25	protein 1225 1232	hGM-CSF
+T26	protein 1298 1305	hGM-CSF
+T27	protein 1356 1360	JAK2
+T28	protein 1362 1365	Shc
+T29	protein 1367 1370	Erk
+T30	protein 1376 1390	STAT5 proteins
+T31	protein 1407 1414	hGM-CSF

@@ -1,0 +1,37 @@
+T1	protein 11 17	RanBP1
+T2	protein 36 40	CRM1
+T3	protein 50 70	nuclear pore complex
+T4	protein 181 206	transcription factor NFAT
+T5	protein 208 243	nuclear factor of activated T cells
+T6	protein 298 304	GTPase
+T7	protein 305 308	Ran
+T8	protein 341 345	CRM1
+T9	cell_line 433 452	permeabilized cells
+T10	protein 460 470	Ran mutant
+T11	protein 498 505	RanQ69L
+T12	protein 525 529	NFAT
+T13	protein 542 546	CRM1
+T14	protein 551 554	Ran
+T15	protein 573 580	RanQ69L
+T16	protein 620 624	CRM1
+T17	protein 661 681	nuclear pore complex
+T18	protein 683 686	NPC
+T19	protein 712 723	p62 complex
+T20	protein 740 743	Ran
+T21	protein 772 776	CRM1
+T22	protein 788 800	nucleoporins
+T23	protein 893 899	RanBP1
+T24	protein 934 941	RanQ69L
+T25	protein 1037 1044	RanQ69L
+T26	protein 1046 1052	RanBP1
+T27	protein 1064 1083	Ran-binding domains
+T28	protein 1091 1114	cytoplasmic nucleoporin
+T29	protein 1115 1121	RanBP2
+T30	protein 1145 1149	CRM1
+T31	protein 1159 1162	NPC
+T32	protein 1206 1209	Ran
+T33	protein 1295 1298	NPC
+T34	protein 1308 1314	RanBP1
+T35	protein 1328 1334	RanBP2
+T36	protein 1371 1395	nuclear export complexes
+T37	protein 1405 1408	NPC

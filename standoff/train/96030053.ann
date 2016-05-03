@@ -1,0 +1,23 @@
+T1	protein 35 57	nuclear T cell protein
+T2	protein 58 63	TCF-1
+T3	protein 83 88	TCF-1
+T4	cell_type 179 204	differentiating thymocyte
+T5	cell_type 256 265	thymocyte
+T6	protein 283 298	T cell factor-1
+T7	protein 300 305	TCF-1
+T8	protein 318 337	DNA-binding protein
+T9	cell_type 418 429	lymphocytes
+T10	protein 465 478	TCF-1 protein
+T11	protein 525 535	antibodies
+T12	protein 578 583	TCF-1
+T13	cell_type 673 683	thymocytes
+T14	protein 747 768	anti-TCF-1 antibodies
+T15	protein 793 819	recombinant fusion protein
+T16	protein 834 839	TCF-1
+T17	protein 970 975	TCF-1
+T18	protein 1031 1045	fusion protein
+T19	protein 1047 1070	Maltose Binding Protein
+T20	protein 1072 1075	MBP
+T21	cell_line 1092 1117	TCF-1-specific hybridomas
+T22	protein 1247 1258	human TCF-1
+T23	protein 1401 1422	monoclonal antibodies

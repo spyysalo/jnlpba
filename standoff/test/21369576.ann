@@ -1,0 +1,19 @@
+T1	protein 0 16	Interferon-alpha
+T2	protein 89 111	interferon (IFN)-alpha
+T3	protein 228 237	IFN-alpha
+T4	cell_type 450 456	T cell
+T5	cell_type 682 689	T cells
+T6	protein 695 703	anti-CD3
+T7	protein 711 720	IFN-alpha
+T8	cell_type 749 756	T cells
+T9	protein 762 770	anti-CD3
+T10	protein 793 802	IFN-gamma
+T11	protein 807 816	TNF-alpha
+T12	protein 906 915	IFN-alpha
+T13	protein 944 953	IFN-alpha
+T14	protein 959 967	anti-CD3
+T15	protein 1081 1086	STAT1
+T16	protein 1088 1093	STAT3
+T17	protein 1099 1134	Fyn, a Src homology tyrosine kinase
+T18	protein 1233 1242	IFN-alpha
+T19	cell_type 1272 1290	Th1-reactive cells

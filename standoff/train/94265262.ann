@@ -1,0 +1,26 @@
+T1	protein 0 3	JNK
+T2	cell_type 62 75	T lymphocytes
+T3	cell_type 77 89	T lymphocyte
+T4	protein 105 118	interleukin-2
+T5	protein 120 124	IL-2
+T6	protein 243 258	T cell receptor
+T7	protein 260 263	TCR
+T8	protein 273 296	CD28 auxiliary receptor
+T9	protein 339 378	mitogen activated protein (MAP) kinases
+T10	protein 403 414	MAP kinases
+T11	protein 438 459	Jun activation domain
+T12	protein 461 465	JNK1
+T13	protein 470 474	JNK2
+T14	cell_type 502 509	T cells
+T15	protein 562 565	TCR
+T16	protein 570 574	CD28
+T17	protein 659 663	IL-2
+T18	protein 735 738	JNK
+T19	protein 771 774	Jun
+T20	protein 794 797	JNK
+T21	DNA 808 821	IL-2 promoter
+T22	protein 851 862	MAP kinases
+T23	protein 863 867	ERK1
+T24	protein 872 876	ERK2
+T25	protein 908 911	TCR
+T26	protein 1053 1056	JNK

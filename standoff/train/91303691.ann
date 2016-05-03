@@ -1,0 +1,24 @@
+T1	protein 16 26	NF-kappa B
+T2	DNA 31 49	Sp1 binding motifs
+T3	cell_type 170 182	T-cell types
+T4	DNA 296 328	NF-kappa B and Sp1 binding sites
+T5	DNA 344 371	native long terminal repeat
+T6	DNA 373 376	LTR
+T7	DNA 401 419	reconstructed LTRs
+T8	DNA 455 482	NF-kappa B and Sp1 elements
+T9	cell_type 700 718	human T-cell types
+T10	DNA 738 745	element
+T11	DNA 768 771	LTR
+T12	DNA 832 836	LTRs
+T13	DNA 859 878	NF-kappa B elements
+T14	DNA 887 904	Sp1 binding sites
+T15	cell_type 966 994	peripheral blood lymphocytes
+T16	cell_line 997 1000	MT4
+T17	cell_line 1014 1016	H9
+T18	cell_line 1030 1033	CEM
+T19	cell_line 1047 1053	Jurkat
+T20	DNA 1109 1124	second-site LTR
+T21	DNA 1172 1180	TATA box
+T22	DNA 1213 1252	human immunodeficiency virus type 1 LTR
+T23	cell_type 1330 1342	T-cell types
+T24	protein 1413 1436	transcriptional factors

@@ -1,0 +1,48 @@
+T1	protein 25 30	Akt-1
+T2	cell_type 60 101	human monocyte-differentiated macrophages
+T3	protein 111 116	Mcl-1
+T4	protein 133 159	nuclear factor (NF)-kappaB
+T5	protein 161 164	Bad
+T6	protein 225 236	phosphatase
+T7	DNA 241 257	tensin homologue
+T8	DNA 271 284	chromosome 10
+T9	protein 288 344	src homology 2 domain-containing 5' inositol phosphatase
+T10	protein 346 358	phosphatases
+T11	protein 388 417	phosphatidylinositol 3-kinase
+T12	protein 419 423	PI3K
+T13	cell_type 466 477	macrophages
+T14	protein 533 537	PI3K
+T15	cell_type 550 561	macro-phage
+T16	protein 608 646	PI3K-regulated serine/threonine kinase
+T17	protein 647 652	Akt-1
+T18	cell_type 667 677	macrophage
+T19	protein 688 693	Akt-1
+T20	cell_type 726 743	human macrophages
+T21	protein 764 768	PI3K
+T22	protein 819 824	Akt-1
+T23	protein 877 882	Akt-1
+T24	protein 900 904	PI3K
+T25	protein 910 938	dominant negative (DN) Akt-1
+T26	protein 1012 1029	caspases-9 and -3
+T27	protein 1069 1073	PI3K
+T28	protein 1153 1158	Akt-1
+T29	protein 1162 1170	Bcl-x(L)
+T30	protein 1186 1190	PI3K
+T31	protein 1227 1235	DN Akt-1
+T32	protein 1297 1323	nuclear factor (NF)-kappaB
+T33	cell_type 1327 1344	human macrophages
+T34	protein 1379 1383	PI3K
+T35	protein 1384 1389	Akt-1
+T36	protein 1442 1464	antiapoptotic molecule
+T37	protein 1465 1470	Mcl-1
+T38	protein 1486 1506	Bcl-2 family members
+T39	protein 1525 1530	Mcl-1
+T40	cell_type 1539 1550	macrophages
+T41	protein 1608 1613	Mcl-1
+T42	cell_type 1662 1672	macrophage
+T43	protein 1751 1756	Akt-1
+T44	cell_type 1767 1777	macrophage
+T45	protein 1795 1800	Mcl-1
+T46	protein 1826 1834	caspases
+T47	protein 1836 1845	NF-kappaB
+T48	protein 1850 1853	Bad

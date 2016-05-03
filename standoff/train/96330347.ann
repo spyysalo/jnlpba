@@ -1,0 +1,13 @@
+T1	DNA 17 40	p16, p15 and CDK4 genes
+T2	DNA 99 122	p16, p15 and CDK4 genes
+T3	DNA 325 330	genes
+T4	DNA 647 669	p16, p15 or CDK4 genes
+T5	DNA 704 707	p16
+T6	DNA 712 715	p15
+T7	protein 832 835	p16
+T8	protein 837 840	p15
+T9	protein 845 849	CDK4
+T10	protein 933 936	p16
+T11	protein 965 968	p16
+T12	protein 973 976	p15
+T13	protein 997 1001	CDK4

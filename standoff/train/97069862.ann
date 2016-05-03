@@ -1,0 +1,18 @@
+T1	cell_type 0 6	T-cell
+T2	protein 16 21	TAL-1
+T3	DNA 85 95	TAL-1 gene
+T4	protein 118 149	domain-helix-loop-helix protein
+T5	protein 233 251	TAL-1 gene product
+T6	cell_type 289 295	T-cell
+T7	cell_line 493 515	mouse transgenic lines
+T8	protein 537 550	tal-1 protein
+T9	DNA 592 604	LCK promoter
+T10	DNA 627 632	tal-1
+T11	cell_line 857 884	Primary lymphocyte cultures
+T12	DNA 1015 1020	tal-1
+T13	DNA 1054 1059	tal-1
+T14	DNA 1204 1209	tal-1
+T15	cell_type 1268 1274	T-cell
+T16	protein 1311 1316	TAL-1
+T17	cell_type 1331 1338	T cells
+T18	cell_type 1430 1436	T-cell

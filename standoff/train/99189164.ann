@@ -1,0 +1,20 @@
+T1	protein 10 20	proteasome
+T2	cell_type 45 52	T cells
+T3	protein 113 121	NFkappaB
+T4	protein 199 209	proteasome
+T5	protein 238 257	cytosolic inhibitor
+T6	protein 258 270	IkappaBalpha
+T7	protein 302 314	IkappaBalpha
+T8	cell_type 318 349	TNF-alpha-treated T lymphocytes
+T9	protein 425 437	IkappaBalpha
+T10	cell_type 441 448	T cells
+T11	protein 539 551	IkappaBalpha
+T12	protein 637 647	proteasome
+T13	cell_type 666 673	T cells
+T14	protein 816 826	proteasome
+T15	protein 874 886	IkappaBalpha
+T16	protein 927 939	IkappaBalpha
+T17	protein 983 991	NFkappaB
+T18	protein 1010 1014	IL-2
+T19	cell_line 1038 1057	TNF-treated T cells
+T20	protein 1088 1098	proteasome

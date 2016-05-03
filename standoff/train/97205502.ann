@@ -1,0 +1,50 @@
+T1	DNA 18 36	tissue factor gene
+T2	cell_type 40 61	human monocytic cells
+T3	protein 71 75	AP-1
+T4	protein 77 91	NF-kappa B/Rel
+T5	protein 97 100	Sp1
+T6	protein 166 179	Tissue factor
+T7	cell_type 199 225	peripheral blood monocytes
+T8	DNA 327 334	TF gene
+T9	cell_type 352 361	monocytes
+T10	DNA 367 384	human TF promoter
+T11	protein 438 442	AP-1
+T12	protein 444 453	c-Rel/p65
+T13	protein 455 460	Egr-1
+T14	protein 466 469	Sp1
+T15	protein 471 494	NF-kappa B/Rel proteins
+T16	protein 544 565	AP-1 and Sp1 proteins
+T17	protein 616 637	transcription factors
+T18	DNA 667 674	TF gene
+T19	cell_type 689 716	human monocytic THP-1 cells
+T20	DNA 758 767	Sp1 sites
+T21	cell_type 797 812	uninduced cells
+T22	DNA 822 832	AP-1 sites
+T23	protein 839 863	c-Fos/c-Jun heterodimers
+T24	cell_type 872 909	unstimulated and LPS-stimulated cells
+T25	DNA 940 951	TF promoter
+T26	protein 969 973	AP-1
+T27	DNA 988 1000	kappa B site
+T28	DNA 1012 1032	LPS response element
+T29	DNA 1082 1100	proximal AP-1 site
+T30	DNA 1109 1121	kappa B site
+T31	DNA 1170 1180	AP-1 sites
+T32	DNA 1292 1302	AP-1 sites
+T33	DNA 1339 1359	LPS response element
+T34	cell_line 1363 1389	Drosophila Schneider cells
+T35	protein 1409 1414	c-Fos
+T36	protein 1416 1421	c-Jun
+T37	protein 1423 1428	c-Rel
+T38	protein 1434 1437	p65
+T39	protein 1441 1446	c-Jun
+T40	protein 1451 1454	p65
+T41	protein 1468 1491	transactivation domains
+T42	protein 1495 1500	c-Jun
+T43	protein 1505 1508	p65
+T44	protein 1536 1541	c-Fos
+T45	protein 1541 1547	/c-Jun
+T46	protein 1549 1554	c-Rel
+T47	protein 1554 1558	/p65
+T48	protein 1564 1567	Sp1
+T49	DNA 1577 1584	TF gene
+T50	cell_type 1599 1620	human monocytic cells

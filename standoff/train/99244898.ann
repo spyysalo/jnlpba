@@ -1,0 +1,49 @@
+T1	DNA 4 37	evolutionarily conserved sequence
+T2	protein 54 91	human Ig heavy chain S gamma 3 region
+T3	DNA 98 116	inducible promoter
+T4	protein 144 155	CD40 ligand
+T5	protein 160 164	IL-4
+T6	DNA 181 216	NF-kappa B and STAT-6 binding sites
+T7	protein 330 333	IgG
+T8	cell_type 434 456	germinal center B cell
+T9	cell_line 474 495	IgM+ IgD+ CL-01 cells
+T10	protein 523 532	I gamma 3
+T11	DNA 533 566	evolutionarily conserved sequence
+T12	DNA 568 571	ECS
+T13	DNA 580 588	germline
+T14	DNA 623 643	human C gamma 3 gene
+T15	protein 649 658	I gamma 3
+T16	DNA 659 662	ECS
+T17	DNA 684 729	major I gamma 3 transcription initiation site
+T18	DNA 789 804	human I gamma 1
+T19	DNA 806 815	I gamma 2
+T20	DNA 821 830	I gamma 4
+T21	DNA 840 872	Reporter luciferase gene vectors
+T22	DNA 888 905	human gamma 3 ECS
+T23	cell_line 929 940	CL-01 cells
+T24	protein 1029 1033	CD40
+T25	protein 1037 1048	CD40 ligand
+T26	protein 1050 1055	CD40L
+T27	protein 1073 1077	IL-4
+T28	cell_line 1100 1111	CL-01 cells
+T29	protein 1118 1123	CD40L
+T30	protein 1151 1155	IL-4
+T31	DNA 1202 1226	luciferase reporter gene
+T32	DNA 1295 1323	NF-kappa B/Rel binding motif
+T33	DNA 1344 1355	gamma 3 ECS
+T34	protein 1379 1384	CD40L
+T35	protein 1389 1393	IL-4
+T36	DNA 1403 1422	STAT-6-binding site
+T37	protein 1452 1456	IL-4
+T38	protein 1521 1534	p50/p65/c-Rel
+T39	protein 1539 1545	STAT-6
+T40	protein 1573 1578	CD40L
+T41	protein 1583 1587	IL-4
+T42	DNA 1624 1634	DNA motifs
+T43	DNA 1646 1649	ECS
+T44	DNA 1679 1713	CD40L and IL-4 responsive elements
+T45	DNA 1828 1839	gamma 3 ECS
+T46	DNA 1876 1888	cis elements
+T47	protein 1913 1918	CD40L
+T48	protein 1923 1927	IL-4
+T49	DNA 1972 1992	human C gamma 3 gene

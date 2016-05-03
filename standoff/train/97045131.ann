@@ -1,0 +1,26 @@
+T1	protein 0 4	CD14
+T2	cell_type 79 105	human gingival fibroblasts
+T3	protein 154 176	inflammatory cytokines
+T4	cell_type 180 201	monocytes/macrophages
+T5	protein 206 210	CD14
+T6	protein 223 236	LPS receptors
+T7	protein 377 399	inflammatory cytokines
+T8	cell_type 403 429	human gingival fibroblasts
+T9	protein 479 483	CD14
+T10	cell_type 500 520	gingival fibroblasts
+T11	protein 554 572	signal-transducing
+T12	protein 736 740	CD14
+T13	cell_type 773 799	human gingival fibroblasts
+T14	DNA 833 880	monocyte chemoattractant protein 1 (MCP-1) gene
+T15	protein 946 950	CD14
+T16	protein 1028 1043	tyrosine kinase
+T17	protein 1124 1129	MCP-1
+T18	DNA 1200 1210	MCP-1 gene
+T19	protein 1262 1283	transcription factors
+T20	protein 1317 1321	AP-1
+T21	protein 1371 1380	NF-kappaB
+T22	protein 1540 1544	AP-1
+T23	protein 1549 1558	NF-kappaB
+T24	protein 1649 1653	CD14
+T25	cell_type 1657 1683	human gingival fibroblasts
+T26	protein 1769 1773	CD14

@@ -1,0 +1,28 @@
+T1	protein 17 35	Fc gamma receptors
+T2	DNA 46 72	HIV-1 long terminal repeat
+T3	cell_type 97 112	human monocytes
+T4	protein 141 169	circulating immune complexes
+T5	protein 337 348	Fc gamma RI
+T6	protein 352 364	Fc gamma RII
+T7	protein 368 386	adherent human IgG
+T8	protein 402 421	anti-Fc gamma R mAb
+T9	cell_line 461 486	human monocytic cell line
+T10	cell_line 487 491	BF24
+T11	RNA 506 513	HIV RNA
+T12	cell_type 528 537	monocytes
+T13	cell_line 609 620	THP-1 cells
+T14	protein 622 632	Fc gamma R
+T15	protein 655 665	NF-kappa B
+T16	DNA 697 714	regulatory region
+T17	DNA 722 742	long terminal repeat
+T18	DNA 744 747	LTR
+T19	protein 795 818	Anti-TNF-alpha antibody
+T20	protein 827 850	anti-IL-1 beta antibody
+T21	DNA 898 901	LTR
+T22	protein 944 954	NF-kappa B
+T23	protein 958 968	Fc gamma R
+T24	protein 1012 1022	Fc gamma R
+T25	protein 1037 1046	TNF-alpha
+T26	DNA 1070 1080	HIV-1 gene
+T27	protein 1112 1128	immune complexes
+T28	cell_type 1221 1230	monocytes

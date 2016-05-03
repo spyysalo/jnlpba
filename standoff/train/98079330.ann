@@ -1,0 +1,22 @@
+T1	protein 23 37	TCR repertoire
+T2	protein 56 105	Epstein-Barr virus-encoded transactivator protein
+T3	protein 106 111	BZLF1
+T4	cell_type 115 143	CD8+ cytotoxic T lymphocytes
+T5	protein 205 249	CD8+ cytotoxic T lymphocyte (CTL) repertoire
+T6	protein 309 357	Epstein-Barr virus (EBV) immediate-early protein
+T7	protein 359 364	BZLF1
+T8	protein 420 444	TCR beta chain sequences
+T9	cell_line 448 470	RAKFKQLLQ-specific CTL
+T10	cell_line 549 602	spontaneous EBV-transformed lymphoblastoid cell lines
+T11	cell_line 604 607	LCL
+T12	cell_line 722 747	Polyclonal and clonal CTL
+T13	cell_type 783 817	peripheral blood mononuclear cells
+T14	cell_line 826 868	HLA B8+ homozygous LCL lysed T cell blasts
+T15	RNA 979 996	BZLF1 transcripts
+T16	DNA 998 1006	TCR beta
+T17	protein 1123 1134	beta chains
+T18	cell_line 1148 1190	unique (non-recurrent) TCR beta clonotypes
+T19	protein 1301 1304	TCR
+T20	protein 1512 1526	TCR repertoire
+T21	protein 1544 1561	EBV lytic antigen
+T22	protein 1565 1570	BZLF1

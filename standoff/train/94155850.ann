@@ -1,0 +1,26 @@
+T1	protein 0 11	Calcineurin
+T2	protein 51 65	I kappa B/MAD3
+T3	protein 83 93	NF-kappa B
+T4	DNA 99 128	interleukin-2 (IL-2) promoter
+T5	DNA 161 202	T cell receptor (TcR) responsive elements
+T6	DNA 221 230	promoters
+T7	protein 345 356	Calcineurin
+T8	protein 360 405	Ca2+/calmodulin-dependent protein phosphatase
+T9	DNA 491 504	IL-2 promoter
+T10	protein 553 564	calcineurin
+T11	DNA 637 659	IL-2 promoter elements
+T12	DNA 660 665	IL-2A
+T13	protein 691 694	OAP
+T14	protein 699 704	Oct-1
+T15	DNA 710 715	IL-2E
+T16	protein 729 734	NF-AT
+T17	protein 814 824	NF-kappa B
+T18	protein 844 855	Calcineurin
+T19	DNA 871 889	NF-kappa B element
+T20	protein 919 933	I kappa B/MAD3
+T21	protein 951 961	NF-kappa B
+T22	protein 1004 1014	NF-kappa B
+T23	protein 1109 1128	protein phosphatase
+T24	protein 1144 1153	I kappa B
+T25	protein 1304 1315	calcineurin
+T26	protein 1352 1383	ubiquitous transcription factor

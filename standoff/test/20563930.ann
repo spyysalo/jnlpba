@@ -1,0 +1,42 @@
+T1	protein 0 24	Stromal-derived factor 1
+T2	protein 29 43	thrombopoietin
+T3	protein 113 122	chemokine
+T4	protein 131 155	stromal-derived factor 1
+T5	protein 157 162	SDF-1
+T6	protein 266 280	thrombopoietin
+T7	protein 282 285	TPO
+T8	protein 345 350	SDF-1
+T9	protein 359 362	TPO
+T10	protein 561 580	metalloproteinase 9
+T11	protein 582 587	MMP-9
+T12	protein 593 627	vascular endothelial growth factor
+T13	protein 629 633	VEGF
+T14	protein 660 665	SDF-1
+T15	protein 670 673	TPO
+T16	cell_type 699 725	alpha(IIb)beta(3)(+) cells
+T17	protein 729 739	fibrinogen
+T18	protein 744 755	vitronectin
+T19	protein 819 824	SDF-1
+T20	protein 829 832	TPO
+T21	protein 907 953	mitogen-activated protein kinase [MAPK] p42/44
+T22	protein 955 963	MAPK p38
+T23	protein 969 991	AKT [protein kinase B]
+T24	protein 1025 1028	TPO
+T25	protein 1034 1042	JAK-STAT
+T26	protein 1052 1057	SDF-1
+T27	protein 1063 1073	NF-kappa B
+T28	protein 1120 1150	phosphatidyl-inositol 3-kinase
+T29	protein 1152 1157	PI-3K
+T30	cell_type 1174 1200	alpha(IIb)beta(3)(+) cells
+T31	protein 1274 1279	MMP-9
+T32	protein 1284 1288	VEGF
+T33	protein 1308 1319	MAPK p42/44
+T34	protein 1481 1484	TPO
+T35	protein 1550 1553	TPO
+T36	protein 1658 1663	PI-3K
+T37	protein 1679 1682	TPO
+T38	protein 1754 1764	fibrinogen
+T39	protein 1769 1780	vitronectin
+T40	protein 1786 1791	SDF-1
+T41	protein 1864 1869	SDF-1
+T42	protein 1874 1877	TPO

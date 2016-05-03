@@ -1,0 +1,9 @@
+T1	DNA 2 37	human IFNGR1 small deletion hotspot
+T2	DNA 381 426	overlapping IFNGR1 frameshift small deletions
+T3	DNA 433 456	wild-type IFNGR1 allele
+T4	DNA 505 525	single mutation site
+T5	DNA 538 560	small deletion hotspot
+T6	protein 699 730	cell-surface IFNgamma receptors
+T7	protein 745 769	intra-cytoplasmic domain
+T8	protein 866 874	IFNgamma
+T9	DNA 938 966	human IFNGR1 small deletions

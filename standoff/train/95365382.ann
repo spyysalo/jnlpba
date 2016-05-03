@@ -1,0 +1,20 @@
+T1	protein 18 25	DR-nm23
+T2	DNA 64 80	nm23 gene family
+T3	cell_type 91 102	granulocyte
+T4	cell_line 144 164	32Dc13 myeloid cells
+T5	DNA 395 405	cDNA clone
+T6	protein 407 414	DR-nm23
+T7	DNA 446 472	blast-crisis cDNA library,
+T8	DNA 528 564	putative metastatic suppressor genes
+T9	DNA 566 573	nm23-H1
+T10	DNA 578 585	nm23-H2
+T11	protein 751 770	leucine zipper-like
+T12	protein 779 789	RGD domain
+T13	protein 831 835	NH2-
+T14	protein 847 868	COOH-terminal portion
+T15	protein 930 934	nm23
+T16	RNA 945 957	DR-nm23 mRNA
+T17	cell_line 1032 1059	highly purified CD34+ cells
+T18	cell_line 1096 1130	myeloid precursor 32Dc13 cell line
+T19	protein 1274 1311	granulocyte colony-stimulating factor
+T20	protein 1390 1397	DR-nm23

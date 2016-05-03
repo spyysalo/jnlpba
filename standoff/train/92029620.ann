@@ -1,0 +1,34 @@
+T1	DNA 2 45	human putative lymphocyte G0/G1 switch gene
+T2	DNA 59 74	CpG-rich island
+T3	protein 85 104	small basic protein
+T4	DNA 177 189	G0/G1 switch
+T5	RNA 191 200	G0S genes
+T6	protein 245 251	lectin
+T7	cell_type 270 281	lymphocytes
+T8	DNA 361 365	G0S2
+T9	RNA 397 406	G0S genes
+T10	DNA 418 423	cDNAs
+T11	RNA 498 507	G0S2 mRNA
+T12	protein 563 569	lectin
+T13	cell_type 590 622	cultured blood mononuclear cells
+T14	DNA 640 672	nearly full-length cDNA sequence
+T15	DNA 696 712	genomic sequence
+T16	DNA 745 763	open reading frame
+T17	DNA 778 782	exon
+T18	protein 796 824	103-amino-acid basic protein
+T19	protein 843 864	alpha-helical domains
+T20	protein 880 898	hydrophobic region
+T21	DNA 1009 1021	G0/G1 switch
+T22	protein 1083 1099	protein kinase C
+T23	protein 1104 1120	casein kinase II
+T24	protein 1142 1157	CpG-rich island
+T25	DNA 1201 1217	upstream segment
+T26	DNA 1227 1254	tandem dinucleotide repeats
+T27	DNA 1255 1268	(CT)19/(CA)16
+T28	DNA 1298 1306	TATA box
+T29	protein 1332 1357	CCAAT-box binding factors
+T30	DNA 1390 1418	42-nucleotide repeat element
+T31	protein 1440 1461	transcription factors
+T32	protein 1462 1465	AP1
+T33	protein 1467 1470	AP2
+T34	protein 1476 1479	AP3

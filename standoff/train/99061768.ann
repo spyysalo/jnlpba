@@ -1,0 +1,34 @@
+T1	protein 0 5	Stat6
+T2	DNA 21 43	interleukin-4 promoter
+T3	cell_type 56 63	T cells
+T4	cell_type 88 113	naive T-helper (Th) cells
+T5	cell_type 119 155	cytokine-secreting effector Th cells
+T6	protein 205 224	exogenous cytokines
+T7	protein 226 239	Interleukin-4
+T8	protein 241 245	IL-4
+T9	protein 318 322	IL-4
+T10	protein 358 362	IL-4
+T11	protein 470 491	transcription factors
+T12	DNA 531 546	promoter region
+T13	protein 548 604	Nuclear factor of activated T cell (NFAT) family members
+T14	protein 640 644	IL-4
+T15	DNA 728 741	IL-4 promoter
+T16	protein 777 781	IL-4
+T17	DNA 808 817	IL-4 gene
+T18	protein 846 932	IL-4-activated transcription factor signal transducer and activator of transcription 6
+T19	protein 934 939	Stat6
+T20	protein 990 995	Stat6
+T21	DNA 1038 1057	human IL-4 promoter
+T22	DNA 1124 1152	P1, P2, and P4 NFAT elements
+T23	protein 1181 1186	Stat6
+T24	protein 1201 1205	IL-4
+T25	protein 1229 1234	Stat6
+T26	cell_type 1252 1259	T cells
+T27	DNA 1282 1306	IL-4 promoter constructs
+T28	DNA 1357 1386	multimerized response element
+T29	DNA 1396 1417	germline IgE promoter
+T30	protein 1440 1444	IL-4
+T31	cell_type 1448 1477	Stat6-expressing Jurkat cells
+T32	DNA 1490 1509	human IL-4 promoter
+T33	protein 1583 1588	Stat6
+T34	protein 1659 1663	IL-4

@@ -1,0 +1,17 @@
+T1	protein 36 46	NF-kappa B
+T2	DNA 94 112	HIV-1 proviral DNA
+T3	DNA 126 139	binding sites
+T4	protein 148 168	transcription factor
+T5	protein 169 179	NF-kappa B
+T6	protein 252 280	tumour necrosis factor alpha
+T7	protein 282 291	TNF alpha
+T8	protein 430 440	NF-kappa B
+T9	cell_line 632 638	Molt-4
+T10	cell_line 643 653	U937 cells
+T11	protein 781 791	NF-kappa B
+T12	protein 860 894	chloramphenicol acetyl-transferase
+T13	protein 896 899	CAT
+T14	protein 934 944	NF-kappa B
+T15	DNA 945 958	binding sites
+T16	cell_type 962 978	uninfected cells
+T17	DNA 1085 1111	NF-kappa B-dependent genes

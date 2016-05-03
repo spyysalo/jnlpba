@@ -1,0 +1,32 @@
+T1	DNA 23 54	cis-linked regulatory sequences
+T2	DNA 62 78	HLA DRA promoter
+T3	DNA 138 151	X and Y boxes
+T4	protein 172 188	nuclear proteins
+T5	cell_type 218 225	B cells
+T6	DNA 284 341	major histocompatibility complex (MHC) class II promoters
+T7	DNA 356 374	class II promoters
+T8	DNA 380 407	HLA-DR alpha (DRA) promoter
+T9	DNA 451 466	"octamer" motif
+T10	DNA 470 510	immunoglobulin variable region promoters
+T11	DNA 572 579	octamer
+T12	protein 599 602	DRA
+T13	protein 639 649	ubiquitous
+T14	protein 651 656	OTF-1
+T15	protein 662 714	lymphoid-specific (OTF-2) "octamer" binding proteins
+T16	protein 748 765	"octamer" complex
+T17	DNA 818 837	cis-acting elements
+T18	DNA 887 909	DRA promoter construct
+T19	cell_type 959 966	B cells
+T20	cell_line 989 1017	class II-negative HeLa cells
+T21	DNA 1059 1064	Y box
+T22	DNA 1083 1098	"octamer" motif
+T23	DNA 1103 1111	TATA box
+T24	DNA 1167 1172	Y box
+T25	DNA 1343 1362	X consensus element
+T26	DNA 1409 1424	X box sequences
+T27	DNA 1505 1510	Y box
+T28	DNA 1584 1596	DRA promoter
+T29	DNA 1602 1615	DRA "octamer"
+T30	protein 1633 1638	OTF-2
+T31	DNA 1664 1688	immunoglobulin promoters
+T32	cell_type 1692 1699	B cells

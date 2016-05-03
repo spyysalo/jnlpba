@@ -1,0 +1,50 @@
+T1	DNA 77 82	c-fos
+T2	cell_line 86 104	B and T cell lines
+T3	DNA 122 127	c-fos
+T4	protein 140 162	surface immunoglobulin
+T5	protein 167 191	T cell antigen receptors
+T6	DNA 211 230	protooncogene c-fos
+T7	protein 289 297	kinase C
+T8	protein 318 326	Kinase C
+T9	protein 371 392	serum response factor
+T10	protein 394 397	SRF
+T11	DNA 424 446	serum response element
+T12	DNA 448 451	SRE
+T13	protein 516 520	CREB
+T14	protein 522 561	cAMP regulatory element binding protein
+T15	protein 593 609	protein kinase A
+T16	protein 613 640	calmodulin-regulated kinase
+T17	cell_line 693 717	Burkitt's lymphoma cells
+T18	cell_line 719 724	Ramos
+T19	cell_line 729 734	Daudi
+T20	cell_line 749 772	T lymphocytic cell line
+T21	cell_line 774 780	Jurkat
+T22	DNA 876 881	c-fos
+T23	protein 902 910	kinase C
+T24	DNA 1048 1053	c-fos
+T25	DNA 1130 1135	c-fos
+T26	DNA 1216 1221	c-fos
+T27	cell_line 1304 1309	Ramos
+T28	cell_type 1311 1318	B cells
+T29	cell_line 1324 1330	Jurkat
+T30	cell_type 1332 1339	T cells
+T31	DNA 1362 1367	c-fos
+T32	cell_line 1421 1427	Jurkat
+T33	cell_line 1453 1458	Ramos
+T34	protein 1472 1476	AP-1
+T35	RNA 1564 1574	c-fos mRNA
+T36	protein 1644 1648	AP-1
+T37	cell_type 1672 1679	B cells
+T38	protein 1687 1694	anti-Ig
+T39	protein 1721 1729	kinase C
+T40	RNA 1794 1804	c-fos mRNA
+T41	protein 1862 1870	kinase C
+T42	DNA 1918 1923	c-fos
+T43	DNA 1975 1980	c-fos
+T44	protein 2042 2049	anti-Ig
+T45	DNA 2063 2068	c-fos
+T46	protein 2153 2160	anti-Ig
+T47	DNA 2174 2179	c-fos
+T48	DNA 2271 2276	c-fos
+T49	DNA 2311 2316	c-fos
+T50	protein 2333 2363	B and T cell antigen receptors

@@ -1,0 +1,12 @@
+T1	protein 0 6	Notch1
+T2	cell_type 31 55	CD4+ and CD8+ thymocytes
+T3	protein 229 235	Notch1
+T4	cell_type 239 255	mouse thymocytes
+T5	cell_type 285 313	immature CD4+CD8+ thymocytes
+T6	cell_type 324 366	CD4 and CD8 mature single-positive T cells
+T7	protein 383 389	Notch1
+T8	cell_type 464 500	normal and TCR transgenic thymocytes
+T9	protein 502 508	Notch1
+T10	protein 631 637	Notch1
+T11	cell_line 679 693	Jurkat T cells
+T12	protein 742 748	Notch1

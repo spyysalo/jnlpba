@@ -1,0 +1,40 @@
+T1	protein 0 15	T-cell factor-1
+T2	cell_type 34 59	human natural killer cell
+T3	protein 91 98	CD56(+)
+T4	cell_type 106 126	natural killer cells
+T5	protein 128 149	Transcription factors
+T6	cell_type 200 216	lymphoid lineage
+T7	cell_type 222 258	uncommitted hematopoietic stem cells
+T8	protein 283 304	transcription factors
+T9	cell_type 501 561	adult human bone marrow and umbilical cord blood progenitors
+T10	cell_type 591 616	fresh CD34(+)Lin(-) cells
+T11	protein 696 702	GATA-3
+T12	protein 711 726	T-cell factor-1
+T13	protein 728 733	TCF-1
+T14	protein 738 742	Id-3
+T15	cell_line 761 796	murine fetal liver cell line AFT024
+T16	protein 809 818	cytokines
+T17	RNA 843 853	TCF-1 mRNA
+T18	DNA 867 887	T-cell receptor gene
+T19	protein 938 942	Id-3
+T20	protein 946 975	basic helix loop helix factor
+T21	protein 1035 1056	transcription factors
+T22	cell_type 1179 1204	natural killer (NK) cells
+T23	cell_type 1218 1229	progenitors
+T24	cell_type 1242 1257	NK cell subsets
+T25	cell_type 1280 1293	CD56(+bright)
+T26	cell_type 1303 1313	CD56(+dim)
+T27	cell_type 1315 1323	NK cells
+T28	protein 1347 1352	TCF-1
+T29	protein 1435 1448	TCF-1 isoform
+T30	cell_type 1458 1477	CD56(+bright) cells
+T31	protein 1493 1499	lectin
+T32	protein 1508 1530	immunoglobulin class I
+T33	protein 1543 1563	inhibitory receptors
+T34	cell_type 1676 1683	T cells
+T35	protein 1712 1717	TCF-1
+T36	DNA 1734 1776	human killer immunoglobulin receptor genes
+T37	protein 1778 1783	TCF-1
+T38	cell_type 1821 1843	CD56(+bright) NK cells
+T39	protein 1858 1872	TCF-1 isoforms
+T40	cell_type 1947 1967	NK/T-cell progenitor

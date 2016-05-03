@@ -1,0 +1,28 @@
+T1	DNA 24 58	lymphoid-specific enhancer element
+T2	DNA 80 111	immunoglobulin heavy-chain gene
+T3	DNA 145 162	enhancer elements
+T4	DNA 199 230	octamer (OCTA)-nucleotide motif
+T5	DNA 285 322	immunoglobulin heavy-chain (IgH) gene
+T6	DNA 372 384	binding site
+T7	protein 391 449	putative additional lymphoid-specific transcription factor
+T8	protein 462 471	NF-microB
+T9	DNA 480 499	murine IgH enhancer
+T10	DNA 525 547	NF-microB-binding site
+T11	DNA 577 589	IgH enhancer
+T12	DNA 674 686	IgH enhancer
+T13	cell_type 703 717	B-cell lineage
+T14	cell_type 729 746	nonlymphoid cells
+T15	DNA 832 841	OCTA site
+T16	DNA 879 885	microB
+T17	DNA 890 900	OCTA sites
+T18	cell_type 938 952	lymphoid cells
+T19	DNA 994 1000	microB
+T20	DNA 1004 1011	E3 site
+T21	DNA 1017 1038	70-base-pair fragment
+T22	DNA 1046 1058	IgH enhancer
+T23	cell_type 1127 1141	lymphoid cells
+T24	DNA 1186 1198	microB motif
+T25	protein 1310 1335	lymphoid-specific protein
+T26	DNA 1349 1365	microB DNA motif
+T27	DNA 1396 1410	microB element
+T28	DNA 1529 1545	enhancer element

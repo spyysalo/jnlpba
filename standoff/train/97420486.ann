@@ -1,0 +1,14 @@
+T1	protein 35 45	NF-kappa B
+T2	cell_type 198 215	human neutrophils
+T3	protein 299 321	NF-kappa B heterodimer
+T4	protein 323 331	p50/RelA
+T5	cell_type 347 372	phagocytosing neutrophils
+T6	protein 398 408	NF-kappa B
+T7	protein 624 634	NF-kappa B
+T8	protein 692 707	I kappa B-alpha
+T9	protein 741 750	I kappa B
+T10	protein 844 854	NF-kappa B
+T11	DNA 931 955	kappa B-responsive genes
+T12	cell_type 971 996	phagocytosing neutrophils
+T13	protein 1091 1101	NF-kappa B
+T14	cell_type 1116 1133	human neutrophils

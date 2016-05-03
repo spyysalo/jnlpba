@@ -1,0 +1,29 @@
+T1	protein 93 128	nuclear factor of activated T cells
+T2	protein 208 217	NF-kappaB
+T3	protein 367 376	NF-kappaB
+T4	protein 504 517	interleukin 2
+T5	protein 519 523	IL-2
+T6	protein 562 570	antigens
+T7	protein 677 682	c-Jun
+T8	DNA 774 787	IL-2 promoter
+T9	protein 835 844	NF-kappaB
+T10	protein 889 924	nuclear factor of activated T cells
+T11	protein 926 930	NFAT
+T12	protein 1040 1049	NF-kappaB
+T13	protein 1055 1059	NFAT
+T14	cell_type 1084 1091	T cells
+T15	protein 1182 1209	CD3-T-cell receptor complex
+T16	protein 1254 1258	AP-1
+T17	protein 1307 1337	NFATp and NFATc family members
+T18	protein 1383 1388	NFATp
+T19	protein 1411 1416	NFATc
+T20	protein 1546 1551	NFATp
+T21	protein 1556 1561	NFATc
+T22	cell_type 1619 1636	activated T cells
+T23	protein 1747 1751	NFAT
+T24	protein 1824 1844	transcription factor
+T25	protein 1901 1926	c-Jun NH2-terminal kinase
+T26	protein 1928 1931	JNK
+T27	protein 1969 1974	NFATp
+T28	protein 2024 2028	NFAT
+T29	protein 2033 2038	NF-KB

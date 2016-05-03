@@ -1,0 +1,30 @@
+T1	protein 14 37	c-Jun N-terminal kinase
+T2	cell_type 41 92	bacterial lipopolysaccharide-stimulated macrophages
+T3	cell_type 108 119	macrophages
+T4	protein 205 231	proinflammatory regulators
+T5	protein 307 347	transcription factor activator protein 1
+T6	protein 349 353	AP-1
+T7	protein 467 471	AP-1
+T8	DNA 500 525	transfected reporter gene
+T9	cell_line 533 570	murine macrophage cell line RAW 264.7
+T10	protein 575 579	AP-1
+T11	protein 631 654	c-Jun N-terminal kinase
+T12	protein 656 659	JNK
+T13	cell_type 786 797	macrophages
+T14	protein 829 835	kinase
+T15	cell_line 854 869	RAW 264.7 cells
+T16	cell_type 871 909	murine bone marrow-derived macrophages
+T17	cell_line 919 949	human monocyte cell line THP-1
+T18	protein 986 1006	p46 and p54 isoforms
+T19	protein 1010 1013	JNK
+T20	protein 1104 1107	JNK
+T21	protein 1148 1163	tyrosine kinase
+T22	protein 1227 1262	LPS binding protein (LBP) complexes
+T23	protein 1266 1270	CD14
+T24	protein 1274 1290	surface receptor
+T25	cell_line 1369 1380	THP-1 cells
+T26	protein 1390 1413	monoclonal antibody 60b
+T27	protein 1452 1455	JNK
+T28	protein 1513 1516	JNK
+T29	cell_type 1520 1545	monocyte/macrophage cells
+T30	protein 1651 1655	AP-1

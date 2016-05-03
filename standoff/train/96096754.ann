@@ -1,0 +1,25 @@
+T1	protein 65 103	lymphoid-specific transcription factor
+T2	protein 104 110	Oct-2a
+T3	protein 116 154	lymphoid-specific transcription factor
+T4	protein 155 161	Oct-2a
+T5	protein 175 209	transcriptional activation domains
+T6	protein 239 249	N-terminal
+T7	protein 254 272	C-terminal regions
+T8	protein 348 364	effector domains
+T9	protein 372 395	GAL4 DNA-binding domain
+T10	protein 443 449	Oct-2a
+T11	protein 518 534	promoter factors
+T12	protein 555 565	C-terminus
+T13	protein 585 602	N-terminal domain
+T14	DNA 663 687	simian virus 40 enhancer
+T15	protein 728 746	activation domains
+T16	protein 904 914	C-terminus
+T17	protein 918 924	Oct-2a
+T18	cell_type 928 935	B cells
+T19	cell_type 940 954	lymphoid cells
+T20	protein 1021 1046	B-cell-specific cofactors
+T21	protein 1067 1083	effector domains
+T22	protein 1087 1093	Oct-2a
+T23	protein 1243 1249	Oct-2a
+T24	protein 1396 1402	Oct-2a
+T25	protein 1473 1479	Oct-2a

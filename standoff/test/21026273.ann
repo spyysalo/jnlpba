@@ -1,0 +1,35 @@
+T1	protein 21 54	intercellular adhesion molecule-1
+T2	protein 56 62	ICAM-1
+T3	cell_type 104 123	rat mesangial cells
+T4	cell_type 186 203	mononuclear cells
+T5	cell_type 246 261	glomerular cell
+T6	cell_type 545 563	rat mesangial cell
+T7	protein 644 677	intercellular adhesion molecule-1
+T8	protein 682 710	vascular adhesion molecule-1
+T9	cell_type 760 775	mesangial cells
+T10	cell_type 796 806	leukocytes
+T11	cell_type 810 825	mesangial cells
+T12	protein 1073 1082	IL-1 beta
+T13	protein 1087 1096	TNF alpha
+T14	cell_type 1108 1123	mesangial cells
+T15	protein 1244 1277	intercellular adhesion molecule-1
+T16	protein 1547 1553	ICAM-1
+T17	protein 1589 1598	IL-1-beta
+T18	protein 1603 1612	TNF-alpha
+T19	cell_type 1624 1639	mesangial cells
+T20	protein 1649 1677	vascular adhesion molecule-1
+T21	RNA 1883 1916	intercellular adhesion molecule-1
+T22	RNA 2102 2135	intercellular adhesion molecule-1
+T23	cell_type 2326 2336	leukocytes
+T24	cell_type 2340 2355	mesangial cells
+T25	cell_type 2381 2394	control cells
+T26	protein 2440 2473	intercellular adhesion molecule-1
+T27	cell_type 2477 2492	mesangial cells
+T28	protein 2498 2555	rat intercellular adhesion molecule-1 monoclonal antibody
+T29	protein 2822 2855	intercellular adhesion molecule-1
+T30	cell_type 2935 2950	mesangial cells
+T31	protein 3007 3040	intercellular adhesion molecule-1
+T32	protein 3091 3107	protein kinase C
+T33	protein 3108 3130	nuclear factor-kappa B
+T34	protein 3132 3135	PKC
+T35	protein 3136 3146	NF-kappa B

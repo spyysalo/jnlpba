@@ -1,0 +1,20 @@
+T1	protein 0 24	Glucocorticoid receptors
+T2	protein 101 134	Cytosolic glucocorticoid receptor
+T3	protein 136 138	GR
+T4	protein 248 258	GR protein
+T5	protein 291 293	GR
+T6	protein 448 450	GR
+T7	cell_type 454 483	immature thymic T lymphocytes
+T8	cell_type 501 522	splenic T lymphocytes
+T9	cell_type 578 589	neutrophils
+T10	cell_type 622 640	splenic leukocytes
+T11	protein 657 659	GR
+T12	cell_type 670 689	T and B lymphocytes
+T13	protein 787 797	GR protein
+T14	cell_type 814 838	immune cells and tissues
+T15	cell_type 1021 1028	T cells
+T16	protein 1065 1067	GR
+T17	cell_type 1073 1080	T cells
+T18	protein 1157 1159	GR
+T19	cell_type 1165 1176	lymphocytes
+T20	cell_type 1181 1190	monocytes

@@ -1,0 +1,18 @@
+T1	protein 18 41	glucocorticoid receptor
+T2	protein 248 272	glucocorticoid receptors
+T3	protein 274 277	hGR
+T4	protein 362 395	hGR glucocorticoid-binding domain
+T5	cell_type 477 499	mononuclear leukocytes
+T6	DNA 533 542	hGR cDNAs
+T7	DNA 559 567	hGR cDNA
+T8	protein 771 784	wild-type hGR
+T9	protein 789 800	hGR-Ile 729
+T10	cell_line 819 830	COS-1 cells
+T11	protein 994 1007	wild-type hGR
+T12	protein 1012 1023	hGR-Ile 729
+T13	cell_line 1042 1052	CV-1 cells
+T14	DNA 1086 1132	mouse mammary tumor virus long terminal repeat
+T15	DNA 1146 1191	chloramphenicol acetyl transferase (CAT) gene
+T16	protein 1197 1208	hGR-Ile 729
+T17	protein 1291 1294	CAT
+T18	protein 1390 1393	hGR

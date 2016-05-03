@@ -1,0 +1,21 @@
+T1	protein 0 10	C/EBP beta
+T2	DNA 29 61	tumor necrosis factor alpha gene
+T3	cell_type 63 84	Activated macrophages
+T4	protein 140 149	cytokines
+T5	protein 154 165	proteinases
+T6	protein 167 194	Tumor necrosis factor alpha
+T7	protein 196 205	TNF alpha
+T8	protein 422 431	TNF alpha
+T9	protein 493 502	TNF alpha
+T10	protein 523 543	transcription factor
+T11	protein 544 554	C/EBP beta
+T12	protein 556 562	NF-IL6
+T13	protein 565 575	C/EBP beta
+T14	DNA 590 613	TNF alpha gene promoter
+T15	protein 714 725	C/EBP alpha
+T16	protein 767 777	C/EBP beta
+T17	DNA 786 804	TNF alpha promoter
+T18	cell_type 819 832	myeloid cells
+T19	protein 856 866	C/EBP beta
+T20	protein 896 905	TNF alpha
+T21	cell_type 909 929	myelomonocytic cells

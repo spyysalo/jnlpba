@@ -1,0 +1,38 @@
+T1	DNA 36 55	immunoglobulin gene
+T2	DNA 78 110	B-cell-specific enhancer element
+T3	DNA 118 150	B-cell-specific enhancer element
+T4	DNA 177 206	E4 and the octamerlike motifs
+T5	DNA 214 260	human immunoglobulin heavy-chain gene enhancer
+T6	DNA 284 308	67-bp MnlI-AluI fragment
+T7	DNA 328 366	chloramphenicol acetyltransferase gene
+T8	DNA 381 400	conalbumin promoter
+T9	cell_type 430 437	B cells
+T10	cell_line 449 463	Jurkat T cells
+T11	cell_line 467 477	HeLa cells
+T12	DNA 566 568	E6
+T13	cell_type 609 616	B cells
+T14	cell_type 618 625	T cells
+T15	DNA 676 694	synthetic E6 motif
+T16	protein 706 729	B-cell-specific complex
+T17	cell_type 777 784	T cells
+T18	cell_line 789 799	HeLa cells
+T19	DNA 879 887	E6 motif
+T20	cell_line 916 921	ARH77
+T21	cell_line 926 936	Raji cells
+T22	cell_line 948 954	Jurkat
+T23	cell_line 958 968	HeLa cells
+T24	DNA 985 1000	mutant E6 motif
+T25	DNA 1096 1125	mouse Ig heavy-chain enhancer
+T26	DNA 1140 1153	octamer motif
+T27	DNA 1164 1196	B-cell-specific enhancer element
+T28	DNA 1202 1216	human enhancer
+T29	DNA 1229 1249	octamerlike sequence
+T30	protein 1289 1313	octamer-binding proteins
+T31	DNA 1405 1423	MnlI-AluI fragment
+T32	DNA 1471 1490	conalbumin promoter
+T33	cell_line 1499 1505	Jurkat
+T34	cell_line 1510 1520	HeLa cells
+T35	DNA 1585 1603	MnlI-AluI fragment
+T36	cell_line 1607 1617	HeLa cells
+T37	cell_type 1629 1636	B cells
+T38	protein 1731 1760	positive and negative factors

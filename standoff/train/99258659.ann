@@ -1,0 +1,17 @@
+T1	cell_type 35 56	malignant lymphocytes
+T2	cell_type 387 408	malignant lymphocytes
+T3	cell_line 566 598	malignant lymphocytic cell lines
+T4	cell_line 603 619	primary cultures
+T5	cell_type 623 662	lymphocytic leukemia and lymphoma cells
+T6	protein 886 923	terminal deoxynucleotidyl transferase
+T7	DNA 936 949	DNA fragments
+T8	cell_type 1375 1396	malignant lymphocytes
+T9	protein 1699 1708	Caspase-3
+T10	protein 1921 1948	cell cycle-related proteins
+T11	protein 1960 1965	c-myc
+T12	protein 1967 1989	retinoblastoma protein
+T13	protein 1991 2016	cyclin-dependent kinase 4
+T14	protein 2018 2027	cyclin D1
+T15	protein 2033 2036	p53
+T16	protein 2055 2087	differentiation-related antigens
+T17	cell_type 2203 2230	malignant lymphocytic cells

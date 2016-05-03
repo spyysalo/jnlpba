@@ -1,0 +1,22 @@
+T1	protein 36 55	interferon isotypes
+T2	cell_type 59 86	peripheral blood leukocytes
+T3	cell_line 118 141	promonocytic U937 cells
+T4	protein 170 180	IFN-alpha5
+T5	protein 185 193	IFN-beta
+T6	cell_type 220 234	lymphoid cells
+T7	cell_type 245 279	peripheral blood mononuclear cells
+T8	RNA 331 339	IFN mRNA
+T9	protein 343 364	reverse transcriptase
+T10	DNA 420 437	amplified product
+T11	protein 465 512	interferon-induced transcription factor complex
+T12	protein 513 518	ISGF3
+T13	cell_line 562 577	uninduced cells
+T14	cell_line 605 625	uninduced U937 cells
+T15	DNA 657 661	ISRE
+T16	DNA 685 709	luciferase reporter gene
+T17	protein 738 752	endogenous IFN
+T18	protein 813 827	endogenous IFN
+T19	DNA 910 948	major histocompatibility class I genes
+T20	cell_type 952 966	lymphoid cells
+T21	protein 995 1005	IFN-alpha5
+T22	protein 1010 1018	IFN-beta

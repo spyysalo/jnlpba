@@ -1,0 +1,13 @@
+T1	cell_type 45 68	mononuclear infiltrates
+T2	cell_type 132 156	Inflammatory infiltrates
+T3	cell_type 244 255	macrophages
+T4	cell_type 257 283	IgA+ and IgG+ plasma cells
+T5	cell_type 285 292	T cells
+T6	cell_type 324 344	natural killer cells
+T7	protein 740 758	oestrogen receptor
+T8	protein 760 762	OR
+T9	protein 822 843	progesterone receptor
+T10	protein 845 847	PR
+T11	cell_line 902 936	OKT8+ suppressor/cytotoxic T cells
+T12	cell_line 1227 1240	OKT8+ T cells
+T13	cell_type 1275 1295	natural killer cells

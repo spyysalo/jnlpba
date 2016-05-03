@@ -1,0 +1,20 @@
+T1	cell_type 43 50	T cells
+T2	protein 170 173	TCR
+T3	DNA 578 586	TCR gene
+T4	DNA 666 670	loci
+T5	DNA 749 763	TCR gamma loci
+T6	cell_type 771 790	gamma delta lineage
+T7	DNA 886 894	TCR beta
+T8	cell_type 902 920	alpha beta lineage
+T9	cell_type 990 1013	TCR alpha beta lineage,
+T10	cell_type 1402 1420	peripheral T cells
+T11	protein 1765 1769	IL-2
+T12	cell_type 1786 1800	activated cell
+T13	DNA 1818 1827	chromatin
+T14	cell_type 1995 2014	cortical thymocytes
+T15	protein 2062 2073	IL-2R alpha
+T16	protein 2118 2132	exogenous IL-2
+T17	cell_type 2154 2171	murine thymocytes
+T18	protein 2225 2241	IL-2R beta chain
+T19	protein 2307 2312	Bcl-2
+T20	cell_type 2383 2403	medullary thymocytes

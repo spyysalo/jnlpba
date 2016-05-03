@@ -1,0 +1,22 @@
+T1	protein 21 33	IkappaBalpha
+T2	protein 59 67	TNFalpha
+T3	cell_type 96 129	EBV-infected lymphoblastoid cells
+T4	protein 166 175	NF-kappaB
+T5	protein 237 249	IkappaBalpha
+T6	cell_type 255 275	lymphoblastoid cells
+T7	protein 323 332	NF-kappaB
+T8	protein 412 424	IkappaBalpha
+T9	protein 551 560	cytokines
+T10	protein 587 591	BrdU
+T11	cell_type 691 706	apoptotic cells
+T12	protein 884 892	TNFalpha
+T13	cell_line 925 943	transfected clones
+T14	cell_line 965 995	IkappaBalpha transfected cells
+T15	protein 1024 1032	TNFalpha
+T16	protein 1120 1128	TNFalpha
+T17	cell_line 1168 1185	transfected cells
+T18	DNA 1265 1278	TNFalpha gene
+T19	protein 1310 1319	NF-kappaB
+T20	cell_type 1351 1388	NF-kappaB protects EBV-infected cells
+T21	protein 1415 1423	TNFalpha
+T22	protein 1475 1483	cytokine

@@ -1,0 +1,28 @@
+T1	protein 0 6	p21ras
+T2	protein 49 63	nuclear factor
+T3	cell_type 77 84	T cells
+T4	cell_type 89 102	T lymphocytes
+T5	protein 122 137	T cell receptor
+T6	protein 139 142	TCR
+T7	protein 236 250	nuclear factor
+T8	cell_type 264 271	T cells
+T9	cell_line 273 277	NFAT
+T10	protein 282 301	DNA binding complex
+T11	protein 361 381	T cell growth factor
+T12	protein 382 395	interleukin 2
+T13	protein 452 455	TCR
+T14	cell_line 527 531	NFAT
+T15	protein 578 589	calcineurin
+T16	protein 593 650	calcium-calmodulin dependent serine-threonine phosphatase
+T17	cell_type 713 720	T cells
+T18	protein 784 818	guanine nucleotide binding protein
+T19	protein 820 826	p21ras
+T20	protein 852 855	TCR
+T21	protein 861 884	protein tyrosine kinase
+T22	protein 1000 1011	calcineurin
+T23	protein 1025 1031	p21ras
+T24	cell_type 1058 1062	NFAT
+T25	cell_type 1180 1184	NFAT
+T26	protein 1216 1227	calcineurin
+T27	protein 1232 1238	p21ras
+T28	cell_type 1266 1272	T cell

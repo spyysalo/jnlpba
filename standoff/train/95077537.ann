@@ -1,0 +1,15 @@
+T1	protein 51 73	nuclear factor kappa B
+T2	protein 75 85	NF-kappa B
+T3	cell_line 127 161	promyelocytic leukemia HL-60 cells
+T4	cell_type 166 176	thymocytes
+T5	protein 280 302	nuclear factor kappa B
+T6	protein 304 314	NF-kappa B
+T7	cell_line 386 424	human promyelocytic leukemia cell line
+T8	cell_line 426 431	HL-60
+T9	protein 519 529	NF-kappa B
+T10	protein 676 686	NF-kappa B
+T11	protein 853 865	endonuclease
+T12	cell_type 1013 1029	human thymocytes
+T13	cell_type 1306 1316	thymocytes
+T14	protein 1485 1495	NF-kappa B
+T15	cell_type 1548 1573	human hematopoietic cells

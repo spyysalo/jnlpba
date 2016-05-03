@@ -1,0 +1,29 @@
+T1	protein 0 4	CD40
+T2	protein 21 39	activation antigen
+T3	protein 44 88	B7-independent T cell costimulatory molecule
+T4	cell_type 99 121	human lung fibroblasts
+T5	protein 123 127	CD40
+T6	cell_type 189 214	bone marrow-derived cells
+T7	protein 226 230	CD40
+T8	cell_type 270 287	mesenchymal cells
+T9	cell_type 299 316	human fibroblasts
+T10	protein 352 356	CD40
+T11	cell_type 360 371	fibroblasts
+T12	protein 424 428	CD40
+T13	cell_type 442 458	lung fibroblasts
+T14	cell_type 521 538	hemopoietic cells
+T15	cell_type 578 589	fibroblasts
+T16	cell_type 594 601	T cells
+T17	protein 712 716	CD40
+T18	protein 730 734	CD40
+T19	protein 890 899	cytokines
+T20	protein 900 904	IL-6
+T21	protein 909 913	IL-8
+T22	cell_line 915 948	IFN-gamma-primed lung fibroblasts
+T23	protein 998 1002	CD40
+T24	protein 1029 1052	costimulatory molecules
+T25	protein 1053 1057	B7-1
+T26	protein 1062 1066	B7-2
+T27	cell_type 1146 1164	tissue fibroblasts
+T28	protein 1205 1209	CD40
+T29	protein 1209 1215	/CD40L

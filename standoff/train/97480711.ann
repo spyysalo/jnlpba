@@ -1,0 +1,25 @@
+T1	protein 76 118	neutrophil gelatinase-associated lipocalin
+T2	protein 132 174	Neutrophil gelatinase-associated lipocalin
+T3	protein 176 180	NGAL
+T4	protein 187 203	25-kDa lipocalin
+T5	cell_type 269 285	human neutrophil
+T6	protein 503 507	NGAL
+T7	DNA 548 562	5869-bp region
+T8	DNA 570 579	NGAL gene
+T9	DNA 605 629	5' nontranscribed region
+T10	DNA 636 657	3696-bp coding region
+T11	DNA 671 698	seven exons and six introns
+T12	DNA 704 731	transcriptional start sites
+T13	protein 754 759	RNase
+T14	protein 782 786	NGAL
+T15	DNA 820 835	mouse gene 24p3
+T16	protein 837 841	NGAL
+T17	DNA 942 961	cis-acting elements
+T18	DNA 985 1000	promoter region
+T19	DNA 1008 1017	NGAL gene
+T20	DNA 1051 1064	binding sites
+T21	protein 1069 1076	CTF/CBP
+T22	protein 1082 1117	hematopoietic transcription factors
+T23	protein 1118 1124	GATA-1
+T24	protein 1129 1133	PU.1
+T25	protein 1143 1174	LPS-inducible factor NF-kappa B

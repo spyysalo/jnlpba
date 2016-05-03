@@ -1,0 +1,16 @@
+T1	protein 71 80	TNF-alpha
+T2	protein 146 173	tumor necrosis factor-alpha
+T3	protein 175 184	TNF-alpha
+T4	protein 381 408	viral reverse transcriptase
+T5	cell_type 605 638	acutely infected CD4+ lymphocytes
+T6	cell_line 640 644	SupT
+T7	cell_type 664 698	peripheral blood mononuclear cells
+T8	cell_type 700 705	PBMCs
+T9	protein 760 769	TNF-alpha
+T10	DNA 786 799	reporter gene
+T11	protein 906 915	TNF-alpha
+T12	protein 936 939	Tat
+T13	protein 997 1006	NF-kappaB
+T14	DNA 1021 1047	HIV-1 long terminal repeat
+T15	DNA 1049 1052	LTR
+T16	DNA 1541 1550	HIV genes

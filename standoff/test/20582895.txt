@@ -1,0 +1,11 @@
+Human eosinophils constitutively express nuclear factor of activated T cells p and c.
+BACKGROUND:
+Eosinophils are now known to produce a variety of proinflammatory cytokines, although the molecular factors that regulate their production are poorly understood. The expression of almost all of the cytokines produced by eosinophils, including the proallergic cytokine IL-4, is now known to be regulated at the level of transcription by members of the nuclear factor of activated T cells (NFAT) family of transcription factors.
+OBJECTIVE:
+We sought to characterize the expression of different NFAT proteins in resting and activated eosinophils.
+METHODS:
+Nuclear and whole cell extracts were obtained from both peripheral blood eosinophils and those obtained from bronchoalveolar lavage fluid of asthmatic subjects after endobronchial allergen challenge. NFAT expression was determined by using immunoprecipitation and Western blot analysis, DNA-binding assays, and RT-PCR analysis of eosinophil mRNA.
+RESULTS:
+Both peripheral blood and bronchoalveolar lavage fluid eosinophils expressed NFATp and NFATc protein. Unlike activated T cells, which express multiple NFATc isoforms, eosinophils preferentially express the approximately 85-kd isoform. In addition, eosinophils were found to constitutively express NFATc mRNA. A brief incubation with the T(H)2 cytokines IL-4 and IL-5 was sufficient to induce the nuclear translocation of NFATc. Eosinophil nuclear extracts contain multiple factors that can specifically recognize the IL-4 promoter P1 NFAT site in DNA-binding assays, including NFATp.
+CONCLUSION:
+NFATp and NFATc can regulate the expression of cytokines and other genes in eosinophils but appear to be regulated by a novel signal transduction mechanism in these cells.

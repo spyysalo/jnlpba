@@ -1,0 +1,39 @@
+T1	DNA 9 37	DNase-I hypersensitive sites
+T2	protein 58 63	TAL-1
+T3	cell_line 81 107	erythroid and T-cell lines
+T4	DNA 113 123	tal-1 gene
+T5	cell_type 220 269	erythroid, megakaryocytic, and mast cell lineages
+T6	DNA 366 371	tal-1
+T7	DNA 400 405	tal-1
+T8	cell_line 429 464	erythroid/megakaryocytic cell lines
+T9	cell_line 472 484	T-cell lines
+T10	DNA 508 528	tal-1 rearrangements
+T11	cell_line 581 587	Jurkat
+T12	DNA 618 623	tal-1
+T13	DNA 723 745	tal-15' GC-rich region
+T14	DNA 761 771	CpG island
+T15	cell_type 791 803	normal cells
+T16	DNA 831 865	transcriptionally inactive alleles
+T17	cell_line 869 891	established cell lines
+T18	DNA 904 932	DNase-I hypersensitive sites
+T19	DNA 934 936	HS
+T20	DNA 957 962	tal-1
+T21	DNA 970 985	HS I, IV, and V
+T22	cell_line 1019 1054	erythroid/megakaryocytic cell lines
+T23	DNA 1068 1073	tal-1
+T24	DNA 1083 1102	promoters 1a and 1b
+T25	DNA 1104 1109	HS II
+T26	cell_line 1122 1146	hematopoietic cell lines
+T27	cell_line 1158 1162	Hela
+T28	cell_line 1188 1194	Jurkat
+T29	DNA 1269 1286	tal-1 promoter 1b
+T30	DNA 1306 1312	HS III
+T31	cell_line 1325 1328	HEL
+T32	cell_line 1333 1339	Jurkat
+T33	cell_line 1365 1370	DU528
+T34	cell_line 1374 1385	T-cell line
+T35	DNA 1397 1407	a t (1;14)
+T36	DNA 1422 1427	tal-1
+T37	DNA 1449 1455	exon 4
+T38	DNA 1493 1512	regulatory elements
+T39	DNA 1558 1573	tal-1 promoters

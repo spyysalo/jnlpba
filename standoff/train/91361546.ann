@@ -1,0 +1,30 @@
+T1	protein 0 10	NF-kappa B
+T2	cell_type 23 30	T cells
+T3	protein 53 64	Tax protein
+T4	protein 135 138	Tax
+T5	protein 172 182	NF-kappa B
+T6	DNA 192 212	recognition sequence
+T7	protein 220 230	NF-kappa B
+T8	cell_line 273 301	T lymphoid Jurkat cell lines
+T9	cell_line 303 306	19D
+T10	cell_line 311 313	9J
+T11	DNA 341 362	Tax expression vector
+T12	cell_line 364 391	Tax expressing T cell lines
+T13	protein 426 436	NF-kappa B
+T14	DNA 519 547	palindromic NF-kappa B probe
+T15	DNA 566 592	interferon beta PRDII site
+T16	protein 679 699	DNA binding proteins
+T17	protein 703 721	85, 75, and 54 kDa
+T18	cell_line 734 754	Tax expressing cells
+T19	protein 759 773	85-kDa protein
+T20	protein 780 806	92-kDa DNA binding protein
+T21	protein 850 861	Tax protein
+T22	cell_line 865 868	19D
+T23	cell_line 873 875	9J
+T24	DNA 909 994	endogenous NF-kappa B-dependent granulocyte-macrophage colony stimulating factor gene
+T25	DNA 1047 1077	NF-kappa B-regulated promoters
+T26	protein 1185 1188	Tax
+T27	cell_line 1203 1217	Jurkat T cells
+T28	protein 1249 1259	NF-kappa B
+T29	protein 1260 1280	DNA binding proteins
+T30	DNA 1315 1345	NF-kappa B-regulated promoters

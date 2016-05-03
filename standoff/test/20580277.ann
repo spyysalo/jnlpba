@@ -1,0 +1,26 @@
+T1	cell_type 0 27	Human renal mesangial cells
+T2	cell_type 98 113	Mesangial cells
+T3	cell_line 204 234	cultured human mesangial cells
+T4	cell_line 236 240	CHMC
+T5	protein 311 334	retinoic acid receptors
+T6	protein 336 340	RARs
+T7	protein 346 366	retinoid X receptors
+T8	protein 368 372	RXRs
+T9	cell_line 417 421	CHMC
+T10	cell_line 455 459	CHMC
+T11	cell_line 717 736	FCS-stimulated CHMC
+T12	cell_type 784 804	FCS-stimulated cells
+T13	protein 835 863	mesangial adhesion molecules
+T14	protein 865 876	fibronectin
+T15	protein 881 892	osteopontin
+T16	protein 942 975	intercellular adhesion molecule-1
+T17	protein 980 1008	vascular adhesion molecule-1
+T18	protein 1020 1042	RARs and RXRs isotypes
+T19	cell_line 1061 1065	CHMC
+T20	RNA 1129 1138	RAR-alpha
+T21	RNA 1140 1148	RAR-beta
+T22	RNA 1153 1162	RXR-alpha
+T23	RNA 1209 1218	RXR-gamma
+T24	protein 1262 1266	RARs
+T25	protein 1271 1275	RXRs
+T26	cell_type 1717 1732	mesangial cells

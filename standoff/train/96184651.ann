@@ -1,0 +1,18 @@
+T1	protein 14 39	Retinoid X Receptor alpha
+T2	cell_type 184 209	normal and leukemic cells
+T3	protein 243 259	nuclear receptor
+T4	protein 261 264	VDR
+T5	protein 328 331	VDR
+T6	protein 337 357	Retinoid X Receptors
+T7	protein 359 362	RXR
+T8	protein 392 411	specific antibodies
+T9	protein 447 464	RXR alpha protein
+T10	cell_type 468 491	blood mononuclear cells
+T11	cell_line 546 571	myelomonocytic cell lines
+T12	protein 642 651	RXR alpha
+T13	cell_line 770 795	myelomonocytic cell lines
+T14	cell_type 826 846	monocytic precursors
+T15	cell_type 880 894	leukemic cells
+T16	cell_line 948 973	myelomonocytic cell lines
+T17	protein 1007 1016	RXR alpha
+T18	protein 1158 1167	RXR alpha

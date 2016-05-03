@@ -1,0 +1,20 @@
+T1	DNA 23 43	immediate-early gene
+T2	cell_type 55 73	adherent monocytes
+T3	protein 87 96	I kappa B
+T4	DNA 138 143	cDNAs
+T5	RNA 157 162	mRNAs
+T6	cell_type 211 226	human monocytes
+T7	RNA 260 265	MAD-3
+T8	protein 331 350	five tandem repeats
+T9	protein 358 377	cdc10/ankyrin motif
+T10	protein 423 444	ankyrin repeat region
+T11	protein 465 484	NF-kappa B/KBF1 p50
+T12	protein 490 500	C-terminus
+T13	protein 516 553	protein kinase C phosphorylation site
+T14	protein 575 588	MAD-3 protein
+T15	protein 655 681	p50/p65 NF-kappa B complex
+T16	protein 702 721	p50/p50 KBF1 factor
+T17	protein 734 754	DNA-binding proteins
+T18	DNA 760 770	MAD-3 cDNA
+T19	protein 782 804	I kappa B-like protein
+T20	protein 881 891	NF-kappa B

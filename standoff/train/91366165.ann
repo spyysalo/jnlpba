@@ -1,0 +1,29 @@
+T1	RNA 0 32	Tumor necrosis factor-alpha mRNA
+T2	cell_line 49 80	human myelomonocytic cell lines
+T3	DNA 120 139	DNA sequence motifs
+T4	protein 168 176	cytokine
+T5	protein 177 180	TNF
+T6	protein 303 306	TNF
+T7	cell_line 310 341	human myelomonocytic cell lines
+T8	cell_line 369 379	cell lines
+T9	RNA 416 424	TNF mRNA
+T10	RNA 493 501	TNF mRNA
+T11	cell_line 531 556	myelomonocytic cell lines
+T12	DNA 746 762	genomic TNF gene
+T13	DNA 766 793	DNase I hypersensitive site
+T14	DNA 817 829	TNF promoter
+T15	DNA 870 899	transcription initiation site
+T16	cell_line 920 960	nonexpressing erythroleukemia cell lines
+T17	DNA 966 978	DNase I site
+T18	cell_line 993 1028	uninduced myelomonocytic cell lines
+T19	RNA 1090 1100	c-fos mRNA
+T20	protein 1122 1125	TNF
+T21	protein 1193 1205	AP-1 complex
+T22	protein 1207 1211	junB
+T23	protein 1216 1220	junD
+T24	cell_line 1286 1304	induced ML-1 cells
+T25	DNA 1350 1385	AP-1, AP-2, and NF kappa B sequence
+T26	DNA 1405 1417	TNF promoter
+T27	protein 1468 1494	specific binding complexes
+T28	cell_type 1511 1524	resting cells
+T29	DNA 1559 1585	human and murine TNF genes

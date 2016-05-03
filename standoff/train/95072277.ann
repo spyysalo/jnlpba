@@ -1,0 +1,12 @@
+T1	protein 40 42	ER
+T2	protein 62 66	EGFR
+T3	cell_type 768 780	Ductal cells
+T4	protein 892 909	estrogen receptor
+T5	protein 911 913	ER
+T6	protein 920 952	epidermal growth factor receptor
+T7	protein 954 958	EGFR
+T8	protein 1021 1023	ER
+T9	protein 1051 1055	EGFR
+T10	protein 1228 1232	EGFR
+T11	protein 1404 1406	ER
+T12	protein 1557 1559	ER

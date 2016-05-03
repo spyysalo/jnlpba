@@ -1,0 +1,45 @@
+T1	protein 12 17	CD11b
+T2	protein 22 35	CD11c beta(2)
+T3	protein 36 45	integrins
+T4	protein 49 59	antibodies
+T5	protein 63 75	soluble CD23
+T6	protein 84 122	macrophage inflammatory protein 1alpha
+T7	protein 124 134	MIP-1alpha
+T8	protein 140 149	MIP-1beta
+T9	cell_type 164 187	primary human monocytes
+T10	protein 219 240	nuclear factor-kappaB
+T11	protein 242 252	Chemokines
+T12	protein 257 275	adhesion molecules
+T13	protein 284 293	integrins
+T14	cell_type 366 376	leukocytes
+T15	cell_type 494 526	freshly isolated human monocytes
+T16	protein 554 559	CD11b
+T17	protein 563 568	CD11c
+T18	protein 577 595	CD11a alpha chains
+T19	protein 599 616	beta(2) integrins
+T20	protein 620 630	antibodies
+T21	protein 634 670	soluble CD23 (sCD23) fusion proteins
+T22	protein 718 731	interleukin 8
+T23	protein 733 777	macrophage inflammatory protein (MIP) 1alpha
+T24	protein 783 792	MIP-1beta
+T25	DNA 806 815	promoters
+T26	DNA 825 840	chemokine genes
+T27	DNA 849 869	kappaB binding sites
+T28	protein 904 925	nuclear factor-kappaB
+T29	protein 927 936	NF-kappaB
+T30	protein 1063 1068	sCD23
+T31	protein 1072 1082	antibodies
+T32	protein 1086 1091	CD11b
+T33	protein 1098 1103	CD11c
+T34	protein 1141 1150	NF-kappaB
+T35	protein 1166 1175	NF-kappaB
+T36	protein 1214 1247	cytosolic inhibitor IkappaB-alpha
+T37	protein 1274 1287	IkappaB-alpha
+T38	RNA 1460 1498	MIP-1alpha and MIP-1beta messenger RNA
+T39	protein 1578 1583	CD11b
+T40	protein 1587 1600	CD11c beta(2)
+T41	cell_type 1613 1636	primary human monocytes
+T42	protein 1701 1710	NF-kappaB
+T43	protein 1739 1749	MIP-1alpha
+T44	protein 1754 1763	MIP-1beta
+T45	cell_type 1820 1838	inflammatory cells

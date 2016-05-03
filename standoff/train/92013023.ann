@@ -1,0 +1,15 @@
+T1	protein 0 28	Anti-CD2 receptor antibodies
+T2	DNA 42 66	HIV long terminal repeat
+T3	cell_type 70 83	T lymphocytes
+T4	protein 89 135	CD2 T lymphocyte glycoprotein surface molecule
+T5	cell_line 272 301	chronically HIV-infected PBMC
+T6	protein 307 319	anti-CD2 mAb
+T7	protein 454 473	anti-CD2 antibodies
+T8	cell_type 559 572	T lymphocytes
+T9	protein 578 597	anti-CD2 antibodies
+T10	DNA 627 651	HIV long terminal repeat
+T11	protein 666 669	CAT
+T12	DNA 691 730	HIV long terminal repeat-CAT constructs
+T13	DNA 805 824	NF-kappa B enhancer
+T14	protein 868 871	CD2
+T15	protein 897 902	LFA-3

@@ -1,0 +1,17 @@
+T1	protein 23 29	HLA-DO
+T2	protein 33 45	MHC class II
+T3	protein 77 83	HLA-DM
+T4	protein 89 150	major histocompatibility complex (MHC) class II-like molecule
+T5	protein 262 280	class II molecules
+T6	protein 305 311	HLA-DO
+T7	protein 324 346	class II-like molecule
+T8	protein 379 385	HLA-DM
+T9	cell_type 389 396	B cells
+T10	protein 398 404	HLA-DO
+T11	protein 424 430	HLA-DM
+T12	protein 450 469	HLA-DM-DO complexes
+T13	protein 529 535	HLA-DO
+T14	cell_line 541 581	class II+ and DM+, DO- human T cell line
+T15	protein 609 632	class II-CLIP complexes
+T16	protein 650 656	HLA-DO
+T17	protein 705 711	HLA-DO

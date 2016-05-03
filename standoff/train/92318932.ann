@@ -1,0 +1,31 @@
+T1	protein 17 48	POU domain transcription factor
+T2	protein 49 54	Oct-2
+T3	cell_type 62 68	T-cell
+T4	protein 100 105	Oct-2
+T5	protein 111 131	transcription factor
+T6	DNA 159 177	octamer DNA motifs
+T7	DNA 185 194	promoters
+T8	DNA 198 236	immunoglobulin and interleukin-2 genes
+T9	cell_line 242 258	tumor cell lines
+T10	cell_type 268 282	B-cell lineage
+T11	cell_type 302 316	T-cell lineage
+T12	protein 325 330	Oct-2
+T13	protein 355 360	Oct-2
+T14	cell_type 368 382	T-cell lineage
+T15	RNA 413 423	Oct-2 mRNA
+T16	cell_line 439 477	nontransformed human and mouse T cells
+T17	protein 479 484	Oct-2
+T18	cell_line 498 519	CD4+ and CD8+ T cells
+T19	cell_type 564 588	mouse lymph node T cells
+T20	cell_line 595 607	T-cell clone
+T21	protein 621 640	pigeon cytochrome c
+T22	protein 659 663	I-Ek
+T23	protein 665 670	Oct-2
+T24	protein 728 741	Oct-2 protein
+T25	RNA 811 821	Oct-2 mRNA
+T26	cell_type 854 860	T-cell
+T27	protein 973 978	Oct-2
+T28	cell_type 1029 1035	T-cell
+T29	protein 1083 1088	Oct-2
+T30	protein 1113 1118	Oct-2
+T31	cell_type 1223 1236	T lymphocytes

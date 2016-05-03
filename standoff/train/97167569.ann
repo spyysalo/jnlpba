@@ -1,0 +1,48 @@
+T1	DNA 22 39	c-fos/c-jun genes
+T2	protein 47 82	transcriptional regulatory proteins
+T3	DNA 100 129	c-fos/c-jun promoter elements
+T4	cell_type 133 156	activated human T cells
+T5	protein 189 211	transcriptional factor
+T6	protein 224 228	AP-1
+T7	cell_type 253 259	T cell
+T8	cell_type 300 307	T cells
+T9	DNA 401 412	c-fos/c-jun
+T10	protein 491 495	AP-1
+T11	cell_type 499 512	human T cells
+T12	cell_type 522 529	T cells
+T13	protein 566 598	cross-linked anti-CD3epsilon mAb
+T14	protein 599 603	OKT3
+T15	protein 625 631	lectin
+T16	protein 632 635	PHA
+T17	protein 684 689	c-Fos
+T18	protein 728 733	c-Fos
+T19	protein 742 747	c-Jun
+T20	cell_type 783 790	T cells
+T21	protein 835 840	RNase
+T22	cell_type 882 904	PMA-stimulated T cells
+T23	RNA 985 1008	c-fos and/or c-jun mRNA
+T24	cell_type 1021 1028	T cells
+T25	protein 1109 1136	nuclear regulatory proteins
+T26	DNA 1153 1177	AP-1 consensus TRE motif
+T27	DNA 1183 1223	proximal c-jun TRE-like promoter element
+T28	DNA 1233 1261	c-fos serum response element
+T29	DNA 1263 1266	SRE
+T30	cell_type 1287 1317	resting and stimulated T cells
+T31	cell_type 1347 1354	T cells
+T32	protein 1412 1437	nuclear protein complexes
+T33	DNA 1450 1458	AP-1 TRE
+T34	DNA 1460 1469	c-jun TRE
+T35	DNA 1475 1504	c-fos SRE DNA sequence motifs
+T36	protein 1550 1554	AP-1
+T37	protein 1595 1636	c-jun TRE and c-fos SRE binding complexes
+T38	protein 1655 1680	nuclear protein complexes
+T39	DNA 1693 1702	SRE motif
+T40	cell_type 1714 1731	activated T cells
+T41	protein 1772 1793	serum response factor
+T42	protein 1798 1803	Elk-1
+T43	protein 1861 1896	transcriptional regulatory proteins
+T44	protein 1911 1921	c-jun/AP-1
+T45	DNA 1993 2004	c-fos/c-jun
+T46	protein 2022 2049	nuclear regulatory proteins
+T47	protein 2099 2103	AP-1
+T48	cell_type 2118 2131	human T cells

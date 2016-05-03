@@ -1,0 +1,25 @@
+T1	protein 0 14	Nuclear factor
+T2	cell_type 18 35	activated T cells
+T3	protein 45 48	Fos
+T4	protein 53 56	Jun
+T5	protein 62 82	nuclear factor NF-AT
+T6	cell_type 106 113	T cells
+T7	protein 137 164	T-cell receptor/CD3 complex
+T8	DNA 186 211	interleukin-2 (IL-2) gene
+T9	protein 232 237	NF-AT
+T10	protein 382 387	NF-AT
+T11	protein 540 557	nuclear component
+T12	protein 601 618	nuclear component
+T13	protein 622 627	NF-AT
+T14	protein 635 655	transcription factor
+T15	protein 656 660	AP-1
+T16	protein 705 710	NF-AT
+T17	protein 720 723	Fos
+T18	protein 728 731	Jun
+T19	protein 769 802	pre-existing NF-AT-binding factor
+T20	cell_type 844 864	unstimulated T cells
+T21	protein 968 973	NF-AT
+T22	protein 1091 1104	NF-AT complex
+T23	protein 1178 1181	Fos
+T24	protein 1185 1201	Fos/Jun proteins
+T25	protein 1209 1229	pre-existing complex

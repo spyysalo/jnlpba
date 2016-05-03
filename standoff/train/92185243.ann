@@ -1,0 +1,30 @@
+T1	protein 36 68	activation-inducer molecule/CD69
+T2	protein 94 119	transcription factor AP-1
+T3	protein 142 167	AP-1 transcription factor
+T4	protein 290 294	AP-1
+T5	cell_type 307 343	human peripheral blood T lymphocytes
+T6	protein 401 405	CD69
+T7	protein 464 472	AIM/CD69
+T8	cell_type 544 551	T cells
+T9	protein 572 584	anti-AIM mAb
+T10	protein 632 644	anti-AIM mAb
+T11	cell_type 648 673	PMA-treated T lymphocytes
+T12	protein 716 720	AP-1
+T13	DNA 750 780	phorbol ester response element
+T14	protein 795 807	anti-AIM mAb
+T15	protein 861 871	NF-kappa B
+T16	protein 875 895	transcription factor
+T17	protein 932 948	protein kinase C
+T18	protein 966 970	AP-1
+T19	protein 1054 1059	c-fos
+T20	protein 1076 1081	c-jun
+T21	protein 1099 1120	DNA-binding complexes
+T22	protein 1129 1141	anti-Fos mAb
+T23	protein 1181 1186	c-Fos
+T24	protein 1194 1208	AP-1 complexes
+T25	protein 1220 1232	anti-AIM mAb
+T26	protein 1246 1250	AP-1
+T27	protein 1289 1301	anti-AIM mAb
+T28	protein 1442 1446	AP-1
+T29	cell_type 1516 1546	human peripheral blood T cells
+T30	protein 1607 1611	AP-1

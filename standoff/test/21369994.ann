@@ -1,0 +1,38 @@
+T1	protein 14 18	AP-1
+T2	protein 51 63	protein GILZ
+T3	protein 223 246	glucocorticoid receptor
+T4	protein 251 272	transcription factors
+T5	protein 281 285	AP-1
+T6	protein 290 300	NF-kappa B
+T7	cell_type 440 464	activated normal T cells
+T8	DNA 584 589	genes
+T9	DNA 640 645	genes
+T10	DNA 649 686	glucocorticoid-induced leucine zipper
+T11	DNA 688 692	GILZ
+T12	RNA 766 788	Fas ligand (FasL) mRNA
+T13	DNA 822 826	GILZ
+T14	cell_line 830 844	Jurkat T cells
+T15	DNA 868 886	reporter construct
+T16	DNA 901 914	FasL promoter
+T17	protein 947 951	GILZ
+T18	protein 975 980	Egr-2
+T19	protein 985 990	Egr-3
+T20	protein 992 1001	NFAT/AP-1
+T21	protein 1012 1033	transcription factors
+T22	DNA 1046 1064	regulatory element
+T23	DNA 1072 1085	FasL promoter
+T24	protein 1119 1123	GILZ
+T25	DNA 1148 1204	AP-1-driven and IL-2 promoter-driven reporter constructs
+T26	protein 1222 1226	GILZ
+T27	protein 1256 1261	c-Fos
+T28	protein 1266 1271	c-Jun
+T29	protein 1310 1321	active AP-1
+T30	protein 1369 1373	GILZ
+T31	protein 1403 1417	leucine zipper
+T32	protein 1440 1445	c-Fos
+T33	protein 1450 1455	c-Jun
+T34	protein 1477 1487	N-terminal
+T35	protein 1488 1508	60-amino acid region
+T36	protein 1512 1516	GILZ
+T37	protein 1524 1528	GILZ
+T38	protein 1680 1684	AP-1

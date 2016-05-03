@@ -1,0 +1,39 @@
+T1	protein 0 37	Kappa B-specific DNA binding proteins
+T2	protein 115 158	Kappa B (kappa B) enhancer binding proteins
+T3	cell_type 197 210	human T cells
+T4	protein 232 255	nucleoprotein complexes
+T5	DNA 280 295	kappa B element
+T6	DNA 305 352	interleukin-2 receptor-alpha (IL-2R alpha) gene
+T7	protein 364 385	DNA-protein complexes
+T8	protein 431 434	p50
+T9	protein 436 439	p55
+T10	protein 441 444	p75
+T11	protein 446 449	p85
+T12	protein 504 526	v-rel oncogene product
+T13	cell_type 648 655	T cells
+T14	protein 657 670	p55/p75 early
+T15	protein 675 687	p50/p85 late
+T16	protein 769 779	B2 complex
+T17	protein 794 797	p50
+T18	protein 802 805	p55
+T19	protein 838 848	B1 complex
+T20	protein 864 867	p50
+T21	protein 869 872	p55
+T22	protein 874 877	p75
+T23	protein 883 886	p85
+T24	DNA 921 959	wild-type IL-2R alpha kappa B enhancer
+T25	protein 1016 1019	p55
+T26	protein 1021 1031	B2 complex
+T27	DNA 1080 1090	5' triplet
+T28	protein 1149 1159	B1 complex
+T29	protein 1187 1190	p75
+T30	protein 1195 1198	p85
+T31	DNA 1254 1270	enhancer element
+T32	protein 1305 1324	Rel-related factors
+T33	DNA 1484 1499	kappa B element
+T34	protein 1706 1721	glucose oxidase
+T35	protein 1743 1746	p75
+T36	protein 1751 1754	p85
+T37	protein 1782 1785	p50
+T38	protein 1790 1793	p55
+T39	protein 1929 1962	Rel-related transcription factors

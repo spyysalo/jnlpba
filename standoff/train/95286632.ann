@@ -1,0 +1,19 @@
+T1	protein 4 24	transcription factor
+T2	protein 26 32	Nm23H2
+T3	DNA 74 86	c-myc allele
+T4	DNA 159 167	PuF site
+T5	DNA 188 200	c-myc allele
+T6	DNA 234 242	PuF site
+T7	DNA 250 276	silent normal c-myc allele
+T8	protein 482 488	Nm23H2
+T9	DNA 535 543	PuF site
+T10	DNA 575 600	c-myc promoter constructs
+T11	cell_line 609 614	DHL-9
+T12	cell_line 619 629	Raji cells
+T13	DNA 648 656	PuF site
+T14	DNA 673 700	positive regulatory element
+T15	cell_type 704 711	B cells
+T16	DNA 802 828	normal silent c-myc allele
+T17	protein 858 864	Nm23H2
+T18	DNA 921 933	c-myc allele
+T19	cell_line 937 961	Burkitt's lymphoma cells

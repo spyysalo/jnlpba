@@ -1,0 +1,37 @@
+T1	protein 0 10	NF-kappa B
+T2	protein 24 49	transcriptional activator
+T3	DNA 57 110	granulocyte-macrophage colony-stimulating factor gene
+T4	protein 152 200	granulocyte-macrophage colony-stimulating factor
+T5	protein 202 208	GM-CSF
+T6	cell_type 240 247	T cells
+T7	protein 253 271	phytohemagglutinin
+T8	protein 319 323	tax1
+T9	protein 327 350	transactivating protein
+T10	DNA 440 498	interleukin-2 receptor alpha-chain and interleukin-2 genes
+T11	DNA 513 530	promoter elements
+T12	protein 545 575	inducible transcription factor
+T13	protein 576 586	NF-kappa B
+T14	protein 594 616	NF-kappa B-like factor
+T15	DNA 664 675	GM-CSF gene
+T16	protein 721 752	NF-kappa B transcription factor
+T17	DNA 899 920	short promoter region
+T18	DNA 928 939	GM-CSF gene
+T19	protein 1008 1012	tax1
+T20	DNA 1021 1046	NF-kappa B-binding motifs
+T21	protein 1139 1155	human NF-kappa B
+T22	protein 1167 1177	NF-kappa B
+T23	cell_line 1191 1205	Jurkat T cells
+T24	DNA 1243 1266	GM-CSF promoter element
+T25	protein 1341 1345	tax1
+T26	protein 1449 1459	NF-kappa B
+T27	DNA 1469 1489	positions -82 to -91
+T28	DNA 1510 1525	GM-CSF promoter
+T29	DNA 1595 1632	biologically functional kappa B motif
+T30	DNA 1640 1664	beta interferon promoter
+T31	DNA 1683 1702	kappa B-like motifs
+T32	DNA 1706 1727	positions -98 to -108
+T33	DNA 1735 1750	GM-CSF promoter
+T34	DNA 1864 1875	GM-CSF gene
+T35	protein 1936 1967	NF-kappa B transcription factor
+T36	DNA 1973 1999	high-affinity binding site
+T37	DNA 2007 2022	GM-CSF promoter

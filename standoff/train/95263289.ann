@@ -1,0 +1,27 @@
+T1	protein 30 43	NF-AT complex
+T2	cell_line 116 140	human CD4+ T-cell clones
+T3	protein 153 168	T-cell receptor
+T4	protein 170 173	TcR
+T5	cell_type 338 345	T cells
+T6	protein 435 438	TcR
+T7	protein 489 511	CD2 and CD25 receptors
+T8	cell_type 555 570	anergic T cells
+T9	DNA 612 621	IL-2 gene
+T10	protein 656 660	IL-2
+T11	protein 717 738	transcription factors
+T12	cell_type 822 829	T cells
+T13	cell_type 952 959	T cells
+T14	protein 1068 1072	IL-2
+T15	DNA 1099 1108	TcR genes
+T16	DNA 1136 1146	TCF-1 site
+T17	cell_type 1176 1215	resting, activated, and anergized cells
+T18	protein 1221 1238	inducible factors
+T19	protein 1239 1249	NK-kappa B
+T20	protein 1251 1258	beta E2
+T21	protein 1260 1266	CD28RC
+T22	protein 1272 1276	AP-1
+T23	cell_type 1298 1311	resting cells
+T24	cell_type 1394 1409	anergic T cells
+T25	protein 1459 1464	NF-AT
+T26	protein 1491 1508	inducible factors
+T27	DNA 1524 1533	IL-2 gene

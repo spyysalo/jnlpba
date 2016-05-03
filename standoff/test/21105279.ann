@@ -1,0 +1,25 @@
+T1	protein 19 48	immediate-early protein BZLF1
+T2	protein 125 149	immediate-early proteins
+T3	protein 406 417	PML protein
+T4	protein 432 442	interferon
+T5	protein 456 496	major histocompatibility complex class I
+T6	protein 655 658	PML
+T7	DNA 823 848	EBV immediate-early genes
+T8	DNA 849 858	BZLF1 (Z)
+T9	DNA 863 872	BRLF1 (R)
+T10	cell_line 876 899	EBV-positive cell lines
+T11	protein 913 916	PML
+T12	protein 967 970	PML
+T13	cell_type 985 1003	EBV-positive cells
+T14	cell_line 1067 1090	EBV-negative cell lines
+T15	DNA 1133 1134	Z
+T16	DNA 1161 1194	transcriptional activation domain
+T17	DNA 1198 1199	Z
+T18	protein 1269 1300	HSV-1 ICP0 and CMV IE1 proteins
+T19	DNA 1302 1303	Z
+T20	protein 1326 1345	SUMO-1-modified PML
+T21	DNA 1366 1367	Z
+T22	DNA 1427 1428	Z
+T23	protein 1443 1446	PML
+T24	protein 1471 1477	SUMO-1
+T25	DNA 1597 1598	Z

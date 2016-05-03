@@ -1,0 +1,33 @@
+T1	protein 49 59	NF-kappa B
+T2	protein 77 120	p56 LCK and ZAP-70 protein tyrosine kinases
+T3	protein 145 162	N-terminal domain
+T4	protein 166 195	I kappa B inhibitory subunits
+T5	protein 222 253	transcription factor NF-kappa B
+T6	protein 377 392	I kappa B-alpha
+T7	protein 462 472	NF-kappa B
+T8	cell_type 476 483	T cells
+T9	protein 532 547	I kappa B-alpha
+T10	protein 758 774	tyrosine kinases
+T11	protein 775 783	p56(lck)
+T12	protein 788 794	ZAP-70
+T13	cell_line 879 893	Jurkat mutants
+T14	protein 918 925	kinases
+T15	protein 1005 1020	I kappa B-alpha
+T16	protein 1034 1044	NF-kappa B
+T17	cell_line 1078 1111	p56(lck)-deficient Jurkat mutants
+T18	protein 1113 1123	NF-kappa B
+T19	protein 1151 1166	I kappa B-alpha
+T20	protein 1218 1228	SH2 domain
+T21	protein 1232 1240	p56(lck)
+T22	protein 1289 1299	NF-kappa B
+T23	protein 1370 1378	p56(lck)
+T24	protein 1383 1389	ZAP-70
+T25	protein 1474 1484	NF-kappa B
+T26	cell_type 1499 1506	T cells
+T27	protein 1524 1540	tyrosine kinases
+T28	protein 1607 1617	NF-kappa B
+T29	protein 1668 1676	p56(lck)
+T30	protein 1681 1687	ZAP-70
+T31	cell_type 1691 1698	T cells
+T32	protein 1719 1729	NF-kappa B
+T33	protein 1766 1781	I kappa B-alpha

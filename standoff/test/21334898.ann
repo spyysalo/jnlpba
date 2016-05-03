@@ -1,0 +1,29 @@
+T1	protein 30 41	galectin-10
+T2	protein 43 84	eosinophil Charcot-Leyden crystal protein
+T3	DNA 89 95	GC box
+T4	protein 161 172	Galectin-10
+T5	protein 174 180	gal-10
+T6	protein 196 226	Charcot-Leyden crystal protein
+T7	protein 247 262	galectin family
+T8	protein 266 299	beta-galactoside binding proteins
+T9	cell_type 330 368	eosinophilic and basophilic leukocytes
+T10	protein 508 514	gal-10
+T11	DNA 532 548	minimal promoter
+T12	DNA 563 586	consensus-binding sites
+T13	protein 591 612	transcription factors
+T14	DNA 659 676	minimal promoters
+T15	DNA 680 704	galectins -1, -2, and -3
+T16	DNA 778 784	GC box
+T17	DNA 805 813	Oct site
+T18	DNA 896 915	GATA and EoTF sites
+T19	protein 1013 1034	transcription factors
+T20	protein 1035 1038	Sp1
+T21	protein 1043 1047	Oct1
+T22	DNA 1055 1071	consensus GC box
+T23	DNA 1080 1088	Oct site
+T24	DNA 1115 1120	gal-1
+T25	DNA 1212 1218	GC box
+T26	DNA 1269 1287	consensus AML site
+T27	protein 1292 1303	YY1 binding
+T28	DNA 1311 1323	Inr sequence
+T29	DNA 1371 1386	gal-10 promoter

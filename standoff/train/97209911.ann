@@ -1,0 +1,16 @@
+T1	cell_line 19 43	U-937 promonocytic cells
+T2	protein 86 106	DNA topoisomerase II
+T3	cell_line 186 225	U-937 human promonocytic leukemia cells
+T4	protein 233 253	DNA topoisomerase II
+T5	protein 399 412	topoisomerase
+T6	protein 920 936	protein kinase C
+T7	protein 1014 1035	membrane-bound enzyme
+T8	protein 1091 1126	membrane-bound and cytosolic enzyme
+T9	protein 1284 1297	topoisomerase
+T10	protein 1339 1343	AP-1
+T11	cell_type 1437 1459	ICRF-193-treated cells
+T12	protein 1502 1513	NF-kappa(B)
+T13	protein 1518 1523	EGR-1
+T14	protein 1524 1545	transcription factors
+T15	protein 1796 1812	protein kinase C
+T16	protein 1898 1911	topoisomerase

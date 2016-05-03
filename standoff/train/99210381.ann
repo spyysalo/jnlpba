@@ -1,0 +1,29 @@
+T1	protein 14 23	NF-kappaB
+T2	protein 63 85	interleukin-2 receptor
+T3	cell_type 100 122	mononuclear phagocytes
+T4	protein 132 160	interleukin-2 receptor-alpha
+T5	protein 162 172	IL-2Ralpha
+T6	protein 382 392	IL-2Ralpha
+T7	cell_type 396 430	bronchoalveolar lavage (BAL) cells
+T8	protein 535 545	IL-2Ralpha
+T9	cell_line 556 593	THP-1 mononuclear phagocyte cell line
+T10	protein 604 614	IL-2Ralpha
+T11	protein 727 738	alpha-chain
+T12	protein 742 752	IL-2Ralpha
+T13	cell_type 756 782	peripheral blood monocytes
+T14	cell_type 784 787	PBM
+T15	protein 891 901	IL-2Ralpha
+T16	protein 986 1002	interferon-gamma
+T17	protein 1004 1013	IFN-gamma
+T18	DNA 1020 1039	IL-2Ralpha promoter
+T19	DNA 1055 1094	nuclear factor kappa B (NF-kappaB) site
+T20	protein 1153 1162	NF-kappaB
+T21	DNA 1199 1249	heterologous herpes thymidine kinase (TK) promoter
+T22	DNA 1368 1382	NF-kappaB site
+T23	protein 1449 1452	p50
+T24	protein 1457 1469	p65 subunits
+T25	protein 1473 1482	NF-kappaB
+T26	protein 1517 1520	p50
+T27	protein 1525 1537	p65 proteins
+T28	protein 1593 1603	IL-2Ralpha
+T29	cell_type 1607 1629	mononuclear phagocytes

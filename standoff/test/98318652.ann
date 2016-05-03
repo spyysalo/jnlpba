@@ -1,0 +1,35 @@
+T1	protein 38 43	Egr-1
+T2	protein 71 94	murine pulmonary fibrin
+T3	protein 252 258	fibrin
+T4	protein 299 312	tissue factor
+T5	protein 328 366	oxygen-deprived mononuclear phagocytes
+T6	protein 368 371	MPs
+T7	protein 391 446	transcription factor early-growth-response gene product
+T8	protein 448 453	Egr-1
+T9	protein 570 583	tissue factor
+T10	protein 601 604	MPs
+T11	cell_line 609 619	HeLa cells
+T12	RNA 693 718	tissue factor transcripts
+T13	protein 885 896	hypoxic MPs
+T14	cell_line 901 911	HeLa cells
+T15	DNA 963 984	serum response region
+T16	DNA 1011 1033	tissue factor promoter
+T17	DNA 1037 1049	Egr-1 motifs
+T18	cell_line 1188 1198	HeLa cells
+T19	protein 1224 1229	Egr-1
+T20	cell_line 1290 1300	HeLa cells
+T21	DNA 1306 1323	chimeric plasmids
+T22	protein 1335 1358	wild-type or mutant SRR
+T23	DNA 1368 1390	tissue factor promoter
+T24	DNA 1403 1419	intact Sp1 sites
+T25	DNA 1488 1499	Egr-1 sites
+T26	protein 1565 1570	Egr-1
+T27	protein 1661 1666	Egr-1
+T28	protein 1706 1748	oxygen deprivation expressed tissue factor
+T29	protein 1760 1766	fibrin
+T30	protein 1802 1807	Egr-1
+T31	protein 1836 1849	tissue factor
+T32	protein 1854 1860	fibrin
+T33	protein 1919 1925	fibrin
+T34	protein 1988 1993	Egr-1
+T35	protein 2022 2035	tissue factor

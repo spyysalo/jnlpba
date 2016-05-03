@@ -1,0 +1,35 @@
+T1	protein 0 18	Vitamin D receptor
+T2	cell_type 33 50	human lymphocytes
+T3	protein 176 192	receptor protein
+T4	cell_type 238 255	human lymphocytes
+T5	protein 300 328	classical vitamin D receptor
+T6	cell_type 344 355	Lymphocytes
+T7	protein 375 388	OKT3 antibody
+T8	protein 396 419	T-cell antigen receptor
+T9	cell_type 465 476	lymphocytes
+T10	protein 525 543	phytohemagglutinin
+T11	protein 545 548	PHA
+T12	protein 575 579	OKT3
+T13	cell_line 667 686	PHA-activated cells
+T14	protein 706 710	OKT3
+T15	protein 715 719	OKT3
+T16	cell_type 747 769	-activated lymphocytes
+T17	cell_type 827 852	PHA-activated lymphocytes
+T18	cell_type 857 868	lymphocytes
+T19	protein 889 892	PHA
+T20	protein 896 900	OKT3
+T21	cell_type 913 926	resting cells
+T22	protein 931 945	50-kDa species
+T23	protein 968 987	monoclonal antibody
+T24	protein 1000 1029	intestinal vitamin D receptor
+T25	cell_type 1062 1083	activated lymphocytes
+T26	DNA 1170 1195	196 base pair long region
+T27	protein 1209 1227	DNA-binding domain
+T28	protein 1235 1260	human intestinal receptor
+T29	DNA 1294 1323	identical nucleotide sequence
+T30	protein 1331 1349	DNA-binding domain
+T31	protein 1357 1382	human intestinal receptor
+T32	protein 1430 1451	1,25-(OH)2D3 receptor
+T33	cell_type 1455 1466	lymphocytes
+T34	RNA 1545 1549	mRNA
+T35	protein 1583 1611	classical vitamin D receptor

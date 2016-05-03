@@ -1,0 +1,47 @@
+T1	protein 0 39	Epstein-Barr virus-transforming protein
+T2	protein 40 75	latent infection membrane protein 1
+T3	protein 86 116	transcription factor NF-kappaB
+T4	protein 153 178	NF-kappaB-inducing kinase
+T5	protein 187 202	IkappaB kinases
+T6	protein 203 211	IKKalpha
+T7	protein 216 223	IKKbeta
+T8	protein 229 259	Epstein-Barr virus oncoprotein
+T9	protein 260 295	latent infection membrane protein 1
+T10	protein 297 301	LMP1
+T11	protein 334 371	pseudo-tumor necrosis factor receptor
+T12	protein 373 377	TNFR
+T13	protein 394 424	transcription factor NF-kappaB
+T14	protein 450 479	C-terminal cytoplasmic domain
+T15	protein 514 520	TNFRII
+T16	protein 541 564	TNFR-associated factors
+T17	protein 565 570	TRAF1
+T18	protein 575 580	TRAF2
+T19	protein 616 621	TNFRI
+T20	protein 646 684	TNFRI death domain interacting protein
+T21	protein 685 690	TRADD
+T22	protein 692 697	TNFRI
+T23	protein 734 743	NF-kappaB
+T24	protein 769 774	TRADD
+T25	protein 776 779	RIP
+T26	protein 785 790	TRAF2
+T27	protein 810 835	NF-kappaB-inducing kinase
+T28	protein 837 840	NIK
+T29	protein 861 882	IkappaB alpha kinases
+T30	protein 884 892	IKKalpha
+T31	protein 897 904	IKKbeta
+T32	protein 930 943	IkappaB alpha
+T33	protein 945 958	IkappaB alpha
+T34	protein 1031 1040	NF-kappaB
+T35	protein 1082 1091	NF-kappaB
+T36	protein 1106 1110	LMP1
+T37	protein 1129 1143	effector sites
+T38	protein 1183 1186	NIK
+T39	protein 1188 1196	IKKalpha
+T40	protein 1202 1209	IKKbeta
+T41	protein 1211 1236	Dominant negative mutants
+T42	protein 1240 1243	NIK
+T43	protein 1245 1253	IKKalpha
+T44	protein 1258 1265	IKKbeta
+T45	protein 1290 1299	NF-kappaB
+T46	protein 1314 1318	LMP1
+T47	protein 1337 1351	effector sites

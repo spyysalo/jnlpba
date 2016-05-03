@@ -1,0 +1,28 @@
+T1	protein 13 46	vascular cell adhesion molecule-1
+T2	protein 50 73	low-density lipoprotein
+T3	protein 75 98	Low-density lipoprotein
+T4	protein 100 103	LDL
+T5	protein 316 319	LDL
+T6	cell_type 348 357	monocytes
+T7	protein 474 496	atheogenic lipoprotein
+T8	protein 498 501	LDL
+T9	protein 579 582	LDL
+T10	protein 595 628	vascular cell adhesion molecule-1
+T11	protein 630 636	VCAM-1
+T12	DNA 714 727	VCAM promoter
+T13	protein 755 775	anti-VCAM antibodies
+T14	protein 805 808	LDL
+T15	protein 825 835	NF-kappa B
+T16	protein 895 899	VCAM
+T17	protein 975 979	AP-1
+T18	protein 984 988	GATA
+T19	protein 1026 1029	LDL
+T20	protein 1052 1055	LDL
+T21	cell_type 1092 1101	monocytes
+T22	protein 1119 1125	VCAM-1
+T23	protein 1175 1179	AP-1
+T24	protein 1184 1188	GATA
+T25	protein 1210 1213	LDL
+T26	protein 1219 1223	VCAM
+T27	protein 1255 1264	cytokines
+T28	protein 1269 1278	endotoxin

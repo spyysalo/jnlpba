@@ -1,0 +1,47 @@
+T1	protein 0 27	Staphylococcal enterotoxins
+T2	protein 37 59	interleukin 2 receptor
+T3	protein 122 153	Janus protein-tyrosine kinase 3
+T4	protein 155 159	Jak3
+T5	protein 165 215	signal transducers and activators of transcription
+T6	protein 217 230	Stat proteins
+T7	protein 233 260	Staphylococcal enterotoxins
+T8	protein 262 264	SE
+T9	cell_type 276 283	T cells
+T10	protein 311 366	variable region beta chain of (V beta) T-cell receptors
+T11	protein 480 482	SE
+T12	cell_type 524 531	T cells
+T13	protein 546 548	SE
+T14	protein 563 576	interleukin-2
+T15	protein 578 582	IL-2
+T16	protein 638 640	SE
+T17	protein 721 764	IL-2 receptor (IL-2R) beta and gamma chains
+T18	protein 766 776	IL-2R beta
+T19	protein 781 792	IL-2R gamma
+T20	cell_line 797 837	human antigen-specific CD4+ T-cell lines
+T21	protein 871 874	SEA
+T22	protein 879 882	SEB
+T23	protein 902 912	IL-2R beta
+T24	protein 933 944	IL-2R gamma
+T25	protein 978 989	IL-2R alpha
+T26	protein 1053 1059	IL-2Rs
+T27	protein 1094 1098	IL-2
+T28	protein 1139 1170	Janus protein-tyrosine kinase 3
+T29	protein 1172 1176	Jak3
+T30	protein 1182 1232	signal transducers and activators of transcription
+T31	protein 1240 1245	Stat3
+T32	protein 1250 1255	Stat5
+T33	protein 1282 1286	IL-2
+T34	protein 1364 1366	SE
+T35	protein 1386 1396	IL-2R beta
+T36	protein 1425 1435	IL2R alpha
+T37	protein 1440 1450	IL2R gamma
+T38	protein 1524 1528	Jak3
+T39	protein 1533 1546	Stat proteins
+T40	protein 1575 1579	IL-2
+T41	protein 1676 1680	Jak3
+T42	protein 1680 1685	/Stat
+T43	protein 1729 1731	SE
+T44	protein 1782 1784	SE
+T45	protein 1798 1803	IL-2R
+T46	protein 1853 1861	Jak/Stat
+T47	cell_line 1873 1890	CD4+ T-cell lines

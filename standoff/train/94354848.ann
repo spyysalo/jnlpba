@@ -1,0 +1,17 @@
+T1	protein 31 43	CD4 molecule
+T2	cell_type 47 60	T lymphocytes
+T3	protein 70 80	NF-kappa B
+T4	protein 108 137	native envelope glycoproteins
+T5	protein 183 203	transcription factor
+T6	protein 205 215	NF-kappa B
+T7	protein 275 287	CD4 molecule
+T8	protein 321 324	CD4
+T9	protein 353 385	gp160-induced NF-kappa B complex
+T10	protein 398 401	p65
+T11	protein 403 406	p50
+T12	protein 411 425	c-rel proteins
+T13	protein 462 472	NF-kappa B
+T14	protein 601 617	protein kinase C
+T15	protein 652 662	NF-kappa B
+T16	cell_type 666 686	CD4 positive T cells
+T17	protein 792 800	cytokine

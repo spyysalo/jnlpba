@@ -1,0 +1,44 @@
+T1	DNA 18 46	upstream regulatory elements
+T2	DNA 74 102	adult beta-like globin genes
+T3	DNA 187 199	cis-elements
+T4	DNA 243 271	adult beta-like globin genes
+T5	DNA 273 278	delta
+T6	DNA 283 287	beta
+T7	cell_line 384 394	K562 cells
+T8	cell_line 399 424	erythroleukemia cell line
+T9	DNA 469 482	DNA sequences
+T10	DNA 492 526	delta and beta 5' flanking regions
+T11	DNA 556 569	-500 to +50bp
+T12	DNA 571 587	promoter regions
+T13	DNA 610 634	beta 5' flanking regions
+T14	DNA 664 678	-250 to +50 bp
+T15	DNA 684 715	chimeric promoter constructions
+T16	DNA 745 767	delta or beta fragment
+T17	DNA 779 810	proximal beta or delta sequence
+T18	DNA 815 841	CAT reporter constructions
+T19	protein 866 869	CAT
+T20	DNA 900 920	beta globin promoter
+T21	DNA 957 971	delta promoter
+T22	DNA 991 1011	beta globin promoter
+T23	DNA 1090 1106	upstream portion
+T24	DNA 1114 1128	delta promoter
+T25	DNA 1186 1215	upstream beta globin sequence
+T26	DNA 1268 1282	delta promoter
+T27	DNA 1398 1431	beta globin gene upstream element
+T28	DNA 1450 1466	upstream portion
+T29	DNA 1474 1488	delta promoter
+T30	DNA 1506 1526	beta globin promoter
+T31	DNA 1590 1618	truncated beta gene promoter
+T32	DNA 1649 1681	positive transcriptional element
+T33	DNA 1692 1731	upstream delta globin regulatory region
+T34	protein 1784 1814	repressor proteins BP1 and BP2
+T35	DNA 1822 1838	upstream portion
+T36	DNA 1846 1878	beta globin gene flanking region
+T37	protein 1928 1935	DNase I
+T38	DNA 1956 1984	upstream delta-globin region
+T39	DNA 1994 2013	protected sequences
+T40	DNA 2031 2054	consensus binding sites
+T41	protein 2059 2065	GATA-1
+T42	protein 2070 2073	BP2
+T43	DNA 2119 2143	upstream promoter region
+T44	DNA 2151 2173	adult beta globin gene

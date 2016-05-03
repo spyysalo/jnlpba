@@ -1,0 +1,47 @@
+T1	protein 12 27	nuclear factors
+T2	DNA 60 97	interleukin-4 and interleukin-5 genes
+T3	cell_type 101 115	helper T cells
+T4	cell_line 117 146	Mouse thymoma line EL-4 cells
+T5	protein 155 164	cytokines
+T6	protein 173 191	interleukin (IL)-2
+T7	protein 193 197	IL-3
+T8	protein 199 203	IL-4
+T9	protein 205 210	IL-10
+T10	protein 216 264	granulocyte-macrophage colony-stimulating factor
+T11	cell_line 319 329	EL-4 cells
+T12	protein 357 361	IL-5
+T13	protein 437 441	IL-5
+T14	DNA 569 582	IL-5 promoter
+T15	DNA 666 686	endogenous IL-2 gene
+T16	DNA 715 728	IL-2 promoter
+T17	DNA 762 771	IL-5 gene
+T18	DNA 841 850	IL-2 gene
+T19	protein 863 878	nuclear factors
+T20	protein 880 883	NFs
+T21	DNA 920 933	IL-5 promoter
+T22	protein 976 978	NF
+T23	cell_type 983 999	activated t cell
+T24	DNA 1005 1015	P sequence
+T25	DNA 1023 1032	IL-4 gene
+T26	DNA 1047 1065	responsive element
+T27	DNA 1142 1194	NF kappa B and the NF-activated T cell binding sites
+T28	protein 1230 1235	NF(P)
+T29	DNA 1271 1281	P sequence
+T30	protein 1297 1307	NF-kappa B
+T31	protein 1312 1347	nuclear factor for activated T cell
+T32	protein 1349 1354	NF-AT
+T33	protein 1394 1404	NF-kappa B
+T34	protein 1406 1409	P65
+T35	protein 1413 1432	P65/P50 heterodimer
+T36	protein 1438 1443	NF-AT
+T37	DNA 1457 1467	P sequence
+T38	protein 1502 1507	NF-AT
+T39	protein 1536 1541	NF(P)
+T40	protein 1570 1573	P65
+T41	protein 1590 1595	NF(P)
+T42	protein 1654 1659	NF-AT
+T43	protein 1695 1700	NF(P)
+T44	protein 1710 1720	NF-kappa B
+T45	protein 1748 1753	NF(P)
+T46	protein 1822 1840	NF-AT-like factors
+T47	DNA 1875 1894	IL-4 and IL-5 genes

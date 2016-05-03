@@ -1,0 +1,32 @@
+T1	cell_type 18 58	human peripheral blood mononuclear cells
+T2	protein 64 68	IL-2
+T3	protein 73 103	anti-CD3 monoclonal antibodies
+T4	protein 131 135	CREB
+T5	protein 160 202	cAMP-response element binding protein CREB
+T6	protein 217 220	CD2
+T7	protein 229 232	CD3
+T8	cell_type 250 260	human PBMC
+T9	protein 303 309	P-CREB
+T10	protein 414 418	CREB
+T11	cell_line 454 481	Jurkat lymphocyte cell line
+T12	cell_line 490 504	Jurkat T-cells
+T13	protein 552 556	IL-2
+T14	protein 618 622	CREB
+T15	cell_type 626 645	primary lymphocytes
+T16	protein 658 664	P-CREB
+T17	cell_type 707 717	human PBMC
+T18	protein 730 759	IL-2 and CD2 or CD3 receptors
+T19	protein 761 765	IL-2
+T20	protein 809 813	CREB
+T21	protein 866 870	IL-2
+T22	protein 907 913	P-CREB
+T23	protein 957 961	CREB
+T24	protein 1126 1132	P-CREB
+T25	protein 1178 1184	p56lck
+T26	protein 1188 1194	p59fyn
+T27	cell_type 1372 1400	IL-2/CD3 co-stimulated cells
+T28	protein 1498 1512	exogenous IL-2
+T29	protein 1540 1544	CREB
+T30	protein 1666 1670	IL-2
+T31	protein 1675 1678	CD3
+T32	protein 1773 1777	CREB

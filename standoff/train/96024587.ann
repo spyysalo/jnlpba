@@ -1,0 +1,22 @@
+T1	protein 0 5	HMG-I
+T2	DNA 15 26	GATA motifs
+T3	protein 95 110	nuclear protein
+T4	protein 111 116	HMG-I
+T5	DNA 124 151	human gamma-globin promoter
+T6	protein 166 171	HMG-I
+T7	DNA 221 232	GATA motifs
+T8	DNA 240 261	gamma-globin promoter
+T9	protein 297 320	erythroid factor GATA-1
+T10	protein 385 390	HMG-I
+T11	protein 420 432	gamma-globin
+T12	cell_type 436 457	adult red blood cells
+T13	cell_type 459 463	HPFH
+T14	DNA 490 511	gamma-globin promoter
+T15	protein 543 548	HMG-I
+T16	DNA 571 586	mutant sequence
+T17	DNA 600 611	GATA motifs
+T18	DNA 623 642	globin cis-elements
+T19	protein 656 661	HMG-I
+T20	protein 712 717	HMG-I
+T21	cell_type 725 729	HPFH
+T22	protein 798 820	multiprotein complexes

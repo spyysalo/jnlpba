@@ -1,0 +1,35 @@
+T1	protein 4 14	NF-kappa B
+T2	protein 74 97	cell adhesion molecules
+T3	protein 98 103	CD62E
+T4	protein 105 115	CD11b/CD18
+T5	protein 120 125	CD106
+T6	protein 165 179	cyclooxygenase
+T7	protein 184 198	5-lipoxygenase
+T8	protein 360 370	NF-kappa B
+T9	protein 434 467	intercellular adhesion molecule-1
+T10	protein 468 488	(ICAM-1, CD54)/MAC-1
+T11	protein 490 500	CD11b/CD18
+T12	cell_type 524 547	polymorphonuclear cells
+T13	protein 551 555	IL-1
+T14	cell_type 566 604	human umbilical vein endothelial cells
+T15	protein 687 705	adhesion molecules
+T16	protein 819 834	P65/p50 subunit
+T17	protein 838 848	NF-kappa B
+T18	protein 913 923	CD11b/CD18
+T19	cell_line 927 947	monocytic HL60 cells
+T20	protein 953 984	endothelial adhesion molecule-1
+T21	protein 986 991	CD62E
+T22	protein 997 1025	vascular adhesion molecule-1
+T23	protein 1027 1032	CD106
+T24	cell_type 1037 1075	human umbilical vein endothelial cells
+T25	protein 1097 1115	adhesion molecules
+T26	protein 1124 1164	lymphocyte function associated-antigen-1
+T27	protein 1166 1176	CD11a/CD18
+T28	protein 1182 1186	CD54
+T29	protein 1248 1278	NF-kappa B regulated chemokine
+T30	protein 1280 1284	IL-8
+T31	protein 1305 1315	CD11b/CD18
+T32	protein 1352 1362	CD11b/CD18
+T33	protein 1399 1403	IL-8
+T34	protein 1444 1454	NF-kappa B
+T35	protein 1497 1515	adhesion molecules

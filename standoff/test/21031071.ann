@@ -1,0 +1,39 @@
+T1	cell_type 50 57	B cells
+T2	cell_type 81 88	B cells
+T3	protein 97 100	Fas
+T4	protein 102 107	APO-1
+T5	protein 109 113	CD95
+T6	protein 229 232	Fas
+T7	protein 273 276	Fas
+T8	protein 364 367	Fas
+T9	protein 411 414	Fas
+T10	protein 456 460	CD40
+T11	protein 481 503	Surface immunoglobulin
+T12	protein 508 513	IL-4R
+T13	protein 570 573	Fas
+T14	protein 615 618	PKC
+T15	protein 623 628	STAT6
+T16	protein 700 703	Fas
+T17	protein 724 727	Btk
+T18	protein 738 747	NF-kappaB
+T19	cell_type 813 819	B cell
+T20	protein 820 823	Fas
+T21	protein 853 881	anti-apoptotic gene products
+T22	protein 883 889	Bcl-xL
+T23	protein 894 898	FLIP
+T24	DNA 912 931	anti-apoptotic gene
+T25	protein 945 949	FAIM
+T26	protein 951 984	Fas Apoptosis Inhibitory Molecule
+T27	protein 987 991	faim
+T28	protein 1078 1084	faim-S
+T29	DNA 1153 1166	FAIM sequence
+T30	protein 1298 1301	Fas
+T31	cell_type 1362 1369	B cells
+T32	cell_type 1417 1437	FasL-bearing T cells
+T33	cell_type 1447 1467	autoreactive B cells
+T34	protein 1483 1486	Fas
+T35	protein 1517 1520	Fas
+T36	protein 1584 1587	Fas
+T37	cell_type 1610 1630	autoreactive B cells
+T38	protein 1641 1644	Fas
+T39	cell_type 1659 1680	malignant lymphocytes

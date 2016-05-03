@@ -1,0 +1,28 @@
+T1	protein 38 47	chemokine
+T2	cell_type 62 96	peripheral blood mononuclear cells
+T3	protein 277 280	IgE
+T4	protein 375 396	chemotactic cytokines
+T5	cell_type 428 446	inflammatory cells
+T6	RNA 517 521	mRNA
+T7	protein 536 540	IL-8
+T8	protein 542 547	MCP-1
+T9	protein 553 559	RANTES
+T10	cell_type 563 568	PBMCs
+T11	RNA 672 676	mRNA
+T12	protein 752 756	IL-8
+T13	protein 761 767	RANTES
+T14	protein 909 914	MCP-1
+T15	RNA 977 990	Messenger RNA
+T16	protein 1013 1017	IL-8
+T17	protein 1019 1025	RANTES
+T18	protein 1031 1036	MCP-1
+T19	protein 1089 1111	correspondent proteins
+T20	protein 1199 1204	MCP-1
+T21	protein 1242 1246	IL-8
+T22	protein 1251 1257	RANTES
+T23	cell_type 1287 1310	DEP-PAH-activated cells
+T24	cell_type 1405 1416	neutrophils
+T25	cell_type 1421 1432	eosinophils
+T26	protein 1489 1498	anti-IL-8
+T27	protein 1503 1514	anti-RANTES
+T28	protein 1598 1607	chemokine

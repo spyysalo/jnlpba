@@ -1,0 +1,18 @@
+T1	protein 0 25	Transcription factor LKLF
+T2	cell_type 101 114	T lymphocytes
+T3	protein 167 182	cognate antigen
+T4	cell_type 210 233	antigen-presenting cell
+T5	protein 357 395	lung Kruppel-like transcription factor
+T6	protein 397 401	LKLF
+T7	cell_line 406 420	Jurkat T cells
+T8	cell_type 618 651	LKLF-deficient peripheral T cells
+T9	protein 794 798	LKLF
+T10	DNA 871 885	proto-oncogene
+T11	protein 895 900	c-Myc
+T12	protein 923 927	LKLF
+T13	protein 967 972	c-Myc
+T14	protein 1014 1018	LKLF
+T15	protein 1065 1097	dominant-negative MadMyc protein
+T16	protein 1131 1136	c-Myc
+T17	protein 1144 1148	LKLF
+T18	cell_type 1207 1214	T cells

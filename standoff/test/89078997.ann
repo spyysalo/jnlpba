@@ -1,0 +1,34 @@
+T1	protein 0 24	Octamer-binding proteins
+T2	cell_line 30 45	B or HeLa cells
+T3	DNA 77 112	immunoglobulin heavy-chain promoter
+T4	cell_type 127 133	B-cell
+T5	protein 158 172	immunoglobulin
+T6	protein 174 176	Ig
+T7	DNA 234 263	octanucleotide (OCTA) element
+T8	DNA 320 347	RNA polymerase II promoters
+T9	protein 394 410	nuclear proteins
+T10	DNA 464 476	OCTA element
+T11	protein 499 504	NF-A1
+T12	protein 568 573	NF-A2
+T13	cell_type 601 608	B cells
+T14	protein 641 646	NF-A2
+T15	DNA 697 708	Ig promoter
+T16	protein 713 718	NF-A1
+T17	DNA 755 767	OCTA element
+T18	cell_line 785 796	B-cell line
+T19	cell_line 798 803	BJA-B
+T20	protein 828 833	NF-A2
+T21	DNA 862 874	Ig promoters
+T22	cell_line 903 913	HeLa cells
+T23	DNA 930 941	Ig promoter
+T24	DNA 1109 1120	Ig promoter
+T25	protein 1158 1183	OCTA-binding factor NF-A1
+T26	DNA 1218 1229	Ig promoter
+T27	cell_type 1239 1245	B-cell
+T28	protein 1369 1389	OCTA-binding protein
+T29	protein 1399 1404	NF-A1
+T30	protein 1419 1421	Ig
+T31	DNA 1490 1501	Ig promoter
+T32	DNA 1528 1543	snRNA promoters
+T33	DNA 1597 1609	OCTA element
+T34	DNA 1632 1641	promoters

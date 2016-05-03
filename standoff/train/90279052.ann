@@ -1,0 +1,17 @@
+T1	protein 8 22	T-cell protein
+T2	DNA 42 62	palindromic sequence
+T3	DNA 70 97	negative regulatory element
+T4	DNA 105 154	human immunodeficiency virus long terminal repeat
+T5	DNA 160 187	major protein-binding sites
+T6	DNA 199 226	negative regulatory element
+T7	DNA 234 290	human immunodeficiency virus type 1 long terminal repeat
+T8	DNA 318 324	site B
+T9	DNA 338 358	palindromic sequence
+T10	DNA 376 417	steroid/thyroid hormone response elements
+T11	protein 498 512	T-cell protein
+T12	DNA 528 548	palindromic sequence
+T13	DNA 556 562	site B
+T14	DNA 578 624	estrogen- or thyroid hormone-response elements
+T15	DNA 676 693	site B palindrome
+T16	DNA 770 826	human immunodeficiency virus type 1 long terminal repeat
+T17	cell_type 830 837	T cells

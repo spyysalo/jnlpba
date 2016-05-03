@@ -1,0 +1,43 @@
+T1	protein 0 4	CD28
+T2	protein 28 32	IL-2
+T3	protein 126 130	IL-2
+T4	cell_type 191 218	lamina propria (LP) T cells
+T5	cell_type 238 256	peripheral T cells
+T6	cell_type 258 268	LP T cells
+T7	protein 286 290	IL-2
+T8	protein 328 331	CD2
+T9	protein 355 359	CD28
+T10	protein 396 400	IL-2
+T11	protein 452 456	CD28
+T12	protein 473 476	TCR
+T13	cell_type 499 523	peripheral blood T cells
+T14	protein 565 569	IL-2
+T15	DNA 579 600	CD28 response element
+T16	DNA 602 608	CD28RE
+T17	protein 701 705	CD28
+T18	protein 723 727	IL-2
+T19	cell_type 742 769	LP mononuclear cells (LPMC)
+T20	cell_type 771 775	LPMC
+T21	protein 796 800	IL-2
+T22	protein 827 831	CD28
+T23	protein 885 888	CD2
+T24	protein 896 900	IL-2
+T25	RNA 953 962	IL-2 mRNA
+T26	RNA 988 997	IL-2 mRNA
+T27	cell_type 1054 1058	PBMC
+T28	protein 1079 1083	CD28
+T29	cell_type 1098 1116	CD2-activated LPMC
+T30	DNA 1178 1184	CD28RE
+T31	protein 1226 1239	I-kappaBalpha
+T32	protein 1243 1255	I-kappaBbeta
+T33	protein 1273 1277	CD28
+T34	protein 1303 1307	CD28
+T35	DNA 1336 1358	IL-2 promoter-reporter
+T36	protein 1362 1367	RE/AP
+T37	cell_type 1392 1410	CD2-activated LPMC
+T38	protein 1491 1495	CD28
+T39	protein 1526 1530	IL-2
+T40	cell_type 1544 1554	LP T cells
+T41	cell_type 1616 1640	peripheral blood T cells
+T42	protein 1723 1727	IL-2
+T43	protein 1776 1795	cytokine repertoire

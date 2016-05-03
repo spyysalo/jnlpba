@@ -1,0 +1,35 @@
+T1	protein 0 12	Steel factor
+T2	protein 21 24	SCL
+T3	protein 77 89	Steel factor
+T4	protein 104 118	growth factors
+T5	cell_type 174 193	hematopoietic cells
+T6	protein 198 201	SCL
+T7	protein 217 222	Tcl-5
+T8	protein 226 231	Tal-1
+T9	protein 238 258	transcription factor
+T10	cell_type 354 405	human peripheral blood burst-forming unit-erythroid
+T11	cell_type 407 412	BFU-E
+T12	protein 433 445	Steel factor
+T13	protein 449 452	SCL
+T14	cell_type 467 496	proliferating erythroid cells
+T15	cell_line 498 520	BFU-E-derived colonies
+T16	protein 714 725	SCL protein
+T17	cell_line 736 755	BFU-E-derived cells
+T18	protein 874 877	SCL
+T19	RNA 921 929	SCL mRNA
+T20	protein 1091 1102	SCL protein
+T21	protein 1125 1128	SCL
+T22	protein 1132 1144	Steel factor
+T23	cell_line 1199 1221	BFU-E-derived colonies
+T24	protein 1236 1248	Steel factor
+T25	cell_type 1331 1351	erythroid precursors
+T26	protein 1366 1378	Steel factor
+T27	protein 1380 1391	SCL protein
+T28	protein 1457 1460	SCL
+T29	cell_type 1485 1505	erythroid precursors
+T30	protein 1522 1534	Steel factor
+T31	protein 1572 1584	Steel factor
+T32	RNA 1629 1637	SCL mRNA
+T33	protein 1732 1744	Steel factor
+T34	protein 1846 1857	SCL protein
+T35	protein 1882 1887	Steel

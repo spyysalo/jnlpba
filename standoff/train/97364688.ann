@@ -1,0 +1,28 @@
+T1	DNA 12 18	X2 box
+T2	DNA 55 67	DRA promoter
+T3	cell_type 71 78	B cells
+T4	DNA 139 145	X2 box
+T5	DNA 153 161	promoter
+T6	DNA 169 181	HLA-DRA gene
+T7	protein 191 229	human major histocompatibility complex
+T8	protein 231 234	MHC
+T9	cell_type 261 268	B cells
+T10	DNA 270 275	NF-X2
+T11	protein 307 329	AP-1/ATF/CREB families
+T12	protein 333 354	transcription factors
+T13	DNA 375 381	X2 box
+T14	DNA 431 443	DRA promoter
+T15	cell_line 456 466	Raji cells
+T16	DNA 496 502	X2 box
+T17	cell_type 539 546	B cells
+T18	DNA 654 660	X2 box
+T19	DNA 665 670	NF-X2
+T20	protein 682 687	c-Fos
+T21	DNA 857 869	DRA promoter
+T22	DNA 885 897	DRA promoter
+T23	DNA 939 945	X2 box
+T24	protein 996 1001	c-Fos
+T25	DNA 1087 1095	DRA gene
+T26	DNA 1132 1138	X2 box
+T27	DNA 1143 1148	NF-X2
+T28	protein 1165 1170	c-Fos

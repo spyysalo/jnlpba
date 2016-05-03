@@ -1,0 +1,13 @@
+T1	cell_type 0 11	Lymphocytes
+T2	protein 37 50	47 kDa factor
+T3	DNA 73 107	genomic sterol regulatory sequence
+T4	DNA 300 339	human genomic sterol regulatory element
+T5	DNA 341 344	SRE
+T6	protein 473 494	47 kDa protein factor
+T7	DNA 520 532	SRE sequence
+T8	cell_type 536 547	lymphocytes
+T9	cell_type 596 607	lymphocytes
+T10	protein 748 764	alpha-interferon
+T11	DNA 841 858	LDL receptor gene
+T12	protein 932 953	47 kDa protein factor
+T13	DNA 961 973	SRE sequence

@@ -1,0 +1,42 @@
+T1	DNA 23 50	interleukin-1alpha promoter
+T2	protein 54 113	human T-cell leukemia virus type I and type II Tax proteins
+T3	cell_line 115 180	Human T-cell leukemia virus type I (HTLV-I)-infected T-cell lines
+T4	protein 219 237	interleukin-1alpha
+T5	protein 239 248	IL-1alpha
+T6	protein 308 317	IL-1alpha
+T7	cell_line 321 347	HTLV-I-infected cell lines
+T8	DNA 392 410	IL-1alpha promoter
+T9	DNA 441 455	IL-1alpha gene
+T10	DNA 457 486	IL-1alpha promoter constructs
+T11	DNA 514 567	chloramphenicol acetyltransferase (CAT) reporter gene
+T12	cell_line 571 597	HTLV-I-positive MT-2 cells
+T13	protein 628 637	IL-1alpha
+T14	protein 670 681	Tax protein
+T15	DNA 755 773	IL-1alpha promoter
+T16	cell_line 780 807	uninfected Jurkat cell line
+T17	protein 818 829	Tax protein
+T18	protein 875 901	nuclear factor (NF)-kappaB
+T19	DNA 959 992	IL-1alpha promoter-CAT constructs
+T20	protein 1036 1043	p65/p50
+T21	protein 1044 1053	NF-kappaB
+T22	DNA 1073 1100	IL-1alpha kappaB-like sites
+T23	DNA 1112 1128	-1,065 to -1,056
+T24	DNA 1133 1145	+646 to +655
+T25	protein 1182 1191	NF-kappaB
+T26	cell_line 1224 1234	MT-2 cells
+T27	protein 1244 1253	NF-kappaB
+T28	DNA 1288 1313	3' NF-kappaB binding site
+T29	DNA 1326 1343	5' NF-kappaB site
+T30	DNA 1374 1398	5' or 3' NF-kappaB sites
+T31	DNA 1407 1425	IL-1alpha promoter
+T32	cell_line 1438 1448	MT-2 cells
+T33	DNA 1476 1494	IL-1alpha promoter
+T34	protein 1508 1517	NF-kappaB
+T35	protein 1522 1525	Tax
+T36	cell_line 1529 1541	Jurkat cells
+T37	protein 1581 1584	Tax
+T38	DNA 1598 1612	IL-1alpha gene
+T39	protein 1634 1643	NF-kappaB
+T40	protein 1667 1676	IL-1alpha
+T41	cell_type 1700 1714	infected cells
+T42	protein 1806 1824	C-reactive protein

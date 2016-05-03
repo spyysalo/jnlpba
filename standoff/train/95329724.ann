@@ -1,0 +1,25 @@
+T1	DNA 23 32	TAL1 gene
+T2	DNA 255 264	TAL1 gene
+T3	protein 275 279	TAL1
+T4	cell_type 316 334	normal lymphocytes
+T5	protein 336 354	TAL1 gene products
+T6	cell_type 379 393	leukemic cells
+T7	DNA 408 430	rearranged TAL1 allele
+T8	protein 487 491	TAL1
+T9	protein 556 560	TAL1
+T10	cell_type 581 595	leukemic cells
+T11	DNA 672 681	TAL1 gene
+T12	protein 760 764	TAL1
+T13	protein 813 817	TAL1
+T14	cell_type 835 854	primary T-ALL cells
+T15	protein 882 886	TAL1
+T16	cell_type 907 921	leukemic cells
+T17	DNA 957 966	TAL1 gene
+T18	cell_type 989 1003	leukemic cells
+T19	protein 1035 1039	TAL1
+T20	protein 1056 1060	TAL1
+T21	protein 1174 1178	TAL1
+T22	DNA 1246 1277	cis-acting regulatory sequences
+T23	DNA 1305 1323	single TAL1 allele
+T24	protein 1373 1377	TAL1
+T25	DNA 1422 1434	TAL1 alleles

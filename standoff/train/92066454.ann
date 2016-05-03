@@ -1,0 +1,16 @@
+T1	protein 18 53	transcriptional suppressor proteins
+T2	DNA 71 98	negative regulatory element
+T3	DNA 228 255	negative regulatory element
+T4	DNA 257 260	NRE
+T5	cell_line 351 383	virus-infected human T cell line
+T6	DNA 415 446	novel dyad symmetrical sequence
+T7	DNA 546 561	promoter region
+T8	DNA 569 594	human retinoblastoma gene
+T9	cell_line 654 689	virus-uninfected human T cell lines
+T10	cell_line 694 704	HeLa cells
+T11	DNA 773 807	putative AP-1 recognition sequence
+T12	DNA 832 835	NRE
+T13	DNA 884 893	AP-1 site
+T14	DNA 935 947	binding site
+T15	DNA 987 1008	heterologous promoter
+T16	protein 1116 1140	novel negative regulator

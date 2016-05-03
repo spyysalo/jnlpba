@@ -1,0 +1,20 @@
+T1	cell_type 85 102	human macrophages
+T2	protein 145 161	gamma interferon
+T3	cell_type 175 231	human blood-derived macrophages and alveolar macrophages
+T4	cell_type 355 366	macrophages
+T5	cell_type 375 385	macrophage
+T6	cell_type 400 411	lymphokines
+T7	cell_type 476 487	macrophages
+T8	cell_type 629 639	macrophage
+T9	cell_type 885 896	macrophages
+T10	cell_type 982 992	macrophage
+T11	cell_type 1019 1030	lymphocytes
+T12	protein 1035 1051	gamma-interferon
+T13	cell_type 1097 1107	phagocytes
+T14	protein 1231 1247	gamma-interferon
+T15	protein 1293 1303	lymphokine
+T16	cell_line 1343 1376	dexamethasone-treated macrophages
+T17	cell_type 1512 1529	human macrophages
+T18	cell_line 1675 1686	macrophages
+T19	cell_type 1703 1713	macrophage
+T20	protein 1826 1842	gamma-interferon

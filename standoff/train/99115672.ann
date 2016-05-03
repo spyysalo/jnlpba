@@ -1,0 +1,48 @@
+T1	protein 8 13	Egr-2
+T2	protein 34 44	Fas ligand
+T3	cell_type 55 62	T cells
+T4	cell_type 67 111	aberrant double-negative lpr and gld T cells
+T5	DNA 140 169	Fas ligand regulatory element
+T6	DNA 171 175	FLRE
+T7	DNA 184 210	Fas ligand (fasL) promoter
+T8	protein 222 241	Egr family proteins
+T9	protein 264 269	Egr-3
+T10	protein 271 276	PILOT
+T11	protein 286 291	Egr-1
+T12	protein 293 299	NGFI-A
+T13	protein 301 308	Krox-24
+T14	protein 310 315	Tis-8
+T15	protein 321 328	Zif-268
+T16	protein 355 359	fasL
+T17	cell_type 365 394	aberrant CD4(-)CD8(-) T cells
+T18	protein 469 472	Fas
+T19	protein 477 481	FasL
+T20	RNA 567 576	fasL mRNA
+T21	DNA 619 623	FLRE
+T22	protein 628 647	Egr family proteins
+T23	protein 684 688	fasL
+T24	cell_line 703 751	MRL-lpr/lpr and C3H-gld/gld CD4(-)CD8(-) T cells
+T25	DNA 823 827	FLRE
+T26	protein 879 884	Egr-1
+T27	protein 889 894	Egr-2
+T28	protein 906 911	Egr-3
+T29	cell_type 944 967	normal lymph node cells
+T30	protein 1004 1021	Egr-1, -2, and -3
+T31	DNA 1031 1036	egr-3
+T32	DNA 1052 1057	egr-2
+T33	protein 1111 1116	Egr-1
+T34	protein 1148 1153	Egr-2
+T35	protein 1171 1176	Egr-3
+T36	DNA 1189 1232	fasL promoter-dependent reporter constructs
+T37	RNA 1303 1312	fasL mRNA
+T38	cell_line 1316 1326	HeLa cells
+T39	DNA 1328 1362	FasL-dependent reporter constructs
+T40	cell_line 1366 1414	MRL-lpr/lpr and C3H-gld/gld CD4(-)CD8(-) T cells
+T41	DNA 1511 1537	Egr family binding element
+T42	protein 1545 1550	Egr-2
+T43	protein 1567 1572	Egr-3
+T44	protein 1584 1588	FasL
+T45	cell_type 1620 1627	T cells
+T46	protein 1633 1638	Egr-2
+T47	protein 1683 1687	fasL
+T48	cell_line 1705 1745	lpr/lpr and gld/gld CD4(-)CD8(-) T cells

@@ -1,0 +1,20 @@
+T1	protein 2 8	p56lck
+T2	protein 32 35	CD2
+T3	protein 55 65	Jun kinase
+T4	protein 71 114	p56 Src family non-receptor tyrosine kinase
+T5	protein 218 221	p56
+T6	protein 223 238	T cell receptor
+T7	protein 306 309	CD2
+T8	protein 368 383	T cell receptor
+T9	protein 403 406	p56
+T10	protein 408 411	CD2
+T11	protein 421 434	interleukin-2
+T12	protein 471 481	Jun kinase
+T13	protein 504 507	p56
+T14	protein 509 519	Jun kinase
+T15	protein 552 576	c-Jun/c-Fos heterodimers
+T16	DNA 584 603	AP-1 consensus site
+T17	DNA 655 677	interleukin-2 promoter
+T18	protein 720 723	TCR
+T19	protein 728 731	CD2
+T20	cell_type 763 770	T cells

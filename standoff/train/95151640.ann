@@ -1,0 +1,22 @@
+T1	protein 18 39	protein kinase C-zeta
+T2	cell_type 51 64	leukemic cell
+T3	protein 97 118	protein kinase C-zeta
+T4	protein 120 128	PKC-zeta
+T5	protein 184 210	protein kinase C subfamily
+T6	cell_line 262 280	leukemic U937 cell
+T7	cell_line 294 304	U937 cells
+T8	protein 327 335	PKC-zeta
+T9	cell_line 465 478	control cells
+T10	cell_line 480 494	PKC-zeta cells
+T11	protein 607 623	lysosomal enzyme
+T12	cell_line 658 677	parental U937 cells
+T13	cell_line 761 771	U937 cells
+T14	cell_line 773 787	PKC-zeta cells
+T15	RNA 813 829	mRNA transcripts
+T16	DNA 834 839	c-jun
+T17	protein 859 863	AP-1
+T18	protein 888 896	PKC-zeta
+T19	protein 1038 1053	PKC subfamilies
+T20	DNA 1118 1123	c-jun
+T21	protein 1157 1161	AP-1
+T22	cell_line 1182 1196	PKC-zeta cells

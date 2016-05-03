@@ -1,0 +1,12 @@
+T1	cell_line 57 87	peptide-loaded dendritic cells
+T2	cell_type 157 179	cytotoxic T-lymphocyte
+T3	cell_line 256 280	lymphoblastoid cell line
+T4	cell_line 282 285	LCL
+T5	protein 359 379	lytic cycle antigens
+T6	cell_line 600 638	epitope peptide-loaded dendritic cells
+T7	cell_line 640 643	DCs
+T8	protein 907 927	lytic cycle epitopes
+T9	cell_type 942 949	T cells
+T10	protein 1217 1245	latent membrane protein LMP2
+T11	cell_line 1277 1280	LCL
+T12	cell_line 1381 1390	CTL lines

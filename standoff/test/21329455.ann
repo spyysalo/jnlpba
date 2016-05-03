@@ -1,0 +1,28 @@
+T1	protein 20 36	gp34/OX40 ligand
+T2	protein 104 108	OX40
+T3	protein 128 176	tumor necrosis factor (TNF) receptor superfamily
+T4	protein 206 228	costimulatory molecule
+T5	cell_type 242 259	activated T cells
+T6	protein 305 309	OX40
+T7	protein 390 394	gp34
+T8	cell_line 400 444	OX40-transfected ACH-2 cell line, ACH-2/OX40
+T9	cell_line 528 572	gp34-transfected mouse cell line, SV-T2/gp34
+T10	protein 732 736	gp34
+T11	protein 746 782	neutralizing monoclonal antibody 5A8
+T12	protein 795 804	TNF alpha
+T13	protein 806 815	TNF-alpha
+T14	protein 821 829	TNF-beta
+T15	protein 938 942	gp34
+T16	cell_line 954 970	ACH-2/OX40 cells
+T17	DNA 992 1004	kappa B site
+T18	DNA 1012 1038	HIV-1 long terminal repeat
+T19	protein 1080 1090	NF-kappa B
+T20	protein 1105 1125	p50 and p65 subunits
+T21	cell_type 1150 1164	CD4(+) T cells
+T22	cell_line 1201 1231	CXCR4-using T-cell-line-tropic
+T23	cell_type 1264 1284	gp34(+) human T-cell
+T24	cell_line 1315 1325	MT-2 cells
+T25	cell_line 1329 1345	SV-T2/gp34 cells
+T26	protein 1445 1448	5A8
+T27	protein 1572 1576	gp34
+T28	cell_type 1672 1686	CD4(+) T cells

@@ -1,0 +1,11 @@
+T1	protein 42 63	runt box polypeptides
+T2	DNA 136 153	human CBFA2 locus
+T3	DNA 218 222	AML1
+T4	DNA 252 272	Drosophila gene runt
+T5	protein 345 368	mammalian runt products
+T6	cell_type 619 648	differentiating myeloid cells
+T7	cell_type 656 669	B lymphocytes
+T8	cell_type 682 699	erythroid lineage
+T9	cell_type 753 766	erythroblasts
+T10	cell_type 883 924	fetal and adult hematopoietic populations
+T11	protein 939 952	runt isoforms

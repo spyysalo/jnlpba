@@ -1,0 +1,13 @@
+T1	DNA 14 52	c-jun, jun B and jun D proto-oncogenes
+T2	cell_type 56 91	human peripheral-blood granulocytes
+T3	cell_type 112 156	purified human peripheral-blood granulocytes
+T4	DNA 202 217	proto-oncogenes
+T5	RNA 218 245	c-jun, jun B and jun D mRNA
+T6	cell_type 277 289	granulocytes
+T7	RNA 353 387	c-jun, jun B and jun D transcripts
+T8	DNA 414 423	jun genes
+T9	DNA 582 587	c-jun
+T10	DNA 589 594	jun B
+T11	DNA 599 610	jun D genes
+T12	cell_type 632 652	terminal granulocyte
+T13	cell_type 686 697	granulocyte

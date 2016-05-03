@@ -1,0 +1,27 @@
+T1	protein 0 13	Interleukin-2
+T2	protein 76 81	stat3
+T3	cell_type 85 104	human T lymphocytes
+T4	protein 179 201	interleukin-2 receptor
+T5	protein 203 208	IL-2R
+T6	protein 304 308	IL-2
+T7	protein 419 424	IL-2R
+T8	protein 498 503	stat3
+T9	protein 538 602	signal transducers and activators of transcription (STAT) family
+T10	protein 683 687	IL-2
+T11	protein 706 744	tyrosine-phosphorylated stat1 proteins
+T12	protein 746 768	91 and 84 kDa proteins
+T13	protein 813 829	interferon-gamma
+T14	cell_line 843 853	HeLa cells
+T15	protein 866 871	stat3
+T16	protein 881 900	cytoplasmic protein
+T17	protein 989 993	IL-2
+T18	protein 1075 1080	stat3
+T19	protein 1084 1093	stat1 mAb
+T20	protein 1113 1117	IL-2
+T21	protein 1155 1169	84 kDa protein
+T22	protein 1174 1179	stat3
+T23	protein 1209 1212	p84
+T24	protein 1312 1316	IL-2
+T25	protein 1390 1395	stat3
+T26	protein 1420 1434	84-kDa protein
+T27	cell_line 1438 1473	antigen-specific human T cell lines

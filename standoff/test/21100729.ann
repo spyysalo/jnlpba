@@ -1,0 +1,42 @@
+T1	cell_type 0 17	Bone marrow cells
+T2	cell_type 125 148	human bone marrow cells
+T3	cell_type 150 153	BMC
+T4	cell_type 181 199	virus-specific CTL
+T5	protein 267 294	prostaglandin E(2) (PGE(2))
+T6	cell_type 414 417	PBL
+T7	protein 448 460	IgG antibody
+T8	cell_type 579 595	EBV-specific CTL
+T9	cell_type 640 643	PBL
+T10	cell_type 660 683	EBV-transformed B cells
+T11	cell_type 685 690	EBV-B
+T12	cell_type 722 736	autologous BMC
+T13	cell_type 754 757	BMC
+T14	cell_type 765 792	EBV-CTL generation cultures
+T15	cell_type 835 845	CD3+ cells
+T16	protein 849 872	IL-4,-5,-6,-10, and -13
+T17	cell_type 880 890	CD3+ cells
+T18	protein 930 958	TH2 associated receptor CCR3
+T19	cell_type 1002 1029	EBV-CTL generating cultures
+T20	cell_type 1064 1078	autologous BMC
+T21	cell_type 1088 1091	PBL
+T22	cell_type 1094 1099	EBV-B
+T23	cell_type 1127 1137	CD3+ cells
+T24	cell_type 1190 1204	autologous BMC
+T25	protein 1256 1272	Protein Kinase A
+T26	protein 1274 1277	PKA
+T27	protein 1282 1293	cAMP kinase
+T28	protein 1334 1346	TH2 cytokine
+T29	cell_type 1374 1390	EBV-CTL cultures
+T30	cell_type 1410 1413	BMC
+T31	protein 1496 1502	STAT-6
+T32	cell_type 1572 1575	BMC
+T33	protein 1602 1617	soluble factors
+T34	protein 1619 1628	cytokines
+T35	cell_type 1708 1711	BMC
+T36	cell_type 1805 1814	TH2 cells
+T37	cell_type 1841 1855	autologous BMC
+T38	protein 1897 1900	TH2
+T39	protein 1912 1915	PKA
+T40	protein 1917 1921	CCR3
+T41	protein 1927 1933	STAT-6
+T42	cell_type 1966 1969	BMC

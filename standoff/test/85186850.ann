@@ -1,0 +1,24 @@
+T1	cell_type 29 35	B-cell
+T2	cell_type 283 303	emerging blast cells
+T3	cell_type 316 338	pre-plasmacytoid cells
+T4	cell_type 434 462	CLL- or intermediate B-cells
+T5	cell_type 479 491	plasma cells
+T6	protein 493 513	terminal transferase
+T7	protein 523 557	acute lymphocytic leukemia antigen
+T8	protein 560 563	Ia+
+T9	protein 565 600	surface immunoglobulin heavy chains
+T10	protein 603 629	surface kappa light chains
+T11	protein 632 673	intracytoplasmic immunoglobulin A+ and G+
+T12	protein 675 680	BA-1+
+T13	DNA 898 919	chromosomes 14 and 17
+T14	DNA 972 985	chromosome 14
+T15	cell_type 1136 1153	transformed cells
+T16	protein 1234 1260	cellular receptor proteins
+T17	protein 1339 1356	steroid receptors
+T18	protein 1398 1434	cytoplasmic hormone-receptor complex
+T19	protein 1482 1493	E2-receptor
+T20	protein 1662 1673	E2-receptor
+T21	cell_type 1794 1805	blast cells
+T22	cell_type 1955 1967	large blasts
+T23	cell_type 1977 1991	CLL-like cells
+T24	protein 2093 2104	E2-receptor

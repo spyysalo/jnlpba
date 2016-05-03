@@ -1,0 +1,36 @@
+T1	cell_type 0 24	Peripheral T lymphocytes
+T2	protein 94 121	several signaling molecules
+T3	cell_type 158 188	peripheral blood T lymphocytes
+T4	cell_type 250 263	T lymphocytes
+T5	protein 309 317	NFeB p65
+T6	protein 319 324	Rel-A
+T7	protein 363 367	IL-2
+T8	protein 436 449	Rel-A protein
+T9	protein 497 516	signaling molecules
+T10	protein 517 543	T-cell receptor (TCR)-zeta
+T11	protein 545 551	ZAP-70
+T12	protein 556 562	p56lck
+T13	protein 615 641	T-cell signaling molecules
+T14	cell_type 643 656	T lymphocytes
+T15	protein 734 757	specificity phosphatase
+T16	protein 759 783	map kinase phosphatase-1
+T17	protein 785 790	MKP-1
+T18	protein 793 798	MKP-1
+T19	protein 811 821	MAP kinase
+T20	DNA 873 878	c-jun
+T21	DNA 883 888	c-fos
+T22	protein 917 936	signaling molecules
+T23	cell_type 998 1005	T cells
+T24	cell_type 1110 1117	T cells
+T25	protein 1179 1197	signaling molecule
+T26	protein 1305 1310	Rel-A
+T27	cell_type 1326 1333	T cells
+T28	protein 1363 1367	IL-2
+T29	protein 1405 1410	Rel-B
+T30	protein 1415 1420	c-Rel
+T31	protein 1446 1465	NFKB family members
+T32	protein 1466 1471	Rel-A
+T33	protein 1473 1478	Rel-B
+T34	protein 1483 1488	c-Rel
+T35	protein 1531 1535	IL-2
+T36	cell_type 1543 1567	peripheral T lymphocytes

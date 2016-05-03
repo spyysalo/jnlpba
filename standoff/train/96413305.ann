@@ -1,0 +1,39 @@
+T1	protein 13 18	bcl-2
+T2	RNA 232 242	bcl-2 mRNA
+T3	protein 286 308	surface immunoglobulin
+T4	protein 378 383	bcl-2
+T5	cell_type 398 405	B cells
+T6	DNA 413 431	5'-flanking region
+T7	DNA 476 519	upstream and a downstream regulatory region
+T8	DNA 565 594	cyclic AMP-responsive element
+T9	DNA 596 599	CRE
+T10	DNA 809 817	CRE site
+T11	protein 841 845	CREB
+T12	DNA 977 985	CRE site
+T13	DNA 993 1007	bcl-2 promoter
+T14	protein 1039 1044	bcl-2
+T15	cell_type 1102 1109	B cells
+T16	cell_line 1128 1153	mature B-cell line BAL-17
+T17	protein 1247 1252	bcl-2
+T18	DNA 1288 1296	CRE site
+T19	cell_line 1320 1340	immature B-cell line
+T20	cell_line 1342 1347	Ramos
+T21	protein 1421 1426	bcl-2
+T22	DNA 1535 1543	CRE site
+T23	protein 1588 1592	CREB
+T24	protein 1631 1635	CREB
+T25	protein 1678 1694	protein kinase C
+T26	protein 1710 1726	protein kinase A
+T27	DNA 1741 1749	CRE site
+T28	protein 1785 1790	bcl-2
+T29	DNA 1832 1859	upstream regulatory element
+T30	protein 1896 1900	CREB
+T31	DNA 1933 1960	upstream regulatory element
+T32	DNA 1966 1974	CRE site
+T33	DNA 1982 1996	bcl-2 promoter
+T34	protein 2046 2051	bcl-2
+T35	cell_type 2088 2102	mature B cells
+T36	cell_type 2128 2144	immature B cells
+T37	DNA 2185 2193	CRE site
+T38	protein 2226 2231	bcl-2
+T39	protein 2292 2308	protein kinase C

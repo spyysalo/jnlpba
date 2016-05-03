@@ -1,0 +1,29 @@
+T1	protein 0 23	Glucocorticoid receptor
+T2	protein 48 58	L-selectin
+T3	protein 63 72	CD11/CD18
+T4	cell_type 76 93	human neutrophils
+T5	cell_type 215 232	endothelial cells
+T6	protein 315 333	adhesion molecules
+T7	protein 334 375	endothelial-leukocyte adhesion molecule-1
+T8	protein 380 413	intercellular adhesion molecule-1
+T9	protein 519 529	L-selectin
+T10	protein 534 543	CD11/CD18
+T11	protein 544 553	integrins
+T12	cell_type 557 586	human neutrophil granulocytes
+T13	protein 646 672	platelet-activating factor
+T14	protein 674 677	PAF
+T15	protein 715 725	L-selectin
+T16	protein 746 755	CD11/CD18
+T17	protein 756 774	adhesion receptors
+T18	protein 898 916	adhesion molecules
+T19	cell_type 920 939	resting neutrophils
+T20	protein 959 962	PAF
+T21	protein 982 992	L-selectin
+T22	protein 997 1001	CD18
+T23	protein 1238 1261	glucocorticoid receptor
+T24	protein 1429 1444	granule enzymes
+T25	protein 1465 1468	PAF
+T26	protein 1484 1502	membrane receptors
+T27	protein 1633 1651	adhesion molecules
+T28	cell_type 1655 1676	activated neutrophils
+T29	protein 1717 1741	glucocorticoid receptors

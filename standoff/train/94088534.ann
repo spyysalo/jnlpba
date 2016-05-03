@@ -1,0 +1,27 @@
+T1	protein 4 35	macrophage transcription factor
+T2	protein 36 40	PU.1
+T3	protein 83 128	macrophage colony-stimulating factor receptor
+T4	protein 134 187	macrophage colony-stimulating factor (M-CSF) receptor
+T5	DNA 248 257	promoters
+T6	cell_type 261 282	monocytes/macrophages
+T7	cell_type 397 423	multipotential progenitors
+T8	protein 529 543	M-CSF receptor
+T9	DNA 629 668	human monocytic M-CSF receptor promoter
+T10	protein 751 772	transcription factors
+T11	DNA 821 835	monocyte genes
+T12	protein 843 879	macrophage- and B-cell-specific PU.1
+T13	protein 880 900	transcription factor
+T14	protein 926 930	PU.1
+T15	DNA 955 978	M-CSF receptor promoter
+T16	protein 1013 1034	vitro-translated PU.1
+T17	protein 1039 1043	PU.1
+T18	DNA 1097 1120	M-CSF receptor promoter
+T19	DNA 1144 1179	major transcription initiation site
+T20	protein 1220 1224	PU.1
+T21	protein 1242 1256	M-CSF receptor
+T22	cell_line 1292 1313	macrophage cell lines
+T23	protein 1333 1337	PU.1
+T24	DNA 1357 1380	M-CSF receptor promoter
+T25	cell_type 1384 1403	nonmacrophage cells
+T26	protein 1432 1436	PU.1
+T27	protein 1550 1578	key macrophage growth factor

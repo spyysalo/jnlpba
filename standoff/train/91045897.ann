@@ -1,0 +1,34 @@
+T1	cell_line 17 35	human T-cell clone
+T2	protein 41 49	anti-CD3
+T3	protein 53 74	tumor necrosis factor
+T4	protein 83 93	NF-kappa B
+T5	DNA 267 287	long terminal repeat
+T6	DNA 289 292	LTR
+T7	DNA 343 360	enhancer sequence
+T8	protein 390 418	HIV enhancer-binding protein
+T9	protein 419 429	NF-kappa B
+T10	cell_line 457 470	T-cell clones
+T11	protein 496 519	T-cell receptor complex
+T12	protein 526 547	tumor necrosis factor
+T13	protein 611 621	NF-kappa B
+T14	DNA 671 678	HIV LTR
+T15	DNA 686 698	HIV enhancer
+T16	protein 700 713	Interleukin 2
+T17	protein 744 754	NF-kappa B
+T18	DNA 772 775	LTR
+T19	DNA 847 854	HIV LTR
+T20	protein 897 918	tumor necrosis factor
+T21	protein 934 937	CD3
+T22	protein 1003 1013	NF-kappa B
+T23	protein 1155 1165	NF-kappa B
+T24	protein 1169 1190	tumor necrosis factor
+T25	protein 1194 1209	antibody to CD3
+T26	DNA 1238 1250	HIV enhancer
+T27	cell_line 1278 1292	cloned T cells
+T28	cell_line 1333 1360	lymphoblastoid T-cell lines
+T29	cell_type 1387 1400	T lymphocytes
+T30	cell_type 1413 1428	tumoral T cells
+T31	DNA 1458 1465	HIV LTR
+T32	protein 1567 1577	NF-kappa B
+T33	protein 1638 1656	NF-kappa B complex
+T34	DNA 1666 1678	HIV enhancer

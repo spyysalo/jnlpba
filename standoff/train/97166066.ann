@@ -1,0 +1,49 @@
+T1	DNA 53 75	PRE-I enhancer element
+T2	DNA 83 102	human IL-4 promoter
+T3	cell_type 116 130	T cell subsets
+T4	protein 153 161	cytokine
+T5	protein 162 166	IL-4
+T6	cell_type 189 209	hemopoietic lineages
+T7	protein 211 215	IL-4
+T8	cell_type 241 244	Th2
+T9	cell_type 253 262	Th1 cells
+T10	cell_type 346 360	naive Th cells
+T11	cell_type 372 385	Th2 phenotype
+T12	DNA 420 436	enhancer element
+T13	DNA 438 443	PRE-I
+T14	DNA 487 506	human IL-4 promoter
+T15	protein 588 592	IL-4
+T16	protein 611 626	nuclear factors
+T17	DNA 642 652	PRE-I site
+T18	protein 713 717	IL-4
+T19	cell_type 730 747	Th1 and Th2 cells
+T20	DNA 762 767	PRE-I
+T21	protein 841 856	nuclear factors
+T22	protein 864 878	anti-C/EBPbeta
+T23	protein 880 886	NF-IL6
+T24	protein 889 904	anti-C/EBPdelta
+T25	protein 906 916	NF-IL6beta
+T26	protein 919 930	anti-NF-ATc
+T27	protein 932 943	anti-NF-ATp
+T28	protein 945 953	anti-Fos
+T29	protein 959 971	anti-Jun Abs
+T30	protein 1018 1038	PRE-I binding factor
+T31	protein 1039 1044	POS-1
+T32	protein 1070 1091	transcription factors
+T33	cell_line 1129 1165	IL-4-producing Th0-like human Jurkat
+T34	cell_line 1170 1186	mouse EL-4 cells
+T35	protein 1188 1193	POS-1
+T36	protein 1206 1212	POS-1a
+T37	protein 1223 1233	NF-IL6beta
+T38	protein 1238 1241	Jun
+T39	cell_line 1250 1269	mouse Th2 D10 cells
+T40	cell_line 1281 1297	human Th2 clones
+T41	protein 1299 1304	POS-1
+T42	protein 1317 1323	POS-1b
+T43	protein 1334 1344	NF-IL6beta
+T44	protein 1346 1349	Jun
+T45	protein 1355 1363	NF-ATc/p
+T46	protein 1378 1383	POS-1
+T47	cell_line 1421 1437	human Th1 clones
+T48	DNA 1467 1472	PRE-I
+T49	DNA 1523 1532	IL-4 gene

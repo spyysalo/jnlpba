@@ -1,0 +1,37 @@
+T1	cell_line 22 38	mutant cell line
+T2	protein 62 71	NF-kappaB
+T3	protein 221 242	nuclear factor kappaB
+T4	protein 244 253	NF-kappaB
+T5	protein 287 295	I kappaB
+T6	protein 297 306	NF-kappaB
+T7	protein 389 397	I kappaB
+T8	protein 417 426	NF-kappaB
+T9	protein 532 540	I kappaB
+T10	cell_line 640 682	70/Z3-derived 1.3E2 murine pre-B cell line
+T11	protein 707 716	NF-kappaB
+T12	protein 843 856	interleukin-1
+T13	RNA 861 880	double-stranded RNA
+T14	protein 882 896	I kappaB alpha
+T15	protein 1011 1025	I kappaB alpha
+T16	protein 1044 1047	p50
+T17	protein 1051 1055	relA
+T18	protein 1083 1092	NF-kappaB
+T19	protein 1213 1221	I kappaB
+T20	cell_line 1287 1298	1.3E2 cells
+T21	protein 1495 1503	I kappaB
+T22	cell_line 1525 1530	1.3E2
+T23	cell_line 1564 1569	1.3E2
+T24	cell_line 1606 1621	wild-type 70Z/3
+T25	protein 1647 1718	human T-cell leukemia virus type 1 (HTLV-1)-derived Tax trans-activator
+T26	protein 1727 1736	NF-kappaB
+T27	cell_line 1749 1754	1.3E2
+T28	protein 1867 1885	I kappaB molecules
+T29	protein 1887 1900	I kappaB beta
+T30	protein 1929 1945	I kappaB epsilon
+T31	cell_line 1971 1976	1.3E2
+T32	cell_line 2039 2044	1.3E2
+T33	protein 2050 2078	cellular transduction mutant
+T34	protein 2167 2176	NF-kappaB
+T35	protein 2267 2281	I kappaB alpha
+T36	protein 2283 2296	I kappaB beta
+T37	protein 2302 2318	I kappaB epsilon

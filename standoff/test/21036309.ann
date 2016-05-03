@@ -1,0 +1,29 @@
+T1	protein 37 41	IL-6
+T2	protein 57 62	SOCS1
+T3	protein 64 77	Interleukin 6
+T4	protein 79 83	IL-6
+T5	protein 90 98	cytokine
+T6	cell_type 111 137	immune and nonimmune cells
+T7	protein 189 193	IL-6
+T8	protein 302 306	IL-6
+T9	protein 335 338	CD4
+T10	protein 372 376	IL-6
+T11	protein 386 389	CD4
+T12	protein 426 430	IL-4
+T13	protein 469 473	IL-6
+T14	protein 492 496	IL-4
+T15	protein 498 502	IL-6
+T16	protein 515 549	suppressor of cytokine signaling 1
+T17	protein 551 556	SOCS1
+T18	cell_type 572 594	activated CD4+ T cells
+T19	protein 621 671	signal transducer and activator of transcription 1
+T20	protein 673 678	STAT1
+T21	protein 707 723	interferon gamma
+T22	protein 725 733	IFNgamma
+T23	protein 750 758	IFNgamma
+T24	protein 788 792	IL-6
+T25	DNA 820 833	IFNgamma gene
+T26	protein 848 856	IFNgamma
+T27	cell_type 864 875	CD4+ T cell
+T28	protein 934 938	IL-6
+T29	protein 948 951	CD4

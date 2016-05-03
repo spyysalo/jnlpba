@@ -1,0 +1,13 @@
+T1	DNA 182 227	retinoic acid receptor alpha (RARalpha) locus
+T2	DNA 231 244	chromosome 17
+T3	protein 272 280	RARalpha
+T4	DNA 313 346	promyelocytic leukemia (PML) gene
+T5	DNA 358 371	chromosome 15
+T6	DNA 387 399	fusion genes
+T7	protein 435 447	PML/RARalpha
+T8	protein 452 480	RARalpha/PML fusion proteins
+T9	protein 492 518	aberrant PML gene products
+T10	protein 636 663	PML/RARalpha fusion protein
+T11	cell_type 697 726	myeloid-promyelocytic lineage
+T12	protein 773 781	RARalpha
+T13	protein 1142 1154	PML/RARalpha

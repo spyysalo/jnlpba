@@ -1,0 +1,20 @@
+T1	protein 0 20	Human interleukin-13
+T2	protein 35 79	interleukin-4-dependent transcription factor
+T3	protein 80 86	NF-IL4
+T4	protein 97 114	DNA binding motif
+T5	protein 123 170	interferon-gamma-induced nuclear binding factor
+T6	protein 187 201	interleukin-13
+T7	protein 203 208	IL-13
+T8	protein 214 227	interleukin-4
+T9	protein 229 233	IL-4
+T10	cell_type 341 354	T lymphocytes
+T11	protein 360 364	IL-4
+T12	protein 369 374	IL-13
+T13	protein 413 433	transcription factor
+T14	protein 434 440	NF-IL4
+T15	DNA 460 494	specific responsive element IL-4RE
+T16	protein 524 538	nuclear factor
+T17	DNA 593 599	IL-4RE
+T18	protein 617 623	NF-IL4
+T19	DNA 753 765	DNA sequence
+T20	protein 897 906	cytokines

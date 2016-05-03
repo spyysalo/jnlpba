@@ -1,0 +1,22 @@
+T1	protein 43 72	endothelial adhesion molecule
+T2	protein 97 127	endothelial adhesion molecules
+T3	protein 135 143	cytokine
+T4	protein 144 171	tumor necrosis factor-alpha
+T5	protein 173 176	TNF
+T6	protein 205 221	protein kinase C
+T7	protein 242 265	protein tyrosine kinase
+T8	protein 267 270	PTK
+T9	protein 324 357	vascular cell adhesion molecule 1
+T10	protein 359 365	VCAM-1
+T11	protein 370 383	interleukin-4
+T12	protein 385 389	IL-4
+T13	cell_type 394 411	endothelial cells
+T14	protein 437 440	PTK
+T15	protein 512 518	VCAM-1
+T16	protein 523 533	E-selectin
+T17	cell_type 584 601	endothelial cells
+T18	protein 616 619	TNF
+T19	protein 698 701	PTK
+T20	protein 752 772	transcription factor
+T21	protein 774 796	nuclear factor kappa B
+T22	RNA 802 813	VCAM-1 mRNA

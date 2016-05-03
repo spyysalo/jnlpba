@@ -1,0 +1,26 @@
+T1	protein 0 10	Hemoglobin
+T2	protein 77 98	transcription factors
+T3	protein 100 106	GATA-1
+T4	protein 111 114	SP1
+T5	protein 187 197	hemoglobin
+T6	protein 287 297	hemoglobin
+T7	protein 299 302	HbF
+T8	DNA 464 475	globin gene
+T9	cell_line 534 550	primary cultures
+T10	cell_type 583 604	erythroid progenitors
+T11	protein 651 677	transcriptional activators
+T12	protein 679 685	GATA-1
+T13	protein 690 693	SP1
+T14	protein 834 840	GATA-1
+T15	protein 845 848	SP1
+T16	cell_type 884 905	erythroid progenitors
+T17	protein 1034 1040	GATA-1
+T18	protein 1071 1074	SP1
+T19	cell_line 1091 1111	fetal liver cultures
+T20	protein 1212 1218	GATA-1
+T21	protein 1223 1226	SP1
+T22	protein 1404 1407	HbF
+T23	protein 1523 1526	HbF
+T24	cell_type 1605 1648	human fetal and adult erythroid progenitors
+T25	protein 1671 1692	transcription factors
+T26	cell_type 1860 1877	fetal progenitors

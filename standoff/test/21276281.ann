@@ -1,0 +1,21 @@
+T1	cell_type 117 124	T cells
+T2	protein 375 396	MHC class II antigens
+T3	protein 398 403	IA(d)
+T4	protein 405 410	IE(d)
+T5	protein 522 527	IA(b)
+T6	protein 535 537	IE
+T7	cell_type 1027 1030	Th1
+T8	cell_type 1045 1048	Th2
+T9	cell_type 1157 1166	Th1 cells
+T10	protein 1170 1180	antibodies
+T11	protein 1182 1191	alpha-CD4
+T12	protein 1196 1205	cytokines
+T13	protein 1207 1211	IL-4
+T14	protein 1284 1293	IFN-gamma
+T15	protein 1303 1307	IL-4
+T16	cell_type 1336 1347	macrophages
+T17	protein 1593 1598	IA(b)
+T18	protein 1614 1616	IE
+T19	cell_type 1692 1711	IFNgamma+ Th1 cells
+T20	protein 1748 1757	IFN-gamma
+T21	protein 1813 1817	IL-4

@@ -1,0 +1,18 @@
+T1	protein 17 37	transcription factor
+T2	protein 38 43	CIITA
+T3	protein 110 130	transcription factor
+T4	DNA 169 186	MHC class II gene
+T5	protein 199 204	CIITA
+T6	protein 219 233	transactivator
+T7	DNA 354 382	neomycin-resistance promoter
+T8	DNA 387 402	structural gene
+T9	protein 545 563	class II molecules
+T10	protein 582 587	CIITA
+T11	cell_type 635 650	dendritic cells
+T12	DNA 687 697	CIITA gene
+T13	DNA 721 732	master gene
+T14	protein 764 782	class II molecules
+T15	cell_line 846 862	human cell lines
+T16	protein 864 869	CIITA
+T17	protein 904 913	IFN-gamma
+T18	DNA 939 956	MHC class I genes

@@ -1,0 +1,34 @@
+T1	DNA 4 14	Pax-5 gene
+T2	protein 71 97	transcription factor Pax-5
+T3	DNA 202 223	B-cell-specific genes
+T4	protein 262 267	Pax-5
+T5	protein 289 295	Pax-5a
+T6	protein 335 341	Pax-5b
+T7	protein 343 349	Pax-5d
+T8	protein 355 361	Pax-5e
+T9	cell_line 386 407	B-lymphoid cell lines
+T10	protein 487 493	Pax-5b
+T11	protein 498 504	Pax-5e
+T12	protein 583 601	DNA-binding domain
+T13	protein 623 629	Pax-5e
+T14	protein 647 656	3'-region
+T15	RNA 768 785	Pax-5 transcripts
+T16	protein 806 811	RNase
+T17	protein 844 850	Pax-5a
+T18	protein 855 870	Pax-5b proteins
+T19	protein 914 920	Pax-5a
+T20	cell_line 939 974	pro-, pre-, and mature B-cell lines
+T21	protein 1006 1012	Pax-5b
+T22	cell_line 1054 1073	mature B-cell lines
+T23	cell_line 1129 1155	pro-B-cell or T-cell lines
+T24	protein 1211 1217	Pax-5a
+T25	protein 1222 1228	Pax-5d
+T26	protein 1238 1244	Pax-5b
+T27	protein 1248 1254	Pax-5e
+T28	DNA 1278 1324	B-cell-specific activator protein-binding site
+T29	DNA 1332 1344	blk promoter
+T30	protein 1384 1390	Pax-5d
+T31	cell_line 1445 1461	B-lymphoid lines
+T32	DNA 1485 1531	B-cell-specific activator protein-binding site
+T33	protein 1575 1611	alternatively spliced Pax-5 isoforms
+T34	protein 1648 1675	regulators of transcription

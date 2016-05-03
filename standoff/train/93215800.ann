@@ -1,0 +1,25 @@
+T1	cell_line 35 45	K562 cells
+T2	protein 69 119	erythroid and megakaryocytic transcription factors
+T3	cell_line 189 225	human erythroleukemia cell line K562
+T4	cell_line 374 384	K562 cells
+T5	protein 471 492	transcription factors
+T6	cell_type 515 557	erythroid, mast and megakaryocyte lineages
+T7	protein 619 631	alpha globin
+T8	protein 636 648	gamma globin
+T9	protein 691 712	transcription factors
+T10	protein 714 717	SCL
+T11	protein 722 728	GATA-1
+T12	cell_line 751 761	K562 cells
+T13	cell_line 885 919	murine erythroleukemia (MEL) cells
+T14	cell_line 964 973	MEL cells
+T15	cell_line 984 994	K562 cells
+T16	cell_line 1078 1102	benzidine-positive cells
+T17	cell_type 1193 1204	eosinophils
+T18	cell_line 1242 1260	HMBA-induced cells
+T19	protein 1289 1302	glycophorin A
+T20	protein 1304 1307	CD5
+T21	protein 1309 1312	CD7
+T22	protein 1317 1322	CD11b
+T23	protein 1343 1376	megakaryocyte or lymphoid markers
+T24	cell_line 1408 1418	K562 cells
+T25	protein 1559 1580	transcription factors

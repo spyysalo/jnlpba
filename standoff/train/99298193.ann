@@ -1,0 +1,27 @@
+T1	protein 0 6	Aiolos
+T2	protein 7 27	transcription factor
+T3	cell_type 51 58	T cells
+T4	protein 73 78	Bcl-2
+T5	protein 165 168	Ras
+T6	cell_line 172 224	interleukin (IL)-2-stimulated or IL-2-deprived cells
+T7	protein 245 265	transcription factor
+T8	protein 266 272	Aiolos
+T9	protein 288 291	Ras
+T10	protein 297 300	Ras
+T11	protein 300 307	-Aiolos
+T12	protein 421 425	IL-2
+T13	protein 464 470	Aiolos
+T14	protein 544 547	Ras
+T15	DNA 579 599	Aiolos-binding sites
+T16	DNA 607 621	Bcl-2 promoter
+T17	DNA 654 678	luciferase reporter gene
+T18	DNA 692 712	Aiolos-binding sites
+T19	DNA 724 738	Bcl-2 promoter
+T20	DNA 771 795	reporter gene luciferase
+T21	protein 826 831	Bcl-2
+T22	protein 846 852	Aiolos
+T23	protein 895 901	Aiolos
+T24	protein 910 915	Bcl-2
+T25	cell_line 953 972	IL-2-deprived cells
+T26	protein 1015 1020	Bcl-2
+T27	protein 1036 1042	Aiolos

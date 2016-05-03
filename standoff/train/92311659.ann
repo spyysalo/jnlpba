@@ -1,0 +1,14 @@
+T1	protein 50 66	IgG Fc receptors
+T2	cell_type 70 83	B lymphocytes
+T3	cell_type 85 98	B lymphocytes
+T4	protein 139 174	immunoglobulin G (IgG) Fc receptors
+T5	protein 176 188	Fc gamma RII
+T6	protein 234 253	cytoplasmic domains
+T7	protein 321 340	B-cell Fc gamma RII
+T8	cell_line 467 500	Fc gamma RII-negative B-cell line
+T9	protein 653 665	Fc gamma RII
+T10	protein 691 703	Fc gamma RII
+T11	protein 770 782	Fc gamma RII
+T12	protein 795 817	surface immunoglobulin
+T13	protein 906 924	cytoplasmic domain
+T14	protein 944 987	lymphocyte and macrophage receptor isoforms

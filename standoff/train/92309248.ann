@@ -1,0 +1,19 @@
+T1	RNA 0 10	c-myc mRNA
+T2	DNA 84 103	c-myc protooncogene
+T3	RNA 189 199	c-myc mRNA
+T4	cell_type 227 260	activated blood mononuclear cells
+T5	cell_type 306 329	lymphocytic infiltrates
+T6	RNA 448 472	c-myc protooncogene mRNA
+T7	DNA 666 686	1st and the 2nd exon
+T8	DNA 694 704	c-myc gene
+T9	DNA 796 807	c-myc probe
+T10	RNA 898 908	c-myc mRNA
+T11	cell_type 936 959	acinar epithelial cells
+T12	protein 961 966	c-myc
+T13	protein 990 995	c-fos
+T14	protein 1000 1005	c-jun
+T15	RNA 1035 1045	c-myc mRNA
+T16	cell_type 1186 1210	T lymphocyte infiltrates
+T17	RNA 1326 1336	c-myc mRNA
+T18	RNA 1403 1413	c-myc mRNA
+T19	cell_type 1441 1457	epithelial cells

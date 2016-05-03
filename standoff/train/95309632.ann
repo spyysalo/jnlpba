@@ -1,0 +1,14 @@
+T1	DNA 35 57	estrogen receptor gene
+T2	cell_type 61 76	human monocytes
+T3	protein 148 165	estrogen receptor
+T4	protein 167 169	ER
+T5	RNA 179 183	mRNA
+T6	cell_type 229 238	monocytes
+T7	RNA 289 296	ER mRNA
+T8	cell_type 300 309	monocytes
+T9	DNA 358 365	ER gene
+T10	cell_type 390 399	monocytes
+T11	DNA 503 510	ER gene
+T12	RNA 544 551	ER mRNA
+T13	protein 556 558	ER
+T14	cell_type 574 583	monocytes

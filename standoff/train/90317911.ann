@@ -1,0 +1,17 @@
+T1	protein 10 24	nuclear factor
+T2	DNA 40 56	kappa B elements
+T3	DNA 64 101	human immunodeficiency virus enhancer
+T4	cell_type 105 112	T cells
+T5	DNA 295 311	lymphokine genes
+T6	protein 385 398	interleukin-2
+T7	protein 621 642	transcription factors
+T8	cell_type 646 653	T cells
+T9	protein 705 744	mitogen-inducible DNA-binding complexes
+T10	protein 750 765	kappa B complex
+T11	DNA 777 789	HIV enhancer
+T12	protein 798 812	NFAT-1 complex
+T13	DNA 824 846	interleukin-2 enhancer
+T14	DNA 923 935	HIV enhancer
+T15	protein 981 988	mitogen
+T16	protein 989 1007	phytohemagglutinin
+T17	protein 1163 1180	kappa B complexes

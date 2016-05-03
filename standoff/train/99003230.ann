@@ -1,0 +1,24 @@
+T1	DNA 27 45	TATA-less promoter
+T2	protein 49 54	Oct-2
+T3	protein 66 75	NF-kappaB
+T4	protein 102 122	homing receptor BLR1
+T5	cell_type 126 140	mature B cells
+T6	protein 146 164	chemokine receptor
+T7	protein 166 170	BLR1
+T8	cell_type 229 236	B cells
+T9	DNA 315 343	TATA-less blr1 core promoter
+T10	cell_type 414 421	B cells
+T11	DNA 449 475	functional promoter region
+T12	DNA 501 525	transcription start site
+T13	DNA 530 545	NF-kappaB motif
+T14	DNA 559 585	noncanonical octamer motif
+T15	protein 699 704	Oct-2
+T16	protein 706 710	Bob1
+T17	protein 720 729	NF-kappaB
+T18	protein 795 799	BLR1
+T19	protein 849 862	p52/NF-kappaB
+T20	protein 864 868	BLR1
+T21	protein 927 931	BLR1
+T22	protein 953 958	Oct-2
+T23	protein 960 964	Bob1
+T24	protein 985 1005	NF-kappaB/Rel family

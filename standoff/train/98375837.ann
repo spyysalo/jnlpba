@@ -1,0 +1,21 @@
+T1	protein 53 65	MHC class II
+T2	protein 130 142	MHC class II
+T3	protein 226 235	IFN-gamma
+T4	cell_line 282 290	NK cells
+T5	protein 298 304	HLA-DR
+T6	cell_line 325 341	mutant cell line
+T7	protein 363 372	IFN-gamma
+T8	protein 381 393	MHC class II
+T9	protein 474 497	class II transactivator
+T10	protein 499 504	CIITA
+T11	RNA 540 557	HLA-DR alpha mRNA
+T12	protein 577 582	CIITA
+T13	cell_line 600 638	Janus kinase-1-deficient cell line U4A
+T14	RNA 649 666	HLA-DR alpha mRNA
+T15	DNA 706 738	HLA-DR alpha promoter constructs
+T16	cell_line 783 791	NK cells
+T17	protein 800 809	IFN-gamma
+T18	protein 840 849	IFN-gamma
+T19	protein 891 897	HLA-DR
+T20	protein 991 1000	IFN-gamma
+T21	protein 1043 1048	CIITA

@@ -1,0 +1,35 @@
+T1	protein 0 31	Transcription factor NF-kappa B
+T2	protein 42 51	Ig lambda
+T3	DNA 127 143	Ig and TCR genes
+T4	protein 168 193	V(D)J recombinase complex
+T5	cell_type 197 218	precursor lymphocytes
+T6	DNA 265 290	V, D, and J gene segments
+T7	protein 302 313	recombinase
+T8	DNA 326 342	Ag receptor loci
+T9	DNA 373 378	locus
+T10	protein 425 446	transcription factors
+T11	DNA 452 477	cognate enhancer elements
+T12	DNA 543 556	gene segments
+T13	DNA 617 630	Igkappa locus
+T14	protein 651 681	inducible transcription factor
+T15	protein 682 691	NF-kappaB
+T16	DNA 712 725	Igkappa locus
+T17	DNA 733 765	transcriptional control elements
+T18	DNA 773 787	Iglambda locus
+T19	DNA 804 827	NF-kappaB binding sites
+T20	DNA 891 905	Iglambda genes
+T21	cell_type 909 923	mature B cells
+T22	protein 945 954	NF-kappaB
+T23	protein 1021 1030	NF-kappaB
+T24	DNA 1084 1106	Iglambda gene segments
+T25	cell_type 1110 1127	precursor B cells
+T26	protein 1175 1184	NF-kappaB
+T27	protein 1232 1243	recombinase
+T28	DNA 1296 1313	Iglambda promoter
+T29	DNA 1318 1335	enhancer elements
+T30	protein 1419 1428	NF-kappaB
+T31	cell_type 1439 1456	precursor B cells
+T32	protein 1464 1471	Igkappa
+T33	DNA 1536 1548	L chain loci
+T34	DNA 1614 1641	Iglambda regulatory element
+T35	protein 1693 1702	NF-kappaB

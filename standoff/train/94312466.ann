@@ -1,0 +1,38 @@
+T1	protein 0 4	IL-4
+T2	protein 20 24	IL-2
+T3	protein 27 31	IL-3
+T4	protein 38 44	GM-CSF
+T5	protein 109 113	IL-4
+T6	cell_type 132 167	T-helper 0 (Th0) and 2 (Th2) subset
+T7	protein 199 224	B-cell stimulatory factor
+T8	cell_type 337 346	monocytes
+T9	DNA 386 424	IL-1 receptor antagonist (IL1-RA) gene
+T10	protein 481 485	IL-4
+T11	DNA 507 521	cytokine genes
+T12	cell_type 525 534	monocytes
+T13	protein 551 574	T-helper cell cytokines
+T14	protein 576 580	IL-2
+T15	protein 582 586	IL-3
+T16	protein 592 598	GM-CSF
+T17	protein 600 604	IL-4
+T18	protein 645 670	proinflammatory cytokines
+T19	protein 671 680	IL-1 beta
+T20	protein 682 686	IL-8
+T21	protein 692 701	TNF-alpha
+T22	cell_type 705 714	monocytes
+T23	protein 731 735	IL-2
+T24	protein 737 741	IL-3
+T25	protein 747 753	GM-CSF
+T26	protein 755 759	IL-4
+T27	protein 780 784	IL-2
+T28	protein 793 797	IL-6
+T29	protein 840 844	IL-4
+T30	cell_type 951 960	monocytes
+T31	protein 984 988	IL-4
+T32	protein 1118 1122	IL-4
+T33	protein 1178 1182	IL-4
+T34	protein 1253 1260	IL-1-RA
+T35	protein 1272 1276	CSFs
+T36	protein 1280 1284	IL-2
+T37	protein 1286 1290	IL-3
+T38	protein 1296 1302	GM-CSF

@@ -1,0 +1,26 @@
+T1	DNA 36 47	novel genes
+T2	protein 74 92	vitamin D receptor
+T3	protein 149 181	intracellular vitamin D receptor
+T4	protein 183 186	VDR
+T5	cell_line 207 235	stable transfectant variants
+T6	cell_line 241 271	vitamin D-responsive cell line
+T7	cell_line 273 277	U937
+T8	protein 334 337	VDR
+T9	protein 427 430	VDR
+T10	protein 496 499	VDR
+T11	RNA 589 599	c-myc mRNA
+T12	protein 703 714	DD products
+T13	DNA 728 733	cDNAs
+T14	protein 751 770	known gene products
+T15	protein 776 816	catalytic sub-unit of DNA-protein kinase
+T16	protein 818 828	DNA-PK(CS)
+T17	protein 839 901	peroxisomal enzyme 17beta-hydroxysteroid dehydrogenase type IV
+T18	protein 903 916	17beta-HSD IV
+T19	RNA 971 976	mRNAs
+T20	protein 1024 1027	VDR
+T21	protein 1048 1061	17beta-HSD IV
+T22	cell_line 1133 1143	U937 cells
+T23	protein 1291 1304	17beta-HSD IV
+T24	RNA 1308 1323	DNA-PK(CS) mRNA
+T25	protein 1512 1545	hormone-dependent trans-activator
+T26	protein 1547 1550	VDR

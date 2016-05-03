@@ -1,0 +1,42 @@
+T1	protein 20 50	CCAAT/enhancer binding protein
+T2	protein 55 100	cyclic AMP response element binding protein 1
+T3	cell_type 177 204	monocyte/macrophage lineage
+T4	DNA 241 293	CCAAT/enhancer binding protein (C/EBP) binding sites
+T5	cell_type 411 438	monocyte/macrophage lineage
+T6	DNA 544 556	C/EBP site I
+T7	DNA 597 631	distal nuclear factor kappa B site
+T8	protein 681 712	activating transcription factor
+T9	protein 714 717	ATF
+T10	protein 719 762	cyclic AMP response element binding protein
+T11	protein 764 768	CREB
+T12	DNA 796 822	HIV-1 long terminal repeat
+T13	DNA 824 827	LTR
+T14	protein 850 864	C/EBP proteins
+T15	protein 909 930	transcription factors
+T16	protein 956 971	ATF/CREB family
+T17	DNA 1019 1040	ATF/CREB binding site
+T18	protein 1054 1067	C/EBP protein
+T19	DNA 1079 1091	C/EBP site I
+T20	DNA 1157 1179	ATF/CREB site variants
+T21	protein 1211 1225	C/EBP proteins
+T22	DNA 1276 1286	C/EBP site
+T23	protein 1385 1391	CREB-1
+T24	protein 1396 1401	C/EBP
+T25	DNA 1486 1518	ATF/CREB and C/EBP binding sites
+T26	protein 1533 1550	CREB-1 homodimers
+T27	DNA 1563 1576	ATF/CREB site
+T28	protein 1589 1601	C/EBP dimers
+T29	DNA 1619 1637	weak binding sites
+T30	protein 1677 1688	C/EBP dimer
+T31	DNA 1709 1719	C/EBP site
+T32	protein 1738 1744	CREB-1
+T33	DNA 1760 1774	ATF/CREB sites
+T34	protein 1800 1804	CREB
+T35	DNA 1833 1857	C/EBP and ATF/CREB sites
+T36	DNA 1985 2006	ATF/CREB binding site
+T37	DNA 2022 2025	LTR
+T38	DNA 2046 2049	LTR
+T39	protein 2069 2082	interleukin-6
+T40	DNA 2159 2168	HIV-1 LTR
+T41	DNA 2169 2190	ATF/CREB binding site
+T42	DNA 2249 2263	viral promoter

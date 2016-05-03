@@ -1,0 +1,42 @@
+T1	protein 36 69	NF-Y transcription factor complex
+T2	protein 107 127	transcription factor
+T3	protein 129 133	NF-Y
+T4	DNA 176 222	major histocompatibility complex class II gene
+T5	protein 287 314	heterotrimeric NF-Y complex
+T6	cell_line 396 425	class II- mutant B-cell lines
+T7	protein 522 534	NF-Y complex
+T8	cell_type 548 572	class II+ mature B-cells
+T9	protein 601 617	anion exchangers
+T10	protein 643 659	trimeric complex
+T11	protein 670 674	NF-Y
+T12	cell_type 688 712	class II- plasma B-cells
+T13	cell_line 723 767	bare lymphocyte syndrome group II cell lines
+T14	cell_line 769 776	RJ2.2.5
+T15	cell_line 781 784	RM3
+T16	protein 812 817	NF-YA
+T17	protein 822 829	NF-YB:C
+T18	protein 830 847	subunit fractions
+T19	protein 870 916	MPC11 plasma B-cell derived NF-Y A:B:C complex
+T20	protein 963 986	NF-Y-associated factors
+T21	protein 988 992	YAFs
+T22	protein 1084 1088	NF-Y
+T23	protein 1095 1118	intact trimeric complex
+T24	protein 1141 1165	native NF-YA:B:C complex
+T25	protein 1175 1199	transcriptional cofactor
+T26	protein 1201 1204	PC4
+T27	protein 1225 1243	high affinity NF-Y
+T28	protein 1255 1271	anion exchangers
+T29	protein 1288 1292	NF-Y
+T30	DNA 1310 1330	CCAAT-box DNA motifs
+T31	protein 1361 1364	PC4
+T32	protein 1369 1373	NF-Y
+T33	protein 1392 1409	C-terminal region
+T34	protein 1413 1416	PC4
+T35	protein 1426 1455	subunit interaction subdomain
+T36	protein 1463 1518	highly conserved DNA binding-subunit interaction domain
+T37	protein 1520 1523	DBD
+T38	protein 1528 1533	NF-YA
+T39	cell_type 1565 1589	class II+ mature B-cells
+T40	protein 1590 1594	NF-Y
+T41	protein 1636 1639	PC4
+T42	DNA 1718 1732	class II genes

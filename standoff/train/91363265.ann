@@ -1,0 +1,18 @@
+T1	protein 14 38	glucocorticoid receptors
+T2	cell_type 42 65	human mononuclear cells
+T3	protein 140 164	Glucocorticoid receptors
+T4	protein 166 169	GcR
+T5	cell_type 212 239	human mononulear leukocytes
+T6	cell_type 241 245	hMNL
+T7	protein 469 472	GcR
+T8	protein 498 501	GcR
+T9	protein 698 701	GcR
+T10	protein 906 909	GcR
+T11	cell_type 913 925	intact cells
+T12	protein 1061 1064	GcR
+T13	cell_type 1068 1072	hMNL
+T14	protein 1302 1305	GcR
+T15	protein 1563 1566	GcR
+T16	cell_type 1570 1582	target cells
+T17	protein 1608 1611	GcR
+T18	cell_type 1626 1630	hMNL

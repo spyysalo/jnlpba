@@ -1,0 +1,21 @@
+T1	cell_type 79 101	Thymic dendritic cells
+T2	cell_type 103 105	DC
+T3	cell_type 242 251	thymic DC
+T4	cell_type 259 274	T-lineage cells
+T5	cell_type 488 490	DC
+T6	cell_type 502 509	T cells
+T7	cell_type 562 564	DC
+T8	cell_type 583 605	lymphoid/DC precursors
+T9	cell_type 635 648	myeloid cells
+T10	cell_type 666 675	thymic DC
+T11	cell_type 711 734	myeloid-related lineage
+T12	cell_type 751 769	myeloid-related DC
+T13	protein 771 819	granulocyte-macrophage colony-stimulating factor
+T14	cell_type 865 884	lymphoid-related DC
+T15	cell_type 906 908	DC
+T16	cell_type 944 958	mature T cells
+T17	protein 1047 1053	Ikaros
+T18	protein 1054 1075	transcription factors
+T19	cell_type 1103 1127	lymphoid precursor cells
+T20	cell_type 1132 1153	mature lymphoid cells
+T21	cell_type 1161 1163	DC

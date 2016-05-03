@@ -1,0 +1,9 @@
+Carrier identification in X-linked immunodeficiency diseases.
+OBJECTIVE:
+Carrier identification in X-linked immunodeficiency disorders can be based on the demonstration of non-random X inactivation (NRXI) in affected blood cell lineages when growth is impaired in cells expressing the abnormal gene. We examined the utility of seeking evidence of NRXI to test the carrier status of women in families affected by X-linked severe combined immunodeficiency (XSCID) and X-linked hypogammaglobulinaemia (XLH), to identify as carriers the mothers of boys with SCID or hypogammaglobulinaemia whose phenotype suggested X-linkage and to infer X-linkage in boys with SCID or hypogammaglobulinaemia whose disease was not clearly X-linked on the basis either of family history or clinical and immunological characteristics.
+METHODOLOGY:
+A polymerase chain reaction-based method was used to amplify a polymorphic CAG repeat in the first exon of the androgen receptor gene after selective digestion of the active X chromosome with a methylation-sensitive enzyme, HpaII to distinguish between the paternal and maternal alleles and to identify their methylation status.
+RESULTS:
+Heterozygosity was found in 24 of 31 female subjects (77%). As anticipated, NRXI could be demonstrated in all lymphoid cells studied from obligate carriers of XSCID and an obligate carrier of XLH but not on a carrier of X-linked immunodeficiency with hyper-IgM. The finding of NRXI in the mother of a boy with a SCID variant showed her to be a carrier of XSCID and establishes that her son has XSCID, not otherwise evident from available data.
+CONCLUSIONS:
+This PCR assay provides a rapid method for carrier detection of X-linked immunodeficiencies, and has allowed us to expand the phenotype of XSCID

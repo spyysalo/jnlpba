@@ -1,0 +1,30 @@
+T1	protein 19 54	T-cell antigen receptor-CD3 complex
+T2	protein 80 100	tyrosine phosphatase
+T3	protein 152 156	CD45
+T4	protein 243 263	tyrosine phosphatase
+T5	cell_type 320 333	T lymphocytes
+T6	protein 355 379	tyrosine phosphorylation
+T7	cell_line 435 465	CD45- or CD3-negative variants
+T8	cell_line 473 500	Jurkat leukemic T-cell line
+T9	protein 641 645	CD45
+T10	protein 649 652	CD3
+T11	protein 654 658	CD45
+T12	protein 684 708	tyrosine phosphorylation
+T13	protein 712 715	Shc
+T14	protein 731 753	nuclear factor-kappa B
+T15	protein 755 765	NF-kappa B
+T16	protein 768 787	activator protein-1
+T17	protein 789 793	AP-1
+T18	protein 796 817	transcription factors
+T19	DNA 838 867	interleukin-2 (IL-2) promoter
+T20	protein 875 879	CD69
+T21	protein 884 888	CD25
+T22	protein 937 953	tyrosine kinases
+T23	protein 954 957	lck
+T24	protein 962 965	fyn
+T25	protein 1013 1016	CD3
+T26	protein 1045 1051	zap-70
+T27	protein 1117 1139	-CD3 (TcR-CD3) complex
+T28	protein 1180 1203	protein tyrosine kinase
+T29	protein 1205 1208	PTK
+T30	protein 1260 1264	CD45

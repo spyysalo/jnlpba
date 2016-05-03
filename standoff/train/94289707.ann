@@ -1,0 +1,26 @@
+T1	cell_type 331 368	myeloid and natural killer (NK) cells
+T2	protein 562 568	HLA-DR
+T3	protein 571 575	CD16
+T4	protein 642 707	myeloid (CD33, CD13, CD15) and NK cell-associated (CD56) antigens
+T5	protein 820 824	CD56
+T6	protein 826 855	neural cell adhesion molecule
+T7	cell_type 860 875	leukemic blasts
+T8	protein 906 909	CD4
+T9	protein 929 932	CD2
+T10	protein 934 937	CD3
+T11	protein 942 945	CD8
+T12	protein 1008 1023	T-cell receptor
+T13	protein 1025 1047	TCR beta, gamma, delta
+T14	protein 1254 1269	myeloperoxidase
+T15	protein 1389 1410	microgranular variant
+T16	protein 1412 1423	FAB AML-M3v
+T17	RNA 1499 1571	promyelocytic/retinoic acid receptor alpha (RAR alpha) fusion transcript
+T18	DNA 1667 1681	chromosome 17q
+T19	DNA 1690 1702	del(17)(q25)
+T20	DNA 1722 1739	t(11;17)(q23;q21)
+T21	RNA 1748 1810	promyelocytic leukemia zinc finger/RAR alpha fusion transcript
+T22	DNA 1861 1869	t(11;17)
+T23	protein 2187 2191	CD16
+T24	cell_type 2213 2251	normal CD56+, CD16- NK precursor cells
+T25	cell_type 2344 2387	normal CD56+, CD33+, CD16- counterpart cell
+T26	cell_type 2585 2613	myeloid and NK cell lineages

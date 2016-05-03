@@ -1,0 +1,30 @@
+T1	protein 13 18	CIITA
+T2	DNA 47 62	HLA-DR promoter
+T3	cell_type 76 106	normal thymic epithelial cells
+T4	protein 120 129	IFN-gamma
+T5	cell_type 177 204	HLA-DR-constitutive B cells
+T6	protein 225 234	IFN-gamma
+T7	DNA 248 265	MHC class II gene
+T8	cell_line 300 323	thymic epithelial cells
+T9	cell_line 325 328	TEC
+T10	protein 391 403	MHC class II
+T11	cell_type 430 456	"physiologic" cell lineage
+T12	cell_type 578 585	T cells
+T13	DNA 609 626	MHC class II gene
+T14	protein 709 730	CIITA trans-activator
+T15	protein 742 777	MHC class II gene regulatory factor
+T16	DNA 831 856	MHC class II DRA promoter
+T17	protein 875 890	binding factors
+T18	protein 915 922	DNAse I
+T19	protein 967 976	IFN-gamma
+T20	DNA 1017 1046	DRA gene regulatory sequences
+T21	protein 1050 1065	nuclear factors
+T22	cell_type 1149 1182	MHC class II-constitutive B cells
+T23	cell_line 1208 1234	Burkitt lymphoma line Raji
+T24	cell_type 1239 1269	normal tonsil- derived B cells
+T25	cell_line 1332 1335	TEC
+T26	protein 1344 1353	IFN-gamma
+T27	cell_line 1391 1398	B cells
+T28	protein 1483 1504	CIITA trans-activator
+T29	protein 1609 1618	IFN-gamma
+T30	DNA 1627 1644	MHC class II gene

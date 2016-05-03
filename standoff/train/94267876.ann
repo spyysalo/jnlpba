@@ -1,0 +1,30 @@
+T1	protein 0 39	Human immunodeficiency virus type 1 Tat
+T2	protein 52 65	interleukin-2
+T3	cell_type 79 96	activated T cells
+T4	protein 115 124	cytokines
+T5	cell_type 137 144	T cells
+T6	protein 231 278	human immunodeficiency virus type 1 (HIV-1) Tat
+T7	protein 282 295	interleukin-2
+T8	protein 297 301	IL-2
+T9	DNA 323 381	IL-2 promoter-chloramphenicol acetyltransferase constructs
+T10	cell_line 386 415	IL-2-secreting Jurkat T cells
+T11	protein 459 468	HIV-1 Tat
+T12	DNA 510 523	IL-2 promoter
+T13	cell_line 536 550	Jurkat T cells
+T14	protein 567 585	phytohemagglutinin
+T15	protein 617 621	IL-2
+T16	cell_line 672 686	Jurkat T cells
+T17	cell_line 691 706	primary T cells
+T18	protein 721 752	extracellular HIV-1 Tat protein
+T19	RNA 766 770	mRNA
+T20	protein 811 815	IL-2
+T21	DNA 860 875	NF-kappa B site
+T22	DNA 889 901	-206 to -195
+T23	DNA 909 922	IL-2 promoter
+T24	protein 963 966	Tat
+T25	protein 979 982	Tat
+T26	DNA 1004 1017	IL-2 promoter
+T27	protein 1107 1149	human T-cell lymphotropic virus type 1 Tax
+T28	protein 1193 1197	IL-2
+T29	cell_type 1246 1253	T cells
+T30	protein 1342 1351	cytokines

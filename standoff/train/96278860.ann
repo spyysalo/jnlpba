@@ -1,0 +1,30 @@
+T1	DNA 63 86	human beta-globin locus
+T2	cell_type 90 105	erythroid cells
+T3	DNA 140 151	globin gene
+T4	DNA 253 276	human beta-globin locus
+T5	cell_type 331 346	erythroid cells
+T6	DNA 425 445	locus control region
+T7	DNA 447 450	LCR
+T8	DNA 459 476	beta-globin locus
+T9	protein 500 505	NF-E2
+T10	protein 510 514	AP-1
+T11	DNA 520 533	GATA-1 motifs
+T12	DNA 591 609	adult globin genes
+T13	DNA 660 677	GT (CACCC) motifs
+T14	DNA 758 774	promoter regions
+T15	DNA 780 806	actively transcribed genes
+T16	DNA 893 915	CACCC and CCAAT motifs
+T17	cell_type 921 950	adult globin expressing cells
+T18	cell_type 996 1025	fetal globin expressing cells
+T19	DNA 1033 1056	3' regulatory sequences
+T20	DNA 1069 1102	Agamma- and the beta-globin genes
+T21	DNA 1131 1142	3' elements
+T22	DNA 1146 1162	beta-globin gene
+T23	DNA 1281 1293	globin genes
+T24	DNA 1313 1350	gamma- and beta-globin gene promoters
+T25	DNA 1361 1370	GT motifs
+T26	DNA 1378 1395	beta-globin locus
+T27	DNA 1396 1399	LCR
+T28	DNA 1457 1473	beta-globin gene
+T29	protein 1546 1561	LCR holocomplex
+T30	DNA 1571 1601	fetal or the adult globin gene

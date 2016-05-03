@@ -1,0 +1,37 @@
+T1	DNA 50 74	human CD36 gene promoter
+T2	DNA 105 119	PEBP2/CBF site
+T3	protein 121 125	CD36
+T4	protein 144 156	glycoprotein
+T5	protein 218 232	thrombospondin
+T6	protein 234 257	collagens type I and IV
+T7	protein 268 291	low density lipoprotein
+T8	cell_type 333 345	erythrocytes
+T9	cell_type 446 466	monocyte/macrophages
+T10	protein 484 488	CD36
+T11	cell_type 520 535	apoptotic cells
+T12	protein 574 606	oxidized low density lipoprotein
+T13	protein 680 684	CD36
+T14	DNA 743 756	CD36 promoter
+T15	DNA 794 815	5'-deletion fragments
+T16	DNA 823 836	CD36 promoter
+T17	protein 848 858	luciferase
+T18	DNA 887 910	158 base pairs upstream
+T19	DNA 920 949	transcription initiation site
+T20	DNA 1019 1032	reporter gene
+T21	DNA 1081 1104	nucleotides -158 to -90
+T22	cell_type 1147 1162	monocytic cells
+T23	DNA 1199 1207	-158/-90
+T24	protein 1236 1257	transcription factors
+T25	protein 1265 1343	polyomavirus enhancer-binding protein 2/core-binding factor (PEBP2/CBF) family
+T26	DNA 1347 1360	position -103
+T27	DNA 1380 1394	PEBP2/CBF site
+T28	protein 1431 1448	PEBP2/CBF factors
+T29	DNA 1490 1499	CD36 gene
+T30	protein 1535 1551	PEBP2/CBF family
+T31	DNA 1666 1688	myeloid-specific genes
+T32	protein 1702 1717	myeloperoxidase
+T33	protein 1719 1727	elastase
+T34	protein 1737 1771	colony-stimulating factor receptor
+T35	DNA 1823 1841	CD36 gene promoter
+T36	cell_type 1845 1860	monocytic cells
+T37	protein 1879 1895	PEBP2/CBF family

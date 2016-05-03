@@ -1,0 +1,26 @@
+T1	RNA 32 59	human monocyte PDGF(B) mRNA
+T2	RNA 92 119	c-fos, c-jun, and EGR2 mRNA
+T3	cell_type 183 203	circulating monocyte
+T4	cell_type 209 226	tissue macrophage
+T5	protein 301 315	growth factors
+T6	RNA 455 459	mRNA
+T7	protein 481 495	growth factors
+T8	protein 504 544	platelet-derived growth factor B subunit
+T9	protein 546 553	PDGF[B]
+T10	protein 559 590	transforming growth factor-beta
+T11	protein 592 600	TGF-beta
+T12	RNA 672 684	PDGF(B) mRNA
+T13	RNA 728 741	TGF-beta mRNA
+T14	RNA 776 788	PDGF(B) mRNA
+T15	RNA 932 944	PDGF(B) mRNA
+T16	RNA 1124 1136	PDGF(B) mRNA
+T17	RNA 1165 1177	PDGF(B) mRNA
+T18	cell_type 1190 1208	adherent monocytes
+T19	RNA 1241 1246	mRNAs
+T20	DNA 1254 1281	early growth response genes
+T21	DNA 1282 1287	c-fos
+T22	DNA 1386 1391	c-fos
+T23	RNA 1502 1538	c-fos, c-jun, EGR2, and PDGF(B) mRNA
+T24	DNA 1570 1575	c-jun
+T25	DNA 1577 1581	EGR2
+T26	protein 1587 1594	PDGF(B)

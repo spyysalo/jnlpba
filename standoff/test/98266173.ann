@@ -1,0 +1,38 @@
+T1	DNA 84 90	CD28RE
+T2	DNA 102 115	IL-2 promoter
+T3	protein 129 132	Rel
+T4	protein 137 157	activation protein-1
+T5	protein 159 163	AP-1
+T6	DNA 168 181	IL-2 promoter
+T7	cell_type 194 268	B7-1- and leukocyte function-associated Ag-3 (LFA. 3)-costimulated T cells
+T8	protein 327 332	c-Jun
+T9	protein 341 346	c-Fos
+T10	DNA 357 370	IL-2 promoter
+T11	cell_type 388 431	B7-1- and LFA-3-costimulated Jurkat T cells
+T12	DNA 521 558	activation protein-1 response element
+T13	DNA 575 588	IL-2 promoter
+T14	protein 608 620	Rel proteins
+T15	cell_line 639 666	p65-expressing Jurkat cells
+T16	DNA 694 737	nuclear factor kappabeta reporter construct
+T17	protein 761 765	B7-1
+T18	protein 769 774	LFA-3
+T19	DNA 797 810	IL-2 promoter
+T20	DNA 814 861	CD28 response element (CD28RE)-driven reporters
+T21	cell_line 878 901	B7-1-costimulated cells
+T22	protein 926 931	c-Jun
+T23	protein 936 939	p65
+T24	DNA 974 1026	IL-2 promoter- and CD28RE-driven reporter constructs
+T25	cell_type 1035 1076	LFA-3- and B7-1-costimulated Jurkat cells
+T26	DNA 1091 1097	CD28RE
+T27	DNA 1110 1156	upstream nuclear factor kappabeta-binding site
+T28	DNA 1164 1177	IL-2 promoter
+T29	protein 1186 1190	B7-1
+T30	DNA 1261 1267	CD28RE
+T31	protein 1290 1293	p65
+T32	protein 1294 1299	c-Jun
+T33	DNA 1334 1347	IL-2 promoter
+T34	protein 1398 1403	LFA-3
+T35	protein 1497 1502	c-Jun
+T36	protein 1507 1510	p65
+T37	DNA 1529 1535	CD28RE
+T38	DNA 1550 1563	IL-2 promoter

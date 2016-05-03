@@ -1,0 +1,38 @@
+T1	protein 8 64	interferon regulatory factor family transcription factor
+T2	protein 66 81	ICSAT/Pip/LSIRF
+T3	DNA 125 151	interferon-regulated genes
+T4	DNA 172 188	novel cDNA clone
+T5	protein 198 249	interferon (IFN) consensus sequence-binding protein
+T6	cell_line 253 284	adult T-cell leukemia cell line
+T7	cell_type 298 305	T cells
+T8	protein 307 312	ICSAT
+T9	protein 372 381	Pip/LSIRF
+T10	protein 383 388	ICSAT
+T11	protein 451 456	ICSBP
+T12	protein 474 508	IFN regulatory factor (IRF) family
+T13	DNA 535 565	interferon consensus sequences
+T14	DNA 567 571	ICSs
+T15	DNA 604 623	IFN-regulated genes
+T16	cell_line 631 643	T-cell lines
+T17	protein 658 663	ICSAT
+T18	cell_line 692 752	human T-cell leukemia virus type 1 (HTLV-1)-infected T cells
+T19	DNA 763 778	HTLV-1 tax gene
+T20	protein 851 856	ICSAT
+T21	cell_line 883 895	Jurkat cells
+T22	protein 927 932	ICSAT
+T23	protein 954 959	ICSAT
+T24	DNA 978 982	ICSs
+T25	DNA 1052 1056	ICSs
+T26	protein 1106 1111	ICSAT
+T27	cell_line 1162 1205	human embryonal carcinoma cell line N-Tera2
+T28	protein 1207 1212	ICSAT
+T29	protein 1297 1300	IFN
+T30	protein 1319 1324	IRF-1
+T31	protein 1393 1398	IRF-2
+T32	protein 1402 1407	ICSBP
+T33	protein 1437 1442	ICSAT
+T34	protein 1490 1495	IRF-2
+T35	protein 1499 1504	ICSBP
+T36	DNA 1513 1547	IFN-responsive reporter constructs
+T37	protein 1673 1691	repressor proteins
+T38	DNA 1733 1753	IFN-responsive genes

@@ -1,0 +1,33 @@
+T1	protein 0 22	Nuclear factor-kappa B
+T2	protein 70 76	RANTES
+T3	protein 140 149	cytokines
+T4	protein 275 281	RANTES
+T5	protein 283 346	regulated upon activation, normal T cell expressed and secreted
+T6	protein 353 361	cytokine
+T7	protein 382 403	beta-chemokine family
+T8	cell_type 431 450	CD4+/CD45RO T cells
+T9	cell_type 499 520	CD8+ and CD4+ T cells
+T10	cell_type 532 553	monocytes/macrophages
+T11	cell_type 646 658	CD4+ T cells
+T12	protein 703 709	RANTES
+T13	DNA 726 748	RANTES promoter region
+T14	protein 841 847	RANTES
+T15	protein 925 936	p65 subunit
+T16	protein 940 967	nuclear factor (NF)-kappa B
+T17	protein 973 998	proinflammatory cytokines
+T18	protein 999 1008	TNF-alpha
+T19	protein 1013 1022	IL-1 beta
+T20	protein 1032 1036	CD28
+T21	DNA 1067 1089	RANTES promoter region
+T22	DNA 1104 1128	NF-kappa B binding sites
+T23	DNA 1132 1166	positions -30, -44, -213, and -579
+T24	DNA 1183 1207	transcription start site
+T25	DNA 1234 1290	NF-AT (nuclear factor of activated T cells) binding site
+T26	protein 1322 1332	NF-kappa B
+T27	DNA 1383 1406	CD28-responsive element
+T28	DNA 1440 1456	NF-kappa B sites
+T29	protein 1476 1491	I kappa B alpha
+T30	protein 1493 1528	cytoplasmic inhibitor of NF-kappa B
+T31	protein 1576 1586	NF-kappa B
+T32	protein 1680 1686	RANTES
+T33	protein 1690 1699	chemokine

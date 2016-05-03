@@ -1,0 +1,16 @@
+T1	protein 0 9	HIV-1 Nef
+T2	cell_type 47 54	T cells
+T3	protein 100 103	Nef
+T4	protein 226 229	Nef
+T5	protein 333 355	hybrid CD8-Nef protein
+T6	cell_line 359 371	Jurkat cells
+T7	protein 461 464	Nef
+T8	protein 521 528	chimera
+T9	protein 584 607	T cell antigen receptor
+T10	cell_line 619 631	Jurkat cells
+T11	DNA 679 688	nef genes
+T12	protein 710 714	Nefs
+T13	protein 740 743	Nef
+T14	protein 874 877	Nef
+T15	protein 910 913	Nef
+T16	protein 1000 1003	Nef

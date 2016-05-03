@@ -1,0 +1,19 @@
+T1	cell_line 27 51	human CD4+ T-cell clones
+T2	cell_type 237 253	CD4+ lymphocytes
+T3	cell_line 308 339	HSV-specific CD4+ T-cell clones
+T4	protein 448 484	recombinant truncated glycoprotein B
+T5	protein 486 488	gB
+T6	protein 493 495	gD
+T7	cell_line 581 600	HSV-specific clones
+T8	cell_line 628 661	gC2- and gD2-specific CD4+ clones
+T9	protein 760 773	CD4+ antigens
+T10	cell_line 984 1036	HLA DQ2-restricted, HSV-2 type-specific T-cell clone
+T11	protein 1051 1073	amino acids 425 to 444
+T12	protein 1077 1081	VP16
+T13	protein 1155 1159	VP16
+T14	protein 1193 1225	recombinant VP16 fusion proteins
+T15	cell_line 1313 1339	type-specific T-cell clone
+T16	cell_line 1451 1484	lesion-derived CD4+ T-cell clones
+T17	cell_line 1537 1556	Human T-cell clones
+T18	protein 1571 1573	gC
+T19	protein 1578 1582	VP16

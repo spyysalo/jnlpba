@@ -1,0 +1,28 @@
+T1	protein 0 14	C/EBP proteins
+T2	DNA 47 103	human immunodeficiency virus type 1 long terminal repeat
+T3	cell_type 119 128	monocytes
+T4	protein 154 168	C/EBP proteins
+T5	DNA 186 250	human immunodeficiency virus type 1 (HIV-1) long terminal repeat
+T6	DNA 252 255	LTR
+T7	protein 402 416	C/EBP proteins
+T8	DNA 421 432	C/EBP sites
+T9	DNA 470 479	HIV-1 LTR
+T10	cell_type 483 504	monocytes/macrophages
+T11	protein 520 545	endogenous C/EBP proteins
+T12	DNA 573 592	C/EBP binding sites
+T13	DNA 598 631	trans-dominant negative inhibitor
+T14	protein 651 665	C/EBP proteins
+T15	DNA 713 722	HIV-1 LTR
+T16	cell_line 744 771	promonocytic cell line U937
+T17	protein 825 831	NF-IL6
+T18	protein 850 869	C/EBP family member
+T19	cell_line 894 904	U937 cells
+T20	DNA 947 956	HIV-1 LTR
+T21	DNA 973 983	C/EBP site
+T22	DNA 1007 1010	LTR
+T23	DNA 1087 1098	C/EBP sites
+T24	DNA 1156 1175	crippled HIV-1 LTRs
+T25	DNA 1184 1195	C/EBP sites
+T26	cell_line 1241 1251	U937 cells
+T27	protein 1299 1305	NF-IL6
+T28	protein 1397 1405	cytokine

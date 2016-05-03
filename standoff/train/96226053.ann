@@ -1,0 +1,40 @@
+T1	cell_type 34 51	human lymphocytes
+T2	protein 53 97	Helix-loop-helix (HLH) transcription factors
+T3	protein 155 157	Id
+T4	protein 205 217	HLH proteins
+T5	protein 292 310	basic HLH proteins
+T6	RNA 368 384	Id2 and Id3 mRNA
+T7	cell_line 388 417	human leukemia/lymphoma lines
+T8	cell_line 462 496	activated normal human lymphocytes
+T9	cell_type 520 523	PBL
+T10	RNA 530 538	Id2 mRNA
+T11	cell_line 567 578	5/12 T-cell
+T12	cell_line 583 599	3/4 B-cell lines
+T13	RNA 605 613	Id3 mRNA
+T14	cell_line 630 641	4/12 T-cell
+T15	cell_line 646 662	3/4 B-cell lines
+T16	RNA 679 682	Id2
+T17	RNA 692 695	Id3
+T18	cell_line 728 744	4/5 T-cell lines
+T19	cell_line 804 810	ATL-1k
+T20	cell_line 812 816	MT-2
+T21	cell_line 818 823	S-LB1
+T22	cell_line 838 840	Mo
+T23	cell_line 900 912	T-cell lines
+T24	RNA 936 939	Id2
+T25	RNA 943 951	Id3 mRNA
+T26	cell_type 966 977	resting PBL
+T27	RNA 1023 1031	Id2 mRNA
+T28	RNA 1041 1049	Id3 mRNA
+T29	protein 1056 1059	PHA
+T30	protein 1073 1076	Id2
+T31	protein 1102 1105	Id3
+T32	RNA 1260 1268	Id2 mRNA
+T33	protein 1374 1377	Id2
+T34	RNA 1381 1389	Id3 mRNA
+T35	cell_type 1463 1466	PBL
+T36	protein 1490 1493	Id2
+T37	RNA 1501 1509	Id3 mRNA
+T38	RNA 1567 1575	Id2 mRNA
+T39	RNA 1601 1609	Id3 mRNA
+T40	DNA 1686 1691	genes

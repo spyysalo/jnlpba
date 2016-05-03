@@ -1,0 +1,35 @@
+T1	protein 64 73	cytokines
+T2	protein 85 90	HSP70
+T3	cell_type 94 109	human monocytes
+T4	protein 202 233	heat shock transcription factor
+T5	protein 235 239	HSF1
+T6	protein 248 271	latent cytoplasmic form
+T7	protein 277 303	nuclear, DNA binding state
+T8	protein 308 312	HSF1
+T9	DNA 350 366	heat shock genes
+T10	DNA 386 406	non-heat shock genes
+T11	protein 471 475	HSF1
+T12	cell_line 531 556	monocytic cell line THP-1
+T13	DNA 642 655	IL1B promoter
+T14	protein 691 695	HSF1
+T15	protein 802 806	HSF1
+T16	DNA 846 861	monocytic genes
+T17	DNA 863 872	TNF-alpha
+T18	DNA 874 882	IL-1beta
+T19	DNA 884 888	IL-6
+T20	DNA 890 894	IL-8
+T21	DNA 896 901	IL-10
+T22	DNA 903 909	ICAM-1
+T23	DNA 1019 1032	IL1B promoter
+T24	protein 1126 1134	NFkappaB
+T25	DNA 1142 1164	IL1B promoter fragment
+T26	protein 1192 1200	NFkappaB
+T27	protein 1238 1242	HSF1
+T28	DNA 1358 1373	HSP70B promoter
+T29	RNA 1451 1469	HSP70 mRNA species
+T30	protein 1512 1516	HSF1
+T31	protein 1556 1573	DNA binding forms
+T32	DNA 1602 1622	heat shock promoters
+T33	cell_type 1814 1829	monocytic cells
+T34	DNA 1908 1920	stress genes
+T35	protein 1925 1929	HSF1

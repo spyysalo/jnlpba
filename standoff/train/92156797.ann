@@ -1,0 +1,26 @@
+T1	protein 43 53	NF-kappa B
+T2	cell_type 117 139	myelomonoblastic cells
+T3	protein 237 247	NF-kappa B
+T4	cell_line 335 348	PLB-985 cells
+T5	cell_line 361 405	bipotential myelomonoblastic cell population
+T6	protein 538 541	CD4
+T7	cell_line 563 576	PLB-985 cells
+T8	cell_line 627 641	PLB-IIIB cells
+T9	cell_type 696 716	parental myeloblasts
+T10	protein 786 818	myeloid-specific surface markers
+T11	DNA 845 865	c-fms proto-oncogene
+T12	protein 867 877	NF-kappa B
+T13	protein 912 933	tumor necrosis factor
+T14	cell_line 967 974	PLB-985
+T15	cell_line 988 1002	PLB-IIIB cells
+T16	protein 1039 1057	NF-kappa B complex
+T17	DNA 1172 1197	symmetric NF-kappa B site
+T18	DNA 1207 1242	interferon beta (IFN-beta) promoter
+T19	DNA 1268 1287	5' guanine residues
+T20	DNA 1295 1307	kappa B site
+T21	protein 1341 1368	NF-kappa B-related proteins
+T22	RNA 1397 1423	IFN-beta and IFN-alpha RNA
+T23	cell_line 1446 1460	PLB-IIIB cells
+T24	cell_type 1509 1531	myelomonoblastic cells
+T25	protein 1621 1652	NF-kappa B DNA binding proteins
+T26	protein 1684 1694	NF-kappa B

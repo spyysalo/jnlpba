@@ -1,0 +1,11 @@
+T1	cell_type 67 78	lymphocytes
+T2	protein 925 951	plasma adrenocorticotropin
+T3	protein 953 957	ACTH
+T4	protein 1009 1033	glucocorticoid receptors
+T5	cell_type 1037 1048	lymphocytes
+T6	protein 1469 1480	plasma ACTH
+T7	cell_type 1542 1553	lymphocytes
+T8	protein 1785 1809	glucocorticoid receptors
+T9	cell_type 1813 1824	lymphocytes
+T10	protein 1878 1882	ACTH
+T11	cell_type 1973 1984	lymphocytes

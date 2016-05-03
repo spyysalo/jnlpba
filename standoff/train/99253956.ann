@@ -1,0 +1,29 @@
+T1	protein 32 36	CD14
+T2	protein 61 82	transcription factors
+T3	protein 83 91	CREB/ATF
+T4	protein 96 100	AP-1
+T5	protein 201 210	cytokines
+T6	cell_type 214 225	macrophages
+T7	protein 234 238	CD14
+T8	DNA 405 419	cytokine genes
+T9	protein 450 471	transcription factors
+T10	cell_line 496 510	mouse RAW264.7
+T11	cell_line 515 543	human THP-1 macrophage cells
+T12	protein 615 636	transcription factors
+T13	protein 637 642	ATF-1
+T14	protein 647 651	CREB
+T15	protein 658 663	ATF-1
+T16	protein 668 672	CREB
+T17	DNA 738 758	CRE reporter plasmid
+T18	protein 801 805	CREB
+T19	protein 810 815	ATF-1
+T20	protein 854 859	c-Jun
+T21	protein 882 886	JunB
+T22	protein 891 896	c-Fos
+T23	DNA 936 957	AP-1 reporter plasmid
+T24	protein 1000 1005	c-Fos
+T25	protein 1042 1050	CREB/ATF
+T26	protein 1055 1059	AP-1
+T27	protein 1081 1085	CD14
+T28	protein 1140 1148	CREB/ATF
+T29	protein 1153 1179	AP-1 transcription factors

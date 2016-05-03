@@ -1,0 +1,6 @@
+T1	protein 9 31	estrogen binding sites
+T2	cell_type 35 55	human lymphoid cells
+T3	cell_type 60 72	thymic cells
+T4	cell_type 117 158	human peripheral blood mononuclear cells,
+T5	cell_type 173 197	splenic and thymic cells
+T6	protein 457 471	receptor sites

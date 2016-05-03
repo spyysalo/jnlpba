@@ -1,0 +1,41 @@
+T1	protein 0 16	Interferon-gamma
+T2	DNA 74 101	interferon-stimulated genes
+T3	cell_line 113 143	interferon-alpha in U937 cells
+T4	protein 156 212	type I interferon (IFN-alpha/beta) to specific receptors
+T5	DNA 299 325	IFN-alpha-stimulated genes
+T6	DNA 327 331	ISGs
+T7	cell_type 336 353	human fibroblasts
+T8	cell_line 358 362	HeLa
+T9	cell_line 367 383	Daudi cell lines
+T10	protein 400 405	ISGF3
+T11	protein 407 435	IFN-stimulated gene factor 3
+T12	DNA 454 485	IFN-stimulated response element
+T13	DNA 487 491	ISRE
+T14	protein 561 580	DNA-binding protein
+T15	protein 582 593	ISGF3 gamma
+T16	protein 650 678	IFN-alpha-activated proteins
+T17	protein 697 726	latent cytoplasmic precursors
+T18	protein 728 739	ISGF3 alpha
+T19	cell_line 783 807	monocytic U937 cell line
+T20	cell_line 826 836	cell lines
+T21	cell_line 858 868	U937 cells
+T22	protein 882 914	type I and type II IFN receptors
+T23	protein 925 934	IFN-alpha
+T24	protein 1013 1022	IFN-gamma
+T25	protein 1039 1048	IFN-alpha
+T26	protein 1073 1082	IFN-gamma
+T27	RNA 1127 1137	ISG15 mRNA
+T28	cell_line 1154 1164	U937 cells
+T29	protein 1197 1206	IFN-alpha
+T30	protein 1274 1283	IFN-gamma
+T31	protein 1322 1331	IFN-gamma
+T32	protein 1467 1487	ISRE binding factors
+T33	protein 1539 1544	ISGF3
+T34	protein 1559 1568	IFN-alpha
+T35	cell_line 1624 1634	U937 cells
+T36	protein 1650 1661	ISGF3 alpha
+T37	protein 1687 1692	ISGF3
+T38	protein 1735 1740	ISGF3
+T39	protein 1797 1808	ISGF3 gamma
+T40	protein 1820 1829	IFN-alpha
+T41	protein 1833 1842	IFN-gamma

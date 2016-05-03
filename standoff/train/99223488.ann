@@ -1,0 +1,27 @@
+T1	protein 34 110	mitogen-activated protein kinase-targeted hematopoietic tyrosine phosphatase
+T2	protein 112 117	HePTP
+T3	cell_type 134 147	T lymphocytes
+T4	protein 159 168	cytokines
+T5	protein 207 231	protein-tyrosine kinases
+T6	protein 395 437	hematopoietic protein-tyrosine phosphatase
+T7	protein 439 444	HePTP
+T8	protein 511 534	T cell antigen receptor
+T9	protein 557 578	transcription factors
+T10	DNA 594 605	5' promoter
+T11	DNA 613 631	interleukin-2 gene
+T12	protein 697 702	HePTP
+T13	protein 742 747	HePTP
+T14	protein 769 808	mitogen-activated protein (MAP) kinases
+T15	protein 809 819	Erk1 and 2
+T16	cell_type 905 919	intact T cells
+T17	protein 934 939	HePTP
+T18	protein 958 981	N-terminal c-Jun kinase
+T19	protein 1043 1048	HePTP
+T20	protein 1115 1125	N terminus
+T21	protein 1131 1134	Erk
+T22	protein 1147 1157	MAP kinase
+T23	protein 1159 1162	p38
+T24	protein 1172 1175	Jnk
+T25	protein 1211 1216	HePTP
+T26	protein 1296 1307	MAP kinases
+T27	protein 1413 1458	nuclear dual-specific MAP kinase phosphatases

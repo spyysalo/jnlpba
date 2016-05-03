@@ -1,0 +1,18 @@
+T1	protein 15 27	MHC class II
+T2	DNA 42 83	human class II trans-activator constructs
+T3	protein 96 113	N-terminal domain
+T4	protein 119 143	class II trans-activator
+T5	protein 145 150	CIITA
+T6	protein 157 195	bi- or multi-functional domain protein
+T7	DNA 245 263	MHC class II genes
+T8	protein 295 321	N-terminal 151 amino acids
+T9	protein 347 360	acidic domain
+T10	protein 384 420	proline/serine/threonine-rich domain
+T11	protein 489 501	MHC class II
+T12	cell_line 514 524	HeLa cells
+T13	DNA 564 587	mutant CIITA constructs
+T14	protein 620 632	MHC class II
+T15	protein 654 663	IFN-gamma
+T16	RNA 690 702	HLA-DRA mRNA
+T17	protein 807 819	MHC class II
+T18	RNA 864 876	HLA-DRA mRNA

@@ -1,0 +1,30 @@
+T1	protein 54 60	NFAT-1
+T2	protein 62 76	nuclear factor
+T3	cell_type 80 97	activated T-cells
+T4	protein 224 238	nuclear factor
+T5	protein 240 254	Nuclear factor
+T6	cell_type 258 275	activated T-cells
+T7	protein 277 283	NFAT-1
+T8	protein 290 310	transcription factor
+T9	protein 458 464	NFAT-1
+T10	protein 558 564	NFAT-1
+T11	protein 592 623	transcription of SV40 T-antigen
+T12	protein 778 784	NFAT-1
+T13	cell_type 840 863	activated T-lymphocytes
+T14	cell_type 880 901	intracellular calcium
+T15	protein 916 922	NFAT-1
+T16	protein 995 1001	NFAT-1
+T17	cell_type 1023 1036	T-lymphocytes
+T18	protein 1037 1043	NFAT-1
+T19	cell_type 1078 1112	T-lymphocyte-depleted spleen cells
+T20	cell_type 1117 1139	purified B-lymphocytes
+T21	protein 1213 1229	protein kinase C
+T22	protein 1280 1286	NFAT-1
+T23	cell_type 1304 1317	T-lymphocytes
+T24	cell_type 1322 1339	non-T-lymphocytes
+T25	protein 1534 1540	NFAT-1
+T26	protein 1774 1780	NFAT-1
+T27	DNA 1804 1824	functional sequences
+T28	DNA 1828 1835	HIV-LTR
+T29	protein 1855 1861	NFAT-1
+T30	DNA 1890 1897	HIV-LTR

@@ -1,0 +1,71 @@
+T1	protein 28 40	Janus kinase
+T2	cell_type 127 153	human natural killer cells
+T3	protein 157 161	IL-2
+T4	protein 163 168	IL-12
+T5	protein 174 183	IFN-alpha
+T6	cell_type 259 275	primary NK cells
+T7	cell_line 287 302	NK3.3 cell line
+T8	protein 396 401	STAT3
+T9	protein 403 453	signal transducer and activator of transcription-3
+T10	protein 459 464	STAT5
+T11	protein 466 470	IL-2
+T12	protein 518 529	STAT1 alpha
+T13	protein 544 590	IFN-gamma-activated sequence-binding complexes
+T14	protein 610 615	STAT3
+T15	protein 626 630	IL-2
+T16	protein 635 644	IFN-alpha
+T17	protein 655 666	STAT1 alpha
+T18	protein 671 676	STAT5
+T19	protein 678 682	IL-2
+T20	protein 707 712	STAT5
+T21	protein 720 729	IFN-alpha
+T22	protein 754 765	STAT1 alpha
+T23	protein 767 771	IL-2
+T24	protein 785 796	STAT1 alpha
+T25	protein 812 821	IFN-alpha
+T26	protein 838 843	STAT5
+T27	cell_line 858 869	NK3.3 cells
+T28	cell_line 884 913	preactivated primary NK cells
+T29	cell_line 918 929	NK3.3 cells
+T30	protein 931 935	IL-2
+T31	protein 968 1051	c-fos promoter sis-inducible element IFN-gamma-activated sequence-binding complexes
+T32	protein 1063 1068	STAT3
+T33	protein 1101 1106	STAT3
+T34	protein 1111 1122	STAT1 alpha
+T35	cell_line 1133 1162	preactivated primary NK cells
+T36	protein 1211 1216	STAT3
+T37	protein 1221 1232	STAT1 alpha
+T38	cell_line 1253 1264	NK3.3 cells
+T39	cell_type 1302 1318	primary NK cells
+T40	protein 1335 1339	IL-2
+T41	protein 1344 1353	IFN-alpha
+T42	protein 1355 1360	IL-12
+T43	protein 1404 1409	STAT4
+T44	protein 1447 1452	STAT3
+T45	DNA 1493 1535	c-fos promoter sis-inducible element probe
+T46	protein 1548 1553	IL-12
+T47	protein 1564 1569	STAT4
+T48	protein 1571 1582	STAT1 alpha
+T49	protein 1588 1593	STAT3
+T50	protein 1628 1633	STAT4
+T51	protein 1640 1645	STAT4
+T52	protein 1651 1662	STAT1 alpha
+T53	protein 1664 1669	STAT3
+T54	protein 1675 1686	STAT1 alpha
+T55	protein 1691 1702	STAT1 alpha
+T56	cell_line 1711 1740	preactivated primary NK cells
+T57	protein 1742 1753	STAT1 alpha
+T58	protein 1768 1773	IL-12
+T59	protein 1854 1858	IL-2
+T60	protein 1895 1899	JAK1
+T61	protein 1904 1908	JAK3
+T62	protein 1916 1921	IL-12
+T63	protein 1949 1953	JAK2
+T64	protein 1958 1962	TYK2
+T65	cell_line 1971 2010	preactivated primary NK and NK3.3 cells
+T66	protein 2113 2126	STAT proteins
+T67	protein 2130 2134	IL-2
+T68	protein 2136 2141	IL-12
+T69	protein 2147 2156	IFN-alpha
+T70	protein 2248 2257	cytokines
+T71	cell_type 2261 2269	NK cells

@@ -1,0 +1,16 @@
+T1	protein 14 35	nuclear factor-kappaB
+T2	cell_type 61 83	mononuclear leukocytes
+T3	protein 114 140	cytosolic phospholipase A2
+T4	cell_type 145 154	monocytes
+T5	protein 220 246	cytosolic phospholipase A2
+T6	protein 436 457	transcription factors
+T7	DNA 476 490	cytokine genes
+T8	protein 517 543	cytosolic phospholipase A2
+T9	protein 651 677	cytosolic phospholipase A2
+T10	cell_type 753 822	lipopolysaccharide-stimulated peripheral blood mononuclear leukocytes
+T11	RNA 983 1005	interleukin-1beta mRNA
+T12	protein 1062 1084	inhibitor-kappaB alpha
+T13	protein 1163 1184	nuclear factor-kappaB
+T14	protein 1332 1353	nuclear factor-kappaB
+T15	cell_type 1361 1368	cytosol
+T16	protein 1388 1405	interleukin-1beta

@@ -1,0 +1,45 @@
+T1	protein 24 85	acute promyelocytic leukemia PML-retinoic acid receptor alpha
+T2	protein 87 96	RAR alpha
+T3	protein 102 132	PLZF-RAR alpha fusion proteins
+T4	protein 206 220	receptor alpha
+T5	protein 222 231	RAR alpha
+T6	protein 241 244	PML
+T7	protein 248 268	PLZF nuclear protein
+T8	protein 348 361	PML-RAR alpha
+T9	protein 369 398	PLZF-RAR alpha fusion protein
+T10	protein 528 541	PML-RAR alpha
+T11	protein 646 660	PLZF-RAR alpha
+T12	protein 698 711	PML-RAR alpha
+T13	protein 724 738	PLZF-RAR alpha
+T14	cell_line 821 825	U937
+T15	cell_line 830 835	HL-60
+T16	protein 947 960	PML-RAR alpha
+T17	protein 970 984	PLZF-RAR alpha
+T18	cell_type 1014 1043	hematopoietic precursor cells
+T19	cell_type 1075 1107	RA-resistant hematopoietic cells
+T20	protein 1115 1128	PML-RAR alpha
+T21	protein 1133 1147	PLZF-RAR alpha
+T22	protein 1193 1206	PML-RAR alpha
+T23	DNA 1235 1250	RA target genes
+T24	protein 1262 1270	RAR beta
+T25	protein 1272 1281	RAR gamma
+T26	protein 1287 1311	transglutaminase type II
+T27	protein 1313 1318	TGase
+T28	protein 1336 1350	PLZF-RAR alpha
+T29	protein 1384 1392	RAR beta
+T30	protein 1421 1430	RAR gamma
+T31	protein 1435 1448	type II TGase
+T32	protein 1479 1492	PML-RAR alpha
+T33	protein 1497 1511	PLZF-RAR alpha
+T34	DNA 1693 1715	RA-dependent enhancers
+T35	DNA 1733 1752	RA-responsive genes
+T36	protein 1866 1879	PML-RAR alpha
+T37	protein 1884 1898	PLZF-RAR alpha
+T38	protein 1925 1954	PLZF-RAR alpha fusion protein
+T39	protein 1981 2012	120-amino-acid N-terminal motif
+T40	protein 2025 2035	POZ domain
+T41	protein 2110 2127	poxvirus proteins
+T42	protein 2193 2208	PLZF POZ domain
+T43	protein 2254 2268	PLZF-RAR alpha
+T44	protein 2318 2331	type II TGase
+T45	protein 2467 2481	PLZF-RAR alpha

@@ -1,0 +1,31 @@
+T1	protein 36 49	interleukin-1
+T2	protein 217 248	methylated bovine serum albumin
+T3	protein 250 254	mBSA
+T4	protein 260 273	interleukin-1
+T5	protein 275 279	IL-1
+T6	protein 332 336	mBSA
+T7	protein 370 396	recombinant human IL-1beta
+T8	protein 531 535	IL-1
+T9	protein 657 661	mBSA
+T10	cell_type 740 753	T and B cells
+T11	protein 767 823	major histocompatibility complex (MHC) class II antigens
+T12	protein 863 904	CD4+ T cell-depleting monoclonal antibody
+T13	cell_type 1225 1249	IL-1-dependent leukocyte
+T14	RNA 1343 1356	messenger RNA
+T15	RNA 1358 1362	mRNA
+T16	protein 1372 1382	chemokines
+T17	protein 1383 1417	monocyte chemoattractant protein 1
+T18	protein 1419 1450	macrophage inhibitory protein 2
+T19	protein 1452 1457	MIP-2
+T20	protein 1460 1466	RANTES
+T21	protein 1468 1478	MIP-1alpha
+T22	protein 1484 1493	MIP-1beta
+T23	protein 1550 1554	mBSA
+T24	protein 1555 1559	IL-1
+T25	cell_type 1596 1614	CD4+ T lymphocytes
+T26	protein 1641 1645	RelB
+T27	cell_type 1658 1671	B lymphocytes
+T28	protein 1675 1683	antibody
+T29	protein 1685 1689	IL-1
+T30	cell_type 1793 1807	synovial cells
+T31	protein 1961 1965	IL-1

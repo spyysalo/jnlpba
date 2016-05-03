@@ -1,0 +1,36 @@
+T1	protein 0 36	p38 mitogen-activated protein kinase
+T2	protein 68 71	TCR
+T3	protein 71 76	/CD28
+T4	cell_type 94 116	primary murine T cells
+T5	protein 183 186	TCR
+T6	protein 206 233	CD28 costimulatory receptor
+T7	protein 306 338	mitogen-activated protein kinase
+T8	protein 340 344	MAPK
+T9	cell_type 360 381	primary mouse T cells
+T10	cell_type 416 436	human Jurkat T cells
+T11	protein 452 460	p38 MAPK
+T12	protein 470 493	Jun NH2-terminal kinase
+T13	protein 495 498	JNK
+T14	protein 550 558	anti-CD3
+T15	protein 562 571	anti-CD28
+T16	cell_type 575 592	murine thymocytes
+T17	cell_type 597 612	splenic T cells
+T18	protein 623 631	p38 MAPK
+T19	protein 684 692	CD3/CD28
+T20	protein 752 755	TCR
+T21	protein 756 764	CD3/CD28
+T22	protein 799 807	p38 MAPK
+T23	protein 898 901	JNK
+T24	protein 984 988	IL-2
+T25	protein 990 994	IL-4
+T26	protein 1000 1009	IFN-gamma
+T27	protein 1026 1029	CD3
+T28	protein 1034 1037	CD3
+T29	protein 1037 1042	/CD28
+T30	protein 1086 1110	c-Jun and ATF-2 proteins
+T31	protein 1135 1143	p38 MAPK
+T32	protein 1194 1202	p38 MAPK
+T33	cell_type 1276 1297	primary mouse T cells
+T34	protein 1338 1343	c-Jun
+T35	protein 1375 1379	AP-1
+T36	cell_type 1431 1438	T cells

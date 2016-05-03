@@ -1,0 +1,20 @@
+T1	protein 32 63	transcription factor NF-kappa B
+T2	DNA 68 86	HIV-1 LTR promoter
+T3	protein 101 143	eukaryotic transcription factor NF-kappa B
+T4	DNA 195 213	inflammatory genes
+T5	protein 261 271	NF-kappa B
+T6	protein 354 363	cytokines
+T7	protein 450 460	NF-kappa B
+T8	protein 588 610	glutathione peroxidase
+T9	protein 612 615	GPX
+T10	protein 621 631	NF-kappa B
+T11	cell_line 647 671	selenium-deprived Jurkat
+T12	cell_line 676 695	ESb-L T lymphocytes
+T13	protein 758 761	GPX
+T14	protein 810 820	NF-kappa B
+T15	protein 847 850	TNF
+T16	DNA 976 1002	HIV-1 long terminal repeat
+T17	protein 1041 1051	NF-kappa B
+T18	protein 1134 1144	NF-kappa B
+T19	protein 1193 1197	AP-1
+T20	DNA 1309 1332	NF-kappa B target genes

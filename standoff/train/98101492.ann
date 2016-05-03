@@ -1,0 +1,46 @@
+T1	protein 30 41	IgE isotype
+T2	protein 80 101	nuclear factor-kappaB
+T3	DNA 107 119	binding site
+T4	protein 124 145	nuclear factor-kappaB
+T5	protein 147 156	NF-kappaB
+T6	DNA 176 191	promoter region
+T7	DNA 199 221	germline Cepsilon gene
+T8	protein 304 307	IgE
+T9	cell_type 321 334	human B cells
+T10	protein 372 381	NF-kappaB
+T11	DNA 385 393	germline
+T12	cell_line 430 467	human Burkitt's lymphoma B cell lines
+T13	cell_line 469 474	DND39
+T14	cell_line 479 483	DG75
+T15	cell_line 493 503	cell lines
+T16	protein 614 623	NF-kappaB
+T17	protein 627 631	IL-4
+T18	protein 639 668	anti-CD40 monoclonal antibody
+T19	protein 679 683	IL-4
+T20	protein 694 753	signal transducers and activators of transcription (STAT) 6
+T21	protein 769 778	NF-kappaB
+T22	protein 849 858	NF-kappaB
+T23	protein 862 867	STAT6
+T24	protein 888 892	IL-4
+T25	DNA 901 909	germline
+T26	protein 1018 1022	IL-4
+T27	DNA 1031 1039	germline
+T28	protein 1073 1077	CD40
+T29	protein 1102 1106	IL-4
+T30	DNA 1114 1122	germline
+T31	protein 1215 1224	NF-kappaB
+T32	protein 1330 1333	IgE
+T33	protein 1367 1396	Smu/Sepsilon switch fragments
+T34	cell_type 1407 1420	human B cells
+T35	protein 1439 1443	IL-4
+T36	protein 1448 1477	anti-CD40 monoclonal antibody
+T37	protein 1497 1501	IL-4
+T38	protein 1526 1530	CD40
+T39	protein 1609 1618	NF-kappaB
+T40	protein 1623 1628	STAT6
+T41	DNA 1662 1670	germline
+T42	protein 1697 1701	IL-4
+T43	protein 1712 1716	CD40
+T44	protein 1726 1735	NF-kappaB
+T45	DNA 1798 1806	germline
+T46	protein 1853 1856	IgE

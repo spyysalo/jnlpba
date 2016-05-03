@@ -1,0 +1,25 @@
+T1	protein 43 56	interleukin-6
+T2	protein 78 86	NK-chi B
+T3	protein 91 97	NF-IL6
+T4	protein 310 332	inflammatory cytokines
+T5	protein 380 398	interleukin (IL)-6
+T6	cell_type 402 423	human blood monocytes
+T7	DNA 466 475	IL-6 gene
+T8	protein 549 569	transcription factor
+T9	protein 570 578	NF-chi B
+T10	protein 607 613	NF-IL6
+T11	protein 641 661	transcription factor
+T12	protein 662 666	AP-1
+T13	protein 694 698	IL-6
+T14	protein 763 771	NF-chi B
+T15	protein 776 782	NF-IL6
+T16	protein 799 803	IL-6
+T17	DNA 875 888	IL-6 promoter
+T18	DNA 908 921	IL-6 promoter
+T19	protein 1042 1054	IL-6 protein
+T20	DNA 1112 1143	heterologous promoter construct
+T21	DNA 1159 1167	NF-chi B
+T22	DNA 1175 1190	NF-IL6 enhancer
+T23	DNA 1204 1217	AP-1 enhancer
+T24	protein 1331 1339	NF-chi B
+T25	protein 1343 1349	NF-IL6

@@ -1,0 +1,29 @@
+T1	protein 21 26	Egr-1
+T2	cell_type 78 85	B cells
+T3	cell_type 108 115	B cells
+T4	protein 120 131	Ag receptor
+T5	protein 182 202	transcription factor
+T6	protein 203 208	Egr-1
+T7	protein 253 258	Egr-1
+T8	protein 442 447	Egr-1
+T9	DNA 466 478	target genes
+T10	cell_line 495 529	Egr-1-overexpressing transfectants
+T11	cell_line 539 561	murine B cell line K46
+T12	cell_line 571 590	human Ramos B cells
+T13	cell_line 616 627	K46 B cells
+T14	protein 659 663	CD44
+T15	protein 699 703	CD95
+T16	protein 705 714	Fas/Apo-1
+T17	protein 723 727	CD23
+T18	cell_line 754 771	K46 transfectants
+T19	protein 837 849	anti-CD95 Ab
+T20	cell_line 876 904	Egr-1-expressing Ramos cells
+T21	protein 930 934	CD95
+T22	protein 953 958	Egr-1
+T23	DNA 994 1017	downstream target genes
+T24	protein 1073 1091	repressor molecule
+T25	cell_type 1096 1103	B cells
+T26	protein 1105 1110	Egr-1
+T27	protein 1212 1223	Ag receptor
+T28	protein 1273 1277	CD95
+T29	protein 1282 1286	CD23

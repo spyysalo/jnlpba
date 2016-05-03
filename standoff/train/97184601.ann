@@ -1,0 +1,9 @@
+T1	DNA 18 38	nucleotide sequences
+T2	DNA 102 122	long terminal repeat
+T3	cell_type 136 143	T cells
+T4	DNA 174 182	enhancer
+T5	DNA 184 187	DEN
+T6	DNA 196 216	long terminal repeat
+T7	DNA 338 341	DEN
+T8	cell_type 377 394	activated T cells
+T9	protein 427 436	NF-kappaB

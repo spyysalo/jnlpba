@@ -1,0 +1,22 @@
+T1	protein 29 54	transcription factor AP-1
+T2	cell_line 58 89	human promyelocytic HL-60 cells
+T3	cell_type 121 132	macrophages
+T4	cell_type 140 152	granulocytes
+T5	cell_line 168 179	HL-60 cells
+T6	protein 560 585	transcription factor AP-1
+T7	protein 645 649	AP-1
+T8	cell_type 785 797	granulocytes
+T9	cell_line 804 815	HL-60 cells
+T10	cell_line 966 977	HL-60 cells
+T11	protein 1101 1105	AP-1
+T12	cell_line 1194 1205	HL-60 cells
+T13	DNA 1232 1277	c-fos, c-jun, jun B and jun D proto-oncogenes
+T14	cell_line 1297 1308	HL-60 cells
+T15	RNA 1458 1468	jun D mRNA
+T16	protein 1527 1531	AP-1
+T17	cell_line 1569 1574	HL-60
+T18	cell_type 1599 1611	granulocytes
+T19	protein 1694 1698	AP-1
+T20	protein 1740 1744	AP-1
+T21	cell_line 1796 1807	HL-60 cells
+T22	cell_type 1816 1850	monocytic or granulocytic lineages

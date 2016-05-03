@@ -1,0 +1,44 @@
+T1	protein 0 11	Calcineurin
+T2	DNA 42 95	granulocyte-macrophage colony-stimulating factor gene
+T3	cell_type 99 106	T cells
+T4	DNA 127 157	conserved lymphokine element 0
+T5	protein 159 207	Granulocyte-macrophage colony-stimulating factor
+T6	protein 209 215	GM-CSF
+T7	protein 221 234	interleukin-2
+T8	protein 236 240	IL-2
+T9	cell_line 344 378	human T cell leukemia Jurkat cells
+T10	protein 398 404	GM-CSF
+T11	protein 409 413	IL-2
+T12	protein 516 520	IL-2
+T13	protein 567 578	calcineurin
+T14	protein 580 582	CN
+T15	protein 587 632	Ca2+/calmodulin-dependent protein phosphatase
+T16	DNA 671 684	IL-2 promoter
+T17	DNA 697 715	NF-AT-binding site
+T18	DNA 778 783	cDNAs
+T19	protein 788 835	CN A (catalytic) and CN B (regulatory) subunits
+T20	DNA 873 888	GM-CSF promoter
+T21	protein 976 988	CN A subunit
+T22	protein 1006 1021	auto-inhibitory
+T23	protein 1026 1052	calmodulin-binding domains
+T24	DNA 1114 1129	GM-CSF promoter
+T25	protein 1161 1163	CN
+T26	protein 1256 1262	GM-CSF
+T27	protein 1267 1271	IL-2
+T28	DNA 1294 1313	regulatory elements
+T29	DNA 1321 1336	GM-CSF promoter
+T30	DNA 1363 1375	target sites
+T31	protein 1384 1386	CN
+T32	DNA 1401 1431	conserved lymphokine element 0
+T33	DNA 1433 1437	CLE0
+T34	DNA 1520 1524	CLE0
+T35	DNA 1541 1557	AP1-binding site
+T36	protein 1584 1601	NF-AT-like factor
+T37	protein 1610 1623	NF-CLE0 gamma
+T38	DNA 1628 1632	CLE0
+T39	protein 1739 1741	CN
+T40	DNA 1790 1811	GM-CSF and IL-2 genes
+T41	DNA 1825 1838	CLE0 sequence
+T42	DNA 1846 1857	GM-CSF gene
+T43	DNA 1890 1908	NF-AT-binding site
+T44	DNA 1916 1929	IL-2 promoter

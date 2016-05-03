@@ -1,0 +1,27 @@
+T1	protein 42 76	monocyte chemoattractant protein-1
+T2	cell_type 80 97	endothelial cells
+T3	cell_type 251 260	monocytes
+T4	protein 331 365	Monocyte chemoattractant protein-1
+T5	protein 367 372	MCP-1
+T6	protein 386 395	chemokine
+T7	cell_type 429 438	monocytes
+T8	protein 713 718	MCP-1
+T9	cell_type 733 750	endothelial cells
+T10	protein 809 822	MCP-1 protein
+T11	RNA 1010 1020	MCP-1 mRNA
+T12	cell_type 1058 1075	endothelial cells
+T13	protein 1128 1142	p38 MAP kinase
+T14	protein 1209 1213	MKK3
+T15	protein 1215 1219	MKK6
+T16	protein 1221 1226	ATF-2
+T17	protein 1231 1236	Elk-1
+T18	cell_type 1256 1282	homocysteine-treated cells
+T19	protein 1305 1310	MCP-1
+T20	protein 1375 1389	p38 MAP kinase
+T21	protein 1431 1445	p38 MAP kinase
+T22	protein 1496 1501	MCP-1
+T23	cell_type 1516 1533	endothelial cells
+T24	protein 1565 1581	protein kinase C
+T25	protein 1631 1636	MCP-1
+T26	protein 1714 1719	MCP-1
+T27	cell_type 1734 1751	endothelial cells

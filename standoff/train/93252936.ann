@@ -1,0 +1,23 @@
+T1	protein 2 48	chimeric type II/type I interleukin-1 receptor
+T2	protein 61 74	interleukin-1
+T3	cell_type 107 114	T cells
+T4	protein 120 149	type I interleukin-1 receptor
+T5	protein 151 156	IL-1R
+T6	cell_type 229 236	T cells
+T7	protein 283 301	cytoplasmic domain
+T8	protein 357 372	type I receptor
+T9	protein 378 391	type II IL-1R
+T10	protein 404 420	cytoplasmic tail
+T11	protein 469 487	signal-transducing
+T12	protein 493 512	regulatory molecule
+T13	protein 538 551	type II IL-1R
+T14	cell_line 588 600	Jurkat cells
+T15	protein 645 684	extracellular and transmembrane regions
+T16	protein 692 719	human type II interleukin-1
+T17	protein 733 751	cytoplasmic domain
+T18	protein 759 777	human type I IL-1R
+T19	protein 910 922	type I IL-1R
+T20	protein 955 975	extracellular domain
+T21	protein 983 996	type II IL-1R
+T22	protein 1042 1055	interleukin-1
+T23	protein 1099 1130	heterologous cytoplasmic domain

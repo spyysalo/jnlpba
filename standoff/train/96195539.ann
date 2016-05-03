@@ -1,0 +1,55 @@
+T1	protein 0 16	Interferon-gamma
+T2	protein 72 76	AP-1
+T3	protein 81 91	NF-kappa B
+T4	cell_type 125 140	human monocytes
+T5	protein 142 158	Interferon-gamma
+T6	protein 160 169	IFN-gamma
+T7	protein 207 216	cytokines
+T8	cell_type 220 235	human monocytes
+T9	protein 320 329	IFN-gamma
+T10	protein 361 382	transcription factors
+T11	cell_type 396 411	human monocytes
+T12	cell_type 424 439	human monocytes
+T13	protein 445 454	IFN-gamma
+T14	RNA 490 510	c-fos and c-jun mRNA
+T15	protein 663 682	activator protein-1
+T16	protein 684 688	AP-1
+T17	protein 808 812	AP-1
+T18	protein 832 841	IFN-gamma
+T19	cell_type 843 867	LPS-stimulated monocytes
+T20	RNA 902 911	p105 mRNA
+T21	protein 934 945	p50 subunit
+T22	protein 953 996	transcription factor nuclear factor-kappa B
+T23	protein 998 1008	NF-kappa B
+T24	RNA 1060 1068	p65 mRNA
+T25	protein 1083 1092	IFN-gamma
+T26	RNA 1134 1150	p105 transcripts
+T27	RNA 1182 1190	p65 mRNA
+T28	protein 1216 1225	IFN-gamma
+T29	RNA 1306 1314	p65 mRNA
+T30	RNA 1364 1372	p65 mRNA
+T31	protein 1505 1508	p50
+T32	protein 1509 1519	NF-kappa B
+T33	protein 1545 1554	IFN-gamma
+T34	protein 1585 1588	p50
+T35	protein 1593 1605	p65 subunits
+T36	protein 1632 1641	IFN-gamma
+T37	protein 1698 1708	NF-kappa B
+T38	cell_type 1773 1782	monocytes
+T39	protein 1793 1796	p50
+T40	protein 1801 1812	p65 protein
+T41	protein 1836 1845	IFN-gamma
+T42	protein 1920 1923	p50
+T43	protein 1928 1939	p65 protein
+T44	protein 1967 1976	IFN-gamma
+T45	protein 1984 2005	transcription factors
+T46	protein 2071 2078	NF-IL-6
+T47	protein 2082 2097	I kappa B alpha
+T48	protein 2116 2126	NF-kappa B
+T49	protein 2160 2169	IFN-gamma
+T50	protein 2195 2216	transcription factors
+T51	protein 2217 2221	AP-1
+T52	protein 2226 2236	NF-kappa B
+T53	protein 2284 2293	IFN-gamma
+T54	protein 2301 2309	cytokine
+T55	cell_type 2334 2349	human monocytes

@@ -1,0 +1,22 @@
+T1	cell_type 77 97	natural killer cells
+T2	protein 164 174	NF-kappa B
+T3	cell_type 189 214	natural killer (NK) cells
+T4	cell_type 274 282	NK cells
+T5	cell_type 313 341	peripheral blood lymphocytes
+T6	cell_type 343 346	PBL
+T7	cell_line 351 379	long-term cultured NK clones
+T8	protein 452 462	NF-kappa B
+T9	protein 467 471	AP-1
+T10	protein 472 493	transcription factors
+T11	cell_type 539 547	NK cells
+T12	protein 632 642	NF-kappa B
+T13	protein 662 666	AP-1
+T14	protein 718 728	NF-kappa B
+T15	cell_type 807 815	NK cells
+T16	protein 845 861	serine proteases
+T17	cell_type 1000 1008	NK cells
+T18	cell_line 1038 1042	K562
+T19	protein 1133 1143	proteasome
+T20	protein 1210 1220	NF-kappa B
+T21	cell_type 1305 1313	NK cells
+T22	cell_type 1513 1521	NK cells

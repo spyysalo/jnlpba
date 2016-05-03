@@ -1,0 +1,15 @@
+T1	protein 0 20	AML and Ets proteins
+T2	DNA 34 61	I alpha1 germ-line promoter
+T3	protein 67 93	immunoglobulin heavy chain
+T4	protein 95 98	IgH
+T5	cell_type 130 143	B lymphocytes
+T6	DNA 180 189	IgH genes
+T7	DNA 269 288	germ-line IgH genes
+T8	DNA 306 329	intervening (I) regions
+T9	DNA 417 446	human germ-line C alpha1 gene
+T10	protein 451 455	IgA1
+T11	protein 473 511	transforming growth factor (TGF)-beta1
+T12	protein 621 666	AML/PEBP2/CBF family of transcription factors
+T13	protein 676 696	AML and Ets proteins
+T14	protein 868 876	TGF-beta
+T15	protein 887 890	IgA

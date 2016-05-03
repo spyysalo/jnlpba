@@ -1,0 +1,20 @@
+T1	DNA 14 19	c-fos
+T2	protein 36 45	IFN-alpha
+T3	DNA 175 183	oncogene
+T4	RNA 188 203	p53 transcripts
+T5	protein 296 309	rIFN-alpha 2c
+T6	cell_type 311 345	Peripheral blood mononuclear cells
+T7	cell_type 347 351	pbmc
+T8	cell_type 357 374	bone marrow cells
+T9	RNA 502 518	c-fos transcript
+T10	protein 590 599	IFN-alpha
+T11	cell_type 668 679	lymphocytes
+T12	cell_type 741 755	immature cells
+T13	cell_type 796 800	pbmc
+T14	RNA 827 844	constitutive mRNA
+T15	DNA 859 873	hybrid bcr/abl
+T16	DNA 875 880	c-myc
+T17	DNA 885 888	p53
+T18	protein 1024 1033	IFN-alpha
+T19	DNA 1068 1073	c-fos
+T20	RNA 1096 1106	c-myc mRNA

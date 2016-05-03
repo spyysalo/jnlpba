@@ -1,0 +1,25 @@
+T1	cell_line 29 63	HL-60 promyelocytic leukemia cells
+T2	protein 97 103	Bcl-xL
+T3	cell_line 118 158	human promyelocytic leukemia HL-60 cells
+T4	cell_type 243 270	monocyte/macrophage lineage
+T5	cell_line 422 433	HL-60 cells
+T6	cell_line 532 543	HL-60 cells
+T7	cell_line 600 618	PDBu-treated cells
+T8	protein 708 711	Bak
+T9	protein 716 719	Bad
+T10	protein 785 813	apoptosis suppressor protein
+T11	protein 814 819	Bcl-2
+T12	protein 922 940	apoptosis effector
+T13	protein 941 944	Bax
+T14	cell_line 1052 1063	HL-60 cells
+T15	protein 1110 1138	apoptosis suppressor protein
+T16	protein 1139 1145	Bcl-xL
+T17	protein 1293 1299	Bcl-xL
+T18	cell_line 1303 1328	human myeloid U-937 cells
+T19	cell_type 1330 1362	human peripheral blood monocytes
+T20	cell_line 1393 1459	mouse thioglycollate-activated and resident peritoneal macrophages
+T21	cell_line 1461 1485	PDBu-treated HL-60 cells
+T22	protein 1594 1600	Bcl-xL
+T23	protein 1633 1639	Bcl-xL
+T24	cell_type 1702 1721	hematopoietic cells
+T25	cell_type 1732 1759	monocyte/macrophage lineage

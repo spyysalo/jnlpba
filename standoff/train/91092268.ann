@@ -1,0 +1,32 @@
+T1	DNA 41 75	adenovirus early region 3 promoter
+T2	DNA 91 116	NF-kappa B binding motifs
+T3	cell_type 171 185	lymphoid cells
+T4	DNA 212 234	viral control elements
+T5	protein 243 259	cellular factors
+T6	cell_type 304 315	lymphocytes
+T7	protein 343 387	adenovirus early region 3 (ES) gene products
+T8	protein 464 484	class I MHC antigens
+T9	protein 622 638	cellular factors
+T10	cell_type 673 684	lymphocytes
+T11	cell_line 702 712	HeLa cells
+T12	DNA 766 777	E3 promoter
+T13	DNA 840 853	novel domains
+T14	DNA 869 871	L1
+T15	DNA 876 878	L2
+T16	protein 1016 1042	cellular factor NF-kappa B
+T17	DNA 1061 1074	E3 constructs
+T18	DNA 1089 1127	chloramphenicol acetyltransferase gene
+T19	DNA 1161 1184	distal NF-kappa B motif
+T20	DNA 1186 1188	L2
+T21	cell_line 1236 1246	HeLa cells
+T22	cell_type 1300 1314	lymphoid cells
+T23	DNA 1344 1369	proximal NF-kappa B motif
+T24	DNA 1371 1373	L1
+T25	cell_line 1422 1432	HeLa cells
+T26	cell_type 1437 1451	lymphoid cells
+T27	cell_type 1526 1540	lymphoid cells
+T28	DNA 1561 1563	L2
+T29	DNA 1631 1633	L1
+T30	DNA 1638 1648	L2 domains
+T31	DNA 1668 1684	primary sequence
+T32	DNA 1735 1746	E3 promoter

@@ -1,0 +1,14 @@
+T1	DNA 14 38	erythroid-specific genes
+T2	cell_type 218 234	progenitor cells
+T3	cell_type 420 440	abnormal blast cells
+T4	protein 455 477	megakaryocytic markers
+T5	cell_type 485 496	blast cells
+T6	protein 505 543	lineage-specific transcription factors
+T7	protein 552 558	GATA-1
+T8	RNA 607 631	erythroid-specific mRNAs
+T9	protein 640 652	gamma-globin
+T10	protein 657 697	erythroid delta-aminolevulinate synthase
+T11	protein 699 705	ALAS-E
+T12	cell_type 836 842	blasts
+T13	cell_type 875 886	progenitors
+T14	cell_type 895 932	erythroid and megakaryocytic lineages

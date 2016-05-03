@@ -1,0 +1,34 @@
+T1	protein 35 65	erythroid transcription factor
+T2	protein 66 72	GATA-1
+T3	protein 80 97	estrogen receptor
+T4	cell_type 206 252	bone marrow-derived erythroid progenitor cells
+T5	DNA 335 364	erythroid cell-specific genes
+T6	DNA 376 398	alpha- and beta-globin
+T7	protein 426 457	erythroid cell-specific histone
+T8	protein 458 460	H5
+T9	cell_type 516 542	erythroid progenitor cells
+T10	cell_line 546 580	primary human bone marrow cultures
+T11	protein 692 698	GATA-1
+T12	protein 703 733	erythroid transcription factor
+T13	DNA 789 818	erythroid cell-specific genes
+T14	cell_type 859 871	erythrocytes
+T15	protein 925 931	GATA-1
+T16	protein 961 978	estrogen receptor
+T17	protein 980 982	ER
+T18	protein 1091 1093	ER
+T19	protein 1117 1123	GATA-1
+T20	DNA 1146 1165	artificial promoter
+T21	DNA 1186 1203	GATA-binding site
+T22	DNA 1237 1252	intact promoter
+T23	protein 1284 1290	GATA-1
+T24	protein 1292 1298	GATA-1
+T25	protein 1303 1305	ER
+T26	cell_line 1412 1421	COS cells
+T27	protein 1423 1429	GATA-1
+T28	protein 1434 1436	ER
+T29	protein 1511 1517	GATA-1
+T30	protein 1526 1528	ER
+T31	protein 1597 1625	N-terminal activation domain
+T32	protein 1629 1635	GATA-1
+T33	protein 1711 1717	GATA-1
+T34	protein 1772 1774	ER

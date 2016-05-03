@@ -1,0 +1,16 @@
+T1	protein 50 88	E2A-HLF chimaeric transcription factor
+T2	DNA 94 144	E2A-HLF (for hepatic leukaemia factor) fusion gene
+T3	DNA 170 188	t(17;19) (q22;p13)
+T4	cell_type 261 278	B-cell precursors
+T5	cell_type 352 373	human leukaemia cells
+T6	DNA 401 409	t(17;19)
+T7	protein 516 523	E2A-HLF
+T8	protein 545 566	chimaeric oncoprotein
+T9	cell_line 654 678	murine pro-B lymphocytes
+T10	protein 684 716	oncogenic E2A-HLF fusion protein
+T11	protein 809 836	basic region/leucine zipper
+T12	protein 838 842	bZIP
+T13	protein 860 879	dimerization domain
+T14	protein 883 886	HLF
+T15	protein 902 940	CES-2 cell-death specification protein
+T16	protein 1012 1019	E2A-HLF

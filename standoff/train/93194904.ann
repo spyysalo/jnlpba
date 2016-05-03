@@ -1,0 +1,43 @@
+T1	protein 48 63	CD20/B1 antigen
+T2	DNA 140 148	promoter
+T3	DNA 154 167	CD20(B1) gene
+T4	protein 178 201	B cell-specific protein
+T5	DNA 293 333	5' deletion CD20 promoter-CAT constructs
+T6	DNA 378 386	promoter
+T7	DNA 463 491	positive regulatory elements
+T8	DNA 523 539	sequence element
+T9	protein 686 690	CD20
+T10	protein 730 734	CD20
+T11	cell_type 738 749	pre-B cells
+T12	DNA 756 772	sequence element
+T13	DNA 796 803	BAT box
+T14	DNA 1152 1159	BAT box
+T15	DNA 1199 1212	CD21 promoter
+T16	protein 1262 1278	nuclear proteins
+T17	protein 1299 1323	BAT box binding proteins
+T18	protein 1329 1334	Oct-1
+T19	protein 1339 1344	Oct-2
+T20	protein 1416 1440	BAT box binding proteins
+T21	protein 1446 1451	Oct-1
+T22	protein 1456 1461	Oct-2
+T23	protein 1483 1507	BAT box binding proteins
+T24	DNA 1516 1523	BAT box
+T25	DNA 1568 1584	octamer sequence
+T26	protein 1593 1617	BAT box binding proteins
+T27	DNA 1639 1646	BAT box
+T28	DNA 1682 1698	octamer sequence
+T29	DNA 1745 1761	BAT box sequence
+T30	DNA 1802 1825	Oct-2 expression vector
+T31	DNA 1849 1865	octamer sequence
+T32	cell_line 1869 1879	HeLa cells
+T33	DNA 1885 1892	BAT box
+T34	protein 1897 1902	Oct-2
+T35	protein 1944 1948	CD20
+T36	cell_line 1956 1971	pre-B cell line
+T37	cell_line 1973 1979	PB-697
+T38	RNA 2018 2027	CD20 mRNA
+T39	RNA 2072 2082	Oct-2 mRNA
+T40	DNA 2089 2123	BAT box-deleted CD20-CAT construct
+T41	protein 2233 2257	BAT box binding proteins
+T42	protein 2309 2313	CD20
+T43	protein 2326 2330	CD21

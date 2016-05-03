@@ -1,0 +1,40 @@
+T1	DNA 0 37	Cytomegalovirus immediate early genes
+T2	protein 49 62	interleukin-6
+T3	DNA 96 117	immediate early genes
+T4	DNA 119 121	IE
+T5	cell_type 174 189	monocytic cells
+T6	DNA 216 240	viral and cellular genes
+T7	protein 242 255	Interleukin-6
+T8	protein 257 261	IL-6
+T9	protein 331 344	Interleukin-6
+T10	protein 455 459	IL-6
+T11	protein 550 559	cytokines
+T12	protein 632 636	IL-6
+T13	cell_line 658 669	THP-1 cells
+T14	cell_line 673 692	monocytic cell line
+T15	DNA 720 732	CMV IE genes
+T16	protein 734 747	Interleukin-6
+T17	RNA 760 769	IL-6 mRNA
+T18	cell_type 799 836	CMV immediate early transfected cells
+T19	DNA 856 868	CMV IE genes
+T20	DNA 873 948	IL-6 chloramphenicol acetyl transferase (CAT) or IL-6 luciferase constructs
+T21	protein 968 972	IL-6
+T22	protein 1001 1022	Interleukin-6 protein
+T23	DNA 1102 1114	CMV IE genes
+T24	cell_line 1151 1179	LPS-stimulated control cells
+T25	protein 1181 1213	Cytomegalovirus IE gene products
+T26	DNA 1256 1269	IL-6 promoter
+T27	protein 1287 1291	IL-6
+T28	DNA 1361 1376	NF-kappa B site
+T29	protein 1458 1462	IL-6
+T30	protein 1463 1473	luciferase
+T31	cell_line 1486 1522	LPS-stimulated CMV transfected cells
+T32	protein 1536 1581	Cytomegalovirus immediate early gene products
+T33	protein 1619 1623	IL-6
+T34	protein 1665 1669	IL-6
+T35	protein 1670 1680	luciferase
+T36	DNA 1761 1774	IL-6 promoter
+T37	protein 1789 1793	IL-1
+T38	protein 1795 1804	TNF alpha
+T39	protein 1870 1890	CMV IE gene products
+T40	protein 1902 1906	IL-6

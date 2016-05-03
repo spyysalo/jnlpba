@@ -1,0 +1,9 @@
+Single dose intranasal administration of retinal autoantigen generates a rapid accumulation and cell activation in draining lymph node and spleen: implications for tolerance therapy.
+BACKGROUND/AIMS:
+A single intranasal delivery of retinal autoantigen suppresses effectively experimental autoimmune uveoretinitis (EAU). To further unravel underlying mechanisms the authors wished to determine, firstly, the kinetics of antigen delivery and, secondly, the early cellular responses involved in the initial stages of nasal mucosal tolerance induction.
+METHODS:
+Flow cytometry, cell proliferation assays, and microscopy were used to track antigen following a single, intranasal dose of Alexa-488 labelled retinal antigen.
+RESULTS:
+A rapid accumulation of antigen within both superficial cervical lymph nodes (SCLN) and spleen was observed after 30 minutes. Significant proliferative responses to IRBP were elicited by 48 hours indicating that systemic priming of naive T cells to retinal antigen had occurred. Cell activation was further confirmed by immunoprecipitation studies, which demonstrated phosphorylation of STAT4 but not STAT6 in both lymph nodes and spleen. However, at 24 hours, STAT4 heterodimerisation with STAT 3 was only observed in spleen.
+CONCLUSIONS:
+The results provide novel evidence that following a single intranasal application rapid transfer of antigen occurs. Resulting T cell proliferation develops consequent to differential cell signalling in SCLN and spleen. Further understanding of these underlying cellular mechanisms, in particular as is inferred by the results the contribution of local versus systemic tolerance induction, may assist in strategies to clinically apply mucosal tolerance therapy successfully.

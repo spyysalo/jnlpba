@@ -1,0 +1,25 @@
+T1	protein 24 48	POU-specific homeodomain
+T2	protein 74 101	B-cell transcription factor
+T3	protein 102 107	Oct-2
+T4	protein 113 134	POU DNA-binding motif
+T5	protein 165 197	eukaryotic transcription factors
+T6	protein 246 261	bipartite motif
+T7	protein 277 307	N-terminal POU-specific domain
+T8	protein 309 313	POUs
+T9	protein 318 333	flexible linker
+T10	protein 341 376	C-terminal POU-specific homeodomain
+T11	protein 378 383	POUHD
+T12	protein 431 455	POU-specific homeodomain
+T13	protein 487 492	Oct-2
+T14	protein 496 538	human B-cell specific transcription factor
+T15	DNA 579 599	immunoglobulin genes
+T16	protein 615 620	Oct-2
+T17	protein 632 637	POUHD
+T18	protein 833 845	POUHD moiety
+T19	protein 864 869	POUHD
+T20	protein 980 1002	canonical homeodomains
+T21	protein 1084 1102	C-terminal segment
+T22	protein 1106 1119	alpha-helix 3
+T23	protein 1125 1146	HTH recognition helix
+T24	protein 1322 1327	POUHD
+T25	protein 1346 1350	POUs

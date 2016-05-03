@@ -1,0 +1,19 @@
+T1	DNA 11 31	ARE-containing genes
+T2	RNA 87 107	cloning labile mRNAs
+T3	DNA 170 190	regulatory sequences
+T4	DNA 212 228	AU-rich elements
+T5	DNA 230 234	AREs
+T6	DNA 251 274	3' untranslated regions
+T7	protein 292 301	cytokines
+T8	DNA 303 318	proto-oncogenes
+T9	protein 324 345	transcription factors
+T10	DNA 347 352	AU-DD
+T11	DNA 359 397	AU-motif-directed differential display
+T12	DNA 433 453	ARE-containing genes
+T13	cell_type 525 551	peripheral blood monocytes
+T14	cell_line 558 570	T cell clone
+T15	DNA 582 599	59 cDNA fragments
+T16	protein 714 723	cytokines
+T17	protein 728 762	transduction/transcription factors
+T18	DNA 804 809	genes
+T19	DNA 964 969	genes

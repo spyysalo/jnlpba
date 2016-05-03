@@ -1,0 +1,20 @@
+T1	protein 264 296	Oxidized low density lipoprotein
+T2	protein 298 303	oxLDL
+T3	protein 341 346	PPARs
+T4	protein 419 424	oxLDL
+T5	protein 484 487	LDL
+T6	protein 560 565	oxLDL
+T7	protein 656 665	PPARgamma
+T8	protein 684 705	recombinant PPARgamma
+T9	protein 877 898	ligand-binding pocket
+T10	protein 1022 1031	PPARalpha
+T11	protein 1035 1044	PPARgamma
+T12	protein 1102 1125	scavenger receptor CD36
+T13	DNA 1142 1162	PPRE-responsive gene
+T14	protein 1196 1200	CD36
+T15	cell_type 1204 1227	primary human monocytes
+T16	protein 1243 1252	anti-CD36
+T17	protein 1348 1377	phospholipid flippase mimetic
+T18	protein 1518 1523	oxLDL
+T19	protein 1591 1600	PPARgamma
+T20	DNA 1613 1634	PPAR-responsive genes

@@ -1,0 +1,42 @@
+T1	DNA 32 50	tissue factor gene
+T2	cell_type 65 80	monocytic cells
+T3	protein 107 129	c-Rel/p65 heterodimers
+T4	DNA 135 152	kappa B-like site
+T5	cell_type 166 181	monocytic cells
+T6	protein 234 255	NF-kappa B/Rel family
+T7	protein 304 330	inflammatory gene products
+T8	protein 342 355	tissue factor
+T9	protein 357 359	TF
+T10	protein 362 364	TF
+T11	protein 406 426	coagulation protease
+T12	protein 478 493	nuclear complex
+T13	cell_type 505 520	monocytic cells
+T14	DNA 537 554	kappa B-like site
+T15	DNA 556 572	5'-CGGAGTTTCC-3'
+T16	DNA 581 599	5'-flanking region
+T17	DNA 607 620	human TF gene
+T18	protein 627 642	nuclear complex
+T19	DNA 709 716	TF gene
+T20	DNA 765 772	TF site
+T21	protein 790 814	c-Rel and p65 homodimers
+T22	protein 823 843	p50/p65 heterodimers
+T23	protein 847 861	p50 homodimers
+T24	DNA 894 901	TF site
+T25	protein 947 957	position 1
+T26	protein 979 989	NF-kappa B
+T27	protein 1041 1051	TF complex
+T28	protein 1084 1098	p50/p65 dimers
+T29	protein 1127 1143	c-Rel/p65 dimers
+T30	protein 1168 1178	NF-kappa B
+T31	protein 1250 1255	c-Rel
+T32	protein 1283 1286	p50
+T33	protein 1294 1304	TF complex
+T34	protein 1329 1351	c-Rel/p65 heterodimers
+T35	DNA 1377 1397	TF kappa B-like site
+T36	DNA 1437 1444	TF site
+T37	DNA 1477 1498	heterologous promoter
+T38	protein 1525 1530	c-Rel
+T39	protein 1596 1618	c-Rel/p65 heterodimers
+T40	DNA 1630 1647	kappa B-like site
+T41	protein 1674 1676	TF
+T42	cell_type 1696 1711	monocytic cells

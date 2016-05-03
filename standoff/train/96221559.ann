@@ -1,0 +1,23 @@
+T1	cell_line 30 67	human monoblastic leukemia U937 cells
+T2	protein 93 118	myosin light chain kinase
+T3	cell_line 120 157	Human monoblastic leukemia U937 cells
+T4	cell_type 192 201	monocytes
+T5	cell_type 206 217	macrophages
+T6	protein 356 381	myosin light chain kinase
+T7	cell_line 410 440	monocytoid leukemia cell lines
+T8	cell_line 441 445	U937
+T9	cell_line 450 455	THP-1
+T10	cell_line 467 498	myeloblastic leukemic ML-1 cell
+T11	cell_line 502 528	erythroleukemia K562 cells
+T12	cell_line 766 775	U937 cell
+T13	protein 943 974	alpha-naphthyl acetate esterase
+T14	protein 976 980	ANAE
+T15	cell_line 1437 1447	U937 cells
+T16	cell_line 1526 1549	human monoblastic cells
+T17	cell_line 1551 1556	THP-1
+T18	cell_line 1608 1618	U937 cells
+T19	protein 1651 1705	monocyte-macrophage lineage-associated surface antigen
+T20	protein 1707 1711	CD14
+T21	protein 2239 2272	transforming growth factor-beta 1
+T22	protein 2274 2284	TGF-beta 1
+T23	cell_line 2327 2337	U937 cells

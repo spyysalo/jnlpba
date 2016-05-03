@@ -1,0 +1,17 @@
+T1	protein 354 367	gene products
+T2	cell_type 459 497	human umbilical vein endothelial cells
+T3	protein 557 596	human recombinant tumor necrosis factor
+T4	protein 598 621	interleukin (IL)-1alpha
+T5	protein 623 631	IL-1beta
+T6	protein 633 637	IL-4
+T7	protein 776 809	vascular cell adhesion molecule-1
+T8	protein 811 817	VCAM-1
+T9	protein 820 830	E-selectin
+T10	protein 836 869	intercellular adhesion molecule-1
+T11	RNA 966 977	VCAM-1 mRNA
+T12	protein 1097 1115	adhesion molecules
+T13	protein 1230 1236	VCAM-1
+T14	cell_line 1303 1324	monocytoid U937 cells
+T15	RNA 1444 1455	VCAM-1 mRNA
+T16	protein 1503 1524	nuclear factor-kappaB
+T17	cell_type 1592 1609	endothelial cells

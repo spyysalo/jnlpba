@@ -1,0 +1,23 @@
+T1	protein 0 6	GATA-3
+T2	DNA 38 47	IL-4 gene
+T3	DNA 88 110	proximal IL-4 promoter
+T4	DNA 150 181	800-base pair proximal promoter
+T5	RNA 330 339	IL-4 mRNA
+T6	DNA 396 413	enhancer elements
+T7	DNA 439 459	genomic IL-4 regions
+T8	protein 503 524	transcription factors
+T9	DNA 539 552	IL-4 promoter
+T10	protein 585 591	GATA-3
+T11	DNA 605 620	genomic regions
+T12	DNA 644 659	GATA-3 promoter
+T13	DNA 721 731	GATA sites
+T14	protein 743 765	Th2-specific complexes
+T15	protein 803 809	GATA-3
+T16	cell_type 815 833	developing T cells
+T17	protein 842 846	IL-5
+T18	protein 855 858	Th2
+T19	protein 895 899	IL-4
+T20	protein 934 940	GATA-3
+T21	protein 985 989	IL-4
+T22	DNA 1022 1035	GATA elements
+T23	DNA 1052 1073	IL-13/IL-4 gene locus

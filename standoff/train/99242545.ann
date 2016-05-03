@@ -1,0 +1,26 @@
+T1	cell_type 51 69	monoblastoid cells
+T2	protein 81 90	TNF-alpha
+T3	cell_type 136 155	mononucleated cells
+T4	cell_type 444 461	endothelial cells
+T5	cell_type 466 477	osteoblasts
+T6	protein 479 488	TNF-alpha
+T7	cell_type 552 565	myeloid cells
+T8	protein 624 633	TNF-alpha
+T9	cell_line 659 686	monoblastoid U937 cell line
+T10	protein 768 777	TNF-alpha
+T11	cell_line 823 852	PMA-differentiated U937 cells
+T12	RNA 1129 1210	estrogen receptor alpha (ER-alpha), ER-beta, and progesterone receptor (PR) mRNAs
+T13	protein 1216 1224	ER-alpha
+T14	cell_type 1466 1488	undifferentiated cells
+T15	cell_line 1635 1659	PMA-differentiated cells
+T16	protein 1701 1710	TNF-alpha
+T17	protein 2037 2063	proapoptotic Nip-2 protein
+T18	cell_line 2122 2132	U937 cells
+T19	protein 2216 2218	ER
+T20	protein 2223 2225	PR
+T21	protein 2320 2329	TNF-alpha
+T22	cell_line 2351 2361	U937 cells
+T23	protein 2404 2428	female steroid receptors
+T24	cell_type 2505 2523	monoblastoid cells
+T25	cell_type 2722 2740	monoblastoid cells
+T26	protein 2752 2761	TNF-alpha

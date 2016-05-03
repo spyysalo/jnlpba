@@ -1,0 +1,10 @@
+T1	cell_type 15 55	human peripheral blood mononuclear cells
+T2	protein 276 294	interleukin 1 beta
+T3	protein 296 305	IL-1 beta
+T4	protein 311 339	tumour necrosis factor alpha
+T5	protein 341 350	TNF-alpha
+T6	RNA 391 395	mRNA
+T7	cell_type 399 439	human peripheral blood mononuclear cells
+T8	cell_type 441 445	PBMC
+T9	RNA 633 637	mRNA
+T10	protein 641 650	TNF-alpha

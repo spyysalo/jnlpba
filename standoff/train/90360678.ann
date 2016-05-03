@@ -1,0 +1,10 @@
+T1	protein 8 41	3,5,3'-triiodothyronine receptors
+T2	protein 43 46	T3R
+T3	cell_type 51 80	circulating human lymphocytes
+T4	protein 174 177	T3R
+T5	cell_type 193 216	circulating lymphocytes
+T6	protein 305 308	T3R
+T7	cell_type 312 323	lymphocytes
+T8	protein 733 744	nuclear T3R
+T9	cell_type 752 763	lymphocytes
+T10	protein 871 882	nuclear T3R

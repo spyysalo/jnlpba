@@ -1,0 +1,24 @@
+T1	DNA 42 82	Alu-containing, T-cell-specific enhancer
+T2	DNA 103 109	intron
+T3	DNA 117 137	human CD8 alpha gene
+T4	DNA 157 177	human CD8 alpha gene
+T5	cell_type 208 224	lymphoid lineage
+T6	DNA 444 473	cis-acting regulatory regions
+T7	protein 477 484	DNase I
+T8	DNA 635 659	T-cell-specific enhancer
+T9	DNA 717 755	T-cell-restricted hypersensitive sites
+T10	DNA 782 796	CD8 alpha gene
+T11	DNA 929 945	minimal enhancer
+T12	DNA 977 1000	consensus binding sites
+T13	protein 1005 1056	Ets-1, TCF-1, CRE, GATA-3, LyF-1, and bHLH proteins
+T14	DNA 1136 1142	5' end
+T15	DNA 1150 1158	enhancer
+T16	DNA 1209 1246	GATA-3, bHLH, and LyF-1 binding sites
+T17	DNA 1278 1300	Ets-1 and GATA-3 sites
+T18	DNA 1508 1528	human CD8 alpha gene
+T19	protein 1573 1596	T-cell nuclear proteins
+T20	DNA 1649 1655	intron
+T21	DNA 1687 1705	CD8 alpha enhancer
+T22	DNA 1737 1772	T-cell-specific regulatory elements
+T23	protein 1803 1824	transcription factors
+T24	DNA 1843 1855	T-cell genes

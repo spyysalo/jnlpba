@@ -1,0 +1,44 @@
+T1	DNA 12 40	NF-kappa B/Rel binding sites
+T2	DNA 48 114	major histocompatibility complex class II invariant chain promoter
+T3	protein 166 189	NF-kappa B/Rel subunits
+T4	DNA 195 203	promoter
+T5	DNA 223 290	histocompatibility complex class II-associated invariant-chain gene
+T6	DNA 292 294	Ii
+T7	DNA 309 337	NF-kappa B/Rel binding sites
+T8	DNA 349 361	-109 to -118
+T9	DNA 363 375	Ii kappa B-1
+T10	DNA 381 393	-163 to -172
+T11	DNA 395 407	Ii kappa B-2
+T12	DNA 507 527	NF-kappa B/Rel sites
+T13	protein 595 631	NF-kappa B/Rel transcription factors
+T14	DNA 633 645	Ii kappa B-1
+T15	DNA 651 678	positive regulatory element
+T16	cell_line 682 694	B-cell lines
+T17	cell_line 706 731	Ii-expressing T-cell line
+T18	cell_line 733 735	H9
+T19	DNA 751 778	negative regulatory element
+T20	cell_line 782 816	myelomonocytic and glia cell lines
+T21	DNA 865 877	Ii kappa B-1
+T22	cell_line 881 891	cell lines
+T23	DNA 937 967	positive or negative regulator
+T24	protein 1042 1063	NF-kappa B/Rel family
+T25	protein 1067 1088	transcription factors
+T26	protein 1129 1150	DNA-binding complexes
+T27	protein 1164 1167	p50
+T28	protein 1169 1172	p52
+T29	protein 1174 1177	p65
+T30	protein 1183 1187	cRel
+T31	protein 1247 1250	p50
+T32	DNA 1288 1300	Ii kappa B-2
+T33	cell_line 1337 1349	B-cell lines
+T34	cell_line 1387 1397	H9 T cells
+T35	cell_line 1399 1435	myelomonocytic, and glial cell lines
+T36	cell_line 1492 1506	H9 T-cell line
+T37	protein 1573 1576	p50
+T38	protein 1578 1581	p52
+T39	protein 1583 1586	p65
+T40	protein 1592 1596	cRel
+T41	protein 1660 1663	p50
+T42	protein 1668 1671	p52
+T43	protein 1745 1768	NF-kappa B/Rel subunits
+T44	DNA 1827 1855	NF-kappa B/Rel binding sites

@@ -1,0 +1,21 @@
+T1	protein 36 40	AP-1
+T2	protein 42 52	NF-kappa B
+T3	protein 58 85	tumor necrosis factor-alpha
+T4	cell_type 89 108	human B lymphocytes
+T5	cell_type 123 142	human B lymphocytes
+T6	protein 206 227	phosphatases 1 and 2A
+T7	protein 262 282	transcription factor
+T8	protein 284 288	AP-1
+T9	protein 314 324	NF-kappa B
+T10	protein 377 401	octamer binding proteins
+T11	protein 403 408	Oct-1
+T12	protein 412 417	Oct-2
+T13	protein 442 446	AP-1
+T14	protein 451 461	NF-kappa B
+T15	DNA 521 565	tumor necrosis factor-alpha (TNF-alpha) gene
+T16	RNA 609 623	TNF-alpha mRNA
+T17	RNA 695 709	TNF-alpha mRNA
+T18	protein 769 778	TNF-alpha
+T19	protein 878 882	AP-1
+T20	protein 887 897	NF-kappa B
+T21	protein 947 961	immunoglobulin

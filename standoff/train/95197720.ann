@@ -1,0 +1,32 @@
+T1	protein 30 34	MNDA
+T2	cell_type 49 58	monocytes
+T3	cell_type 60 71	macrophages
+T4	cell_line 77 107	leukemia/B lymphoma cell lines
+T5	protein 131 181	human myeloid cell nuclear differentiation antigen
+T6	protein 183 187	MNDA
+T7	protein 305 309	MNDA
+T8	cell_line 387 397	cell lines
+T9	protein 514 518	MNDA
+T10	cell_type 690 710	multipotential cells
+T11	protein 727 731	MNDA
+T12	cell_line 818 843	lymphoblastoid cell lines
+T13	protein 917 921	MNDA
+T14	protein 942 958	interferon-alpha
+T15	protein 960 969	IFN-alpha
+T16	RNA 1009 1018	MNDA mRNA
+T17	cell_type 1037 1046	monocytes
+T18	protein 1062 1071	IFN-alpha
+T19	protein 1108 1112	MNDA
+T20	cell_type 1153 1164	macrophages
+T21	protein 1202 1220	phytohemagglutinin
+T22	protein 1284 1292	cytokine
+T23	cell_type 1339 1348	monocytes
+T24	protein 1390 1394	MNDA
+T25	protein 1494 1498	MNDA
+T26	protein 1559 1563	MNDA
+T27	cell_line 1664 1683	MNDA positive cells
+T28	RNA 1748 1752	mRNA
+T29	protein 1787 1791	MNDA
+T30	protein 1845 1849	MNDA
+T31	cell_type 1945 1954	monocytes
+T32	cell_type 1954 1966	/macrophages

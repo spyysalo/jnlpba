@@ -1,0 +1,21 @@
+T1	DNA 81 106	kappa B-related sequences
+T2	cell_type 134 141	B cells
+T3	DNA 145 188	human T-cell leukemia virus type I tax gene
+T4	DNA 194 210	kappa B sequence
+T5	protein 240 250	NF-kappa B
+T6	cell_type 325 338	B lymphocytes
+T7	DNA 514 539	kappa B-related sequences
+T8	DNA 632 671	interleukin 2 receptor alpha-chain gene
+T9	DNA 680 700	beta-interferon gene
+T10	cell_type 756 769	B lymphocytes
+T11	DNA 969 1002	kappa B-related sequence elements
+T12	cell_line 1048 1065	S194 plasma cells
+T13	protein 1141 1166	B-cell-derived NF-kappa B
+T14	protein 1271 1293	interleukin 2 receptor
+T15	DNA 1297 1318	T-cell receptor genes
+T16	cell_line 1322 1332	S194 cells
+T17	cell_line 1353 1367	EL-4 (T) cells
+T18	cell_line 1371 1381	S194 cells
+T19	protein 1445 1461	tax gene product
+T20	protein 1514 1524	NF-kappa B
+T21	cell_line 1561 1572	B-cell line

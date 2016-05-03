@@ -1,0 +1,25 @@
+T1	protein 58 63	GATA1
+T2	cell_line 78 111	purified adult-progenitor culture
+T3	cell_type 415 445	hematopoietic progenitor cells
+T4	cell_type 447 450	HPC
+T5	cell_line 505 589	clonogenetic fetal calf serum-supplemented (FCS+) or -nonsupplemented (FCS-) culture
+T6	protein 624 637	interleukin-3
+T7	protein 639 643	IL-3
+T8	protein 645 693	granulocyte-macrophage colony-stimulating factor
+T9	protein 695 701	GM-CSF
+T10	protein 707 721	erythropoietin
+T11	protein 723 725	Ep
+T12	protein 742 747	c-kit
+T13	cell_line 935 954	granulocytic clones
+T14	cell_line 1032 1044	FCS+ culture
+T15	cell_line 1124 1154	FCS- liquid-suspension culture
+T16	protein 1184 1186	Ep
+T17	protein 1197 1217	low-dose IL-3/GM-CSF
+T18	cell_type 1225 1228	HPC
+T19	cell_type 1561 1564	HPC
+T20	DNA 1633 1650	master GATA1 gene
+T21	protein 1668 1695	finger transcription factor
+T22	cell_type 1757 1760	HPC
+T23	RNA 1879 1889	GATA1 mRNA
+T24	cell_type 2016 2019	HPC
+T25	protein 2154 2159	GATA1

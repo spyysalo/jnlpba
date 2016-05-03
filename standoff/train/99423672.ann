@@ -1,0 +1,36 @@
+T1	protein 18 32	CDC42 effector
+T2	protein 33 39	N-WASP
+T3	protein 47 77	Shigella flexneri IcsA protein
+T4	protein 87 92	actin
+T5	protein 107 121	Arp2/3 complex
+T6	protein 136 141	actin
+T7	cell_type 178 192	infected cells
+T8	protein 238 243	Cdc42
+T9	protein 281 286	actin
+T10	protein 431 452	Shigella IcsA protein
+T11	protein 505 522	purified proteins
+T12	protein 546 568	bacterial protein IcsA
+T13	protein 575 581	N-WASP
+T14	protein 604 609	Cdc42
+T15	protein 648 653	actin
+T16	protein 703 729	IcsA-N-WASP-Arp2/3 complex
+T17	protein 747 752	actin
+T18	protein 773 787	Arp2/3 complex
+T19	protein 818 823	actin
+T20	protein 921 927	N-WASP
+T21	protein 931 935	IcsA
+T22	protein 987 992	actin
+T23	protein 1022 1042	COOH-terminal domain
+T24	protein 1046 1052	N-WASP
+T25	protein 1066 1091	verprolin-homology region
+T26	protein 1129 1152	acidic terminal segment
+T27	protein 1154 1157	VCA
+T28	protein 1174 1181	G-actin
+T29	protein 1240 1246	N-WASP
+T30	protein 1265 1285	COOH-terminal domain
+T31	protein 1410 1431	NH(2)-terminal domain
+T32	protein 1435 1441	N-WASP
+T33	protein 1457 1464	F-actin
+T34	protein 1498 1508	actin tail
+T35	protein 1598 1606	profilin
+T36	protein 1639 1659	proline-rich regions

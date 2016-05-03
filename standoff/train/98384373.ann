@@ -1,0 +1,28 @@
+T1	protein 0 5	CIITA
+T2	DNA 6 30	B-cell-specific promoter
+T3	cell_line 46 80	MHC class II-silenced cell hybrids
+T4	cell_line 113 133	somatic cell hybrids
+T5	cell_line 162 183	epithelial cell lines
+T6	cell_line 189 216	B-lymphoblastoid cell lines
+T7	protein 254 310	major histocompatibility complex (MHC) class II antigens
+T8	cell_line 337 373	human and mouse intraspecies hybrids
+T9	protein 405 417	MHC class II
+T10	protein 419 421	Ii
+T11	protein 423 438	invariant chain
+T12	DNA 444 455	HLA-DM gene
+T13	protein 523 539	interferon gamma
+T14	DNA 588 605	human chromosomes
+T15	protein 635 647	MHC class II
+T16	DNA 707 718	chromosomes
+T17	cell_type 728 753	epithelial fusion partner
+T18	RNA 822 839	MHC class II mRNA
+T19	protein 871 894	class II transactivator
+T20	protein 896 901	CIITA
+T21	protein 920 925	CIITA
+T22	DNA 1106 1130	B-cell-specific promoter
+T23	protein 1134 1139	CIITA
+T24	protein 1186 1198	MHC class II
+T25	cell_line 1217 1237	somatic cell hybrids
+T26	DNA 1284 1293	promoters
+T27	DNA 1301 1311	CIITA gene
+T28	cell_type 1329 1359	epithelial cell fusion partner

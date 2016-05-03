@@ -1,0 +1,27 @@
+T1	cell_type 80 99	human B lymphocytes
+T2	protein 261 284	intracellular receptors
+T3	protein 286 306	vitamin D3 receptors
+T4	protein 308 311	VDR
+T5	protein 390 408	regulatory regions
+T6	DNA 412 424	target genes
+T7	cell_line 471 516	Epstein-Barr virus-immortalized human B cells
+T8	cell_line 535 570	1 alpha,25-(OH)2D3-responsive cells
+T9	cell_type 578 602	T and monocytic lineages
+T10	RNA 655 663	VDR mRNA
+T11	protein 696 709	interleukin-4
+T12	protein 718 721	VDR
+T13	protein 861 865	CD23
+T14	protein 869 907	common B cell/monocyte surface antigen
+T15	protein 913 927	24-hydroxylase
+T16	protein 958 962	CD23
+T17	cell_line 977 987	U937 cells
+T18	protein 1012 1016	CD23
+T19	cell_type 1031 1038	B cells
+T20	protein 1080 1094	24-hydroxylase
+T21	cell_line 1142 1152	U937 cells
+T22	cell_type 1157 1181	lectin-activated T cells
+T23	RNA 1204 1223	24-hydroxylase mRNA
+T24	cell_type 1253 1260	B cells
+T25	cell_type 1299 1318	human B lymphocytes
+T26	RNA 1331 1339	VDR mRNA
+T27	protein 1344 1351	protein

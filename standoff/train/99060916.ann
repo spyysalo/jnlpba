@@ -1,0 +1,22 @@
+T1	protein 64 78	linker protein
+T2	protein 79 85	SLP-76
+T3	protein 115 130	linker proteins
+T4	protein 143 208	T cell antigen receptor (TCR)-associated protein tyrosine kinases
+T5	protein 239 257	effector molecules
+T6	protein 272 289	second messengers
+T7	protein 320 326	SLP-76
+T8	protein 362 365	nck
+T9	protein 370 385	adaptor protein
+T10	protein 391 394	Vav
+T11	protein 398 432	guanine nucleotide exchange factor
+T12	protein 437 455	Rho-family GTPases
+T13	protein 478 499	tri-molecular complex
+T14	protein 522 540	Rho-family GTPases
+T15	protein 592 595	nck
+T16	protein 672 702	p21-activated protein kinase 1
+T17	protein 719 724	actin
+T18	protein 767 782	linker proteins
+T19	protein 804 822	TCR-associated PTK
+T20	protein 824 830	ZAP-70
+T21	protein 918 937	signaling complexes
+T22	cell_type 950 956	T cell

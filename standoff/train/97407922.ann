@@ -1,0 +1,43 @@
+T1	protein 9 28	cytoplasmic domains
+T2	protein 32 72	human interleukin-9 receptor alpha chain
+T3	protein 76 87	interleukin
+T4	protein 143 181	Interleukin-9 receptor (IL-9R) complex
+T5	protein 196 223	ligand-specific alpha chain
+T6	protein 228 245	IL-2R gamma chain
+T7	protein 281 299	cytoplasmic domain
+T8	protein 303 319	human IL-9Ralpha
+T9	protein 351 355	IL-9
+T10	protein 380 404	membrane-proximal region
+T11	protein 423 446	BOX1 consensus sequence
+T12	protein 463 467	IL-9
+T13	protein 527 540	Janus kinases
+T14	protein 542 546	JAKs
+T15	protein 601 611	BOX1 motif
+T16	protein 622 626	IL-9
+T17	protein 708 717	Pro-X-Pro
+T18	protein 725 735	BOX1 motif
+T19	protein 741 750	Ala-X-Ala
+T20	protein 769 773	IL-9
+T21	protein 815 819	IL-9
+T22	protein 857 868	JAK kinases
+T23	protein 870 898	insulin receptor substrate-2
+T24	protein 904 954	signal transducer and activator of transcription 3
+T25	protein 956 961	STAT3
+T26	DNA 981 986	c-myc
+T27	DNA 991 995	junB
+T28	protein 1043 1053	BOX1 motif
+T29	DNA 1069 1088	STAT3 binding motif
+T30	DNA 1089 1093	YLPQ
+T31	protein 1142 1146	IL-9
+T32	protein 1182 1193	JAK kinases
+T33	protein 1195 1223	insulin receptor substrate-2
+T34	protein 1229 1234	STAT3
+T35	DNA 1253 1273	early response genes
+T36	DNA 1301 1305	YLPQ
+T37	DNA 1311 1315	YLPA
+T38	protein 1332 1336	IL-9
+T39	protein 1359 1364	STAT3
+T40	DNA 1383 1388	c-myc
+T41	protein 1541 1551	IL-9Ralpha
+T42	protein 1563 1568	STAT3
+T43	protein 1586 1590	IL-9

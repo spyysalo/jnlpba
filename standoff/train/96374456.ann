@@ -1,0 +1,23 @@
+T1	DNA 0 29	Translocation (3;14)(q27;q11)
+T2	DNA 120 124	BCL6
+T3	DNA 215 231	t(3;14)(q27;q11)
+T4	DNA 236 240	BCL6
+T5	cell_type 262 276	affected cells
+T6	cell_type 353 367	lymphoma cells
+T7	DNA 541 557	t(3;14)(q27;q11)
+T8	DNA 599 616	t(3;14) (q27;q32)
+T9	DNA 665 669	BCL6
+T10	DNA 671 673	JH
+T11	DNA 679 687	TCR beta
+T12	DNA 699 708	TCR delta
+T13	DNA 710 722	Cosmid probe
+T14	DNA 726 730	BCL6
+T15	DNA 745 750	14q11
+T16	DNA 755 759	3q27
+T17	DNA 819 829	band 14q11
+T18	protein 844 883	T-cell receptor alpha- and delta-chains
+T19	protein 885 900	TCR alpha/delta
+T20	cell_type 903 917	lymphoma cells
+T21	cell_type 928 950	B-cell, IgGk phenotype
+T22	DNA 980 1000	novel proto-oncogene
+T23	DNA 1020 1035	TCR alpha/delta

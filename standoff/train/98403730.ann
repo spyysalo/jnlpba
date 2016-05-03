@@ -1,0 +1,27 @@
+T1	cell_line 38 104	EBV-positive and EBV-negative primary effusion lymphoma cell lines
+T2	cell_line 221 240	lymphoma cell lines
+T3	cell_line 242 250	CRO-AP/3
+T4	cell_line 255 263	CRO-AP/5
+T5	cell_line 385 388	PEL
+T6	cell_line 401 411	cell lines
+T7	cell_line 466 469	PEL
+T8	cell_line 476 491	HHV-8+/EBV- PEL
+T9	cell_line 507 535	CRO-AP/3 and HHV-8+/EBV+ PEL
+T10	cell_line 551 559	CRO-AP/5
+T11	cell_line 594 597	PEL
+T12	cell_line 604 612	CRO-AP/3
+T13	cell_line 617 625	CRO-AP/5
+T14	cell_type 731 744	B-cell origin
+T15	cell_line 751 761	cell lines
+T16	protein 795 800	c-MYC
+T17	protein 802 807	BCL-2
+T18	protein 812 815	p53
+T19	protein 851 856	BCL-6
+T20	cell_line 912 926	PEL cell lines
+T21	cell_line 941 944	PEL
+T22	cell_line 963 990	post-germinal centre B cell
+T23	cell_line 1045 1053	CRO-AP/3
+T24	cell_line 1058 1077	CRO-AP/5 cell lines
+T25	cell_line 1142 1145	PEL
+T26	cell_line 1168 1178	cell lines
+T27	cell_line 1409 1412	PEL

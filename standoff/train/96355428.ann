@@ -1,0 +1,33 @@
+T1	protein 29 38	NF-kappaB
+T2	protein 114 134	NF-kappaB/Rel family
+T3	protein 138 159	transcription factors
+T4	cell_type 212 237	activated human monocytes
+T5	cell_type 242 259	endothelial cells
+T6	protein 390 417	tumor necrosis factor alpha
+T7	protein 419 427	TNFalpha
+T8	protein 430 443	tissue factor
+T9	protein 445 486	endothelial leukocyte adhesion molecule-1
+T10	DNA 492 531	vascular cell adhesion molecule-1 genes
+T11	protein 638 646	TNFalpha
+T12	protein 651 664	tissue factor
+T13	protein 720 729	NF-kappaB
+T14	cell_line 783 810	human monocytic THP-1 cells
+T15	cell_type 815 853	human umbilical vein endothelial cells
+T16	protein 914 931	catalytic subunit
+T17	protein 935 951	protein kinase A
+T18	protein 953 956	PKA
+T19	protein 1014 1021	p50/p65
+T20	protein 1026 1048	c-Rel/p65 heterodimers
+T21	protein 1084 1087	p65
+T22	protein 1113 1121	TNFalpha
+T23	protein 1149 1152	p65
+T24	DNA 1223 1230	plasmid
+T25	DNA 1242 1267	multimerized kappaB sites
+T26	protein 1271 1274	p65
+T27	protein 1346 1363	catalytic subunit
+T28	protein 1367 1370	PKA
+T29	protein 1412 1415	PKA
+T30	DNA 1459 1464	genes
+T31	cell_type 1468 1477	monocytes
+T32	cell_type 1482 1499	endothelial cells
+T33	protein 1514 1523	NF-kappaB

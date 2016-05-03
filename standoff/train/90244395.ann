@@ -1,0 +1,44 @@
+T1	DNA 4 44	Epstein-Barr virus (EBV) ORI1yt enhancer
+T2	protein 112 145	EBV transcription factors R and Z
+T3	DNA 151 181	Epstein-Barr virus DR promoter
+T4	DNA 209 221	PstI repeats
+T5	DNA 246 254	TATA box
+T6	DNA 271 286	upstream region
+T7	protein 325 332	EB1 (Z)
+T8	protein 338 372	BZLF1-encoded transcription factor
+T9	DNA 381 389	enhancer
+T10	DNA 436 437	B
+T11	DNA 439 447	Domain B
+T12	DNA 472 510	B-cell-specific EB1-responsive element
+T13	protein 623 626	EB1
+T14	protein 631 632	R
+T15	protein 637 654	EBV early product
+T16	DNA 670 694	open reading frame BRLF1
+T17	DNA 784 792	domain B
+T18	DNA 799 819	R-responsive element
+T19	cell_line 823 833	HeLa cells
+T20	DNA 858 896	EB1-responsive B-cell-specific element
+T21	DNA 919 935	EB1-binding site
+T22	DNA 937 942	ZRE-B
+T23	DNA 963 991	R-responsive enhancer region
+T24	DNA 993 998	ZRE-B
+T25	protein 1120 1121	R
+T26	protein 1126 1129	EB1
+T27	DNA 1150 1158	B domain
+T28	DNA 1160 1165	ZRE-B
+T29	DNA 1175 1195	R-responsive element
+T30	DNA 1214 1222	enhancer
+T31	DNA 1224 1229	ZRE-B
+T32	DNA 1259 1279	R-inducible enhancer
+T33	DNA 1322 1333	DR enhancer
+T34	DNA 1334 1342	B domain
+T35	DNA 1438 1465	rabbit beta-globin promoter
+T36	DNA 1485 1505	R-responsive element
+T37	DNA 1526 1540	protoenhancers
+T38	DNA 1561 1569	B domain
+T39	DNA 1577 1591	protoenhancers
+T40	protein 1630 1631	R
+T41	DNA 1644 1658	protoenhancers
+T42	DNA 1672 1695	overlapping palindromes
+T43	DNA 1738 1748	palindrome
+T44	DNA 1785 1808	overlapping palindromes

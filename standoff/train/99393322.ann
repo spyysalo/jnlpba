@@ -1,0 +1,18 @@
+T1	DNA 0 48	Human T-cell lymphotrophic virus type-I tax gene
+T2	protein 70 114	human macrophage inflammatory protein-1alpha
+T3	protein 173 187	40-kDa protein
+T4	protein 189 192	Tax
+T5	cell_type 240 247	T cells
+T6	protein 249 252	Tax
+T7	DNA 293 307	cellular genes
+T8	protein 337 347	MIP-1alpha
+T9	cell_line 393 425	tax transfected Jurkat cell line
+T10	protein 431 438	mitogen
+T11	RNA 466 483	MIP-1alpha-R mRNA
+T12	protein 535 544	chemokine
+T13	cell_type 548 571	HTLV-I infected T-cells
+T14	protein 581 591	MIP-1alpha
+T15	cell_line 620 660	PMA/PHA stimulated tax transfected cells
+T16	protein 696 701	MNP-1
+T17	protein 702 722	transcription factor
+T18	DNA 775 790	MIP-1alpha gene

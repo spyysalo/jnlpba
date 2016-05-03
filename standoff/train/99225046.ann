@@ -1,0 +1,37 @@
+T1	protein 41 46	Spi-1
+T2	protein 48 53	Fli-1
+T3	DNA 59 79	megakaryocytic genes
+T4	cell_line 88 112	Epo-dependent cell lines
+T5	protein 192 222	thermosensitive SV40 T antigen
+T6	cell_line 229 255	erythroleukemic cell lines
+T7	protein 287 326	erythrocytic and megakaryocytic markers
+T8	protein 372 377	Spi-1
+T9	protein 385 412	Fli-1 transcription factors
+T10	protein 422 473	transactivators of megakaryocyte-specific promoters
+T11	cell_line 541 555	new cell lines
+T12	cell_type 668 692	erythrocytic progenitors
+T13	protein 806 836	thermosensitive SV40 T antigen
+T14	cell_line 932 974	Ter 119 positive erythroid nucleated cells
+T15	protein 986 995	T antigen
+T16	cell_type 1066 1112	erythropoietin-dependent erythroid progenitors
+T17	cell_line 1166 1176	cell lines
+T18	protein 1204 1253	erythrocytic (globins) and megakaryocytic markers
+T19	protein 1255 1271	glycoprotein IIb
+T20	protein 1273 1290	platelet factor 4
+T21	protein 1303 1308	Spi-1
+T22	protein 1313 1330	Fli-1 transcripts
+T23	DNA 1439 1450	globin gene
+T24	protein 1504 1509	Spi-1
+T25	protein 1511 1516	Fli-1
+T26	DNA 1522 1542	megakaryocytic genes
+T27	protein 1549 1563	erythropoietin
+T28	DNA 1620 1641	Spi-1 and Fli-1 genes
+T29	cell_line 1670 1702	Ter 119 positive cell population
+T30	cell_line 1752 1782	normal Ter 119 erythroid cells
+T31	cell_line 1790 1812	Ter 119 positive cells
+T32	protein 1865 1876	beta-globin
+T33	protein 1906 1922	glycoprotein IIb
+T34	protein 1927 1971	platelet factor 4 megakaryocytic transcripts
+T35	DNA 2043 2063	megakaryocytic genes
+T36	cell_line 2090 2108	immortalized cells
+T37	DNA 2165 2189	Spi-1 and/or Fli-1 genes

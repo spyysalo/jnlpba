@@ -1,0 +1,32 @@
+T1	DNA 2 20	regulatory element
+T2	DNA 28 60	CD95 (APO-1/Fas) ligand promoter
+T3	protein 96 99	TCR
+T4	protein 139 162	CD95 (APO-1/Fas) ligand
+T5	protein 164 169	CD95L
+T6	cell_type 174 191	activated T cells
+T7	protein 313 318	CD95L
+T8	cell_type 333 340	T cells
+T9	DNA 362 382	human CD95L promoter
+T10	cell_line 386 400	Jurkat T cells
+T11	DNA 437 469	CD95L proximal promoter sequence
+T12	DNA 475 479	-220
+T13	DNA 487 511	transcription start site
+T14	protein 570 575	CD95L
+T15	DNA 614 632	regulatory element
+T16	DNA 644 648	-120
+T17	DNA 656 670	CD95L promoter
+T18	DNA 686 703	DNA binding sites
+T19	protein 708 712	SP-1
+T20	protein 731 747	inducible factor
+T21	DNA 824 835	-120 region
+T22	DNA 882 896	CD95L promoter
+T23	DNA 942 946	-120
+T24	DNA 965 975	DNA motifs
+T25	protein 1011 1016	NF-AT
+T26	protein 1018 1023	NF-AT
+T27	DNA 1104 1127	NF-AT expression vector
+T28	protein 1140 1145	NF-AT
+T29	DNA 1192 1206	CD95L promoter
+T30	DNA 1215 1232	regulatory region
+T31	protein 1315 1320	CD95L
+T32	DNA 1379 1397	regulatory element

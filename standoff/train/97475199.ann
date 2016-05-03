@@ -1,0 +1,25 @@
+T1	protein 0 9	HIV-1 Vpr
+T2	protein 75 97	nuclear factor kappa B
+T3	protein 118 146	HIV-1 accessory gene product
+T4	protein 147 150	Vpr
+T5	protein 305 308	Vpr
+T6	protein 421 424	Vpr
+T7	protein 452 455	TCR
+T8	protein 543 546	TCR
+T9	protein 568 571	Vpr
+T10	protein 615 618	Vpr
+T11	protein 709 712	Vpr
+T12	protein 728 738	NF-kappa B
+T13	protein 769 778	I kappa B
+T14	protein 796 806	NF-kappa B
+T15	protein 817 820	Vpr
+T16	protein 846 850	IL-2
+T17	protein 852 857	IL-10
+T18	protein 859 864	IL-12
+T19	protein 866 875	TNF alpha
+T20	protein 880 884	IL-4
+T21	protein 903 913	NF-kappa B
+T22	protein 940 943	Vpr
+T23	protein 989 992	Vpr
+T24	protein 1006 1016	NF-kappa B
+T25	protein 1126 1129	Vpr

@@ -1,0 +1,33 @@
+T1	protein 0 3	rel
+T2	protein 49 86	granulocyte-colony stimulating factor
+T3	cell_type 134 145	neutrophils
+T4	protein 151 188	granulocyte-colony stimulating factor
+T5	protein 190 195	G-CSF
+T6	protein 308 313	G-CSF
+T7	protein 356 374	affinity receptors
+T8	protein 376 391	G-CSF receptors
+T9	protein 407 422	tyrosine kinase
+T10	cell_type 592 603	neutrophils
+T11	protein 618 623	G-CSF
+T12	protein 734 757	monospecific antibodies
+T13	protein 770 801	tyrosine-phosphorylated protein
+T14	protein 823 831	p80c-rel
+T15	DNA 835 849	proto-oncogene
+T16	protein 875 901	transcriptional regulators
+T17	protein 916 921	NF-kB
+T18	protein 968 976	p80c-rel
+T19	protein 991 996	G-CSF
+T20	protein 1005 1053	granulocyte-macrophage colony stimulating factor
+T21	cell_type 1076 1087	neutrophils
+T22	protein 1172 1180	p80c-rel
+T23	protein 1202 1210	p80c-rel
+T24	protein 1288 1296	p80c-rel
+T25	protein 1331 1336	G-CSF
+T26	protein 1389 1397	p80c-rel
+T27	cell_type 1501 1512	neutrophils
+T28	protein 1523 1528	G-CSF
+T29	protein 1558 1573	tyrosine kinase
+T30	protein 1625 1633	p80c-rel
+T31	protein 1645 1660	tyrosine kinase
+T32	protein 1674 1679	G-CSF
+T33	protein 1753 1778	transcriptional regulator

@@ -1,0 +1,28 @@
+T1	protein 0 4	CD30
+T2	protein 10 33	CD40-inducible molecule
+T3	protein 60 88	CD40-mediated immunoglobulin
+T4	cell_line 108 142	non-antigen-selected human B cells
+T5	cell_type 204 217	CL-01 B cells
+T6	protein 246 250	CD30
+T7	cell_line 284 295	CL-01 cells
+T8	protein 300 303	IgM
+T9	protein 305 308	IgD
+T10	protein 310 314	CD30
+T11	protein 330 333	IgG
+T12	protein 335 338	IgA
+T13	protein 344 347	IgE
+T14	protein 364 369	CD40L
+T15	protein 374 378	IL-4
+T16	protein 405 409	CD30
+T17	protein 463 467	CD40
+T18	protein 477 486	NF-kappaB
+T19	DNA 527 548	downstream C(H) genes
+T20	protein 622 626	CD30
+T21	cell_type 647 660	naive B cells
+T22	protein 676 680	CD30
+T23	protein 710 715	CD40L
+T24	protein 784 788	IL-6
+T25	protein 793 798	IL-12
+T26	protein 822 826	CD30
+T27	protein 852 856	CD40
+T28	cell_line 885 919	non-antigen-selected human B cells

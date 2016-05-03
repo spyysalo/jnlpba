@@ -1,0 +1,40 @@
+T1	protein 19 25	EBNA3C
+T2	DNA 36 38	Cp
+T3	protein 63 67	EBNA
+T4	DNA 121 135	cell gene CD21
+T5	protein 137 143	EBNA3C
+T6	protein 222 240	DNA binding domain
+T7	protein 242 245	DBD
+T8	protein 300 325	wild-type, unfused EBNA3C
+T9	DNA 367 384	reporter plasmids
+T10	DNA 419 449	Cp latency-associated promoter
+T11	DNA 465 467	Cp
+T12	protein 486 508	amino acids 207 to 368
+T13	protein 550 559	basic DBD
+T14	protein 574 606	leucine zipper DNA binding motif
+T15	protein 637 668	cellular factor CBF1/RBP-Jkappa
+T16	protein 777 780	DBD
+T17	protein 843 871	CBF1/RBP-Jkappa binding site
+T18	protein 875 881	EBNA3C
+T19	protein 929 944	CBF1/RBP-Jkappa
+T20	DNA 993 995	Cp
+T21	DNA 1042 1064	EBNA2 response element
+T22	DNA 1068 1096	CBF1/RBP-Jkappa binding site
+T23	DNA 1101 1103	Cp
+T24	protein 1156 1178	amino acids 346 to 543
+T25	protein 1257 1284	GAL4-EBNA3C fusion proteins
+T26	DNA 1336 1338	Cp
+T27	protein 1431 1437	EBNA3C
+T28	protein 1458 1469	corepressor
+T29	protein 1494 1516	amino acids 346 to 543
+T30	protein 1610 1616	EBNA3C
+T31	protein 1651 1655	EBNA
+T32	cell_type 1670 1695	latently infected B cells
+T33	protein 1704 1719	CBF1/RBP-Jkappa
+T34	protein 1775 1780	EBNA2
+T35	protein 1826 1832	EBNA3C
+T36	protein 1848 1852	CD21
+T37	cell_type 1861 1868	B cells
+T38	protein 1914 1920	EBNA3C
+T39	DNA 1924 1941	reporter plasmids
+T40	DNA 1960 1973	CD21 promoter

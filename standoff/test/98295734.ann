@@ -1,0 +1,11 @@
+T1	cell_type 208 236	affected blood cell lineages
+T2	DNA 285 298	abnormal gene
+T3	DNA 900 910	CAG repeat
+T4	DNA 918 928	first exon
+T5	DNA 936 958	androgen receptor gene
+T6	DNA 992 1011	active X chromosome
+T7	protein 1019 1047	methylation-sensitive enzyme
+T8	protein 1049 1054	HpaII
+T9	DNA 1082 1111	paternal and maternal alleles
+T10	cell_type 1273 1287	lymphoid cells
+T11	protein 1414 1423	hyper-IgM

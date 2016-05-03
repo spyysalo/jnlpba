@@ -1,0 +1,29 @@
+T1	DNA 31 44	IL-2 promoter
+T2	DNA 52 66	-150 AP-1 site
+T3	cell_type 70 91	effector CD8+ T cells
+T4	cell_type 98 119	CD4+ and CD8+ T cells
+T5	protein 133 137	IL-2
+T6	cell_type 202 223	effector CD8+ T cells
+T7	protein 252 254	Ag
+T8	protein 281 285	IL-2
+T9	cell_type 319 338	CD4+ T helper cells
+T10	cell_type 391 403	CD4+ T cells
+T11	cell_type 505 517	CD8+ T cells
+T12	DNA 590 599	IL-2 gene
+T13	cell_type 603 615	CD8+ T cells
+T14	DNA 639 653	reporter genes
+T15	protein 659 661	Ag
+T16	cell_line 671 689	CD8+ T cell clones
+T17	cell_type 691 711	CD28+ CD8(+) T cells
+T18	DNA 737 746	IL-2 gene
+T19	DNA 822 867	-150 CD28 response element (CD28RE)/AP-1 site
+T20	DNA 875 888	IL-2 promoter
+T21	DNA 926 954	NFAT/AP-1 and OCT/AP-1 sites
+T22	DNA 962 982	consensus AP-1 motif
+T23	DNA 1000 1027	nonconsensus -150 AP-1 site
+T24	DNA 1033 1052	consensus AP-1 site
+T25	DNA 1072 1098	CD28RE/AP-1 consensus site
+T26	DNA 1122 1143	-150 CD28RE/AP-1 site
+T27	DNA 1184 1192	promoter
+T28	DNA 1239 1248	-150 site
+T29	DNA 1338 1351	IL-2 promoter

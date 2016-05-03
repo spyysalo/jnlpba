@@ -1,0 +1,24 @@
+T1	protein 0 5	TCF-1
+T2	protein 9 45	T cell-specific transcription factor
+T3	protein 53 67	HMG box family
+T4	DNA 84 99	sequence motifs
+T5	DNA 107 139	TCR beta and TCR delta enhancers
+T6	protein 180 185	TCF-1
+T7	protein 189 225	T cell-specific transcription factor
+T8	DNA 305 318	TTCAAAG motif
+T9	DNA 326 344	TCR alpha enhancer
+T10	protein 346 351	TCF-1
+T11	protein 377 410	transcription-regulating proteins
+T12	protein 455 462	HMG-box
+T13	protein 511 516	TCF-1
+T14	DNA 545 561	T beta 5 element
+T15	DNA 569 586	TCR beta enhancer
+T16	DNA 595 612	T delta 7 element
+T17	DNA 620 638	TCR delta enhancer
+T18	DNA 675 683	elements
+T19	protein 698 703	TCF-1
+T20	DNA 714 729	consensus motif
+T21	DNA 730 749	A/T A/T C A A/G A G
+T22	protein 781 786	TCF-1
+T23	DNA 825 846	T cell-specific genes
+T24	cell_type 929 952	mature T cell phenotype

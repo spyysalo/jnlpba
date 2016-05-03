@@ -1,0 +1,19 @@
+T1	protein 40 62	nuclear factor kappa B
+T2	cell_type 66 79	human T cells
+T3	protein 161 183	nuclear factor kappa B
+T4	protein 185 195	NF-kappa B
+T5	cell_type 353 394	bovine pulmonary artery endothelial cells
+T6	protein 502 512	NF-kappa B
+T7	cell_type 527 546	human T lymphocytes
+T8	cell_line 548 560	Jurkat cells
+T9	protein 573 600	tumor necrosis factor alpha
+T10	protein 602 612	TNF- alpha
+T11	protein 634 644	NF-kappa B
+T12	DNA 727 744	32P-labeled probe
+T13	protein 804 814	NF-kappa B
+T14	protein 842 851	TNF-alpha
+T15	protein 901 920	NF-kappa B subunits
+T16	protein 990 1009	p65-p50 heterodimer
+T17	protein 1017 1039	NF-kappa B/Rel protein
+T18	protein 1111 1121	NF-kappa B
+T19	cell_line 1136 1148	Jurkat cells

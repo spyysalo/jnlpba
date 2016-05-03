@@ -1,0 +1,26 @@
+T1	DNA 77 81	junB
+T2	protein 107 120	interleukin-6
+T3	cell_line 128 149	B cell hybridoma 7TD1
+T4	RNA 181 190	junB mRNA
+T5	cell_line 198 224	B hybridoma cell line 7TD1
+T6	protein 232 245	interleukin-6
+T7	protein 247 251	IL-6
+T8	protein 266 270	IL-6
+T9	RNA 281 290	junB mRNA
+T10	RNA 411 420	junB mRNA
+T11	protein 457 471	growth factors
+T12	protein 483 487	IL-6
+T13	RNA 616 625	junB mRNA
+T14	protein 627 631	IL-6
+T15	protein 699 711	JunB protein
+T16	protein 749 753	IL-6
+T17	RNA 848 857	junB mRNA
+T18	protein 862 874	JunB protein
+T19	DNA 925 929	junB
+T20	protein 1057 1061	IL-6
+T21	DNA 1070 1074	junB
+T22	RNA 1334 1343	junB mRNA
+T23	RNA 1463 1472	junB mRNA
+T24	cell_line 1573 1583	7TD1 cells
+T25	protein 1585 1589	IL-6
+T26	DNA 1599 1603	junB

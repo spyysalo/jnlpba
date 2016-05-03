@@ -1,0 +1,27 @@
+T1	DNA 0 35	Human 15-lipoxygenase gene promoter
+T2	DNA 68 85	DNA binding sites
+T3	protein 90 122	IL-13-induced regulatory factors
+T4	cell_type 126 135	monocytes
+T5	protein 186 191	15-LO
+T6	DNA 237 264	human 15-LO promoter region
+T7	protein 270 275	15-LO
+T8	DNA 324 330	5'-end
+T9	DNA 383 409	Sp1 and Ap2 binding site/s
+T10	DNA 425 444	TATA or CAAT motifs
+T11	DNA 498 517	deletion constructs
+T12	DNA 538 560	active promoter region
+T13	protein 604 626	transcriptional factor
+T14	protein 658 663	IL-13
+T15	cell_type 677 709	human peripheral blood monocytes
+T16	DNA 722 740	15-LO promoter DNA
+T17	DNA 755 758	DP1
+T18	DNA 760 774	-140 to -92 bp
+T19	DNA 780 783	DP2
+T20	DNA 785 800	-353 to -304 bp
+T21	cell_line 854 864	HeLa cells
+T22	cell_type 869 895	human peripheral monocytes
+T23	protein 931 957	specific nuclear factor(s)
+T24	DNA 969 987	15-LO promoter DNA
+T25	cell_line 1031 1070	IL-13-treated human peripheral monocyte
+T26	protein 1188 1193	15-LO
+T27	DNA 1197 1221	human chromosome 17p13.3

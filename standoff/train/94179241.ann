@@ -1,0 +1,41 @@
+T1	protein 0 8	Thrombin
+T2	protein 13 30	thrombin receptor
+T3	protein 107 110	TCR
+T4	protein 129 133	CD69
+T5	protein 175 183	Thrombin
+T6	cell_line 203 230	T leukemic cell line Jurkat
+T7	protein 300 306	enzyme
+T8	protein 342 378	diisopropyl fluorophosphate-thrombin
+T9	protein 432 449	anti-thrombin III
+T10	cell_line 497 511	Jurkat T cells
+T11	protein 525 542	thrombin receptor
+T12	protein 621 629	thrombin
+T13	protein 729 737	Thrombin
+T14	protein 797 840	molecular mass 40, 42, 70, 120, and 130 kDa
+T15	protein 879 887	thrombin
+T16	protein 973 981	Thrombin
+T17	protein 1019 1035	protein kinase C
+T18	protein 1118 1126	thrombin
+T19	protein 1141 1161	nuclear factor NF-kB
+T20	cell_line 1220 1248	leukemic T cell line HPB.ALL
+T21	cell_line 1257 1287	erythroleukemic cell line K562
+T22	protein 1307 1315	thrombin
+T23	cell_line 1340 1344	THP1
+T24	cell_line 1348 1372	myelomonocytic cell line
+T25	cell_line 1378 1382	BL2,
+T26	cell_line 1385 1401	Burkitt lymphoma
+T27	protein 1421 1429	thrombin
+T28	protein 1471 1479	thrombin
+T29	RNA 1550 1572	thrombin receptor mRNA
+T30	cell_line 1602 1616	Jurkat T cells
+T31	protein 1637 1655	phytohemagglutinin
+T32	RNA 1724 1746	thrombin receptor mRNA
+T33	protein 1791 1799	thrombin
+T34	protein 1839 1847	thrombin
+T35	protein 1865 1869	CD69
+T36	protein 1885 1898	interleukin 2
+T37	protein 1921 1936	T cell receptor
+T38	cell_line 1959 1973	Jurkat T cells
+T39	cell_type 1995 2006	lymphocytes
+T40	protein 2045 2053	thrombin
+T41	cell_type 2082 2094	T lymphocyte

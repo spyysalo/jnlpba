@@ -1,0 +1,27 @@
+T1	protein 15 35	transcription factor
+T2	protein 36 40	YB-1
+T3	DNA 320 342	45-nucleotide sequence
+T4	DNA 344 375	downstream regulatory element 1
+T5	DNA 377 382	DRE 1
+T6	DNA 386 398	+195 to +240
+T7	DNA 423 434	R/U5 region
+T8	DNA 442 462	long terminal repeat
+T9	DNA 571 576	DRE 1
+T10	protein 618 621	p37
+T11	DNA 725 735	cDNA clone
+T12	DNA 737 742	15B-7
+T13	DNA 752 777	Jurkat expression library
+T14	DNA 810 835	DRE 1 regulatory sequence
+T15	protein 852 871	cDNA fusion protein
+T16	DNA 1001 1026	DRE 1 regulatory sequence
+T17	DNA 1070 1080	15B-7 cDNA
+T18	protein 1092 1106	fusion protein
+T19	DNA 1180 1192	partial cDNA
+T20	protein 1238 1264	C-terminal 196 amino acids
+T21	protein 1272 1299	36-kDa transcription factor
+T22	protein 1301 1305	YB-1
+T23	DNA 1327 1350	YB-1 expression plasmid
+T24	cell_line 1413 1433	Jurkat T lymphocytes
+T25	DNA 1582 1587	DRE 1
+T26	protein 1605 1608	p37
+T27	protein 1613 1617	YB-1

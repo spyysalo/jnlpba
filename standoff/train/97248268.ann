@@ -1,0 +1,23 @@
+T1	cell_type 26 43	naive CD4 T cells
+T2	protein 60 68	CD3/CD28
+T3	cell_type 166 183	naive CD4 T cells
+T4	protein 212 215	CD3
+T5	protein 220 224	CD28
+T6	cell_type 262 280	memory CD4 T cells
+T7	protein 359 362	PHA
+T8	cell_type 409 433	naive and memory T cells
+T9	cell_type 512 523	CD4 T cells
+T10	protein 557 563	CD45RA
+T11	protein 568 573	CD62L
+T12	cell_type 587 603	purified T cells
+T13	cell_type 616 629	naive T cells
+T14	cell_type 665 679	memory T cells
+T15	cell_type 689 703	memory T cells
+T16	cell_type 737 750	naive T cells
+T17	cell_type 801 814	naive T cells
+T18	protein 856 873	viral coreceptors
+T19	protein 938 959	transcription factors
+T20	protein 961 982	nuclear factor-kappaB
+T21	protein 987 1006	activator protein-1
+T22	cell_type 1035 1048	naive T cells
+T23	cell_type 1240 1251	CD4 T cells

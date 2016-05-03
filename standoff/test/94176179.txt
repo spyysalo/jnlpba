@@ -1,0 +1,2 @@
+Reversibility of the differentiated state in somatic cells.
+Analysis of de novo gene activation in multinucleated heterokaryons has shown that the differentiated state, although stable, is not irreversible, and can be reprogrammed in the presence of appropriate combinations of trans-acting regulatory molecules. These properties have been exploited to design strategies for identifying novel regulators of cellular differentiation.

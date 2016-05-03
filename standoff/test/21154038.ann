@@ -1,0 +1,30 @@
+T1	protein 14 33	activator protein-1
+T2	protein 38 48	NF-kappa B
+T3	cell_type 52 64	CD8+ T cells
+T4	protein 76 100	peripheral self-antigens
+T5	cell_type 142 148	T cell
+T6	protein 162 181	peripheral self Ags
+T7	protein 246 250	AP-1
+T8	protein 256 266	NF-kappa B
+T9	protein 333 340	self Ag
+T10	cell_type 366 377	hepatocytes
+T11	cell_type 379 414	Naive CD8(+)Desire (Des)(+) T cells
+T12	protein 483 501	H-2K(b) class I Ag
+T13	protein 566 576	H-2K(b) Ag
+T14	cell_type 580 591	hepatocytes
+T15	cell_type 650 684	self-reactive CD8(+)Des(+) T cells
+T16	cell_type 779 799	CD8(+)Des(+) T cells
+T17	protein 848 852	AP-1
+T18	protein 862 872	NF-kappa B
+T19	cell_type 916 936	CD8(+)Des(+) T cells
+T20	protein 950 954	AP-1
+T21	protein 969 979	NF-kappa B
+T22	protein 1025 1035	NF-kappa B
+T23	protein 1104 1124	NF-kappa B complexes
+T24	cell_type 1142 1156	primed T cells
+T25	protein 1179 1205	p50/p50 and p65/p50 dimers
+T26	protein 1221 1245	p50-containing complexes
+T27	cell_type 1271 1287	tolerant T cells
+T28	protein 1301 1336	p65- and c-Rel-containing complexes
+T29	protein 1389 1407	NF-kappa B complex
+T30	cell_type 1432 1438	T cell

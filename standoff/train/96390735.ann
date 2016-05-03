@@ -1,0 +1,36 @@
+T1	protein 15 25	HTLV-I Tax
+T2	protein 35 51	human proteasome
+T3	protein 70 80	NF-kappa B
+T4	protein 341 355	transactivator
+T5	protein 371 374	Tax
+T6	protein 492 495	Tax
+T7	protein 574 577	Tax
+T8	DNA 610 624	cellular genes
+T9	protein 666 669	Tax
+T10	protein 739 769	cellular transcription factors
+T11	protein 785 811	host transcription factors
+T12	protein 841 844	Tax
+T13	protein 854 868	NF-kappa B/Rel
+T14	protein 876 897	transcription factors
+T15	protein 977 996	inhibitory proteins
+T16	protein 1004 1013	I kappa B
+T17	protein 1042 1066	NF-kappa B/Rel complexes
+T18	protein 1111 1126	I kappa B alpha
+T19	protein 1185 1195	proteasome
+T20	protein 1230 1240	NF-kappa B
+T21	DNA 1316 1341	cognate enhancer elements
+T22	protein 1358 1372	p105 precursor
+T23	protein 1380 1390	NF-kappa B
+T24	protein 1391 1402	p50 subunit
+T25	protein 1449 1459	proteasome
+T26	protein 1485 1488	Tax
+T27	protein 1499 1509	NF-kappa B
+T28	protein 1637 1640	Tax
+T29	protein 1649 1661	HsN3 subunit
+T30	protein 1669 1685	human proteasome
+T31	protein 1759 1782	HsN3 proteasome subunit
+T32	protein 1788 1798	HTLV-I Tax
+T33	protein 1843 1846	Tax
+T34	protein 1871 1886	I kappa B alpha
+T35	protein 1901 1937	cytoplasmic NF-kappa B/Rel complexes
+T36	protein 1945 1955	proteasome

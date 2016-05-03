@@ -1,0 +1,22 @@
+T1	protein 20 36	interferon-alpha
+T2	cell_type 242 253	mononuclear
+T3	protein 327 343	interferon-alpha
+T4	protein 345 354	IFN alpha
+T5	protein 389 398	IFN alpha
+T6	protein 402 410	cytokine
+T7	cell_type 437 446	monocytes
+T8	protein 551 560	IFN alpha
+T9	protein 596 619	glucocorticoid receptor
+T10	cell_type 639 648	monocytes
+T11	protein 691 700	IFN alpha
+T12	protein 1007 1016	IFN alpha
+T13	protein 1185 1201	plasma IFN alpha
+T14	cell_type 1221 1230	monocytes
+T15	protein 1265 1274	IFN alpha
+T16	protein 1329 1362	poly(I)-poly(C)-induced IFN alpha
+T17	cell_type 1377 1386	monocytes
+T18	protein 1602 1610	IFNalpha
+T19	cell_type 1627 1644	AIDS-GR monocytes
+T20	protein 1701 1710	IFN alpha
+T21	protein 1788 1797	IFN alpha
+T22	cell_type 1839 1848	monocytes

@@ -1,0 +1,25 @@
+T1	DNA 42 91	parathyroid hormone-related protein gene promoter
+T2	protein 99 146	human T-cell leukemia virus type I (HTLV-I) tax
+T3	protein 151 171	HTLV-II tax proteins
+T4	protein 177 245	human T-cell leukemia virus type I (HTLV-I) and HTLV-II Tax proteins
+T5	protein 257 272	transactivators
+T6	DNA 318 334	deletion mutants
+T7	DNA 351 403	parathyroid hormone-related protein (PTHrP) promoter
+T8	protein 438 460	HTLV-I and HTLV-II Tax
+T9	DNA 476 500	AP1/c-jun proto-oncogene
+T10	protein 521 526	PTHrP
+T11	protein 530 533	Tax
+T12	cell_type 546 553	T cells
+T13	cell_line 565 577	B-cell lines
+T14	cell_line 581 592	fibroblasts
+T15	DNA 596 632	carboxy terminal Tax deletion mutant
+T16	DNA 678 708	PTHrP and IL2R alpha promoters
+T17	DNA 721 748	HTLV-I long terminal repeat
+T18	DNA 750 753	LTR
+T19	protein 779 783	NFkB
+T20	protein 792 796	IL2R
+T21	DNA 826 840	PTHrP promoter
+T22	protein 848 858	HTLV-I Tax
+T23	protein 860 871	HTLV-II Tax
+T24	protein 877 882	c-jun
+T25	protein 897 902	PTHrP

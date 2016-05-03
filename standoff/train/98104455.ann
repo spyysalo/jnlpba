@@ -1,0 +1,35 @@
+T1	protein 14 24	NF-kappa B
+T2	protein 83 103	Transcription factor
+T3	protein 104 114	NF-kappa B
+T4	protein 137 169	cytoplasmic inhibitory molecules
+T5	protein 171 181	I kappa Bs
+T6	DNA 235 247	target genes
+T7	protein 316 347	constitutive nuclear NF-kappa B
+T8	protein 392 402	NF-kappa B
+T9	protein 504 514	NF-kappa B
+T10	cell_type 527 541	mature B cells
+T11	protein 581 596	I kappa B alpha
+T12	protein 601 615	I kappa B beta
+T13	cell_type 619 633	mature B cells
+T14	cell_line 638 648	HeLa cells
+T15	cell_type 691 698	B cells
+T16	protein 708 722	I kappa B beta
+T17	protein 756 771	I kappa B alpha
+T18	cell_line 822 832	HeLa cells
+T19	protein 857 867	NF-kappa B
+T20	protein 973 988	I kappa B alpha
+T21	cell_type 992 1005	Namalwa cells
+T22	cell_type 1133 1144	non-B cells
+T23	protein 1226 1236	NF-kappa B
+T24	protein 1297 1311	I kappa B beta
+T25	protein 1319 1334	I kappa B alpha
+T26	protein 1372 1386	I kappa B beta
+T27	protein 1425 1435	NF-kappa B
+T28	protein 1535 1544	TNF-alpha
+T29	protein 1590 1608	nuclear NF-kappa B
+T30	protein 1645 1660	I kappa B alpha
+T31	protein 1696 1706	proteasome
+T32	protein 1728 1743	I kappa B alpha
+T33	protein 1926 1941	I kappa B alpha
+T34	protein 1990 2005	I kappa B alpha
+T35	protein 2079 2097	nuclear NF kappa B

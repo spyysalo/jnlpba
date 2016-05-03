@@ -1,0 +1,33 @@
+T1	DNA 20 50	in vivo footprinted DNA motifs
+T2	DNA 61 82	alpha-globin enhancer
+T3	DNA 175 204	human alpha-like globin genes
+T4	DNA 206 222	embryonic zeta 2
+T5	DNA 227 238	adult alpha
+T6	DNA 286 301	distal enhancer
+T7	DNA 303 308	HS-40
+T8	DNA 363 368	HS-40
+T9	DNA 390 419	nuclear factor binding motifs
+T10	DNA 574 595	factor binding motifs
+T11	DNA 599 604	HS-40
+T12	cell_line 668 691	erythroid cell cultures
+T13	DNA 708 729	HS-40 enhancer motifs
+T14	DNA 731 742	5'NF-E2/AP1
+T15	DNA 744 749	GT II
+T16	DNA 755 764	GATA-1(c)
+T17	DNA 790 812	zeta 2-globin promoter
+T18	cell_line 825 861	embryonic/fetal erythroid K562 cells
+T19	DNA 870 897	adult alpha-globin promoter
+T20	cell_line 910 935	adult erythroid MEL cells
+T21	DNA 960 977	3'NF-E2/AP1 motif
+T22	DNA 1048 1070	zeta 2-globin promoter
+T23	cell_line 1083 1093	K562 cells
+T24	protein 1178 1200	ubiquitous AP1 factors
+T25	protein 1209 1240	erythroid-enriched NF-E2 factor
+T26	DNA 1258 1273	GATA-1(d) motif
+T27	DNA 1293 1335	adult erythroid-specific genomic footprint
+T28	DNA 1351 1365	HS-40 enhancer
+T29	cell_line 1378 1414	dimethyl sulfoxide-induced MEL cells
+T30	cell_line 1426 1436	K562 cells
+T31	DNA 1503 1515	HS-40 motifs
+T32	DNA 1695 1728	human alpha-like globin promoters
+T33	protein 1770 1794	specific nuclear factors

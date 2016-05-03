@@ -1,0 +1,38 @@
+T1	protein 14 20	Stat-3
+T2	protein 81 131	major histocompatibility complex class I molecules
+T3	cell_line 135 155	human Jurkat T cells
+T4	protein 171 193	Janus tyrosine kinases
+T5	protein 195 198	Jak
+T6	protein 204 254	Signal transducers and activators of transcription
+T7	protein 256 260	Stat
+T8	protein 280 320	major histocompatibility complex class I
+T9	protein 322 327	MHC-I
+T10	cell_line 345 359	Jurkat T cells
+T11	protein 378 383	MHC-I
+T12	protein 421 425	Tyk2
+T13	protein 435 439	Jak1
+T14	protein 441 445	Jak2
+T15	protein 451 455	Jak3
+T16	protein 474 494	transcription factor
+T17	protein 495 501	Stat-3
+T18	protein 671 695	activated Stat-3 protein
+T19	DNA 716 762	human serum-inducible element (hSIE) DNA-probe
+T20	DNA 780 811	interferon-gamma activated site
+T21	DNA 813 816	GAS
+T22	DNA 825 839	c-fos promoter
+T23	protein 867 879	Stat protein
+T24	DNA 912 916	hSIE
+T25	protein 921 927	Stat-3
+T26	protein 934 939	MHC-I
+T27	protein 992 998	Stat-3
+T28	DNA 1039 1049	hSIE probe
+T29	protein 1054 1060	avidin
+T30	protein 1123 1129	Stat-3
+T31	cell_line 1131 1145	Jurkat T cells
+T32	protein 1182 1196	Stat-3 isoform
+T33	protein 1209 1231	transactivating domain
+T34	protein 1238 1277	dominant-negative acting Stat-3 isoform
+T35	protein 1335 1340	MHC-I
+T36	protein 1397 1405	Jak/Stat
+T37	protein 1424 1429	MHC-I
+T38	cell_type 1461 1468	T cells

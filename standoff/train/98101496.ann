@@ -1,0 +1,27 @@
+T1	protein 37 41	IL-5
+T2	cell_line 85 123	allergen-specific human helper T cells
+T3	protein 137 146	Cytokines
+T4	cell_type 159 173	helper T cells
+T5	protein 315 319	IL-5
+T6	cell_type 371 382	eosinophils
+T7	cell_type 387 405	CD4+ T lymphocytes
+T8	cell_line 440 471	Allergen-specific T cell clones
+T9	cell_line 476 493	T cell hybridomas
+T10	cell_type 520 548	peripheral blood lymphocytes
+T11	protein 668 672	IL-5
+T12	cell_type 687 699	CD4+ T cells
+T13	cell_type 830 864	Peripheral blood mononuclear cells
+T14	protein 924 928	IL-5
+T15	cell_type 982 1010	mite-specific helper T cells
+T16	DNA 1084 1132	IL-5 promoter/enhancer luciferase gene construct
+T17	cell_line 1150 1178	IL-5-producing T cell clones
+T18	DNA 1256 1273	IL-5 gene segment
+T19	cell_type 1361 1375	helper T cells
+T20	cell_line 1422 1453	IL-5-nonproducing T cell clones
+T21	protein 1484 1488	IL-5
+T22	cell_line 1559 1576	T cell hybridomas
+T23	protein 1623 1650	unique transcription factor
+T24	protein 1678 1682	IL-5
+T25	protein 1724 1728	IL-5
+T26	cell_type 1743 1757	helper T cells
+T27	protein 1855 1859	IL-5

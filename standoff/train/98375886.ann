@@ -1,0 +1,23 @@
+T1	cell_type 190 209	vascular wall cells
+T2	cell_line 387 415	murine macrophage-like cells
+T3	cell_line 417 425	RAW264.7
+T4	protein 439 447	cytokine
+T5	cell_line 509 546	endothelial-RAW264.7 coculture system
+T6	protein 584 590	VCAM-1
+T7	protein 653 678	murine-specific IFN-gamma
+T8	protein 694 706	iNO synthase
+T9	protein 708 712	iNOS
+T10	cell_line 761 792	endothelial-RAW264.7 cocultures
+T11	protein 810 835	murine-specific IFN-gamma
+T12	protein 888 894	VCAM-1
+T13	protein 899 903	iNOS
+T14	cell_line 934 948	RAW264.7 cells
+T15	DNA 1074 1089	VCAM-1 promoter
+T16	protein 1148 1154	VCAM-1
+T17	DNA 1230 1257	kappa B cis-acting elements
+T18	protein 1305 1323	RelA (p65) subunit
+T19	protein 1335 1349	factor-kappa B
+T20	protein 1396 1418	nuclear factor-kappa B
+T21	protein 1463 1467	iNOS
+T22	cell_type 1482 1493	macrophages
+T23	cell_type 1528 1545	endothelial cells

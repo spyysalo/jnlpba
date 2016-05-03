@@ -1,0 +1,43 @@
+T1	DNA 34 72	vascular cell adhesion molecule-1 gene
+T2	cell_type 76 89	T lymphocytes
+T3	protein 101 147	human T-cell leukemia virus type 1 Tax protein
+T4	cell_type 182 189	T cells
+T5	protein 237 254	adhesion molecule
+T6	cell_type 280 299	circulating T cells
+T7	cell_type 305 322	endothelial cells
+T8	cell_type 450 479	HTLV-1-infected T lymphocytes
+T9	protein 535 553	adhesion molecules
+T10	cell_type 567 593	HTLV-1-transformed T cells
+T11	protein 677 710	vascular cell adhesion molecule 1
+T12	protein 712 718	VCAM-1
+T13	protein 720 725	CD106
+T14	protein 753 784	immunoglobulin gene superfamily
+T15	cell_type 806 823	endothelial cells
+T16	protein 840 862	inflammatory cytokines
+T17	cell_type 909 916	T cells
+T18	cell_type 1017 1034	activated T cells
+T19	protein 1089 1122	viral trans-activator Tax protein
+T20	protein 1143 1149	VCAM-1
+T21	protein 1195 1212	adhesion molecule
+T22	cell_line 1216 1236	Jurkat T-cell clones
+T23	protein 1283 1286	Tax
+T24	protein 1290 1296	VCAM-1
+T25	cell_line 1338 1349	JPX-9 cells
+T26	cell_line 1365 1377	Jurkat cells
+T27	DNA 1392 1405	tax sequences
+T28	DNA 1430 1448	inducible promoter
+T29	DNA 1501 1516	VCAM-1 promoter
+T30	DNA 1532 1576	chloramphenicol acetyltransferase constructs
+T31	protein 1591 1594	Tax
+T32	DNA 1620 1635	VCAM-1 promoter
+T33	DNA 1644 1659	NF-kappaB sites
+T34	DNA 1693 1713	VCAM-1 gene promoter
+T35	protein 1756 1759	Tax
+T36	protein 1787 1804	adhesion molecule
+T37	DNA 1924 1940	NF-kappaB motifs
+T38	protein 1958 1964	VCAM-1
+T39	cell_line 1980 2000	Tax-expressing cells
+T40	protein 2006 2012	kappaB
+T41	protein 2096 2099	Tax
+T42	protein 2122 2128	VCAM-1
+T43	cell_type 2132 2139	T cells

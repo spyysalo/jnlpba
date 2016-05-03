@@ -1,0 +1,55 @@
+T1	protein 0 6	GM-CSF
+T2	protein 11 15	IL-2
+T3	cell_type 88 95	T cells
+T4	protein 120 176	major histocompatibility complex class I or II molecules
+T5	cell_type 195 219	antigen presenting cells
+T6	protein 239 254	T cell receptor
+T7	protein 256 259	TCR
+T8	cell_type 279 286	T cells
+T9	protein 404 421	soluble cytokines
+T10	cell_type 434 458	antigen presenting cells
+T11	protein 525 533	cytokine
+T12	cell_type 553 560	T cells
+T13	protein 580 583	TCR
+T14	protein 615 663	granulocyte-macrophage colony-stimulating factor
+T15	DNA 690 698	promoter
+T16	DNA 721 729	enhancer
+T17	protein 765 768	TCR
+T18	DNA 789 818	promoter and enhancer regions
+T19	protein 847 903	transcription factor nuclear factor of activated T cells
+T20	protein 905 909	NFAT
+T21	protein 930 934	NFAT
+T22	protein 938 941	TCR
+T23	protein 993 997	IL-2
+T24	cell_type 1030 1037	T cells
+T25	protein 1088 1114	CD28 cell surface molecule
+T26	cell_type 1118 1125	T cells
+T27	DNA 1179 1245	granulocyte-macrophage colony-stimulating factor (GM-CSF) promoter
+T28	DNA 1273 1277	CK-1
+T29	DNA 1281 1287	CD28RE
+T30	protein 1332 1349	NF-kappa B family
+T31	protein 1353 1374	transcription factors
+T32	cell_type 1423 1430	T cells
+T33	protein 1456 1462	GM-CSF
+T34	protein 1498 1527	HTLV-1 transactivator protein
+T35	protein 1529 1532	tax
+T36	protein 1635 1638	TCR
+T37	DNA 1704 1719	GM-CSF promoter
+T38	DNA 1732 1736	CK-1
+T39	DNA 1736 1743	/CD28RE
+T40	protein 1770 1792	nuclear factor-kappa B
+T41	protein 1832 1853	transcription factors
+T42	protein 1873 1883	NF-kappa B
+T43	protein 1901 1904	tax
+T44	DNA 1955 1959	CK-1
+T45	DNA 1959 1966	/CD28RE
+T46	protein 1970 1976	GM-CSF
+T47	protein 2018 2022	IL-2
+T48	DNA 2023 2029	CD28RE
+T49	DNA 2038 2047	IL-3 gene
+T50	protein 2131 2137	GM-CSF
+T51	protein 2142 2146	IL-2
+T52	protein 2158 2161	TCR
+T53	protein 2174 2178	NFAT
+T54	protein 2239 2247	cytokine
+T55	cell_type 2267 2274	T cells

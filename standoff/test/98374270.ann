@@ -1,0 +1,29 @@
+T1	protein 30 59	erythroid Kruppel-like factor
+T2	protein 61 65	EKLF
+T3	protein 96 122	histone acetyltransferases
+T4	protein 124 153	Erythroid Kruppel-like factor
+T5	protein 155 159	EKLF
+T6	protein 166 209	red cell-specific transcriptional activator
+T7	protein 329 333	EKLF
+T8	DNA 394 416	beta-like globin locus
+T9	protein 442 464	positive-acting factor
+T10	protein 487 491	EKLF
+T11	protein 498 529	acetylated transcription factor
+T12	protein 566 569	CBP
+T13	protein 571 575	p300
+T14	protein 581 586	P/CAF
+T15	protein 625 651	histone acetyltransferases
+T16	protein 675 678	CBP
+T17	protein 683 687	p300
+T18	protein 697 702	P/CAF
+T19	protein 712 716	EKLF
+T20	protein 847 850	CBP
+T21	protein 855 859	p300
+T22	protein 869 874	P/CAF
+T23	protein 884 888	EKLF
+T24	DNA 925 945	beta-globin promoter
+T25	cell_type 949 964	erythroid cells
+T26	protein 990 994	EKLF
+T27	protein 1000 1036	tissue-specific transcription factor
+T28	protein 1116 1120	EKLF
+T29	DNA 1203 1227	beta-like globin cluster

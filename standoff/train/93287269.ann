@@ -1,0 +1,19 @@
+T1	protein 29 70	herpes simplex virus type 1 gene products
+T2	protein 75 91	cellular factors
+T3	cell_type 327 334	T cells
+T4	protein 414 437	55- and 85-kDa proteins
+T5	DNA 445 461	kappa B enhancer
+T6	protein 481 501	50-kDa HLP-1 protein
+T7	DNA 509 524	LBP-1 sequences
+T8	DNA 532 558	HIV-1 long terminal repeat
+T9	protein 757 767	NF-kappa B
+T10	cell_line 829 852	acyclovir-treated cells
+T11	protein 891 895	ICP0
+T12	protein 905 909	ICP4
+T13	DNA 925 967	HIV-1 long terminal repeat promoter region
+T14	protein 986 990	ICP0
+T15	protein 1035 1062	NF-kappa B binding proteins
+T16	protein 1145 1176	HSV-1-activated cellular factor
+T17	protein 1178 1188	NF-kappa B
+T18	protein 1198 1226	virus-encoded transactivator
+T19	protein 1228 1232	ICP0

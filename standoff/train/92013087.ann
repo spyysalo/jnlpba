@@ -1,0 +1,30 @@
+T1	protein 0 29	Nuclear transcription factors
+T2	DNA 59 72	IL-2 promoter
+T3	cell_type 100 121	primary human T cells
+T4	DNA 209 222	IL-2 promoter
+T5	cell_line 241 252	T cell line
+T6	cell_line 254 260	Jurkat
+T7	protein 329 339	NF-kappa B
+T8	protein 341 345	AP-1
+T9	protein 347 351	AP-3
+T10	protein 353 358	OCT-1
+T11	protein 364 369	NF-AT
+T12	protein 383 419	nuclear factor for activated T cells
+T13	DNA 469 478	IL-2 gene
+T14	protein 558 579	transcription factors
+T15	cell_type 583 598	primary T cells
+T16	cell_type 767 774	T cells
+T17	protein 796 804	mitogens
+T18	protein 818 846	exogenous IL-2 growth factor
+T19	DNA 977 997	NF-AT and AP-1 sites
+T20	protein 1063 1069	lectin
+T21	protein 1073 1081	antibody
+T22	protein 1089 1092	CD3
+T23	protein 1096 1118	CD28 surface molecules
+T24	protein 1149 1155	lectin
+T25	protein 1157 1165	antibody
+T26	protein 1221 1226	NF-AT
+T27	protein 1231 1235	AP-1
+T28	protein 1343 1348	NF-AT
+T29	protein 1353 1357	AP-1
+T30	DNA 1416 1425	IL-2 gene

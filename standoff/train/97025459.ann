@@ -1,0 +1,49 @@
+T1	protein 19 61	Sp1- and Ets-related transcription factors
+T2	DNA 108 127	mouse perforin gene
+T3	DNA 180 192	cis-elements
+T4	DNA 239 258	mouse perforin gene
+T5	DNA 260 287	DNase I hypersensitive site
+T6	DNA 289 292	DHS
+T7	DNA 320 334	perforin locus
+T8	DNA 349 352	DHS
+T9	DNA 374 394	5' upstream sequence
+T10	DNA 413 416	DHS
+T11	DNA 420 428	intron 2
+T12	DNA 438 449	5' upstream
+T13	DNA 458 470	intronic DHS
+T14	cell_type 493 524	perforin-expressing lymphocytes
+T15	protein 526 559	Chloramphenicol acetyltransferase
+T16	protein 561 564	CAT
+T17	DNA 589 609	5' upstream promoter
+T18	cell_line 642 672	perforin-expressing cell lines
+T19	DNA 693 698	PFP5a
+T20	DNA 710 717	-795 bp
+T21	protein 740 743	CAT
+T22	DNA 758 765	PFP9a20
+T23	DNA 782 788	-73 bp
+T24	protein 822 825	CAT
+T25	cell_line 838 851	CTLL-R8 cells
+T26	DNA 857 872	proximal region
+T27	DNA 876 883	PFP9a20
+T28	DNA 908 925	Sp1 binding sites
+T29	DNA 927 933	GC box
+T30	DNA 938 944	GT box
+T31	DNA 954 970	Ets binding site
+T32	DNA 972 975	EBS
+T33	DNA 1039 1051	cis-elements
+T34	protein 1067 1082	protein factors
+T35	DNA 1134 1140	GC box
+T36	DNA 1142 1145	EBS
+T37	DNA 1151 1157	GT box
+T38	DNA 1161 1168	PFP9a20
+T39	protein 1191 1194	CAT
+T40	cell_line 1220 1233	CTLL-R8 cells
+T41	DNA 1274 1293	cis-acting elements
+T42	DNA 1301 1314	perforin gene
+T43	DNA 1371 1386	proximal GC box
+T44	DNA 1388 1391	EBS
+T45	DNA 1397 1403	GT box
+T46	DNA 1407 1412	PFP5a
+T47	protein 1476 1479	CAT
+T48	DNA 1551 1570	cis-acting elements
+T49	protein 1646 1654	perforin

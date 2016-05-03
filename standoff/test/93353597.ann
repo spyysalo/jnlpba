@@ -1,0 +1,36 @@
+T1	cell_type 115 137	myelomonoblastic cells
+T2	cell_line 285 303	myeloid cell model
+T3	cell_line 340 357	PLB-985 cell line
+T4	cell_line 380 393	PLB-985 cells
+T5	cell_line 583 597	PLB-IIIB cells
+T6	protein 695 722	tumor necrosis factor alpha
+T7	cell_line 775 801	parental PLB-985 cell line
+T8	protein 861 880	70, 90, and 100 kDa
+T9	protein 931 946	NF-kappa B site
+T10	protein 958 970	PRDII domain
+T11	protein 974 989	beta interferon
+T12	protein 1161 1175	70-kDa protein
+T13	protein 1195 1224	NF-kappa B RelA (p65) subunit
+T14	protein 1378 1382	RelA
+T15	protein 1384 1387	p65
+T16	protein 1392 1397	NFKB1
+T17	protein 1399 1402	p50
+T18	protein 1439 1454	I kappa B alpha
+T19	protein 1468 1478	RelA (p65)
+T20	protein 1633 1656	90- to 100-kDa proteins
+T21	DNA 1701 1713	PRDII domain
+T22	DNA 1721 1737	AT-rich sequence
+T23	protein 1820 1825	NFKB1
+T24	protein 1827 1831	p105
+T25	protein 1835 1838	p50
+T26	protein 1841 1846	NFKB2
+T27	protein 1848 1852	p100
+T28	protein 1856 1859	p52
+T29	protein 1862 1866	RelA
+T30	protein 1868 1871	p65
+T31	protein 1877 1882	c-rel
+T32	protein 1903 1926	90- to 100-kDa proteins
+T33	protein 1948 1981	recombinant I kappa B alpha/MAD-3
+T34	protein 2064 2082	NF-kappa B related
+T35	DNA 2186 2236	HIV-1 LTR- and NF-kappa B-dependent reporter genes
+T36	cell_line 2379 2407	HIV-1-infected myeloid cells

@@ -1,0 +1,46 @@
+T1	protein 0 13	Interleukin-6
+T2	protein 75 97	retinoblastoma protein
+T3	protein 99 112	Interleukin-6
+T4	protein 114 118	IL-6
+T5	cell_line 163 190	multiple myeloma (MM) cells
+T6	protein 243 265	retinoblastoma protein
+T7	protein 267 270	pRB
+T8	cell_line 355 376	MM-derived cell lines
+T9	protein 386 418	dephosphorylated (activated) pRB
+T10	protein 482 514	phosphorylated (inactivated) pRB
+T11	protein 573 576	pRB
+T12	protein 580 584	IL-6
+T13	protein 651 654	pRB
+T14	cell_line 712 733	MM-derived cell lines
+T15	protein 739 742	pRB
+T16	cell_line 792 800	MM cells
+T17	protein 834 838	IL-6
+T18	protein 850 854	IL-6
+T19	protein 869 889	dephosphorylated pRB
+T20	protein 921 938	pRB-E2F complexes
+T21	cell_line 964 972	MM cells
+T22	protein 1042 1046	IL-6
+T23	cell_line 1078 1086	MM cells
+T24	protein 1156 1185	anti-IL-6 monoclonal antibody
+T25	protein 1187 1191	MoAb
+T26	cell_line 1209 1217	MM cells
+T27	cell_type 1226 1241	splenic B cells
+T28	protein 1250 1270	dephosphorylated pRB
+T29	protein 1281 1292	CD40 ligand
+T30	protein 1294 1299	CD40L
+T31	protein 1358 1361	pRB
+T32	cell_type 1383 1390	B cells
+T33	protein 1418 1422	IL-6
+T34	protein 1426 1431	CD40L
+T35	cell_type 1440 1447	B cells
+T36	protein 1470 1473	pRB
+T37	cell_line 1507 1515	MM cells
+T38	protein 1544 1562	phosphorylated pRB
+T39	cell_line 1594 1602	MM cells
+T40	protein 1612 1616	IL-6
+T41	protein 1632 1635	pRB
+T42	protein 1784 1804	dephosphorylated pRB
+T43	protein 1820 1840	dephosphorylated pRB
+T44	protein 1895 1899	IL-6
+T45	cell_line 1913 1921	MM cells
+T46	protein 1934 1938	IL-6

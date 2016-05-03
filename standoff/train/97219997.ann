@@ -1,0 +1,36 @@
+T1	protein 11 17	NFATx1
+T2	protein 45 84	calcineurin-regulated inhibitory domain
+T3	protein 90 125	nuclear factor of activated T cells
+T4	protein 127 131	NFAT
+T5	DNA 143 156	cytokine gene
+T6	cell_type 171 178	T cells
+T7	DNA 187 206	cis-acting elements
+T8	DNA 222 231	promoters
+T9	DNA 243 257	cytokine genes
+T10	protein 259 265	NFATx1
+T11	cell_type 319 346	peripheral blood leukocytes
+T12	protein 378 389	NFAT family
+T13	protein 393 414	transcription factors
+T14	protein 453 459	NFATx1
+T15	protein 522 528	NFATx1
+T16	protein 611 640	central Rel similarity region
+T17	protein 716 733	N-terminal domain
+T18	protein 741 758	C-terminal domain
+T19	protein 787 830	intrinsic transcriptional activation motifs
+T20	protein 876 895	inhibitory sequence
+T21	protein 907 924	N-terminal domain
+T22	protein 1007 1018	calcineurin
+T23	protein 1022 1062	calcium-calmodulin-dependent phosphatase
+T24	protein 1082 1093	calcineurin
+T25	protein 1114 1131	N-terminal domain
+T26	protein 1135 1141	NFATx1
+T27	protein 1145 1167	multiple docking sites
+T28	protein 1236 1242	NFATx1
+T29	protein 1296 1307	60 residues
+T30	protein 1353 1366	NFAT proteins
+T31	protein 1409 1415	NFATx1
+T32	protein 1430 1441	60 residues
+T33	protein 1560 1577	N-terminal domain
+T34	protein 1618 1624	NFATx1
+T35	protein 1741 1752	calcineurin
+T36	protein 1776 1787	phosphatase

@@ -1,0 +1,23 @@
+T1	protein 23 66	Ca2+-calmodulin-dependent protein kinase IV
+T2	protein 71 93	protein phosphatase 2A
+T3	cell_type 125 138	T lymphocytes
+T4	protein 249 292	Ca2+-calmodulin-dependent protein kinase IV
+T5	protein 294 300	CaMKIV
+T6	protein 305 319	nuclear enzyme
+T7	protein 360 430	cyclic adenosine monophosphate (cAMP) response element-binding protein
+T8	protein 432 436	CREB
+T9	protein 464 470	CaMKIV
+T10	protein 599 605	CaMKIV
+T11	protein 611 650	protein serine-threonine phosphatase 2A
+T12	protein 652 656	PP2A
+T13	protein 682 686	PP2A
+T14	protein 704 710	CaMKIV
+T15	protein 752 758	CaMKIV
+T16	cell_line 773 787	Jurkat T cells
+T17	protein 803 807	PP2A
+T18	protein 859 863	CREB
+T19	protein 890 896	CaMKIV
+T20	protein 967 998	protein serine-threonine kinase
+T21	protein 1000 1006	CaMKIV
+T22	protein 1045 1081	protein serine-threonine phosphatase
+T23	protein 1083 1087	PP2A

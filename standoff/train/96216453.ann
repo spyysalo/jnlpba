@@ -1,0 +1,34 @@
+T1	protein 0 48	Granulocyte-macrophage colony-stimulating factor
+T2	protein 60 64	JAK2
+T3	protein 105 111	p93fes
+T4	protein 113 122	STAT1 p91
+T5	protein 128 137	STAT3 p92
+T6	cell_type 141 169	polymorphonuclear leukocytes
+T7	protein 171 219	Granulocyte-macrophage colony-stimulating factor
+T8	protein 221 227	GM-CSF
+T9	protein 377 383	GM-CSF
+T10	protein 406 421	tyrosine kinase
+T11	cell_line 442 502	GM-CSF-induced peripheral blood polymorphonuclear leukocytes
+T12	cell_type 504 507	PMN
+T13	protein 587 620	intracellular signaling molecules
+T14	protein 652 656	JAK2
+T15	protein 704 710	GM-CSF
+T16	cell_type 714 717	PMN
+T17	protein 769 841	signal transducers and activators of transcription (STAT) family members
+T18	protein 842 851	STAT1 p91
+T19	protein 856 865	STAT3 p92
+T20	DNA 889 912	c-fps/fes protooncogene
+T21	protein 949 955	GM-CSF
+T22	protein 1004 1010	GM-CSF
+T23	protein 1044 1048	JAK2
+T24	protein 1059 1065	GM-CSF
+T25	protein 1085 1089	JAK2
+T26	protein 1094 1100	p93fes
+T27	protein 1169 1204	GM-CSF receptor beta common subunit
+T28	protein 1210 1214	JAK2
+T29	protein 1264 1270	GM-CSF
+T30	protein 1281 1300	DNA-binding complex
+T31	protein 1320 1323	p91
+T32	protein 1328 1331	p92
+T33	protein 1403 1409	GM-CSF
+T34	cell_type 1477 1498	GM-CSF-stimulated PMN

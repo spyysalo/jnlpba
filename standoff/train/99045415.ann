@@ -1,0 +1,19 @@
+T1	DNA 0 10	Spi-1/PU.1
+T2	DNA 11 25	proto-oncogene
+T3	cell_line 97 107	K562 cells
+T4	protein 109 119	Spi-1/PU.1
+T5	protein 125 159	hematopoietic transcription factor
+T6	protein 167 177	Ets family
+T7	protein 227 232	spi-1
+T8	cell_type 273 301	human myeloid leukemia cells
+T9	cell_line 303 313	K562 cells
+T10	DNA 345 368	spi-1 expression vector
+T11	cell_line 374 396	transfected cell lines
+T12	RNA 426 436	spi-1 mRNA
+T13	protein 458 463	Spi-1
+T14	cell_line 490 513	spi-1 transfected cells
+T15	protein 650 655	spi-1
+T16	cell_line 758 777	spi-1 transfectants
+T17	protein 785 790	spi-1
+T18	DNA 902 907	Spi-1
+T19	cell_line 934 962	human myeloid leukemia cells

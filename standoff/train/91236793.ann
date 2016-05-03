@@ -1,0 +1,24 @@
+T1	protein 17 52	estrogen and progesterone receptors
+T2	protein 64 88	Ki-67 and p-145 antigens
+T3	cell_type 92 110	single tumor cells
+T4	protein 224 232	antigens
+T5	cell_type 263 289	isolated white blood cells
+T6	cell_type 306 324	single tumor cells
+T7	protein 379 384	Ki-67
+T8	protein 389 399	anti-p-145
+T9	cell_type 550 561	tumor cells
+T10	cell_type 740 764	normal mesothelial cells
+T11	protein 815 823	estrogen
+T12	protein 828 850	progesterone receptors
+T13	protein 852 854	ER
+T14	protein 859 861	PR
+T15	cell_type 974 985	tumor cells
+T16	protein 1099 1101	ER
+T17	protein 1125 1127	PR
+T18	protein 1213 1215	ER
+T19	protein 1220 1222	PR
+T20	protein 1237 1254	hormone receptors
+T21	protein 1294 1296	ER
+T22	protein 1306 1308	PR
+T23	cell_type 1461 1472	tumor cells
+T24	protein 1550 1575	hormone receptor proteins

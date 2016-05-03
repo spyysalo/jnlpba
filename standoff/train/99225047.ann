@@ -1,0 +1,29 @@
+T1	cell_type 35 77	human CD34+ hematopoietic progenitor cells
+T2	protein 94 117	retinoic acid receptors
+T3	protein 122 142	retinoid X receptors
+T4	cell_type 180 210	hematopoietic progenitor cells
+T5	cell_type 283 302	hematopoietic cells
+T6	cell_type 380 422	human CD34+ hematopoietic progenitor cells
+T7	cell_type 510 520	dead cells
+T8	cell_type 579 592	control cells
+T9	protein 1004 1041	granulocyte colony-stimulating factor
+T10	protein 1051 1099	granulocyte-macrophage colony-stimulating factor
+T11	cell_type 1129 1140	CD34+ cells
+T12	protein 1202 1207	G-CSF
+T13	protein 1212 1218	GM-CSF
+T14	cell_type 1222 1233	CD34+ cells
+T15	protein 1235 1240	G-CSF
+T16	cell_type 1245 1255	dead cells
+T17	protein 1266 1271	G-CSF
+T18	protein 1283 1289	GM-CSF
+T19	protein 1296 1302	GM-CSF
+T20	cell_type 1349 1360	CD34+ cells
+T21	cell_type 1365 1381	CD34+CD71+ cells
+T22	protein 1398 1412	erythropoietin
+T23	protein 1521 1544	retinoic acid receptors
+T24	protein 1567 1587	retinoid X receptors
+T25	protein 1589 1593	RXRs
+T26	protein 1622 1626	RARs
+T27	protein 1703 1707	RARs
+T28	protein 1719 1723	RXRs
+T29	cell_type 1766 1792	erythroid progenitor cells

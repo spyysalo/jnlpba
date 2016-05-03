@@ -1,0 +1,25 @@
+T1	protein 43 53	NF-kappa B
+T2	protein 91 100	cytokines
+T3	protein 197 207	NF-kappa B
+T4	protein 253 262	cytokines
+T5	cell_type 322 343	human and mouse cells
+T6	cell_type 415 441	human gingival fibroblasts
+T7	cell_type 443 445	HF
+T8	cell_type 484 518	human peripheral blood lymphocytes
+T9	cell_type 520 523	PBL
+T10	protein 540 567	tumor necrosis factor-alpha
+T11	protein 569 587	interleukin 1-beta
+T12	protein 589 637	granulocyte-macrophage colony-stimulating factor
+T13	protein 642 655	interleukin-6
+T14	cell_type 686 689	PBL
+T15	cell_type 694 709	human monocytes
+T16	cell_type 711 713	HM
+T17	protein 811 819	cytokine
+T18	RNA 837 850	cytokine mRNA
+T19	protein 935 956	nitric oxide synthase
+T20	cell_type 989 1017	mouse peritoneal macrophages
+T21	protein 1136 1146	NF-kappa B
+T22	cell_type 1150 1153	PBL
+T23	cell_type 1162 1164	HF
+T24	protein 1219 1227	cytokine
+T25	protein 1307 1317	NF-kappa B

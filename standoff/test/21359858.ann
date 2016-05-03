@@ -1,0 +1,25 @@
+T1	DNA 18 41	p21(CIP1/WAF1) promoter
+T2	protein 45 73	bone morphogenetic protein-2
+T3	cell_line 83 98	B lineage cells
+T4	protein 100 104	BMPs
+T5	protein 196 201	BMP-2
+T6	cell_line 226 253	HS-72 mouse hybridoma cells
+T7	protein 336 341	BMP-2
+T8	DNA 362 385	p21(CIP1/WAF1) promoter
+T9	cell_line 389 400	HS-72 cells
+T10	DNA 413 436	29-base pair (b) region
+T11	DNA 482 490	TATA box
+T12	protein 546 551	BMP-2
+T13	protein 577 582	Smad1
+T14	protein 584 589	Smad4
+T15	protein 628 648	BMP type I receptors
+T16	DNA 697 708	29-b region
+T17	protein 741 746	Smad4
+T18	protein 751 771	phosphorylated Smad1
+T19	protein 798 803	BMP-2
+T20	cell_line 815 826	HS-72 cells
+T21	protein 857 862	BMP-2
+T22	protein 932 937	Smad4
+T23	protein 942 947	Smad1
+T24	DNA 955 966	29-b region
+T25	cell_line 970 981	HS-72 cells

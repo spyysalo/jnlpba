@@ -1,0 +1,27 @@
+T1	protein 0 4	CD30
+T2	protein 22 44	nuclear factor-kappa B
+T3	cell_line 59 77	human T cell lines
+T4	protein 79 83	CD30
+T5	protein 122 184	tumor necrosis factor/nerve growth factor receptor superfamily
+T6	cell_line 239 249	L540 cells
+T7	cell_line 251 302	Hodgkin's disease-derived, T cell-like, CD30+ cells
+T8	protein 313 354	agonistic anti-CD30 monoclonal antibodies
+T9	protein 356 359	mAb
+T10	protein 361 364	M44
+T11	protein 369 372	M67
+T12	protein 378 405	nuclear factor (NF)-kappa B
+T13	protein 522 525	mAb
+T14	protein 534 544	NF-kappa B
+T15	protein 648 672	isotype-matched antibody
+T16	protein 690 700	NF-kappa B
+T17	cell_line 726 752	human T helper (Th) clones
+T18	protein 877 881	CD30
+T19	protein 891 901	NF-kappa B
+T20	cell_line 947 958	CD30+ cells
+T21	protein 996 1016	NF-kappa B complexes
+T22	protein 1035 1039	CD30
+T23	protein 1073 1088	p50 NF-kappa B1
+T24	protein 1090 1098	p65 RelA
+T25	protein 1119 1140	transcription factors
+T26	protein 1225 1235	NF-kappa B
+T27	protein 1300 1304	CD30

@@ -1,0 +1,33 @@
+T1	DNA 26 70	class II transactivator-encoding AIR-1 locus
+T2	DNA 102 148	major histocompatibility complex class II gene
+T3	cell_type 197 204	B cells
+T4	cell_type 208 220	plasma cells
+T5	DNA 259 311	major histocompatibility complex (MHC) class II gene
+T6	cell_type 350 356	B cell
+T7	cell_type 360 371	plasma cell
+T8	protein 391 409	Class II molecules
+T9	cell_type 431 443	plasma cells
+T10	DNA 508 521	class II gene
+T11	DNA 611 614	SIR
+T12	DNA 616 651	suppressor of immune response genes
+T13	DNA 700 714	class II genes
+T14	DNA 756 766	AIR-1 gene
+T15	protein 787 810	class II transactivator
+T16	protein 812 817	CIITA
+T17	DNA 902 920	MHC class II genes
+T18	cell_line 975 1004	plasmacytoma x B cell hybrids
+T19	DNA 1017 1028	AIR-1 locus
+T20	cell_line 1042 1064	CIITA-expressing cells
+T21	RNA 1080 1106	CIITA-specific transcripts
+T22	DNA 1146 1173	human CIITA coding sequence
+T23	DNA 1198 1219	heterologous promoter
+T24	DNA 1243 1267	human MHC class II genes
+T25	DNA 1328 1352	mouse MHC class II genes
+T26	cell_line 1365 1393	mouse plasmacytoma cell line
+T27	cell_line 1402 1409	hybrids
+T28	protein 1493 1511	AIR-1 gene product
+T29	cell_line 1555 1585	CIITA-transfected cell hybrids
+T30	protein 1618 1642	human HLA-DQ heterodimer
+T31	cell_line 1790 1815	CIITA-transfected hybrids
+T32	DNA 1950 1978	human HLA-DQ class II subset
+T33	protein 2047 2052	CIITA

@@ -1,0 +1,16 @@
+T1	protein 17 37	HLA class II antigen
+T2	cell_type 69 102	human intestinal epithelial cells
+T3	protein 130 145	foreign antigen
+T4	cell_type 153 158	lumen
+T5	cell_type 222 233	lymphocytes
+T6	cell_type 282 309	Intestinal epithelial cells
+T7	protein 322 343	HLA class II antigens
+T8	cell_type 364 406	antigen-presenting cells to CD4(+) T cells
+T9	cell_type 443 502	tetanus toxoid specific and HLA-DR-restricted T lymphocytes
+T10	cell_type 517 554	polarized intestinal epithelial cells
+T11	protein 575 591	HLA-DR molecules
+T12	protein 718 747	class II transactivator CIITA
+T13	protein 919 953	proinflammatory cytokine gamma-IFN
+T14	cell_type 1055 1062	T cells
+T15	protein 1067 1085	class II molecules
+T16	cell_type 1235 1262	intestinal epithelial cells

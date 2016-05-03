@@ -1,0 +1,9 @@
+T1	cell_line 37 61	human myeloid cell lines
+T2	cell_line 205 229	human myeloid cell lines
+T3	cell_line 231 236	HL-60
+T4	cell_line 241 245	KG-1
+T5	DNA 460 490	myeloperoxidase and CD34 genes
+T6	protein 574 595	transcription factors
+T7	protein 596 600	AP-1
+T8	protein 605 610	Egr-1
+T9	protein 720 728	proteins

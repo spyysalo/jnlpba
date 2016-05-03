@@ -1,0 +1,22 @@
+T1	DNA 20 63	herpesvirus Saimiri cis-acting DNA fragment
+T2	cell_type 123 130	T cells
+T3	cell_type 224 231	T cells
+T4	cell_type 288 295	T cells
+T5	DNA 325 337	viral genome
+T6	DNA 343 360	persisting genome
+T7	DNA 381 418	cis-acting genetic cis-acting segment
+T8	DNA 420 424	oriP
+T9	DNA 484 503	Viral DNA fragments
+T10	DNA 529 533	oriP
+T11	DNA 553 560	plasmid
+T12	DNA 579 605	hygromycin resistance gene
+T13	DNA 667 671	oriP
+T14	DNA 688 710	1.955-kb viral segment
+T15	DNA 747 754	plasmid
+T16	DNA 887 891	oriP
+T17	protein 905 924	trans-acting factor
+T18	DNA 943 955	viral genome
+T19	DNA 961 983	1.955-kb viral segment
+T20	DNA 1036 1059	small nuclear RNA genes
+T21	DNA 1091 1127	dihydrofolate reductase gene homolog
+T22	DNA 1145 1149	oriP

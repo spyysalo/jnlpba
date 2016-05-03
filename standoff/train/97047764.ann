@@ -1,0 +1,39 @@
+T1	protein 4 20	catalytic domain
+T2	protein 24 33	pp56(lck)
+T3	protein 47 64	regulatory domain
+T4	protein 93 97	IL-2
+T5	protein 114 133	lymphoid src kinase
+T6	protein 134 143	pp56(lck)
+T7	cell_type 206 218	T lymphocyte
+T8	protein 240 243	CD4
+T9	protein 341 345	IL-2
+T10	protein 395 404	pp56(lck)
+T11	protein 508 511	NH2
+T12	protein 512 529	regulatory domain
+T13	protein 555 558	CD4
+T14	protein 629 661	regulatory and catalytic domains
+T15	protein 665 674	pp56(lck)
+T16	protein 725 728	CD4
+T17	protein 742 746	IL-2
+T18	protein 763 780	pp56(lck) mutants
+T19	protein 807 823	catalytic domain
+T20	protein 838 841	NH2
+T21	protein 842 859	regulatory domain
+T22	DNA 930 994	TCR-regulated nuclear factor of activated T cells (NF-AT) region
+T23	DNA 1002 1015	IL-2 promoter
+T24	protein 1063 1066	NH2
+T25	protein 1089 1098	pp56(lck)
+T26	protein 1118 1123	NF-AT
+T27	protein 1248 1264	catalytic domain
+T28	protein 1268 1277	pp56(lck)
+T29	protein 1297 1301	IL-2
+T30	protein 1302 1310	cytokine
+T31	protein 1364 1373	pp56(lck)
+T32	protein 1417 1426	pp56(lck)
+T33	protein 1507 1510	NH2
+T34	protein 1511 1528	regulatory domain
+T35	protein 1554 1557	CD4
+T36	protein 1600 1616	catalytic domain
+T37	protein 1620 1629	pp56(lck)
+T38	protein 1661 1665	IL-2
+T39	protein 1688 1691	TCR

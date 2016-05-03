@@ -1,0 +1,31 @@
+T1	protein 92 116	helix-loop-helix protein
+T2	protein 117 120	Id3
+T3	cell_type 124 152	committed T cell progenitors
+T4	protein 177 180	Id3
+T5	protein 221 272	basic helix-loop-helix (bHLH) transcription factors
+T6	cell_type 277 321	human CD34(+) hematopoietic progenitor cells
+T7	DNA 346 387	T cell receptor (TCR) gene rearrangements
+T8	cell_type 416 432	transduced cells
+T9	cell_line 438 473	TCRalpha beta and gamma delta cells
+T10	cell_line 479 505	fetal thymic organ culture
+T11	cell_line 507 511	FTOC
+T12	protein 554 557	Id3
+T13	cell_type 562 573	progenitors
+T14	DNA 594 617	TCR gene rearrangements
+T15	cell_type 619 630	pre-T cells
+T16	cell_line 659 672	TCRalpha beta
+T17	cell_line 686 708	TCRgamma delta T cells
+T18	protein 723 726	Id3
+T19	RNA 798 813	pre-Talpha mRNA
+T20	protein 871 874	Id3
+T21	cell_type 931 942	pre-T cells
+T22	cell_line 948 983	TCRalpha beta and gamma delta cells
+T23	cell_type 1007 1044	cell surface CD4(-)CD8(-)CD3(-) cells
+T24	DNA 1050 1070	rearranged TCR genes
+T25	cell_line 1086 1100	Id3-transduced
+T26	cell_line 1114 1144	control-transduced pre-T cells
+T27	cell_line 1151 1155	FTOC
+T28	cell_type 1192 1206	natural killer
+T29	cell_type 1208 1210	NK
+T30	cell_type 1216 1227	pre-T cells
+T31	protein 1257 1269	bHLH factors

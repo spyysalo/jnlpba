@@ -1,0 +1,37 @@
+T1	cell_line 40 63	fibre-exposed monocytes
+T2	RNA 87 100	cytokine-mRNA
+T3	protein 108 131	protein tyrosine kinase
+T4	protein 136 145	NF-kappaB
+T5	cell_line 158 196	co-cultured bronchial epithelial cells
+T6	cell_line 198 205	BEAS-2B
+T7	cell_type 312 338	bronchial epithelial cells
+T8	cell_type 340 360	Alveolar macrophages
+T9	cell_type 459 475	epithelial cells
+T10	cell_type 480 491	macrophages
+T11	protein 520 542	inflammatory mediators
+T12	cell_type 578 589	macrophages
+T13	protein 608 630	inflammatory mediators
+T14	cell_type 634 660	bronchial epithelial cells
+T15	cell_type 698 725	co-cultured blood monocytes
+T16	cell_type 727 729	BM
+T17	cell_line 735 748	BEAS-2B cells
+T18	cell_type 781 783	BM
+T19	protein 991 1014	protein tyrosine kinase
+T20	protein 1045 1054	NF-kappaB
+T21	protein 1059 1067	cytokine
+T22	protein 1069 1077	IL-1beta
+T23	protein 1079 1083	IL-6
+T24	protein 1085 1094	TNF-alpha
+T25	RNA 1105 1109	mRNA
+T26	cell_type 1120 1133	BEAS-2B cells
+T27	protein 1162 1185	protein tyrosine kinase
+T28	protein 1224 1233	NF-kappaB
+T29	cell_type 1254 1267	BEAS-2B cells
+T30	cell_line 1304 1318	co-cultured BM
+T31	RNA 1332 1367	IL-1beta-, IL-6- and TNF-alpha-mRNA
+T32	protein 1409 1432	Protein tyrosine kinase
+T33	protein 1443 1452	NF-kappaB
+T34	RNA 1484 1506	cytokine-specific mRNA
+T35	protein 1574 1583	NF-kappaB
+T36	protein 1610 1632	inflammatory cytokines
+T37	cell_type 1636 1662	bronchial epithelial cells

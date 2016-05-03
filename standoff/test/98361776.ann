@@ -1,0 +1,36 @@
+T1	protein 0 54	Transcription factor B-cell-specific activator protein
+T2	protein 56 60	BSAP
+T3	cell_type 93 100	B cells
+T4	DNA 141 167	paired box containing gene
+T5	DNA 168 173	PAX-5
+T6	protein 186 206	transcription factor
+T7	protein 207 211	BSAP
+T8	protein 213 246	B-cell-specific activator protein
+T9	protein 408 412	BSAP
+T10	cell_line 534 544	cell lines
+T11	protein 696 700	BSAP
+T12	cell_type 715 734	mantle zone B cells
+T13	cell_type 763 788	follicular center B cells
+T14	cell_type 843 861	Monocytoid B cells
+T15	cell_type 894 906	plasma cells
+T16	cell_type 911 952	extrafollicular large transformed B cells
+T17	protein 1014 1018	BSAP
+T18	cell_type 1112 1124	mantle cells
+T19	cell_type 1126 1130	MCLs
+T20	cell_type 1276 1280	MCLs
+T21	cell_type 1343 1368	nonmalignant mantle cells
+T22	protein 1440 1444	BSAP
+T23	protein 1595 1599	BSAP
+T24	protein 1753 1757	BSAP
+T25	cell_type 1789 1800	tumor cells
+T26	protein 1839 1843	BSAP
+T27	cell_line 1852 1864	B-cell lines
+T28	cell_line 1877 1908	non-B-cell or plasma cell lines
+T29	protein 1927 1931	BSAP
+T30	cell_type 1981 1995	B-cell lineage
+T31	protein 2005 2009	BSAP
+T32	cell_type 2031 2045	B-cell subsets
+T33	protein 2093 2097	BSAP
+T34	cell_type 2125 2145	large-cell lymphomas
+T35	cell_type 2158 2178	follicular lymphomas
+T36	DNA 2270 2275	PAX-5

@@ -1,0 +1,35 @@
+T1	DNA 4 24	murine IL-2 promoter
+T2	DNA 34 60	distal regulatory elements
+T3	protein 79 90	Ah receptor
+T4	protein 133 169	bHLH-PAS transcription factor family
+T5	protein 193 196	TCR
+T6	DNA 262 271	IL-2 gene
+T7	cell_type 275 288	naive T cells
+T8	DNA 294 310	minimal promoter
+T9	DNA 377 401	transcription start site
+T10	protein 450 474	arylhydrocarbon receptor
+T11	protein 476 479	AHR
+T12	protein 498 538	bHLH-PAS family of transcription factors
+T13	RNA 578 582	IL-2
+T14	cell_type 586 609	murine fetal thymocytes
+T15	protein 615 618	AHR
+T16	protein 838 850	liganded AHR
+T17	DNA 876 903	distal region -1300 to -800
+T18	DNA 911 930	mouse IL-2 promoter
+T19	DNA 956 966	DNA motifs
+T20	DNA 982 1006	dioxin response elements
+T21	protein 1029 1041	liganded AHR
+T22	DNA 1127 1136	IL-2 gene
+T23	protein 1159 1162	AHR
+T24	cell_type 1171 1181	thymocytes
+T25	protein 1270 1273	AHR
+T26	protein 1279 1282	AHR
+T27	protein 1325 1328	AHR
+T28	cell_type 1357 1369	spleen cells
+T29	protein 1401 1404	TCR
+T30	DNA 1430 1439	IL-2 gene
+T31	DNA 1461 1481	IL-2 promoter region
+T32	DNA 1497 1523	distal regulatory elements
+T33	protein 1553 1556	AHR
+T34	DNA 1567 1571	IL-2
+T35	DNA 1599 1616	proximal promoter

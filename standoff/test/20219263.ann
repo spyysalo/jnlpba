@@ -1,0 +1,19 @@
+T1	protein 0 16	HLA-DQ tetramers
+T2	cell_type 26 50	epitope-specific T cells
+T3	cell_type 144 183	immunodominant antigen-responsive cells
+T4	cell_type 185 209	Ag-specific CD4+ T cells
+T5	protein 386 399	MHC tetramers
+T6	protein 420 446	labeled MHC-peptide ligand
+T7	protein 475 495	Ag-specific receptor
+T8	cell_type 499 506	T cells
+T9	cell_type 580 590	rare cells
+T10	protein 647 653	HLA DQ
+T11	cell_type 665 684	Ag-specific T cells
+T12	protein 832 847	epitope regions
+T13	protein 855 867	VP16 protein
+T14	protein 896 924	recombinant DQ0602 molecules
+T15	protein 948 976	Ag-specific DQ0602 tetramers
+T16	protein 978 985	VP16 Ag
+T17	cell_type 995 1016	DQ-restricted T cells
+T18	protein 1222 1238	DQ0602 molecules
+T19	cell_type 1268 1275	T cells

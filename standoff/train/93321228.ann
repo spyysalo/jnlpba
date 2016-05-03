@@ -1,0 +1,25 @@
+T1	protein 26 42	protein kinase C
+T2	protein 65 68	CD3
+T3	protein 141 166	AP-1 transcription factor
+T4	protein 228 244	protein kinase C
+T5	protein 246 249	PKC
+T6	cell_type 503 516	T lymphocytes
+T7	protein 557 576	CD3/T cell receptor
+T8	protein 578 581	TcR
+T9	cell_type 592 599	T cells
+T10	protein 744 756	anti-CD3 mAb
+T11	cell_type 778 789	lymphocytes
+T12	protein 974 987	interleukin-2
+T13	protein 989 993	IL-2
+T14	protein 1003 1014	alpha chain
+T15	protein 1016 1020	CD25
+T16	protein 1029 1042	IL-2 receptor
+T17	protein 1044 1049	IL-2R
+T18	protein 1115 1118	CD3
+T19	protein 1119 1122	TcR
+T20	cell_line 1169 1194	PMA/Bt2cAMP-treated cells
+T21	DNA 1280 1299	c-fos protooncogene
+T22	protein 1328 1332	AP-1
+T23	protein 1380 1384	CREB
+T24	protein 1388 1393	NF-kB
+T25	protein 1716 1719	TcR

@@ -1,0 +1,22 @@
+T1	protein 81 100	glucose transporter
+T2	cell_type 104 121	3T3-L1 adipocytes
+T3	cell_type 295 304	adipocyte
+T4	protein 329 377	peroxisome proliferator-activated receptor gamma
+T5	protein 378 387	PPARgamma
+T6	protein 394 423	phosphatidylinositol 3-kinase
+T7	protein 425 436	PI 3-kinase
+T8	cell_line 450 464	cultured cells
+T9	cell_line 545 557	3T3-L1 cells
+T10	cell_type 629 646	3T3-L1 adipocytes
+T11	protein 684 710	fatty acid-binding protein
+T12	protein 778 797	glucose transporter
+T13	protein 815 820	GLUT1
+T14	protein 825 830	GLUT4
+T15	cell_type 858 867	adipocyte
+T16	protein 945 961	PPARgamma ligand
+T17	protein 979 1007	nuclear receptor superfamily
+T18	protein 1103 1114	PI 3-kinase
+T19	cell_type 1274 1295	human monocytic cells
+T20	protein 1595 1600	GLUT1
+T21	protein 1605 1610	GLUT4
+T22	protein 1630 1639	PPARgamma

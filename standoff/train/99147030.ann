@@ -1,0 +1,43 @@
+T1	protein 39 48	NF-kappaB
+T2	protein 63 80	interleukin-1beta
+T3	protein 90 104	5-lipoxygenase
+T4	protein 212 221	NF-kappaB
+T5	protein 236 261	proinflammatory cytokines
+T6	protein 376 390	5-lipoxygenase
+T7	protein 392 397	5-LOX
+T8	protein 418 423	5-LOX
+T9	protein 428 452	5-LOX activating protein
+T10	protein 454 458	FLAP
+T11	cell_type 479 493	lymphoid cells
+T12	cell_type 505 534	monocytic or epithelial cells
+T13	cell_type 551 565	lymphoid cells
+T14	protein 571 588	interleukin-1beta
+T15	protein 590 598	IL-1beta
+T16	protein 626 635	NF-kappaB
+T17	protein 695 699	FLAP
+T18	protein 728 733	5-LOX
+T19	protein 778 787	NF-kappaB
+T20	protein 815 823	IL-1beta
+T21	cell_type 839 855	epithelial cells
+T22	protein 886 895	NF-kappaB
+T23	protein 928 933	5-LOX
+T24	protein 986 991	5-LOX
+T25	protein 1041 1046	5-LOX
+T26	protein 1057 1066	NF-kappaB
+T27	cell_type 1082 1097	monocytic cells
+T28	protein 1099 1107	IL-1beta
+T29	protein 1174 1186	5-LOX enzyme
+T30	protein 1254 1258	Rac1
+T31	protein 1263 1268	Cdc42
+T32	protein 1269 1276	GTPases
+T33	protein 1317 1326	NF-kappaB
+T34	protein 1341 1349	IL-1beta
+T35	cell_type 1353 1369	epithelial cells
+T36	protein 1433 1442	NF-kappaB
+T37	protein 1457 1465	IL-1beta
+T38	protein 1508 1513	5-LOX
+T39	cell_type 1517 1531	lymphoid cells
+T40	protein 1545 1550	5-LOX
+T41	cell_type 1574 1590	epithelial cells
+T42	protein 1634 1647	NADPH oxidase
+T43	cell_type 1651 1666	monocytic cells

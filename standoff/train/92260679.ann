@@ -1,0 +1,14 @@
+T1	DNA 18 62	human immunodeficiency virus type 1 enhancer
+T2	protein 83 89	NFAT-1
+T3	DNA 109 129	putative NFAT-1 site
+T4	DNA 137 181	human immunodeficiency virus type 1 enhancer
+T5	protein 219 242	T-cell antigen receptor
+T6	cell_line 257 269	Jurkat cells
+T7	DNA 293 306	kappa B sites
+T8	DNA 312 334	putative NFAT-1 region
+T9	protein 371 379	anti-CD3
+T10	protein 386 394	mitogens
+T11	cell_line 398 404	T-cell
+T12	cell_line 406 412	B-cell
+T13	cell_line 417 451	monocyte/macrophage leukemia lines
+T14	DNA 465 503	cis-acting negative regulatory element

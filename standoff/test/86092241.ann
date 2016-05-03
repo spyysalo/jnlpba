@@ -1,0 +1,22 @@
+T1	protein 2 16	nuclear factor
+T2	DNA 61 93	transcriptional control elements
+T3	DNA 97 117	immunoglobulin genes
+T4	protein 119 139	Trans-acting factors
+T5	DNA 186 206	immunoglobulin genes
+T6	DNA 293 325	immunoglobulin gene recombinants
+T7	cell_type 329 360	lymphoid and non-lymphoid cells
+T8	DNA 383 429	cis-acting transcriptional regulatory elements
+T9	DNA 547 580	heavy and kappa light-chain genes
+T10	DNA 632 639	element
+T11	DNA 666 708	heavy and kappa light-chain gene promoters
+T12	DNA 787 802	viral enhancers
+T13	DNA 877 896	regulatory elements
+T14	protein 1004 1031	human B-cell nuclear factor
+T15	protein 1033 1039	IgNF-A
+T16	DNA 1055 1068	DNA sequences
+T17	DNA 1076 1092	upstream regions
+T18	DNA 1105 1153	mouse heavy and kappa light-chain gene promoters
+T19	DNA 1170 1201	mouse heavy-chain gene enhancer
+T20	DNA 1324 1348	transcriptional elements
+T21	DNA 1413 1419	IgNF-A
+T22	cell_line 1439 1455	human HeLa cells

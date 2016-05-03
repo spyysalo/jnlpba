@@ -1,0 +1,44 @@
+T1	protein 31 36	IL-12
+T2	protein 41 45	IL-2
+T3	protein 55 91	p38 mitogen-activated protein kinase
+T4	protein 164 169	IL-12
+T5	protein 174 178	IL-2
+T6	cell_type 193 226	mitogen- or CD3-activated T cells
+T7	protein 251 260	IFN-gamma
+T8	cell_type 271 282	tumor cells
+T9	cell_type 354 361	T cells
+T10	protein 398 403	IL-12
+T11	protein 408 412	IL-2
+T12	cell_type 440 447	T cells
+T13	protein 482 491	cytokines
+T14	cell_type 536 548	CD8+ T cells
+T15	cell_type 550 564	CD8+CD18bright
+T16	protein 610 615	IL-12
+T17	protein 620 624	IL-2
+T18	protein 685 690	IL-12
+T19	protein 695 699	IL-2
+T20	cell_type 703 725	CD8+CD18bright T cells
+T21	protein 764 778	stress kinases
+T22	protein 780 822	p38 mitogen-activated protein (MAP) kinase
+T23	protein 827 887	stress-activated protein kinase (SAPK)/Jun N-terminal kinase
+T24	protein 924 962	extracellular signal-regulated kinases
+T25	protein 995 999	IL-2
+T26	protein 1004 1009	IL-12
+T27	protein 1058 1063	STAT1
+T28	protein 1068 1073	STAT3
+T29	protein 1121 1126	IL-12
+T30	protein 1130 1134	IL-2
+T31	protein 1155 1159	STAT
+T32	protein 1334 1339	STAT1
+T33	protein 1344 1349	STAT3
+T34	protein 1361 1366	IL-12
+T35	protein 1371 1375	IL-2
+T36	protein 1421 1426	IL-12
+T37	protein 1431 1435	IL-2
+T38	protein 1622 1627	IL-12
+T39	protein 1632 1636	IL-2
+T40	cell_type 1706 1713	T cells
+T41	protein 1717 1722	IL-12
+T42	protein 1727 1731	IL-2
+T43	protein 1773 1787	p38 MAP kinase
+T44	protein 1792 1809	Janus kinase/STAT

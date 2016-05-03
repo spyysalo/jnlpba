@@ -1,0 +1,35 @@
+T1	DNA 42 78	glucocorticosteroid response element
+T2	DNA 80 84	nGRE
+T3	DNA 93 121	human interleukin-1beta gene
+T4	protein 123 141	Interleukin-1 beta
+T5	protein 143 151	IL-1beta
+T6	protein 182 204	inflammatory mediators
+T7	protein 273 287	human IL-1beta
+T8	DNA 350 369	regulatory elements
+T9	DNA 398 413	promoter region
+T10	protein 469 477	IL-1beta
+T11	DNA 625 652	negative regulatory element
+T12	DNA 683 696	-685 and -395
+T13	DNA 720 753	19-bp nuclear factor binding site
+T14	DNA 755 767	-570 to -552
+T15	protein 790 797	DNase I
+T16	DNA 846 864	consensus sequence
+T17	DNA 871 911	negative glucocorticoid response element
+T18	DNA 913 917	nGRE
+T19	DNA 925 971	transcription activator protein-2 binding site
+T20	DNA 1083 1101	19-bp binding site
+T21	DNA 1121 1140	reporter constructs
+T22	protein 1141 1149	IL-1beta
+T23	protein 1149 1153	/CAT
+T24	protein 1158 1166	IL-1beta
+T25	DNA 1166 1180	/SV40 promoter
+T26	protein 1180 1184	/CAT
+T27	protein 1221 1254	chloramphenicol acetyltransferase
+T28	protein 1256 1259	CAT
+T29	DNA 1286 1304	wild-type fragment
+T30	DNA 1318 1333	deletion mutant
+T31	DNA 1346 1356	19-bp site
+T32	protein 1377 1383	150 kD
+T33	DNA 1403 1431	negative regulatory sequence
+T34	DNA 1503 1529	negative regulatory region
+T35	DNA 1565 1578	cytokine gene

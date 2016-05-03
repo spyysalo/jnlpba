@@ -1,0 +1,61 @@
+T1	protein 15 20	TRAF1
+T2	protein 22 27	TRAF2
+T3	protein 33 38	TRAF3
+T4	DNA 47 77	Epstein-Barr virus LMP1 domain
+T5	cell_type 92 104	B-lymphocyte
+T6	protein 129 138	NF-kappaB
+T7	protein 155 205	Epstein-Barr virus (EBV) transforming protein LMP1
+T8	protein 222 277	constitutively activated tumor necrosis factor receptor
+T9	protein 279 283	TNFR
+T10	protein 384 413	cytoplasmic carboxyl terminus
+T11	protein 415 417	CT
+T12	protein 424 447	TNFR-associated factors
+T13	protein 449 454	TRAFs
+T14	cell_line 477 506	EBV-transformed B lymphocytes
+T15	protein 515 520	TRAF1
+T16	protein 524 529	TRAF3
+T17	protein 540 545	TRAF2
+T18	protein 566 570	LMP1
+T19	protein 588 592	LMP1
+T20	protein 612 617	TRAF1
+T21	protein 621 626	TRAF3
+T22	protein 628 633	TRAF1
+T23	protein 635 640	TRAF2
+T24	protein 646 651	TRAF3
+T25	protein 681 688	LMP1 CT
+T26	DNA 898 920	TRAF binding sequences
+T27	protein 950 954	LMP1
+T28	DNA 1016 1023	PXQXT/S
+T29	DNA 1034 1052	TRAF binding motif
+T30	DNA 1101 1136	LMP1(1-231) core TRAF binding motif
+T31	protein 1157 1166	NF-kappaB
+T32	protein 1199 1204	TRAFs
+T33	protein 1208 1212	LMP1
+T34	protein 1229 1238	NF-kappaB
+T35	protein 1251 1260	NF-kappaB
+T36	protein 1275 1279	LMP1
+T37	protein 1315 1320	TRAF1
+T38	protein 1320 1326	/TRAF2
+T39	protein 1350 1355	TRAF1
+T40	protein 1376 1381	TRAFs
+T41	protein 1398 1407	NF-kappaB
+T42	protein 1413 1417	LMP1
+T43	protein 1428 1433	TRAF2
+T44	protein 1469 1473	LMP1
+T45	protein 1490 1499	NF-kappaB
+T46	protein 1522 1527	TRAF1
+T47	protein 1553 1558	TRAF2
+T48	protein 1578 1583	TRAF1
+T49	protein 1612 1617	TRAF3
+T50	protein 1645 1649	LMP1
+T51	protein 1666 1675	NF-kappaB
+T52	protein 1702 1718	TRAF1, -2, or -3
+T53	protein 1746 1762	terminal LMP1 CT
+T54	protein 1809 1818	NF-kappaB
+T55	protein 1863 1868	TRAFs
+T56	protein 1874 1878	LMP1
+T57	protein 1891 1911	aa 187 to 231 domain
+T58	protein 1934 1943	NF-kappaB
+T59	cell_type 1967 1979	B-lymphocyte
+T60	protein 2013 2017	TRAF
+T61	protein 2033 2037	LMP1

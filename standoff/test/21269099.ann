@@ -1,0 +1,34 @@
+T1	protein 16 19	p38
+T2	protein 24 31	p44/p42
+T3	protein 32 65	mitogen-activated protein kinases
+T4	protein 69 73	RAGE
+T5	protein 83 104	nuclear factor-kappaB
+T6	protein 211 246	signal-transducing receptor for AGE
+T7	protein 248 252	RAGE
+T8	protein 613 639	nuclear factor (NF)-kappaB
+T9	cell_type 675 702	human monocytic THP-1 cells
+T10	protein 785 815	putative ligand-binding domain
+T11	protein 819 823	RAGE
+T12	protein 835 839	RAGE
+T13	protein 874 893	truncated receptors
+T14	protein 906 926	intracellular domain
+T15	protein 953 957	RAGE
+T16	protein 961 970	NF-kappaB
+T17	protein 1108 1128	CML-modified albumin
+T18	protein 1194 1239	extracellular signal-regulated kinase 1 and 2
+T19	protein 1245 1281	p38 mitogen-activated protein kinase
+T20	protein 1283 1287	MAPK
+T21	protein 1298 1325	c-Jun NH(2)-terminal kinase
+T22	protein 1327 1331	RAGE
+T23	protein 1394 1402	p38 MAPK
+T24	protein 1503 1512	NF-kappaB
+T25	protein 1516 1536	CML-modified albumin
+T26	protein 1560 1585	proinflammatory cytokines
+T27	protein 1587 1614	tumor necrosis factor-alpha
+T28	protein 1616 1633	interleukin-1beta
+T29	protein 1639 1673	monocyte chemoattractant protein-1
+T30	protein 1706 1714	p38 MAPK
+T31	protein 1768 1776	p38 MAPK
+T32	protein 1797 1801	RAGE
+T33	protein 1810 1819	NF-kappaB
+T34	protein 1843 1868	proinflammatory cytokines

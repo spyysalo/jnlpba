@@ -1,0 +1,29 @@
+T1	protein 0 4	IL-2
+T2	cell_type 49 62	human T cells
+T3	protein 74 78	CD28
+T4	protein 101 105	CD28
+T5	protein 297 301	CD28
+T6	protein 329 338	cytokines
+T7	protein 348 352	IL-2
+T8	protein 406 410	CD28
+T9	protein 444 463	natural ligand CD80
+T10	protein 509 513	IL-2
+T11	protein 536 544	cytokine
+T12	DNA 560 573	IL-2 promoter
+T13	protein 612 616	CD28
+T14	protein 643 652	NF-kappaB
+T15	protein 657 661	AP-1
+T16	protein 674 679	NF-AT
+T17	DNA 694 707	IL-2 promoter
+T18	protein 902 905	Abs
+T19	protein 914 918	IL-2
+T20	protein 927 940	IL-2 receptor
+T21	protein 991 995	CD28
+T22	protein 1015 1019	IL-2
+T23	cell_type 1069 1082	T cell blasts
+T24	protein 1088 1092	CD80
+T25	protein 1150 1154	IL-2
+T26	protein 1188 1192	CD28
+T27	protein 1268 1272	IL-2
+T28	protein 1295 1309	soluble factor
+T29	protein 1325 1330	NF-AT

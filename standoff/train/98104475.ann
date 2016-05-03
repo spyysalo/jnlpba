@@ -1,0 +1,37 @@
+T1	DNA 18 30	target genes
+T2	protein 38 81	lymphoid-specific transcription factor Oct2
+T3	protein 87 91	Oct2
+T4	protein 92 112	transcription factor
+T5	cell_type 143 156	B lymphocytes
+T6	DNA 242 260	regulatory regions
+T7	cell_type 304 311	B cells
+T8	DNA 320 344	functional binding sites
+T9	protein 349 353	Oct2
+T10	protein 425 429	Oct2
+T11	cell_line 467 489	Oct2-deficient B cells
+T12	protein 526 530	Oct2
+T13	DNA 531 543	target genes
+T14	protein 588 592	Oct2
+T15	DNA 628 633	cDNAs
+T16	protein 638 642	Oct2
+T17	DNA 643 655	target genes
+T18	protein 711 715	Oct2
+T19	protein 721 742	membrane glycoprotein
+T20	protein 743 747	CD36
+T21	protein 753 785	cysteine-rich secreted protein 3
+T22	protein 787 794	CRISP-3
+T23	protein 820 864	human monocyte/neutrophil elastase inhibitor
+T24	protein 866 869	mEI
+T25	DNA 887 901	cDNA sequences
+T26	DNA 902 906	Nov1
+T27	DNA 911 915	Nov2
+T28	DNA 923 935	target genes
+T29	protein 995 1016	transcription factors
+T30	protein 1032 1036	Oct2
+T31	protein 1079 1083	CD36
+T32	protein 1088 1091	mEI
+T33	cell_line 1114 1137	hematopoetic cell lines
+T34	protein 1149 1153	Oct2
+T35	protein 1156 1163	CRISP-3
+T36	DNA 1188 1192	Nov1
+T37	DNA 1223 1227	Nov2

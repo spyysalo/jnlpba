@@ -1,0 +1,41 @@
+T1	protein 13 37	activator protein (AP)-1
+T2	protein 42 63	nuclear factor-kappaB
+T3	protein 67 71	CD28
+T4	protein 98 127	phosphatidylinositol 3-kinase
+T5	protein 132 155	acidic sphingomyelinase
+T6	protein 232 236	CD28
+T7	protein 281 285	CD28
+T8	protein 310 313	TCR
+T9	protein 385 389	CD28
+T10	protein 428 431	TCR
+T11	cell_type 508 527	human T cell blasts
+T12	protein 554 575	CD28 surface molecule
+T13	cell_type 666 680	normal T cells
+T14	protein 684 688	CD28
+T15	protein 750 754	CD28
+T16	cell_line 770 794	B7-transfected CHO cells
+T17	cell_type 831 838	T cells
+T18	protein 878 882	IL-2
+T19	protein 927 947	transcription factor
+T20	protein 1001 1020	activator protein-1
+T21	protein 1022 1026	AP-1
+T22	protein 1032 1075	nuclear factor-kappaB (NF-kappaB) complexes
+T23	protein 1085 1090	NF-AT
+T24	protein 1123 1126	TCR
+T25	protein 1130 1155	class II MHC/superantigen
+T26	protein 1180 1184	CD28
+T27	protein 1224 1229	NF-AT
+T28	protein 1231 1235	AP-1
+T29	protein 1241 1250	NF-kappaB
+T30	protein 1262 1266	IL-2
+T31	protein 1362 1366	CD28
+T32	protein 1389 1393	AP-1
+T33	protein 1398 1407	NF-kappaB
+T34	protein 1428 1437	NF-kappaB
+T35	protein 1495 1518	acidic sphingomyelinase
+T36	protein 1535 1564	phosphatidylinositol 3-kinase
+T37	protein 1601 1605	AP-1
+T38	cell_type 1730 1744	normal T cells
+T39	protein 1746 1750	CD28
+T40	protein 1880 1903	acidic sphingomyelinase
+T41	protein 1908 1937	phosphatidylinositol 3-kinase

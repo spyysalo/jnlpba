@@ -1,0 +1,13 @@
+T1	protein 37 57	glutamine synthetase
+T2	cell_type 61 81	human leukemic cells
+T3	protein 83 103	Glutamine synthetase
+T4	cell_type 135 147	lymphoblasts
+T5	cell_type 216 251	normal peripheral blood lymphocytes
+T6	protein 380 386	enzyme
+T7	protein 452 475	glucocorticoid receptor
+T8	protein 625 649	glucocorticoid receptors
+T9	cell_type 670 683	cell specimen
+T10	protein 719 725	enzyme
+T11	protein 861 881	steroid-inducible GS
+T12	cell_type 885 894	ALL cells
+T13	protein 924 949	functional receptor sites

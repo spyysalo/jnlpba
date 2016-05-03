@@ -1,0 +1,19 @@
+T1	protein 4 52	peroxisome proliferator-activated receptor alpha
+T2	protein 54 63	PPARalpha
+T3	cell_type 141 152	neutrophils
+T4	cell_type 156 173	endothelial cells
+T5	protein 175 218	Peroxisome proliferator-activated receptors
+T6	protein 220 224	PPAR
+T7	protein 344 357	alpha isoform
+T8	protein 361 365	PPAR
+T9	protein 558 567	PPARalpha
+T10	cell_type 628 645	endothelial cells
+T11	cell_type 741 768	PMN neutrophil granulocytes
+T12	cell_type 784 801	endothelial cells
+T13	protein 864 868	fMLP
+T14	protein 870 878	IL-1beta
+T15	protein 882 890	TNFalpha
+T16	cell_type 955 967	adhering PMN
+T17	protein 1071 1080	PPARalpha
+T18	cell_type 1127 1144	endothelial cells
+T19	cell_type 1149 1160	neutrophils

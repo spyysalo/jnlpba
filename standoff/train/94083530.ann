@@ -1,0 +1,41 @@
+T1	DNA 4 24	lymphotoxin promoter
+T2	protein 42 52	HTLV-I tax
+T3	protein 67 77	NF-kappa B
+T4	cell_line 81 99	human T-cell lines
+T5	protein 105 141	HTLV-I transcriptional activator tax
+T6	DNA 189 220	lymphotoxin (LT; TNF-beta) gene
+T7	cell_line 232 257	Tax-expressing cell lines
+T8	protein 266 268	LT
+T9	DNA 291 325	LT promoter (LT-293) CAT construct
+T10	DNA 344 359	NF-kappa B site
+T11	cell_line 378 410	LT-producing C81-66-45 cell line
+T12	protein 458 461	tax
+T13	DNA 486 514	mutated LT-kappa B construct
+T14	DNA 516 522	M1-CAT
+T15	cell_line 540 549	C81-66-45
+T16	protein 579 589	NF-kappa B
+T17	protein 593 595	LT
+T18	protein 613 616	Tax
+T19	cell_line 638 672	HTLV-I-negative human T-cell lines
+T20	cell_line 674 688	Jurkat T cells
+T21	protein 707 710	tax
+T22	protein 740 750	NF-kappa B
+T23	DNA 778 793	LT-kappa B site
+T24	protein 795 798	Tax
+T25	DNA 819 838	reporter constructs
+T26	cell_line 844 856	Jurkat cells
+T27	protein 877 891	HTLV-I-LTR-CAT
+T28	protein 896 911	kappa B-fos-CAT
+T29	DNA 931 937	LT-293
+T30	cell_line 961 971	JM T cells
+T31	protein 973 976	tax
+T32	DNA 985 991	LT-293
+T33	protein 1056 1062	M1-CAT
+T34	DNA 1080 1086	LT-293
+T35	protein 1087 1090	CAT
+T36	protein 1125 1127	LT
+T37	DNA 1228 1239	LT promoter
+T38	protein 1282 1292	HTLV-I tax
+T39	protein 1340 1342	LT
+T40	DNA 1351 1362	LT promoter
+T41	protein 1403 1413	NF-kappa B

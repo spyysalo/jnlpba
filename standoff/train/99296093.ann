@@ -1,0 +1,32 @@
+T1	protein 19 53	interleukin-4 receptor alpha chain
+T2	protein 88 111	phagocyte NADPH oxidase
+T3	cell_type 115 122	B cells
+T4	protein 124 142	Interleukin (IL)-4
+T5	protein 170 173	IgE
+T6	cell_type 187 194	B cells
+T7	cell_line 225 232	T cells
+T8	protein 234 238	IL-4
+T9	protein 297 310	IL-4 receptor
+T10	protein 312 317	IL-4R
+T11	cell_type 337 349	target cells
+T12	protein 351 356	IL-4R
+T13	protein 391 408	IL-4R alpha chain
+T14	protein 410 421	IL-4R alpha
+T15	protein 438 455	IL-2R gamma chain
+T16	protein 463 481	IL-13R alpha chain
+T17	protein 517 542	membrane-proximal portion
+T18	protein 550 568	cytoplasmic domain
+T19	protein 576 593	human IL-4R alpha
+T20	protein 595 607	hIL-4R alpha
+T21	protein 701 706	STAT6
+T22	protein 729 752	truncated hIL-4R alphas
+T23	protein 812 835	phagocyte NADPH oxidase
+T24	protein 946 958	hIL-4R alpha
+T25	cell_type 962 969	B cells
+T26	protein 1076 1080	IL-4
+T27	cell_type 1084 1091	B cells
+T28	protein 1116 1121	STAT6
+T29	protein 1123 1127	CD23
+T30	protein 1144 1147	IgE
+T31	protein 1169 1173	IL-4
+T32	cell_type 1323 1330	B cells

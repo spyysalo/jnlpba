@@ -1,0 +1,34 @@
+T1	DNA 18 42	human interleukin-2 gene
+T2	protein 50 73	alpha and beta isoforms
+T3	protein 81 104	glucocorticoid receptor
+T4	DNA 204 234	immunologically relevant genes
+T5	DNA 248 273	interleukin-2 (IL-2) gene
+T6	protein 323 346	glucocorticoid receptor
+T7	protein 348 350	GR
+T8	RNA 392 409	GR precursor mRNA
+T9	protein 454 461	GRalpha
+T10	protein 466 472	GRbeta
+T11	protein 506 512	GRbeta
+T12	protein 530 537	GRalpha
+T13	DNA 568 628	glucocorticoid-responsive element (GRE)-driven reporter gene
+T14	cell_line 632 643	COS-7 cells
+T15	protein 708 719	GR isoforms
+T16	DNA 770 779	IL-2 gene
+T17	cell_type 855 880	primary human lymphocytes
+T18	DNA 899 949	548 bp IL-2 promoter-luciferase reporter construct
+T19	protein 1087 1094	GRalpha
+T20	protein 1132 1138	GRbeta
+T21	DNA 1181 1194	IL-2 promoter
+T22	protein 1251 1257	GRbeta
+T23	protein 1303 1310	GRalpha
+T24	DNA 1314 1327	IL-2 promoter
+T25	protein 1370 1376	GRbeta
+T26	cell_line 1380 1392	Jurkat cells
+T27	protein 1433 1440	GRalpha
+T28	DNA 1470 1508	GRE-dependent luciferase reporter gene
+T29	DNA 1583 1592	IL-2 gene
+T30	protein 1634 1641	GRalpha
+T31	protein 1643 1649	GRbeta
+T32	protein 1673 1680	GRalpha
+T33	cell_line 1729 1741	Jurkat cells
+T34	protein 1786 1792	GRbeta

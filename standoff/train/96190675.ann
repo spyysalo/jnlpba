@@ -1,0 +1,21 @@
+T1	protein 18 53	nuclear factor of activated T cells
+T2	cell_line 76 94	Jurkat cell clones
+T3	cell_line 100 118	Jurkat cell clones
+T4	DNA 155 170	reporter vector
+T5	protein 179 214	nuclear factor of activated T cells
+T6	protein 216 220	NFAT
+T7	protein 290 320	placental alkaline phosphatase
+T8	protein 362 366	NFAT
+T9	protein 546 557	calcineurin
+T10	protein 605 626	protein phosphatase 1
+T11	protein 628 631	PP1
+T12	protein 637 639	2A
+T13	protein 641 645	PP2A
+T14	protein 667 678	calcineurin
+T15	protein 733 737	NFAT
+T16	protein 855 859	NFAT
+T17	protein 897 900	PP1
+T18	protein 913 917	PP2A
+T19	protein 919 923	NFAT
+T20	cell_line 1067 1085	Jurkat cell clones
+T21	protein 1135 1139	NFAT

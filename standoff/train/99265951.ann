@@ -1,0 +1,38 @@
+T1	cell_type 50 84	erythroid and megakaryocytic cells
+T2	DNA 94 112	regulatory element
+T3	DNA 129 140	GATA-1 gene
+T4	protein 146 185	lineage-restricted transcription factor
+T5	protein 186 192	GATA-1
+T6	cell_type 228 262	erythroid and megakaryocytic cells
+T7	DNA 298 327	cis-acting regulatory element
+T8	DNA 329 333	HS I
+T9	DNA 353 403	hematopoietic-specific DNase I hypersensitive site
+T10	DNA 454 502	murine hematopoietic-specific GATA-1 IE promoter
+T11	DNA 504 508	HS I
+T12	DNA 551 568	GATA-1/lacZ genes
+T13	cell_type 572 612	primitive and definitive erythroid cells
+T14	cell_type 617 631	megakaryocytes
+T15	DNA 685 689	HS I
+T16	DNA 782 796	169 base pairs
+T17	DNA 834 843	GATA site
+T18	DNA 879 890	E-box motif
+T19	DNA 896 911	composite motif
+T20	protein 920 985	multi-protein hematopoietic-specific transcription factor complex
+T21	protein 1001 1007	GATA-1
+T22	protein 1009 1019	SCL/tal-1,
+T23	protein 1020 1023	E2A
+T24	protein 1025 1029	Lmo2
+T25	protein 1034 1039	Ldb-1
+T26	DNA 1064 1073	GATA site
+T27	DNA 1084 1088	HS I
+T28	DNA 1123 1134	E-box motif
+T29	DNA 1212 1216	HS I
+T30	DNA 1231 1240	GATA site
+T31	protein 1297 1308	GATA-factor
+T32	protein 1321 1327	GATA-1
+T33	protein 1331 1337	GATA-2
+T34	DNA 1420 1440	317 base pair region
+T35	DNA 1472 1486	317 base pairs
+T36	cell_type 1518 1532	megakaryocytes
+T37	DNA 1543 1559	5' 62 base pairs
+T38	DNA 1702 1714	HS I element

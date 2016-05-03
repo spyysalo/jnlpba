@@ -1,0 +1,22 @@
+T1	protein 21 29	FKHRL1P2
+T2	protein 73 117	fork head domain transcription factor family
+T3	protein 154 178	fork head domain protein
+T4	cell_type 182 202	human T helper cells
+T5	DNA 234 248	fork head cDNA
+T6	RNA 254 278	human T helper cell mRNA
+T7	DNA 334 372	546-nucleotide (nt) open reading frame
+T8	DNA 374 377	ORF
+T9	protein 398 431	carboxyl-terminal 180 amino acids
+T10	DNA 464 475	fkhrl1 gene
+T11	DNA 482 485	ORF
+T12	DNA 522 540	DNA-binding domain
+T13	protein 565 588	forkhead protein family
+T14	DNA 633 637	cDNA
+T15	protein 753 787	in-vitro-translated 20-kDa protein
+T16	cell_type 822 841	human T lymphocytes
+T17	DNA 907 918	fkhrl1 gene
+T18	DNA 948 954	fkhrl1
+T19	cell_type 970 998	T helper-induced lymphocytes
+T20	cell_line 1016 1044	PHA-stimulated T lymphocytes
+T21	DNA 1074 1080	FKHRL1
+T22	DNA 1172 1196	fork head gene subfamily

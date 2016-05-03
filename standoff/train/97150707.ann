@@ -1,0 +1,40 @@
+T1	protein 0 3	Ras
+T2	protein 45 80	nuclear factor of activated T cells
+T3	protein 108 118	Cbl mutant
+T4	cell_type 122 129	T cells
+T5	protein 131 146	T cell receptor
+T6	protein 148 151	TCR
+T7	protein 207 224	cellular proteins
+T8	protein 236 239	Cbl
+T9	protein 243 264	protooncogene product
+T10	protein 348 351	Cbl
+T11	protein 355 358	TCR
+T12	protein 408 421	wild-type Cbl
+T13	protein 440 450	Cbl mutant
+T14	DNA 501 551	nuclear factor of activated T cells (NFAT) element
+T15	DNA 569 597	interleukin 2 (IL2) promoter
+T16	cell_line 627 645	Jurkat-TAg T cells
+T17	protein 647 652	70Z/3
+T18	protein 662 665	Cbl
+T19	protein 674 678	NFAT
+T20	DNA 853 903	phosphatidylinositol 3-kinase (PI3-K) binding site
+T21	DNA 905 912	Y731EAM
+T22	DNA 916 923	Y731EAC
+T23	protein 928 933	70Z/3
+T24	protein 963 968	PI3-K
+T25	protein 974 979	70Z/3
+T26	protein 1017 1021	NFAT
+T27	protein 1072 1075	Cbl
+T28	protein 1080 1085	PI3-K
+T29	protein 1109 1114	70Z/3
+T30	protein 1137 1141	NFAT
+T31	protein 1217 1222	70Z/3
+T32	protein 1288 1292	NFAT
+T33	protein 1327 1350	346 C-terminal residues
+T34	protein 1448 1469	dominant negative Ras
+T35	protein 1515 1520	70Z/3
+T36	protein 1530 1534	NFAT
+T37	protein 1560 1574	functional Ras
+T38	protein 1632 1635	Cbl
+T39	protein 1639 1642	Ras
+T40	protein 1686 1690	NFAT

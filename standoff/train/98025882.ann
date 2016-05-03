@@ -1,0 +1,30 @@
+T1	DNA 35 100	novel human myeloid-selective CCAAT/enhancer binding protein gene
+T2	DNA 102 115	C/EBP epsilon
+T3	DNA 124 137	C/EBP epsilon
+T4	protein 174 204	CCAAT/enhancer binding protein
+T5	RNA 306 324	C/EBP epsilon mRNA
+T6	cell_line 352 361	NB4 cells
+T7	cell_line 363 390	promyelocytic leukemia line
+T8	cell_type 478 490	granulocytes
+T9	RNA 508 526	C/EBP epsilon mRNA
+T10	cell_line 573 582	NB4 cells
+T11	RNA 771 789	C/EBP epsilon mRNA
+T12	cell_line 862 871	NB4 cells
+T13	RNA 1076 1094	C/EBP epsilon mRNA
+T14	cell_line 1298 1301	NB4
+T15	RNA 1320 1338	C/EBP epsilon mRNA
+T16	RNA 1413 1431	C/EBP epsilon mRNA
+T17	RNA 1497 1515	C/EBP epsilon mRNA
+T18	protein 1562 1577	protein factors
+T19	RNA 1603 1621	C/EBP epsilon mRNA
+T20	protein 1708 1729	C/EBP epsilon protein
+T21	cell_line 1733 1742	NB4 cells
+T22	cell_line 1906 1917	HL-60 cells
+T23	RNA 1992 2010	C/EBP epsilon mRNA
+T24	RNA 2069 2087	C/EBP epsilon mRNA
+T25	cell_line 2116 2133	NB4 promyelocytes
+T26	cell_type 2184 2196	granulocytes
+T27	RNA 2216 2234	C/EBP epsilon mRNA
+T28	protein 2329 2344	protein factors
+T29	DNA 2366 2397	C/EBP epsilon promoter/enhancer
+T30	DNA 2409 2439	retinoic acid-response element

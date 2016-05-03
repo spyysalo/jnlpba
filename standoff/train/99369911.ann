@@ -1,0 +1,21 @@
+T1	protein 15 23	TNFalpha
+T2	protein 33 41	NFkappaB
+T3	protein 124 127	IKK
+T4	cell_line 131 143	ECV304 cells
+T5	protein 407 428	nuclear factor-kappaB
+T6	protein 430 438	NFkappaB
+T7	protein 534 542	NFkappaB
+T8	protein 647 655	NFkappaB
+T9	protein 674 681	IkappaB
+T10	cell_line 693 705	ECV304 cells
+T11	protein 721 748	tumor necrosis factor-alpha
+T12	protein 750 758	TNFalpha
+T13	protein 834 848	IkappaB kinase
+T14	protein 850 853	IKK
+T15	protein 1026 1029	IKK
+T16	protein 1078 1090	IkappaBalpha
+T17	protein 1095 1106	IkappaBbeta
+T18	protein 1188 1196	NFkappaB
+T19	cell_line 1258 1270	ECV304 cells
+T20	protein 1386 1394	NFkappaB
+T21	protein 1394 1402	/IkappaB

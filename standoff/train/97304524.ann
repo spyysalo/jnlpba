@@ -1,0 +1,18 @@
+T1	cell_type 20 50	peripheral blood T-lymphocytes
+T2	protein 67 85	HTLV-I Tax mutants
+T3	protein 130 134	Tax1
+T4	protein 138 169	transcriptional trans-activator
+T5	protein 317 347	cellular transcription factors
+T6	protein 349 357	CREB/ATF
+T7	protein 359 368	NF-kappaB
+T8	protein 374 377	SRF
+T9	protein 384 388	Tax1
+T10	DNA 411 425	cellular genes
+T11	protein 529 533	Tax1
+T12	protein 608 620	Tax1 mutants
+T13	cell_type 669 697	peripheral blood lymphocytes
+T14	cell_type 699 702	PBL
+T15	cell_type 745 749	PBLs
+T16	protein 782 791	NF-kappaB
+T17	protein 848 852	IL-2
+T18	cell_type 891 903	CD4+ T-cells

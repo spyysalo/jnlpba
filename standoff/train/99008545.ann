@@ -1,0 +1,32 @@
+T1	protein 12 28	protein kinase C
+T2	DNA 52 55	DRA
+T3	DNA 85 116	human MHC HLA-DRA class II gene
+T4	cell_type 140 147	B cells
+T5	DNA 258 261	DRA
+T6	protein 296 338	restricted protein kinase C (PKC) isoforms
+T7	protein 373 382	protein-1
+T8	protein 461 464	PKC
+T9	cell_line 482 515	human Raji B lymphoblastoid cells
+T10	DNA 554 569	target plasmids
+T11	DNA 588 600	DRA promoter
+T12	DNA 627 648	TPA response elements
+T13	protein 699 702	PKC
+T14	cell_type 811 824	resting cells
+T15	cell_type 832 851	TPA-activated cells
+T16	protein 884 903	classical PKC-alpha
+T17	protein 905 915	cPKC-alpha
+T18	protein 918 929	cPKC-betaII
+T19	protein 935 961	atypical PKC-zeta isoforms
+T20	protein 1006 1016	cPKC-alpha
+T21	protein 1021 1032	cPKC-betaII
+T22	protein 1111 1128	atypical PKC-zeta
+T23	protein 1322 1332	cPKC-alpha
+T24	protein 1337 1348	cPKC-betaII
+T25	protein 1453 1456	PKC
+T26	protein 1559 1566	HLA-DRA
+T27	protein 1632 1635	PKC
+T28	DNA 1661 1667	X2 box
+T29	DNA 1675 1687	DRA promoter
+T30	protein 1721 1724	PKC
+T31	protein 1801 1815	PKC isoenzymes
+T32	protein 1878 1881	PKC

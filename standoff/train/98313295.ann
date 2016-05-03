@@ -1,0 +1,22 @@
+T1	cell_type 67 74	T cells
+T2	protein 99 102	MKK
+T3	protein 246 254	anti-CD3
+T4	protein 370 374	IL-2
+T5	protein 476 484	anti-CD3
+T6	cell_line 591 605	Jurkat T cells
+T7	protein 717 722	NF-AT
+T8	protein 755 760	NF-AT
+T9	protein 884 887	AP1
+T10	DNA 964 969	c-jun
+T11	DNA 992 1025	AP1-dependent reporter constructs
+T12	protein 1088 1091	AP1
+T13	protein 1181 1185	AP-1
+T14	DNA 1208 1213	c-jun
+T15	protein 1232 1235	ras
+T16	protein 1329 1332	PKC
+T17	protein 1334 1337	PhK
+T18	protein 1339 1345	ZAP-70
+T19	protein 1347 1350	ERK
+T20	protein 1356 1361	MEK 1
+T21	protein 1365 1368	MKK
+T22	protein 1427 1431	MEK1

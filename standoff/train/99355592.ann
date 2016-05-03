@@ -1,0 +1,25 @@
+T1	protein 0 9	PPARgamma
+T2	DNA 51 92	adipocyte fatty acid binding protein gene
+T3	cell_type 96 111	human monocytes
+T4	protein 117 165	peroxisome-proliferator activated receptor gamma
+T5	protein 167 176	PPARgamma
+T6	protein 195 223	nuclear receptor superfamily
+T7	protein 227 265	ligand activated transcription factors
+T8	protein 347 356	PPARgamma
+T9	DNA 388 393	genes
+T10	protein 437 473	adipocyte fatty acid binding protein
+T11	protein 475 478	aP2
+T12	cell_type 507 516	adipocyte
+T13	protein 534 543	PPARgamma
+T14	cell_type 565 584	hematopoietic cells
+T15	cell_type 618 639	monocytes/macrophages
+T16	protein 655 664	PPARgamma
+T17	cell_type 720 731	macrophages
+T18	cell_type 735 745	foam cells
+T19	RNA 902 910	aP2 mRNA
+T20	cell_type 919 942	primary human monocytes
+T21	cell_line 951 970	monocytic cell line
+T22	cell_line 972 977	THP-1
+T23	protein 1003 1012	PPARgamma
+T24	cell_type 1043 1051	monocyte
+T25	cell_type 1125 1136	adipocytes.

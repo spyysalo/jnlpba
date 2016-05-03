@@ -1,0 +1,40 @@
+T1	protein 30 75	cyclic AMP-responsive element binding protein
+T2	protein 77 81	CREB
+T3	protein 172 211	cAMP-responsive element binding protein
+T4	protein 213 217	CREB
+T5	cell_type 254 267	T lymphocytes
+T6	protein 302 305	CD3
+T7	protein 310 314	CD28
+T8	protein 365 369	CREB
+T9	protein 374 394	CREB-binding protein
+T10	protein 396 399	CBP
+T11	protein 430 434	CREB
+T12	protein 444 447	CBP
+T13	protein 475 478	CD3
+T14	protein 483 487	CD28
+T15	protein 489 497	CD3/CD28
+T16	protein 507 511	CREB
+T17	protein 512 515	CBP
+T18	protein 545 581	p38 mitogen-activated protein kinase
+T19	protein 583 587	MAPK
+T20	protein 593 646	calcium/calmodulin-dependent protein kinase (CaMK) IV
+T21	protein 735 780	Extracellular signal-regulated kinase, CaMKIV
+T22	protein 786 794	p38 MAPK
+T23	protein 829 833	CREB
+T24	protein 870 878	CD3/CD28
+T25	protein 933 937	CREB
+T26	protein 938 941	CBP
+T27	protein 958 962	CREB
+T28	cell_type 1060 1067	T cells
+T29	protein 1134 1141	kinases
+T30	protein 1170 1174	CREB
+T31	protein 1209 1217	p38 MAPK
+T32	protein 1222 1228	CaMKIV
+T33	protein 1234 1241	kinases
+T34	protein 1288 1292	CD28
+T35	protein 1337 1345	p38 MAPK
+T36	protein 1350 1356	CaMKIV
+T37	protein 1428 1432	CREB
+T38	protein 1433 1436	CBP
+T39	protein 1484 1487	CD3
+T40	protein 1492 1496	CD28

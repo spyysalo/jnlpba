@@ -1,0 +1,45 @@
+T1	protein 28 69	core binding factor-alpha (AML1) and beta
+T2	DNA 82 118	murine leukemia virus enhancer cores
+T3	protein 120 139	Core binding factor
+T4	protein 141 144	CBF
+T5	protein 161 200	polyomavirus enhancer-binding protein 2
+T6	protein 205 226	SL3 enhancer factor 1
+T7	protein 233 263	mammalian transcription factor
+T8	DNA 316 325	enhancers
+T9	DNA 383 396	core elements
+T10	DNA 545 571	viral long terminal repeat
+T11	cell_type 575 588	T lymphocytes
+T12	protein 590 593	CBF
+T13	protein 622 641	DNA binding subunit
+T14	protein 643 652	CBF alpha
+T15	protein 676 684	CBF beta
+T16	protein 730 739	CBF alpha
+T17	protein 773 790	CBF alpha subunit
+T18	protein 794 798	AML1
+T19	protein 812 823	Cbf alpha 2
+T20	protein 958 985	Cbf alpha 2-encoded subunit
+T21	protein 987 1002	CBF alpha 2-451
+T22	DNA 1038 1050	SL3 enhancer
+T23	protein 1054 1057	P19
+T24	cell_line 1062 1072	HeLa cells
+T25	DNA 1108 1121	core elements
+T26	protein 1151 1159	CBF beta
+T27	DNA 1213 1225	SL3 enhancer
+T28	protein 1245 1257	CBF beta-187
+T29	protein 1304 1319	CBF alpha 2-451
+T30	cell_line 1331 1341	HeLa cells
+T31	cell_line 1372 1381	P19 cells
+T32	protein 1413 1421	CBF beta
+T33	protein 1446 1463	CBF alpha subunit
+T34	protein 1478 1486	CBF beta
+T35	protein 1516 1528	CBF beta-148
+T36	protein 1644 1647	CBF
+T37	protein 1723 1726	CBF
+T38	cell_type 1742 1755	T lymphocytes
+T39	DNA 1799 1808	SL3 cores
+T40	protein 1835 1838	CBF
+T41	DNA 2037 2040	SL3
+T42	protein 2069 2078	CBF alpha
+T43	protein 2083 2091	CBF beta
+T44	cell_type 2223 2230	T cells
+T45	DNA 2245 2253	SL3 core

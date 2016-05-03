@@ -1,0 +1,8 @@
+T1	cell_type 533 555	human Wurzburg T cells
+T2	protein 839 848	NF-kappaB
+T3	protein 864 873	NF-kappaB
+T4	protein 883 896	IL-2 receptor
+T5	protein 981 990	NF-kappaB
+T6	protein 1048 1056	TNFalpha
+T7	protein 1065 1074	NF-kappaB
+T8	cell_type 1190 1204	rat thymocytes

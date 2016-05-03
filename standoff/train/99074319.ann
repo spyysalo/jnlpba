@@ -1,0 +1,27 @@
+T1	protein 25 35	granzyme B
+T2	protein 105 111	Ikaros
+T3	DNA 116 140	AP-1 regulatory elements
+T4	DNA 148 167	granzyme B promoter
+T5	protein 173 199	serine protease granzyme B
+T6	cell_type 297 320	cytotoxic T lymphocytes
+T7	cell_type 325 345	natural killer cells
+T8	cell_type 433 444	lymphocytes
+T9	DNA 485 503	regulatory regions
+T10	protein 514 517	CBF
+T11	protein 519 523	AP-1
+T12	DNA 529 549	Ikaros binding sites
+T13	DNA 600 619	granzyme B promoter
+T14	RNA 745 771	granzyme B mRNA transcript
+T15	cell_type 775 838	phytohemagglutinin-activated peripheral blood mononuclear cells
+T16	DNA 892 910	-148 to +60 region
+T17	DNA 924 943	granzyme B promoter
+T18	protein 1031 1037	Ikaros
+T19	DNA 1041 1059	AP-1 binding sites
+T20	DNA 1082 1101	granzyme B promoter
+T21	DNA 1187 1206	granzyme B promoter
+T22	protein 1298 1327	nuclear transcription factors
+T23	DNA 1335 1354	Ikaros binding site
+T24	protein 1367 1371	AP-1
+T25	DNA 1488 1518	human granzyme B gene promoter
+T26	protein 1548 1563	nuclear factors
+T27	DNA 1571 1592	AP-1 and Ikaros sites

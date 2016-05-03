@@ -1,0 +1,18 @@
+T1	protein 66 72	NF-ATc
+T2	cell_type 76 92	effector T cells
+T3	protein 98 118	transcription factor
+T4	protein 119 125	NF-ATc
+T5	protein 160 168	isoforms
+T6	DNA 283 296	3' polyA site
+T7	DNA 307 326	proximal polyA site
+T8	protein 328 334	NF-ATc
+T9	cell_type 404 417	naive T cells
+T10	protein 435 444	isoform A
+T11	cell_type 448 464	T effector cells
+T12	protein 503 530	cleavage stimulation factor
+T13	protein 531 538	CstF-64
+T14	DNA 546 565	proximal polyA site
+T15	cell_type 604 617	naive T cells
+T16	protein 716 722	NF-ATc
+T17	protein 772 778	NF-ATc
+T18	cell_type 801 817	effector T cells

@@ -1,0 +1,21 @@
+T1	cell_type 86 99	B lymphocytes
+T2	protein 168 172	CD80
+T3	protein 177 181	CD86
+T4	cell_type 185 192	B cells
+T5	protein 227 238	Ag receptor
+T6	protein 248 265	adhesion molecule
+T7	protein 266 270	CD54
+T8	protein 280 298	B cell Ag receptor
+T9	protein 300 303	BCR
+T10	protein 360 364	CD86
+T11	protein 383 387	CD80
+T12	protein 419 427	anti-IgM
+T13	protein 432 441	anti-CD54
+T14	protein 493 496	BCR
+T15	protein 520 524	CD80
+T16	protein 529 533	CD86
+T17	protein 698 702	CD86
+T18	protein 720 724	CD80
+T19	protein 911 915	CD80
+T20	protein 1108 1111	BCR
+T21	protein 1250 1254	CD80

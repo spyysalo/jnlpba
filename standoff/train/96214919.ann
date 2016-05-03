@@ -1,0 +1,38 @@
+T1	protein 20 41	transcription factors
+T2	protein 42 47	c-Jun
+T3	protein 52 57	c-Fos
+T4	protein 64 102	reconstituted ubiquitinylating enzymes
+T5	protein 116 121	c-Jun
+T6	protein 126 131	c-Fos
+T7	protein 160 185	ubiquitin carrier enzymes
+T8	protein 186 191	E214K
+T9	protein 193 198	E220K
+T10	protein 203 208	E232K
+T11	protein 232 259	ubiquitin-activating enzyme
+T12	protein 261 263	E1
+T13	protein 277 304	ubiquitin protein ligase E3
+T14	protein 332 337	E214K
+T15	protein 367 372	c-Jun
+T16	protein 377 382	c-Fos
+T17	protein 384 425	Truncated c-Jun and c-Fos mutant proteins
+T18	protein 436 441	wbJun
+T19	protein 446 451	wbFos
+T20	protein 569 605	dimerization and DNA binding domains
+T21	protein 609 614	c-Jun
+T22	protein 619 624	c-Fos
+T23	protein 663 668	c-Jun
+T24	protein 714 719	c-Jun
+T25	protein 725 730	c-Fos
+T26	protein 752 757	E220K
+T27	protein 801 806	c-Jun
+T28	protein 858 863	E220K
+T29	protein 885 890	c-Jun
+T30	protein 892 897	wbFos
+T31	protein 903 908	wbJun
+T32	protein 918 945	E220K-ubiquitinylated c-Jun
+T33	protein 976 1019	ATP-dependent 26 S multicatalytic proteases
+T34	protein 1072 1077	c-Jun
+T35	protein 1082 1087	c-Fos
+T36	protein 1172 1177	c-Jun
+T37	protein 1182 1187	c-Fos
+T38	protein 1292 1297	E220K

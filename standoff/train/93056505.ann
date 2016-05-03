@@ -1,0 +1,27 @@
+T1	protein 57 67	NF-kappa B
+T2	DNA 86 110	HIV long terminal repeat
+T3	cell_line 123 155	human T and monocytic cell lines
+T4	cell_type 232 245	T lymphocytes
+T5	cell_type 250 259	monocytes
+T6	protein 302 333	transcription factor NF-kappa B
+T7	cell_line 594 639	unstimulated and PMA- or TNF-stimulated cells
+T8	protein 674 684	NF-kappa B
+T9	protein 830 840	NF-kappa B
+T10	cell_line 866 882	lymphoblastoid T
+T11	cell_line 884 890	J.Jhan
+T12	cell_line 896 923	monocytic (U937) cell lines
+T13	cell_line 988 998	U937 cells
+T14	protein 1013 1016	TNF
+T15	DNA 1041 1066	NF-kappa B-dependent gene
+T16	cell_line 1092 1117	PMA-stimulated U937 cells
+T17	cell_line 1225 1259	stimulated and unstimulated T cell
+T18	protein 1269 1272	TNF
+T19	cell_line 1409 1415	J.Jhan
+T20	cell_line 1419 1429	U937 cells
+T21	protein 1457 1467	NF-kappa B
+T22	protein 1512 1515	TNF
+T23	protein 1520 1523	PMA
+T24	protein 1539 1549	NF-kappa B
+T25	protein 1624 1627	TNF
+T26	protein 1632 1635	PMA
+T27	DNA 1955 1981	NF-kappa B-dependent genes

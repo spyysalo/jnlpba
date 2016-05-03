@@ -1,0 +1,25 @@
+T1	RNA 14 53	nuclear factor kappa B subunit p65 mRNA
+T2	cell_line 70 121	lipopolysaccharide-stimulated human monocytic cells
+T3	protein 269 291	inflammatory mediators
+T4	protein 300 321	tumor necrosis factor
+T5	protein 326 339	interleukin-1
+T6	DNA 407 421	cytokine genes
+T7	protein 440 512	Nuclear factor kappa B (NF-kappa B; heterodimer of p50 and p65) proteins
+T8	protein 584 606	inflammatory mediators
+T9	cell_type 612 621	monocytes
+T10	protein 931 941	NF-kappa B
+T11	protein 986 1006	NF-kappa B inhibitor
+T12	protein 1008 1017	I kappa B
+T13	protein 1050 1060	NF-kappa B
+T14	protein 1229 1237	cytokine
+T15	protein 1292 1302	NF-kappa B
+T16	RNA 1307 1322	NF-kappa B mRNA
+T17	cell_line 1352 1403	lipopolysaccharide-stimulated human monocytic cells
+T18	protein 1461 1471	NF-kappa B
+T19	RNA 1472 1480	p65 mRNA
+T20	protein 1529 1539	NF-kappa B
+T21	protein 1541 1544	p50
+T22	protein 1616 1626	NF-kappa B
+T23	protein 1669 1672	p65
+T24	protein 1684 1694	NF-kappa B
+T25	protein 1806 1828	inflammatory mediators

@@ -1,0 +1,34 @@
+T1	protein 0 6	v-erbA
+T2	protein 48 54	c-erbA
+T3	cell_type 67 81	erythroid cell
+T4	DNA 120 136	erbA target gene
+T5	DNA 137 141	CAII
+T6	protein 147 165	v-erbA oncoprotein
+T7	protein 226 258	thyroid hormone (T3/T4) receptor
+T8	protein 259 278	c-erbA (type alpha)
+T9	cell_type 372 392	red cell progenitors
+T10	DNA 429 455	erythrocyte-specific genes
+T11	protein 476 482	v-erbA
+T12	protein 487 493	c-erbA
+T13	DNA 532 540	promoter
+T14	protein 548 590	erythrocyte-specific carbonic anhydrase II
+T15	DNA 592 596	CAII
+T16	protein 655 661	v-erbA
+T17	DNA 668 685	erbA-binding site
+T18	DNA 730 751	heterologous promoter
+T19	DNA 837 841	CAII
+T20	protein 863 881	v-erbA oncoprotein
+T21	cell_line 886 918	stably transformed erythroblasts
+T22	protein 936 954	v-erbA oncoprotein
+T23	protein 963 981	c-erbA/T3 receptor
+T24	protein 1019 1025	c-erbA
+T25	protein 1052 1058	v-erbA
+T26	protein 1145 1151	v-erbA
+T27	DNA 1208 1212	CAII
+T28	DNA 1264 1291	T3-responsive reporter gene
+T29	DNA 1307 1338	CAII-specific erbA-binding site
+T30	protein 1344 1350	c-erbA
+T31	DNA 1380 1403	CAII reporter construct
+T32	protein 1453 1459	v-erbA
+T33	protein 1504 1510	v-erbA
+T34	protein 1546 1557	oncoprotein

@@ -1,0 +1,16 @@
+T1	cell_line 141 152	U-937 cells
+T2	protein 357 379	monocyte-macrophage Ag
+T3	protein 381 385	CD14
+T4	protein 399 419	affinity Fc receptor
+T5	protein 424 427	IgE
+T6	protein 429 433	CD23
+T7	cell_line 518 540	human U-937 monoblasts
+T8	protein 577 581	CD14
+T9	RNA 586 595	CD23 mRNA
+T10	RNA 669 678	CD14 mRNA
+T11	RNA 764 773	CD14 mRNA
+T12	protein 875 879	CD14
+T13	protein 957 961	CD23
+T14	cell_line 1014 1025	U-937 cells
+T15	RNA 1079 1088	CD23 mRNA
+T16	protein 1226 1230	CD14

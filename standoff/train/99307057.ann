@@ -1,0 +1,29 @@
+T1	protein 46 79	vascular cell adhesion molecule-1
+T2	cell_type 94 117	human endothelial cells
+T3	protein 317 335	adhesion molecules
+T4	cell_type 339 342	ECs
+T5	protein 396 444	Peroxisome proliferator-activated receptor-alpha
+T6	protein 446 455	PPARalpha
+T7	protein 474 497	nuclear receptor family
+T8	protein 620 629	PPARalpha
+T9	cell_type 644 653	human ECs
+T10	protein 678 711	vascular cell adhesion molecule-1
+T11	protein 713 719	VCAM-1
+T12	cell_type 778 802	human carotid artery ECs
+T13	protein 811 820	PPARalpha
+T14	cell_type 838 856	cultured human ECs
+T15	protein 866 875	PPARalpha
+T16	protein 920 944	TNF-alpha-induced VCAM-1
+T17	protein 1016 1025	PPARgamma
+T18	protein 1043 1052	PPARalpha
+T19	protein 1091 1097	VCAM-1
+T20	DNA 1188 1214	VCAM-1 promoter constructs
+T21	protein 1291 1297	VCAM-1
+T22	protein 1334 1343	NF-kappaB
+T23	protein 1354 1363	PPARalpha
+T24	cell_line 1409 1419	U937 cells
+T25	cell_type 1423 1441	cultured human ECs
+T26	cell_type 1456 1465	Human ECs
+T27	protein 1474 1483	PPARalpha
+T28	protein 1575 1581	VCAM-1
+T29	protein 1727 1736	PPARalpha

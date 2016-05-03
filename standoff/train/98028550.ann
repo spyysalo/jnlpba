@@ -1,0 +1,29 @@
+T1	protein 22 26	JAK2
+T2	protein 26 32	/STAT5
+T3	protein 87 106	human IL-5 receptor
+T4	protein 112 137	JAK (Janus kinase) family
+T5	protein 141 165	protein tyrosine kinases
+T6	protein 174 179	STATs
+T7	protein 181 231	signal transducers and activators of transcription
+T8	protein 292 301	cytokines
+T9	protein 306 320	growth factors
+T10	protein 368 371	JAK
+T11	protein 371 376	/STAT
+T12	protein 390 409	human interleukin-5
+T13	protein 411 416	hIL-5
+T14	cell_line 447 474	hIL-5-responsive cell lines
+T15	cell_line 476 541	hIL-5 receptor alpha-subunit (hIL-5R alpha) cDNA-transfected TF-1
+T16	cell_line 543 555	TF-h5R alpha
+T17	cell_line 561 586	butyric-acid-treated YY-1
+T18	cell_line 588 593	YY-Bu
+T19	cell_line 600 622	peripheral eosinophils
+T20	protein 730 734	JAK2
+T21	protein 753 758	STAT5
+T22	protein 794 799	hIL-5
+T23	protein 831 836	STAT1
+T24	cell_type 869 880	eosinophils
+T25	protein 910 914	JAK2
+T26	protein 914 920	/STAT5
+T27	protein 944 947	JAK
+T28	protein 947 952	/STAT
+T29	protein 965 970	hIL-5

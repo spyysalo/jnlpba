@@ -1,0 +1,17 @@
+T1	cell_type 0 14	Dendritic cell
+T2	cell_type 39 58	myeloid progenitors
+T3	cell_type 60 75	Dendritic cells
+T4	cell_type 77 80	DCs
+T5	cell_type 99 123	antigen-presenting cells
+T6	protein 195 208	self-antigens
+T7	cell_type 301 304	DCs
+T8	cell_type 383 404	CD8 alpha+ Mac-1- DCs
+T9	cell_type 442 463	CD8 alpha- Mac-1+ DCs
+T10	cell_type 543 572	CD8 alpha+ and CD8 alpha- DCs
+T11	cell_type 588 625	clonogenic common myeloid progenitors
+T12	cell_type 627 631	CMPs
+T13	protein 670 679	CD8 alpha
+T14	cell_type 691 694	DCs
+T15	cell_type 753 782	CD8 alpha+ and CD8 alpha- DCs
+T16	cell_type 911 914	DCs
+T17	cell_type 974 984	thymic DCs

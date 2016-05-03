@@ -1,0 +1,18 @@
+T1	protein 15 41	general initiation factors
+T2	protein 46 63	RNA polymerase II
+T3	DNA 99 111	human genome
+T4	protein 113 142	General transcription factors
+T5	protein 200 217	RNA polymerase II
+T6	DNA 219 230	Human cDNAs
+T7	DNA 369 374	genes
+T8	protein 388 412	TATA-box binding protein
+T9	protein 414 417	TBP
+T10	protein 420 425	TFIIB
+T11	protein 427 438	TFIIE alpha
+T12	protein 440 450	TFIIE beta
+T13	protein 452 457	RAP30
+T14	protein 459 464	RAP74
+T15	protein 473 487	62 kDa subunit
+T16	protein 492 497	TFIIH
+T17	DNA 517 603	human chromosomal bands 6q26-27, 1p21-22, 3q21-24, 8p12, 13q14, 19p13.3 and 11p14-15.1
+T18	DNA 737 749	human genome

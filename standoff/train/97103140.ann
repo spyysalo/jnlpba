@@ -1,0 +1,20 @@
+T1	DNA 17 34	LDL-receptor gene
+T2	cell_type 52 63	lymphocytes
+T3	DNA 94 119	Sterol regulatory element
+T4	DNA 121 124	SRE
+T5	DNA 170 175	genes
+T6	protein 198 236	low density lipoprotein (LDL)-receptor
+T7	protein 238 295	3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase
+T8	protein 300 316	HMG-CoA synthase
+T9	protein 672 700	unique 47 kDa protein factor
+T10	DNA 726 738	SRE sequence
+T11	cell_type 742 753	lymphocytes
+T12	cell_type 801 812	lymphocytes
+T13	protein 951 967	alpha-interferon
+T14	DNA 1053 1070	LDL-receptor gene
+T15	protein 1118 1131	47 kDa factor
+T16	DNA 1139 1151	SRE sequence
+T17	protein 1194 1210	alpha-interferon
+T18	protein 1321 1368	47 kDa sterol regulatory element binding factor
+T19	DNA 1380 1397	LDL-receptor gene
+T20	cell_type 1415 1426	lymphocytes

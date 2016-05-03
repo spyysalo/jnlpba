@@ -1,0 +1,30 @@
+T1	protein 14 24	NF-kappa B
+T2	protein 28 39	phosphatase
+T3	protein 83 98	I kappa B alpha
+T4	protein 102 132	phosphatase 2A-sensitive sites
+T5	protein 148 158	NF-kappa B
+T6	protein 261 276	I kappa B alpha
+T7	protein 363 392	serine/threonine phosphatases
+T8	protein 414 429	I kappa B alpha
+T9	cell_type 507 520	human T cells
+T10	protein 621 666	protein phosphatase type 1 (PP-1) and type 2A
+T11	protein 668 673	PP-2A
+T12	protein 707 722	I kappa B alpha
+T13	protein 859 890	RelA.p50 NF-kappa B heterodimer
+T14	protein 946 961	I kappa B alpha
+T15	protein 981 1008	tumor necrosis factor alpha
+T16	protein 1010 1019	TNF-alpha
+T17	protein 1039 1069	phosphorylated I kappa B alpha
+T18	cell_line 1075 1100	calyculin A-treated cells
+T19	cell_line 1120 1146	TNF-alpha-stimulated cells
+T20	protein 1164 1169	PP-2A
+T21	protein 1258 1273	I kappa B alpha
+T22	protein 1303 1313	NF-kappa B
+T23	protein 1346 1361	I kappa B alpha
+T24	protein 1386 1395	TNF-alpha
+T25	protein 1476 1491	I kappa B alpha
+T26	protein 1716 1731	I kappa B alpha
+T27	protein 1759 1768	TNF-alpha
+T28	protein 1787 1809	PP-2A-opposing kinases
+T29	protein 1831 1846	I kappa B alpha
+T30	protein 1851 1861	proteasome

@@ -1,0 +1,48 @@
+T1	protein 0 4	TAL1
+T2	protein 9 26	LIM-only proteins
+T3	protein 50 79	retinaldehyde dehydrogenase 2
+T4	protein 157 162	GATA3
+T5	protein 195 199	TAL1
+T6	DNA 208 229	LIM-only protein gene
+T7	DNA 231 234	LMO
+T8	protein 368 372	TAL1
+T9	protein 377 380	LMO
+T10	protein 524 528	TAL1
+T11	protein 533 536	LMO
+T12	DNA 607 630	downstream target genes
+T13	protein 644 648	TAL1
+T14	protein 653 656	LMO
+T15	protein 722 751	retinaldehyde dehydrogenase 2
+T16	protein 753 759	RALDH2
+T17	cell_line 801 817	T-ALL cell lines
+T18	protein 835 839	TAL1
+T19	protein 844 847	LMO
+T20	protein 873 877	TAL1
+T21	protein 882 885	LMO
+T22	protein 917 923	RALDH2
+T23	cell_line 940 955	T-ALL cell line
+T24	cell_line 957 964	HPB-ALL
+T25	protein 993 997	TAL1
+T26	protein 1001 1004	LMO
+T27	RNA 1010 1028	RALDH2 transcripts
+T28	RNA 1081 1094	second intron
+T29	DNA 1130 1139	GATA site
+T30	DNA 1145 1161	cryptic promoter
+T31	DNA 1169 1182	second intron
+T32	protein 1276 1281	GATA3
+T33	protein 1336 1341	GATA3
+T34	protein 1371 1377	RALDH2
+T35	protein 1381 1385	TAL1
+T36	protein 1390 1393	LMO
+T37	protein 1460 1464	TAL1
+T38	protein 1527 1533	RALDH2
+T39	protein 1553 1556	LMO
+T40	protein 1561 1566	GATA3
+T41	DNA 1605 1616	RALDH2 gene
+T42	DNA 1646 1674	transcriptional target genes
+T43	protein 1688 1692	TAL1
+T44	protein 1697 1700	LMO
+T45	protein 1725 1729	TAL1
+T46	protein 1734 1737	LMO
+T47	protein 1759 1764	GATA3
+T48	protein 1798 1804	RALDH2

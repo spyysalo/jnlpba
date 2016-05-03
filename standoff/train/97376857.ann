@@ -1,0 +1,40 @@
+T1	protein 15 41	Rel, Fos, and Jun proteins
+T2	DNA 69 118	IL-2 promoter CD28 response element/AP-1 sequence
+T3	cell_type 122 135	human T cells
+T4	protein 137 141	CD28
+T5	protein 158 180	costimulatory molecule
+T6	cell_type 202 215	human T cells
+T7	cell_type 234 241	T cells
+T8	protein 275 279	CD28
+T9	protein 300 304	IL-2
+T10	protein 418 422	CD28
+T11	DNA 472 485	IL-2 promoter
+T12	protein 527 548	transcription factors
+T13	protein 560 564	AP-1
+T14	protein 569 621	nuclear factor-kappaB (NF-kappaB)/Rel family members
+T15	protein 636 672	uncharacterized transcription factor
+T16	protein 680 684	CD28
+T17	protein 760 788	NF-kappaB/Rel family members
+T18	protein 801 805	CD28
+T19	protein 823 843	transcription factor
+T20	DNA 923 944	CD28 response element
+T21	DNA 946 952	CD28RE
+T22	DNA 1028 1072	adjacent promoter proximal AP-1-binding site
+T23	DNA 1163 1183	CD28RE/AP-1 sequence
+T24	DNA 1191 1204	IL-2 promoter
+T25	DNA 1347 1353	CD28RE
+T26	DNA 1362 1380	adjacent AP-1 site
+T27	protein 1389 1417	NF-kappaB/Rel family members
+T28	protein 1431 1459	CD28RE/AP-1-specific complex
+T29	protein 1483 1488	c-Rel
+T30	protein 1517 1520	p50
+T31	protein 1525 1529	RelA
+T32	DNA 1558 1564	CD28RE
+T33	protein 1566 1571	c-Fos
+T34	protein 1576 1581	c-Jun
+T35	protein 1605 1633	CD28RE/AP-1-specific complex
+T36	DNA 1703 1709	CD28RE
+T37	DNA 1718 1736	AP-1-binding sites
+T38	DNA 1747 1760	IL-2 promoter
+T39	protein 1773 1777	CD28
+T40	cell_type 1791 1798	T cells

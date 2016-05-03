@@ -1,0 +1,31 @@
+T1	protein 15 19	CD28
+T2	cell_line 23 57	human naive neonatal T lymphocytes
+T3	protein 194 198	CD28
+T4	protein 253 261	anti-CD2
+T5	protein 306 310	CD28
+T6	cell_type 312 320	neonatal
+T7	cell_type 325 338	adult T cells
+T8	protein 370 399	mitogenic anti-CD2 antibodies
+T9	protein 430 444	anti-CD28 MoAb
+T10	protein 451 459	anti-CD2
+T11	cell_type 467 483	neonatal T cells
+T12	protein 533 537	IL-2
+T13	cell_type 553 560	T cells
+T14	protein 603 607	IL-2
+T15	protein 639 653	anti-CD28 MoAb
+T16	cell_type 701 717	neonatal T cells
+T17	cell_type 751 764	adult T cells
+T18	cell_type 774 787	adult T cells
+T19	protein 827 831	IL-2
+T20	protein 875 889	anti-CD28 MoAb
+T21	cell_type 891 906	neonatal T cell
+T22	protein 907 911	IL-2
+T23	RNA 982 991	IL-2 mRNA
+T24	protein 1049 1058	CD28 MoAb
+T25	protein 1083 1093	NF kappa B
+T26	cell_type 1232 1254	neonatal T lymphocytes
+T27	protein 1258 1266	anti-CD2
+T28	protein 1301 1311	NF kappa B
+T29	RNA 1331 1340	IL-2 mRNA
+T30	protein 1366 1370	IL-2
+T31	protein 1392 1406	anti-CD28 MoAb

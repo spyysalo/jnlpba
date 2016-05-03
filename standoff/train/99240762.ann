@@ -1,0 +1,29 @@
+T1	protein 27 32	Smad6
+T2	protein 37 42	Smad7
+T3	cell_type 126 133	B cells
+T4	protein 135 140	Smad6
+T5	protein 145 150	Smad7
+T6	protein 188 220	signal-transducing Smad proteins
+T7	protein 228 266	transforming growth factor-beta family
+T8	protein 298 303	Smad6
+T9	protein 308 313	Smad7
+T10	protein 318 352	human bone morphogenetic protein-2
+T11	protein 354 360	hBMP-2
+T12	protein 387 393	hBMP-2
+T13	cell_line 433 455	mouse B cell hybridoma
+T14	cell_line 456 467	HS-72 cells
+T15	protein 524 529	Smad6
+T16	protein 534 539	Smad7
+T17	protein 554 560	hBMP-2
+T18	protein 569 580	Smad1/Smad5
+T19	protein 626 631	Smad7
+T20	cell_line 721 732	HS-72 cells
+T21	protein 777 782	Smad6
+T22	cell_line 811 822	HS-72 cells
+T23	protein 824 829	Smad6
+T24	protein 960 965	Smad7
+T25	protein 975 980	Smad6
+T26	cell_line 1039 1050	HS-72 cells
+T27	protein 1058 1063	Smad6
+T28	protein 1068 1073	Smad7
+T29	cell_type 1183 1198	B lineage cells

@@ -1,0 +1,28 @@
+T1	protein 4 25	transcription factors
+T2	protein 26 31	c-myb
+T3	protein 36 47	C/EBP alpha
+T4	DNA 61 83	monocytic/myeloic gene
+T5	DNA 84 89	MRP14
+T6	cell_type 288 299	Macrophages
+T7	cell_type 304 316	granulocytes
+T8	DNA 446 451	MRP14
+T9	protein 453 500	Macrophage migration inhibitory related protein
+T10	protein 506 510	MRP8
+T11	protein 516 530	S-100 proteins
+T12	cell_type 633 642	monocytes
+T13	cell_type 647 659	granulocytes
+T14	protein 761 764	CAT
+T15	DNA 786 800	MRP14 promoter
+T16	protein 830 841	C/EBP alpha
+T17	protein 846 851	v-myb
+T18	protein 857 878	transcription factors
+T19	protein 944 955	C/EBP alpha
+T20	DNA 994 1008	MRP14 promoter
+T21	cell_type 1018 1029	HL 60 cells
+T22	cell_type 1064 1080	L132 fibroblasts
+T23	protein 1095 1100	v-myb
+T24	DNA 1109 1123	MRP14 promoter
+T25	cell_type 1160 1170	L132 cells
+T26	protein 1192 1203	C/EBP alpha
+T27	protein 1239 1250	C/EBP alpha
+T28	protein 1276 1281	MRP14

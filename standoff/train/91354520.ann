@@ -1,0 +1,34 @@
+T1	protein 14 19	M-CSF
+T2	protein 34 39	M-CSF
+T3	protein 49 65	protein kinase C
+T4	protein 70 101	transcription factor NF kappa B
+T5	protein 103 139	Macrophage-colony-stimulating factor
+T6	protein 141 146	M-CSF
+T7	protein 169 174	CSF-1
+T8	cell_type 251 260	monocytes
+T9	protein 293 329	high-affinity cell surface receptors
+T10	DNA 362 381	c-fms protooncogene
+T11	cell_type 448 464	monocyte lineage
+T12	protein 484 489	M-CSF
+T13	protein 563 568	M-CSF
+T14	protein 636 641	M-CSF
+T15	protein 710 715	M-CSF
+T16	protein 838 843	M-CSF
+T17	protein 911 927	protein kinase C
+T18	protein 929 932	PKC
+T19	cell_type 960 969	monocytes
+T20	protein 973 978	M-CSF
+T21	protein 993 998	M-CSF
+T22	protein 1026 1029	PKC
+T23	protein 1045 1048	PKC
+T24	protein 1106 1111	M-CSF
+T25	protein 1115 1120	M-CSF
+T26	protein 1149 1152	PKC
+T27	protein 1227 1245	NF kappa B protein
+T28	cell_line 1269 1298	M-CSF-induced blood monocytes
+T29	cell_type 1310 1319	monocytes
+T30	protein 1379 1384	M-CSF
+T31	protein 1398 1403	M-CSF
+T32	protein 1413 1423	G proteins
+T33	protein 1425 1428	PKC
+T34	protein 1433 1443	NF kappa B

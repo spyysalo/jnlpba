@@ -1,0 +1,45 @@
+T1	protein 20 24	IL-4
+T2	protein 29 34	IL-13
+T3	protein 60 94	human IL-13 receptor alpha chain 1
+T4	protein 164 168	IL-4
+T5	protein 173 178	IL-13
+T6	protein 183 204	pleiotropic cytokines
+T7	protein 258 286	IL-13 receptor alpha chain 1
+T8	protein 288 302	IL-13R alpha 1
+T9	protein 332 337	IL-13
+T10	protein 371 385	IL-13R alpha 1
+T11	protein 390 407	IL-4R alpha chain
+T12	protein 419 424	IL-13
+T13	protein 429 433	IL-4
+T14	protein 482 502	intracellular domain
+T15	protein 506 520	IL-13R alpha 1
+T16	protein 602 622	human IL-13R alpha 1
+T17	protein 637 641	IL-4
+T18	protein 646 651	IL-13
+T19	protein 669 683	IL-13R alpha 1
+T20	cell_line 696 713	human B cell line
+T21	protein 729 743	IL-13R alpha 1
+T22	protein 751 756	STAT3
+T23	protein 771 775	IL-4
+T24	protein 780 785	IL-13
+T25	cell_type 805 818	human B cells
+T26	protein 829 843	IL-13R alpha 1
+T27	protein 866 870	IL-4
+T28	protein 875 880	IL-13
+T29	protein 889 894	STAT3
+T30	protein 969 974	STAT3
+T31	protein 1080 1091	Box1 region
+T32	protein 1100 1115	C-terminal tail
+T33	protein 1119 1133	IL-13R alpha 1
+T34	protein 1163 1167	Tyk2
+T35	protein 1187 1191	Jak1
+T36	protein 1193 1197	Tyk2
+T37	protein 1203 1231	insulin receptor substrate-1
+T38	protein 1236 1241	STAT6
+T39	protein 1283 1288	STAT3
+T40	protein 1317 1321	IL-4
+T41	protein 1326 1331	IL-13
+T42	cell_type 1343 1356	human B cells
+T43	protein 1386 1391	STAT6
+T44	protein 1432 1446	IL-13R alpha 1
+T45	protein 1459 1464	STAT3

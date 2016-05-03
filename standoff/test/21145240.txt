@@ -1,0 +1,2 @@
+Transcriptional regulation in lymphocytes.
+Lymphocytes have been used to investigate many cellular processes, including lineage commitment, differentiation, proliferation and apoptosis. The transcription factors that mediate these processes are often expressed broadly in many cell types. The emerging theme is one of cell-type-specific regulation, affecting not only the functional activation of transcription factors but also their access to appropriate regions of DNA.

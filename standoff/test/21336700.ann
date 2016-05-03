@@ -1,0 +1,17 @@
+T1	protein 0 67	Nuclear peroxisome proliferator-activated receptors alpha and gamma
+T2	protein 135 202	peroxisome proliferator-activated receptors (PPARs) alpha and gamma
+T3	protein 207 224	nuclear receptors
+T4	protein 363 368	PPARs
+T5	RNA 467 488	PPAR-alpha and -gamma
+T6	cell_type 557 579	peritoneal macrophages
+T7	cell_line 584 604	monocytic U937 cells
+T8	protein 646 667	PPAR-alpha and -gamma
+T9	cell_line 837 847	U937 cells
+T10	cell_line 964 974	U937 cells
+T11	DNA 1006 1041	PPAR-alpha/GAL4 luciferase reporter
+T12	DNA 1113 1139	PPAR-gamma/GAL4 constructs
+T13	cell_line 1145 1155	U937 cells
+T14	DNA 1187 1228	PPAR response element luciferase reporter
+T15	protein 1534 1544	PPAR-alpha
+T16	protein 1597 1607	PPAR-alpha
+T17	protein 1625 1635	PPAR-gamma

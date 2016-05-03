@@ -1,0 +1,60 @@
+T1	protein 0 8	TNFalpha
+T2	protein 29 45	protein kinase A
+T3	DNA 82 91	HIV-1 LTR
+T4	DNA 121 152	TRE-like cAMP response elements
+T5	protein 154 174	Activating protein-1
+T6	protein 176 180	AP-1
+T7	DNA 190 213	TPA responsive elements
+T8	DNA 215 218	TRE
+T9	DNA 250 279	transcription initiation site
+T10	DNA 287 296	U5 region
+T11	DNA 304 330	HIV-1 long terminal repeat
+T12	DNA 332 335	LTR
+T13	DNA 344 372	downstream sequence elements
+T14	DNA 381 384	DSE
+T15	protein 400 404	AP-1
+T16	protein 409 417	CREB/ATF
+T17	protein 418 439	transcription factors
+T18	DNA 476 479	DSE
+T19	DNA 489 513	cAMP-responsive elements
+T20	DNA 515 518	CRE
+T21	protein 572 585	cholera toxin
+T22	protein 587 590	Ctx
+T23	protein 634 650	protein kinase A
+T24	protein 652 655	PKA
+T25	DNA 732 741	HIV-1 DSE
+T26	protein 813 816	Ctx
+T27	protein 821 829	TNFalpha
+T28	protein 831 834	Ctx
+T29	protein 849 857	TNFalpha
+T30	protein 861 869	IL-1beta
+T31	protein 907 918	p24 antigen
+T32	cell_line 933 954	U1 promonocytic cells
+T33	DNA 980 1003	LTR reporter constructs
+T34	DNA 1035 1044	DSE sites
+T35	DNA 1059 1062	LTR
+T36	protein 1091 1094	Ctx
+T37	protein 1099 1107	TNFalpha
+T38	protein 1140 1143	Ctx
+T39	protein 1148 1156	IL-1beta
+T40	protein 1184 1192	TNFalpha
+T41	protein 1197 1205	IL-1beta
+T42	protein 1241 1245	/PKA
+T43	cell_line 1295 1303	U1 cells
+T44	DNA 1317 1320	DSE
+T45	DNA 1330 1333	TRE
+T46	protein 1395 1399	AP-1
+T47	protein 1425 1433	TNFalpha
+T48	protein 1445 1453	IL-1beta
+T49	protein 1470 1473	Ctx
+T50	protein 1513 1517	AP-1
+T51	DNA 1571 1605	TRE-like cAMP-responsive DSE sites
+T52	DNA 1617 1639	5'-untranslated leader
+T53	protein 1694 1702	TNFalpha
+T54	protein 1715 1719	/PKA
+T55	DNA 1739 1742	DSE
+T56	DNA 1747 1750	TRE
+T57	protein 1769 1788	CREB/ATF homodimers
+T58	DNA 1832 1835	DSE
+T59	protein 1841 1853	heterodimers
+T60	protein 1871 1897	AP-1 and CREB/ATF proteins

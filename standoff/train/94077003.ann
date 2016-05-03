@@ -1,0 +1,15 @@
+T1	protein 80 100	Blood cell receptors
+T2	protein 161 182	monoclonal antibodies
+T3	protein 184 188	mAbs
+T4	protein 234 251	surface receptors
+T5	cell_type 255 280	lymphocyte subpopulations
+T6	protein 640 657	surface receptors
+T7	cell_type 781 812	helper-inducer (memory) T cells
+T8	cell_type 814 846	CD4+CD45R0+CD45RA-CD29highCD11a+
+T9	cell_type 849 862	CD20+ B cells
+T10	cell_type 868 885	cytotoxic T cells
+T11	cell_type 887 902	CD8+CD56+/CD57+
+T12	protein 944 948	mAbs
+T13	protein 1334 1351	surface receptors
+T14	cell_type 1355 1372	white blood cells
+T15	cell_type 2041 2058	CD4+CD45R0+ cells

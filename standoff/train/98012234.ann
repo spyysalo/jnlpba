@@ -1,0 +1,18 @@
+T1	cell_type 14 20	T cell
+T2	protein 77 118	dominant negative helix loop helix factor
+T3	protein 119 122	Id3
+T4	cell_type 124 174	Bipotential T/natural killer (NK) progenitor cells
+T5	cell_type 287 294	T cells
+T6	protein 435 486	basic helix loop helix (bHLH) transcription factors
+T7	cell_type 523 544	NK/T cell progenitors
+T8	protein 558 586	dominant negative HLH factor
+T9	protein 587 590	Id3
+T10	protein 651 663	bHLH factors
+T11	cell_type 682 704	CD34+ progenitor cells
+T12	protein 770 773	Id3
+T13	cell_type 807 818	CD34+ cells
+T14	cell_type 824 831	T cells
+T15	cell_type 902 910	NK cells
+T16	protein 959 984	bHLH transcription factor
+T17	cell_type 1031 1053	bipotential precursors
+T18	cell_type 1208 1233	early lymphoid precursors

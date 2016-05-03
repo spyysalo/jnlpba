@@ -1,0 +1,16 @@
+T1	DNA 47 62	exogenous genes
+T2	cell_type 66 88	primary lymphoid cells
+T3	protein 111 125	transactivator
+T4	cell_type 138 164	normal and malignant cells
+T5	DNA 264 282	exogenous promoter
+T6	cell_type 402 424	primary lymphoid cells
+T7	DNA 468 515	histone promoter-driven beta-galactosidase gene
+T8	protein 556 574	beta-galactosidase
+T9	DNA 669 692	beta-galactosidase gene
+T10	DNA 701 723	adenovirus E2 promoter
+T11	protein 736 754	beta-galactosidase
+T12	cell_line 787 795	cultured
+T13	cell_type 800 813	primary cells
+T14	DNA 825 847	adenovirus E2 promoter
+T15	protein 908 923	transactivators
+T16	protein 1107 1126	viral gene products

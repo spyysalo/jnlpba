@@ -1,0 +1,15 @@
+T1	protein 478 487	cytokines
+T2	protein 489 493	IL-2
+T3	protein 495 499	IL-6
+T4	protein 501 510	TNF-alpha
+T5	protein 512 517	IL-10
+T6	cell_type 522 546	peripheral T lymphocytes
+T7	protein 585 590	NF-kB
+T8	cell_line 615 641	activated Jurkat cell line
+T9	protein 725 733	cytokine
+T10	cell_type 748 761	T lymphocytes
+T11	protein 816 821	NF-kB
+T12	cell_line 825 837	Jurkat cells
+T13	protein 865 874	cytokines
+T14	protein 999 1004	NF-kB
+T15	protein 1214 1234	transcription factor

@@ -1,0 +1,27 @@
+T1	protein 33 58	transcription factor PU.1
+T2	cell_type 80 100	natural killer cells
+T3	cell_type 108 121	B and T cells
+T4	protein 123 127	PU.1
+T5	protein 147 182	Ets family of transcription factors
+T6	cell_line 223 257	lymphoid and myeloid cell lineages
+T7	cell_type 275 299	natural killer (NK) cell
+T8	protein 347 351	PU.1
+T9	cell_type 368 376	NK cells
+T10	cell_type 442 467	hematopoietic progenitors
+T11	cell_type 471 498	PU.1(-/-) fetal liver cells
+T12	cell_type 525 533	NK cells
+T13	cell_type 542 554	B or T cells
+T14	cell_type 585 615	bone marrow NK cell precursors
+T15	cell_type 620 643	splenic mature NK cells
+T16	cell_type 689 707	PU.1(-/-) NK cells
+T17	protein 758 774	stem cell factor
+T18	protein 779 797	interleukin (IL)-7
+T19	protein 834 838	PU.1
+T20	DNA 877 900	cytokine receptor genes
+T21	cell_type 929 947	PU.1(-/-) NK cells
+T22	protein 1025 1036	Ly49 family
+T23	protein 1078 1082	IL-2
+T24	protein 1087 1092	IL-12
+T25	protein 1143 1147	PU.1
+T26	cell_type 1183 1196	B and T cells
+T27	protein 1198 1202	PU.1

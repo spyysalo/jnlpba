@@ -1,0 +1,30 @@
+T1	protein 14 19	PILOT
+T2	protein 32 52	transcription factor
+T3	cell_type 109 116	T cells
+T4	DNA 128 133	genes
+T5	protein 135 139	IL-2
+T6	DNA 156 167	IL-8 family
+T7	DNA 169 185	interferon-gamma
+T8	cell_type 202 209	T cells
+T9	DNA 330 335	genes
+T10	protein 414 434	transcription factor
+T11	protein 447 452	PILOT
+T12	protein 529 534	PILOT
+T13	cell_type 563 570	T cells
+T14	protein 668 673	PILOT
+T15	protein 735 747	zinc fingers
+T16	protein 755 764	C2H2-type
+T17	protein 772 789	carboxyl-terminus
+T18	protein 825 844	zinc finger regions
+T19	protein 852 873	transcription factors
+T20	protein 874 878	EGR1
+T21	protein 880 884	EGR2
+T22	protein 890 897	pAT 133
+T23	cell_type 914 921	T cells
+T24	cell_type 926 937	fibroblasts
+T25	protein 938 943	PILOT
+T26	protein 1077 1117	Ca2+ signal-dependent regulatory element
+T27	DNA 1152 1157	genes
+T28	cell_type 1161 1168	T cells
+T29	cell_type 1180 1191	fibroblasts
+T30	cell_type 1293 1300	T cells

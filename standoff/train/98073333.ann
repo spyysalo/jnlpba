@@ -1,0 +1,13 @@
+T1	protein 145 166	protein trans-factors
+T2	DNA 180 205	interleukin-2 (IL-2) gene
+T3	protein 286 316	low molecular nuclear proteins
+T4	protein 318 320	SP
+T5	protein 325 343	BP- 14, 18, 19 kDs
+T6	cell_type 359 382	splenic and brain cells
+T7	DNA 473 482	IL-2 gene
+T8	RNA 515 523	IL-2mRNA
+T9	cell_line 537 566	splenic T-lymphocytes culture
+T10	protein 625 627	SP
+T11	protein 632 634	BP
+T12	RNA 642 650	IL-2mRNA
+T13	cell_type 696 703	T-cells

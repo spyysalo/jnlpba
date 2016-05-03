@@ -1,0 +1,20 @@
+T1	cell_type 8 21	memory T cell
+T2	cell_type 281 294	memory T cell
+T3	cell_type 414 441	resting CD4+ memory T cells
+T4	protein 566 574	cytokine
+T5	cell_type 597 628	freshly isolated memory T cells
+T6	cell_line 675 694	cell culture system
+T7	protein 751 763	Th effectors
+T8	cell_type 769 791	resting memory T cells
+T9	cell_line 869 878	Th2 cells
+T10	protein 936 945	anti-CD28
+T11	protein 964 967	TCR
+T12	protein 1093 1097	IL-4
+T13	cell_type 1264 1284	IL-2-producing cells
+T14	cell_type 1335 1344	Th1 cells
+T15	protein 1359 1368	IFN-gamma
+T16	protein 1377 1381	IL-2
+T17	protein 1414 1422	anti-CD3
+T18	protein 1427 1436	anti-CD28
+T19	cell_type 1460 1479	CD4+ memory T cells
+T20	cell_type 1600 1633	cytokine-producing effector cells

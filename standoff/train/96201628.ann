@@ -1,0 +1,15 @@
+T1	DNA 52 94	human inducible nitric oxide synthase gene
+T2	cell_type 238 265	human monocytes/macrophages
+T3	protein 395 404	IFN-gamma
+T4	DNA 483 517	inducible NO synthase (iNOS) genes
+T5	DNA 561 582	iNOS promoter regions
+T6	protein 606 615	IFN-gamma
+T7	DNA 662 687	kappa B response elements
+T8	DNA 736 755	human iNOS promoter
+T9	protein 767 776	IFN-gamma
+T10	DNA 872 888	enhancer element
+T11	protein 925 934	IFN-gamma
+T12	DNA 961 976	mouse iNOS gene
+T13	protein 1013 1028	nuclear factors
+T14	cell_type 1032 1049	human macrophages
+T15	protein 1060 1108	LPS-inducible nuclear factor-kappa B/Rel complex

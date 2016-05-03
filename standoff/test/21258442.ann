@@ -1,0 +1,17 @@
+T1	cell_type 32 41	thymocyte
+T2	cell_type 550 570	CD4+ CD8+ thymocytes
+T3	cell_type 772 792	CD4+ CD8+ population
+T4	cell_type 906 926	CD4+ CD8+ thymocytes
+T5	protein 1148 1165	hormone receptors
+T6	cell_type 1169 1179	thymocytes
+T7	cell_type 1324 1333	thymocyte
+T8	cell_type 1472 1482	thymocytes
+T9	protein 1641 1659	androgen receptors
+T10	cell_type 1665 1675	thymocytes
+T11	protein 1769 1786	androgen receptor
+T12	cell_type 1790 1799	thymocyte
+T13	protein 1811 1828	androgen receptor
+T14	cell_type 1896 1920	thymocyte subpopulations
+T15	cell_type 1977 1997	CD4+ CD8+ thymocytes
+T16	protein 2069 2087	androgen receptors
+T17	cell_type 2148 2157	thymocyte

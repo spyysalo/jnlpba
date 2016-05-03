@@ -1,0 +1,20 @@
+T1	protein 24 29	NFAT4
+T2	protein 45 48	JNK
+T3	protein 82 130	nuclear factor of activated T cells (NFAT) group
+T4	protein 134 155	transcription factors
+T5	cell_type 188 203	quiescent cells
+T6	protein 205 209	NFAT
+T7	protein 329 333	NFAT
+T8	protein 348 359	phosphatase
+T9	protein 360 371	calcineurin
+T10	protein 377 404	c-Jun amino-terminal kinase
+T11	protein 406 409	JNK
+T12	protein 426 431	NFAT4
+T13	protein 472 497	JNK phosphorylation sites
+T14	protein 542 547	NFAT4
+T15	protein 562 565	JNK
+T16	cell_line 580 608	calcineurin-stimulated cells
+T17	protein 637 642	NFAT4
+T18	protein 697 702	NFAT4
+T19	protein 715 726	calcineurin
+T20	protein 745 748	JNK

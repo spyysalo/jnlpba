@@ -1,0 +1,19 @@
+T1	protein 18 39	transcription factors
+T2	cell_line 100 110	HL60 cells
+T3	cell_type 206 221	leukaemic cells
+T4	protein 481 502	transcription factors
+T5	protein 509 530	transcription factors
+T6	protein 547 575	structural protein sequences
+T7	protein 646 666	transcription factor
+T8	DNA 750 799	TFIIIA zinc-finger consensus amino acid sequences
+T9	protein 811 826	POU-homeodomain
+T10	protein 831 850	POU-specific domain
+T11	protein 977 998	transcription factors
+T12	cell_line 1002 1034	serum-independent HL60 cell line
+T13	cell_type 1137 1148	CD38+ cells
+T14	cell_line 1322 1346	ATRA-induced CD38+ cells
+T15	cell_line 1352 1393	vitamin D3 treated maturing cell cultures
+T16	DNA 1439 1452	PCR fragments
+T17	protein 1579 1599	transcription factor
+T18	DNA 1629 1637	KIAA0144
+T19	protein 1918 1946	zinc finger and POU families

@@ -1,0 +1,22 @@
+T1	protein 11 17	CYP1A1
+T2	protein 89 108	cytochrome P-4501A1
+T3	protein 110 116	CYP1A1
+T4	protein 426 444	cytochrome P4501A1
+T5	RNA 490 501	CYP1A1 mRNA
+T6	cell_line 523 551	cultured human keratinocytes
+T7	cell_line 553 568	HaCaT cell line
+T8	cell_type 571 602	primary human blood lymphocytes
+T9	cell_line 607 625	mouse Hepa-1 cells
+T10	protein 813 834	reverse transcriptase
+T11	cell_type 925 938	treated cells
+T12	RNA 966 977	CYP1A1 mRNA
+T13	cell_line 1077 1088	HaCaT cells
+T14	cell_type 1093 1104	lymphocytes
+T15	cell_line 1244 1301	Hepa-1 wild-type and Ah receptor deficient c12 cell lines
+T16	cell_line 1316 1336	Wild-type (wt) cells
+T17	cell_type 1506 1515	c12 cells
+T18	protein 1584 1595	Ah receptor
+T19	protein 1656 1662	CYP1A1
+T20	cell_type 1682 1697	mammalian cells
+T21	protein 1716 1727	Ah receptor
+T22	protein 1855 1866	Ah receptor

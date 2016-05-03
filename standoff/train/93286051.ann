@@ -1,0 +1,33 @@
+T1	protein 27 43	protein kinase C
+T2	cell_line 47 78	multidrug-resistant HL-60 cells
+T3	cell_line 197 231	human HL-60 myeloid leukemia cells
+T4	DNA 324 349	c-jun early response gene
+T5	cell_line 594 625	multidrug-resistant HL-60 cells
+T6	RNA 693 710	c-jun transcripts
+T7	cell_line 803 819	HL-60/vinc cells
+T8	protein 855 892	serine/threonine protein phosphatases
+T9	DNA 902 907	c-jun
+T10	DNA 960 970	c-fms gene
+T11	cell_line 1008 1028	HL-60/vinc revertant
+T12	cell_line 1030 1042	HL-60/vinc/R
+T13	cell_line 1120 1138	HL-60/vinc/R cells
+T14	DNA 1203 1208	c-jun
+T15	DNA 1235 1240	c-jun
+T16	DNA 1343 1348	jun-B
+T17	DNA 1353 1358	fra-1
+T18	DNA 1359 1364	genes
+T19	cell_line 1392 1402	HL-60/vinc
+T20	cell_line 1407 1425	HL-60/vinc/R cells
+T21	DNA 1435 1440	c-fos
+T22	protein 1510 1526	protein kinase C
+T23	protein 1528 1531	PKC
+T24	protein 1563 1566	PKC
+T25	cell_line 1619 1624	HL-60
+T26	cell_line 1629 1647	HL-60/vinc/R cells
+T27	protein 1678 1681	PKC
+T28	cell_line 1744 1760	HL-60/vinc cells
+T29	protein 1778 1817	mitogen-activated protein kinase family
+T30	protein 1853 1868	c-Jun Y-peptide
+T31	cell_line 1896 1924	TPA-treated HL-60/vinc cells
+T32	protein 2110 2113	PKC
+T33	DNA 2157 2184	jun/fos early response gene

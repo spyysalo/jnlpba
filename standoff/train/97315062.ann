@@ -1,0 +1,33 @@
+T1	cell_type 37 47	thymocytes
+T2	protein 80 107	catalytically inactive form
+T3	protein 111 154	Ca2+/calmodulin-dependent protein kinase IV
+T4	protein 205 232	catalytically inactive form
+T5	protein 236 279	Ca2+/calmodulin-dependent protein kinase IV
+T6	protein 281 287	CaMKIV
+T7	cell_type 305 319	thymic T cells
+T8	protein 486 489	CD4
+T9	protein 494 497	CD8
+T10	protein 498 519	cell surface antigens
+T11	cell_type 572 586	thymic T cells
+T12	protein 786 795	alpha-CD3
+T13	protein 913 921	cytokine
+T14	protein 922 935	interleukin-2
+T15	protein 937 941	IL-2
+T16	protein 957 961	IL-2
+T17	protein 1024 1061	cAMP response element binding protein
+T18	protein 1063 1067	CREB
+T19	DNA 1098 1119	immediate early genes
+T20	DNA 1128 1133	Fos B
+T21	DNA 1173 1186	IL-2 promoter
+T22	DNA 1238 1255	proximal promoter
+T23	DNA 1263 1278	murine lck gene
+T24	cell_type 1315 1322	T cells
+T25	protein 1349 1363	mutant hCaMKIV
+T26	cell_type 1382 1400	peripheral T cells
+T27	cell_type 1416 1429	T lymphocytes
+T28	protein 1564 1579	inactive CaMKIV
+T29	protein 1635 1641	CaMKIV
+T30	protein 1683 1694	CREB kinase
+T31	cell_type 1698 1705	T cells
+T32	cell_type 1773 1780	T cells
+T33	protein 1900 1904	CREB

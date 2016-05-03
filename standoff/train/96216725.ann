@@ -1,0 +1,41 @@
+T1	RNA 23 68	erythroid transcription factor P45 NF-E2 mRNA
+T2	cell_type 72 101	human peripheral granurocytes
+T3	protein 103 129	Transcription factor NF-E2
+T4	protein 195 206	p45 subunit
+T5	protein 210 215	NF-E2
+T6	protein 227 254	basic-leucine zipper domain
+T7	protein 278 302	small Maf family protein
+T8	protein 322 335	NF-E2 complex
+T9	protein 343 346	p45
+T10	cell_type 388 403	erythroid cells
+T11	cell_type 405 419	megakaryocytes
+T12	cell_type 424 434	mast cells
+T13	RNA 489 497	p45 mRNA
+T14	cell_type 531 551	granulocyte fraction
+T15	cell_type 555 583	human peripheral blood cells
+T16	cell_type 588 599	neutrophils
+T17	cell_type 641 661	granulocyte fraction
+T18	cell_type 665 693	human peripheral blood cells
+T19	cell_type 698 709	neutrophils
+T20	protein 787 790	p45
+T21	cell_type 812 823	neutrophils
+T22	RNA 825 833	p45 mRNA
+T23	cell_line 855 874	HL-60 promyelocytes
+T24	cell_type 935 955	granulocyte fraction
+T25	cell_line 957 968	HL-60 cells
+T26	RNA 991 1000	mafK mRNA
+T27	protein 1037 1050	NF-E2 complex
+T28	RNA 1074 1082	p45 mRNA
+T29	DNA 1128 1143	aNF-E2 promoter
+T30	DNA 1148 1163	fNF-E2 promoter
+T31	cell_type 1168 1210	erythroid and megakaryocytic lineage cells
+T32	RNA 1212 1220	p45 mRNA
+T33	DNA 1246 1261	aNF-E2 promoter
+T34	protein 1281 1284	p45
+T35	cell_type 1285 1313	megakaryocytic lineage cells
+T36	RNA 1315 1323	p45 mRNA
+T37	DNA 1349 1364	aNF-E2 promoter
+T38	RNA 1384 1392	p45 mRNA
+T39	cell_type 1400 1411	neutrophils
+T40	protein 1481 1486	G-CSF
+T41	protein 1561 1563	E2

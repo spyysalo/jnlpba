@@ -1,0 +1,7 @@
+T1	DNA 150 175	PML/RAR alpha fusion gene
+T2	DNA 195 218	t (15;17) translocation
+T3	cell_type 389 424	PML/RAR alpha mRNA-containing cells
+T4	cell_type 564 577	leukemic cell
+T5	cell_type 587 599	normal cells
+T6	RNA 623 641	PML/RAR alpha mRNA
+T7	cell_type 984 993	APL cells

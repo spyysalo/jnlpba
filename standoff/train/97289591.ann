@@ -1,0 +1,26 @@
+T1	DNA 68 80	S-X-Y region
+T2	protein 86 118	MHC class II homologous proteins
+T3	protein 119 126	HLA-DMA
+T4	protein 131 138	HLA-DMB
+T5	protein 180 198	class II molecules
+T6	DNA 209 223	class II genes
+T7	DNA 229 241	HLA-DM genes
+T8	DNA 295 318	S-X-Y regulatory region
+T9	DNA 393 401	DM genes
+T10	DNA 439 453	class II genes
+T11	DNA 562 574	DM promoters
+T12	DNA 605 617	S-X-Y region
+T13	protein 623 662	class II-specific transcription factors
+T14	protein 663 666	RFX
+T15	protein 671 676	CIITA
+T16	DNA 791 803	DM promoters
+T17	DNA 865 878	X and Y boxes
+T18	protein 897 918	transcription factors
+T19	cell_type 922 939	wild-type B cells
+T20	cell_line 952 973	RFX-deficient B cells
+T21	cell_type 978 988	astrocytes
+T22	protein 990 999	IFN-gamma
+T23	DNA 1272 1279	X boxes
+T24	DNA 1317 1325	DRA gene
+T25	DNA 1342 1350	DM genes
+T26	DNA 1399 1413	class II genes

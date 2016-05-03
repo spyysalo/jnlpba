@@ -1,0 +1,14 @@
+T1	protein 0 4	BSAP
+T2	cell_type 25 31	B-cell
+T3	protein 65 98	B-cell-specific activator protein
+T4	protein 100 104	BSAP
+T5	DNA 145 160	Pax-gene family
+T6	protein 164 185	transcription factors
+T7	protein 211 215	BSAP
+T8	cell_type 236 243	B cells
+T9	protein 337 341	BSAP
+T10	DNA 413 434	B-cell-specific genes
+T11	protein 454 458	BSAP
+T12	protein 464 475	key protein
+T13	cell_type 479 486	B cells
+T14	protein 602 616	immunoglobulin

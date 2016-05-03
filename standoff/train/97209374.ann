@@ -1,0 +1,18 @@
+T1	protein 0 5	AML1a
+T2	protein 14 19	AML1b
+T3	cell_type 133 152	K562 leukemia cells
+T4	protein 154 158	AML1
+T5	cell_type 220 260	erythroid and/or megakaryocytic lineages
+T6	protein 297 301	AML1
+T7	protein 353 358	AML1a
+T8	protein 372 403	transcription-activating domain
+T9	protein 409 414	AML1b
+T10	cell_type 445 464	K562 leukemia cells
+T11	cell_type 509 535	hemoglobin-producing cells
+T12	cell_type 540 554	megakaryocytes
+T13	cell_line 560 588	AML1a-transfected K562 cells
+T14	protein 781 785	AML1
+T15	protein 940 945	AML1b
+T16	cell_line 1005 1015	K562 cells
+T17	protein 1047 1052	AML1a
+T18	protein 1201 1205	AML1

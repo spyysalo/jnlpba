@@ -1,0 +1,23 @@
+T1	protein 0 15	Soluble factors
+T2	cell_type 28 51	activated T-lymphocytes
+T3	protein 86 112	immunosuppressive cytokine
+T4	protein 113 123	TGF-beta 2
+T5	cell_type 127 138	glial cells
+T6	protein 389 403	growth factors
+T7	protein 405 414	cytokines
+T8	cell_type 492 515	activated T-lymphocytes
+T9	protein 564 572	cytokine
+T10	protein 574 584	TGF-beta 2
+T11	cell_type 588 599	glial cells
+T12	protein 717 727	TGF-beta 2
+T13	protein 794 831	80 kDA glial labile repressor protein
+T14	protein 833 837	GLRP
+T15	DNA 873 892	TFG-beta 2 promoter
+T16	protein 903 907	GLRP
+T17	protein 955 975	transcription factor
+T18	protein 976 980	AP-1
+T19	protein 1019 1038	AP-1 family members
+T20	protein 1139 1149	TGF-beta 2
+T21	cell_type 1214 1227	T-lymphocytes
+T22	cell_type 1232 1242	astrocytes
+T23	protein 1247 1257	TGF-beta 2

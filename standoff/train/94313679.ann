@@ -1,0 +1,38 @@
+T1	protein 46 61	tyrosine kinase
+T2	protein 88 92	IL-2
+T3	protein 107 112	NF-AT
+T4	cell_line 126 175	anti-CD3-activated peripheral human T lymphocytes
+T5	cell_type 231 237	T cell
+T6	cell_type 362 368	T cell
+T7	cell_type 436 454	peripheral T cells
+T8	protein 520 523	CD3
+T9	cell_type 548 566	peripheral T cells
+T10	protein 580 593	anti-CD3 mAbs
+T11	cell_type 636 652	purified T cells
+T12	protein 654 658	OKT3
+T13	cell_type 733 740	T cells
+T14	protein 770 774	64.1
+T15	cell_type 793 799	T cell
+T16	protein 840 855	tyrosine kinase
+T17	protein 886 890	mAbs
+T18	protein 973 977	64.1
+T19	protein 987 991	OKT3
+T20	protein 1045 1055	NF-kappa B
+T21	protein 1060 1065	NF-AT
+T22	protein 1096 1104	anti-CD3
+T23	protein 1161 1182	NF-kappa B components
+T24	protein 1184 1189	c-Rel
+T25	protein 1191 1194	p65
+T26	protein 1196 1200	RelA
+T27	protein 1207 1210	p50
+T28	protein 1212 1223	NF-kappa B1
+T29	protein 1230 1240	NF-kappa B
+T30	protein 1292 1296	64.1
+T31	protein 1305 1310	NF-AT
+T32	cell_type 1368 1375	T cells
+T33	protein 1383 1388	NF-AT
+T34	protein 1403 1407	IL-2
+T35	protein 1509 1524	tyrosine kinase
+T36	protein 1590 1600	NF-kappa B
+T37	protein 1615 1619	IL-2
+T38	protein 1710 1714	OKT3

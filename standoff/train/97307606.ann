@@ -1,0 +1,18 @@
+T1	cell_type 67 74	T cells
+T2	protein 104 141	TCR alpha beta or -gamma delta chains
+T3	protein 190 213	CD3 delta epsilon gamma
+T4	protein 218 235	TCR zeta subunits
+T5	protein 247 250	TCR
+T6	cell_type 394 401	T cells
+T7	protein 654 668	TCR zeta chain
+T8	protein 670 695	NF kappaB family proteins
+T9	protein 701 725	tyrosine kinase p56(lck)
+T10	protein 814 839	NF kappaB family proteins
+T11	protein 869 872	p65
+T12	protein 958 968	zeta-chain
+T13	protein 1033 1046	Th1 cytokines
+T14	protein 1048 1052	IL-2
+T15	protein 1057 1066	IFN-gamma
+T16	protein 1128 1142	TCR zeta chain
+T17	protein 1147 1155	p56(lck)
+T18	protein 1297 1307	zeta-chain

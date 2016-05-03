@@ -1,0 +1,30 @@
+T1	protein 24 43	human interleukin 2
+T2	cell_type 48 54	T-cell
+T3	protein 67 80	interleukin 4
+T4	cell_type 102 116	T-cell subsets
+T5	protein 147 158	lymphokines
+T6	protein 272 285	interleukin 4
+T7	protein 290 306	interferon gamma
+T8	protein 308 312	IL-4
+T9	protein 317 326	IFN-gamma
+T10	protein 500 513	interleukin 2
+T11	protein 515 519	IL-2
+T12	protein 525 534	IFN-gamma
+T13	protein 536 540	IL-4
+T14	cell_type 557 569	Jurkat cells
+T15	DNA 638 646	IL2 gene
+T16	protein 648 652	IL-4
+T17	cell_type 698 719	primary human T cells
+T18	protein 737 757	anti-CD28 antibodies
+T19	DNA 791 819	enhancer-reporter constructs
+T20	protein 821 825	IL-4
+T21	DNA 858 873	NFIL-2B element
+T22	DNA 949 969	NFIL-2B binding site
+T23	protein 985 989	IL-4
+T24	protein 1004 1019	NFIL-2B complex
+T25	protein 1033 1059	NFIL-2B DNA binding factor
+T26	protein 1077 1080	AP-
+T27	protein 1110 1114	IL-4
+T28	cell_type 1156 1170	T-cell subsets
+T29	protein 1217 1235	inhibiting factors
+T30	DNA 1270 1278	IL2 gene

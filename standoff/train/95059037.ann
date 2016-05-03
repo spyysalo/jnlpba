@@ -1,0 +1,37 @@
+T1	DNA 71 155	colony-stimulating factor 1 (macrophage colony-stimulating factor) receptor promoter
+T2	protein 166 175	PEBP2/CBF
+T3	protein 177 181	AML1
+T4	protein 205 241	macrophage colony-stimulating factor
+T5	protein 246 273	colony-stimulating factor 1
+T6	protein 275 280	CSF-1
+T7	cell_type 324 339	monocytic cells
+T8	cell_type 344 366	placental trophoblasts
+T9	protein 434 448	CSF-1 receptor
+T10	DNA 497 521	tissue-specific promoter
+T11	protein 558 603	monocyte/B-cell-specific transcription factor
+T12	protein 604 608	PU.1
+T13	DNA 757 765	promoter
+T14	DNA 801 810	region II
+T15	DNA 839 853	10 bp upstream
+T16	DNA 863 880	PU.1-binding site
+T17	protein 899 904	DNase
+T18	DNA 919 928	region II
+T19	cell_type 961 976	monocytic cells
+T20	DNA 1031 1040	region II
+T21	protein 1069 1085	nuclear proteins
+T22	cell_type 1091 1106	monocytic cells
+T23	protein 1112 1131	gel shift complexes
+T24	protein 1133 1139	Mono A
+T25	protein 1144 1150	Mono B
+T26	protein 1269 1275	Mono B
+T27	protein 1301 1380	polyomavirus enhancer-binding protein 2/core-binding factor (PEBP2/CBF) family,
+T28	protein 1425 1431	Mono A
+T29	cell_type 1482 1497	monocytic cells
+T30	DNA 1499 1518	Promoter constructs
+T31	cell_type 1602 1611	monocytes
+T32	DNA 1626 1666	multimerized region II sequence elements
+T33	cell_type 1736 1751	monocytic cells
+T34	protein 1817 1862	monocyte/B-cell-specific transcription factor
+T35	protein 1863 1867	PU.1
+T36	protein 1876 1911	Mono A and Mono B protein complexes
+T37	protein 1978 1992	CSF-1 receptor

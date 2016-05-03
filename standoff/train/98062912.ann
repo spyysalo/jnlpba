@@ -1,0 +1,31 @@
+T1	protein 0 4	ATF1
+T2	protein 9 13	CREB
+T3	DNA 31 67	cell cycle regulated histone H4 gene
+T4	DNA 73 122	distal nuclear matrix associated promoter element
+T5	protein 144 148	CREB
+T6	protein 158 179	transcription factors
+T7	DNA 217 242	cell growth-related genes
+T8	DNA 251 298	protein kinase A-related cAMP response elements
+T9	DNA 325 362	cell cycle regulated histone H4 genes
+T10	DNA 393 422	principal cis-acting elements
+T11	DNA 569 580	H4 promoter
+T12	protein 598 602	CREB
+T13	protein 642 646	CREB
+T14	protein 648 652	ATF1
+T15	protein 658 662	ATF2
+T16	protein 676 686	ATF4/CREB2
+T17	DNA 692 705	ATF/CRE motif
+T18	DNA 724 739	distal promoter
+T19	DNA 747 780	nuclear matrix-associated Site IV
+T20	DNA 821 838	proximal promoter
+T21	DNA 842 848	Site I
+T22	DNA 855 869	ATF/CRE motifs
+T23	DNA 878 895	binding sequences
+T24	protein 904 944	multifunctional YY1 transcription factor
+T25	protein 1063 1076	ATF1 isoforms
+T26	DNA 1342 1348	Site I
+T27	DNA 1353 1360	Site IV
+T28	DNA 1425 1436	H4 promoter
+T29	protein 1468 1484	ATF/CREB factors
+T30	DNA 1507 1522	histone H4 gene
+T31	DNA 1540 1577	distal and proximal promoter elements

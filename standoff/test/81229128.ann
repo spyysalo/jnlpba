@@ -1,0 +1,17 @@
+T1	protein 15 31	steroid receptor
+T2	cell_type 35 67	rheumatoid synovial tissue cells
+T3	protein 177 222	stereo-specific cytoplasmic protein receptors
+T4	cell_type 286 300	synovial cells
+T5	protein 400 421	clostridiopeptidase A
+T6	protein 426 438	trypsin-EDTA
+T7	cell_type 829 840	whole cells
+T8	cell_type 970 990	synovial fluid cells
+T9	cell_type 1074 1093	synovial fibroblast
+T10	cell_type 1100 1116	macrophage-types
+T11	cell_type 1118 1129	lymphocytes
+T12	cell_type 1131 1140	monocytes
+T13	cell_type 1145 1156	macrophages
+T14	cell_type 1158 1186	Polymorphonuclear leucocytes
+T15	cell_type 1222 1275	synovial fluid cell type polymorphonuclear leucocytes
+T16	protein 1404 1429	specific steroid receptor
+T17	cell_type 1459 1502	synovial fluid polymorphonuclear leucocytes

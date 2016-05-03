@@ -1,0 +1,31 @@
+T1	protein 37 54	proto-oncoprotein
+T2	protein 55 60	ets-1
+T3	DNA 71 105	transcriptional activator sequence
+T4	DNA 117 137	long terminal repeat
+T5	DNA 179 204	ets proto-oncogene family
+T6	DNA 219 241	sequence-related genes
+T7	protein 299 316	cellular proteins
+T8	cell_type 386 399	T lymphocytes
+T9	DNA 441 456	ets gene family
+T10	protein 467 504	sequence-specific DNA-binding protein
+T11	DNA 508 530	mouse ets-1 cDNA clone
+T12	DNA 603 640	double-stranded oligonucleotide probe
+T13	DNA 702 722	long terminal repeat
+T14	DNA 724 727	LTR
+T15	DNA 734 747	cDNA sequence
+T16	DNA 755 780	813-bp open reading frame
+T17	DNA 782 785	ORF
+T18	protein 849 881	272 carboxy-terminal amino acids
+T19	protein 889 908	human ets-1 protein
+T20	DNA 914 917	ORF
+T21	protein 953 974	30-kD protein product
+T22	DNA 1113 1123	mutant LTR
+T23	DNA 1171 1189	ets-1 binding site
+T24	DNA 1288 1304	MSV LTR promoter
+T25	DNA 1331 1349	ets-1 binding site
+T26	DNA 1384 1402	wild-type promoter
+T27	cell_type 1406 1425	mouse T lymphocytes
+T28	DNA 1486 1499	reporter gene
+T29	protein 1530 1535	ets-1
+T30	DNA 1629 1646	ets-related genes
+T31	protein 1673 1704	eukaryotic DNA-binding proteins

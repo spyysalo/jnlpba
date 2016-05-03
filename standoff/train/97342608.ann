@@ -1,0 +1,38 @@
+T1	protein 33 38	Egr-1
+T2	DNA 53 101	human interleukin-2 receptor beta-chain promoter
+T3	DNA 110 148	noncanonical Egr and Sp1 binding sites
+T4	protein 154 192	interleukin-2 IL-2 receptor beta-chain
+T5	protein 194 203	IL-2Rbeta
+T6	protein 252 256	IL-2
+T7	protein 261 266	IL-15
+T8	protein 277 286	IL-2Rbeta
+T9	DNA 524 549	nucleotides -170 and -139
+T10	DNA 563 581	IL-2Rbeta promoter
+T11	protein 588 591	Sp1
+T12	protein 596 599	Sp3
+T13	DNA 613 623	5' portion
+T14	protein 650 670	PMA-inducible factor
+T15	protein 672 675	PIF
+T16	DNA 697 707	3' portion
+T17	DNA 725 742	Sp binding motifs
+T18	cell_line 755 769	Jurkat T cells
+T19	protein 784 787	PIF
+T20	protein 934 937	PIF
+T21	cell_line 970 1027	human T-cell leukemia virus type 1-transformed MT-2 cells
+T22	protein 1064 1067	PIF
+T23	protein 1071 1076	Egr-1
+T24	protein 1110 1115	Egr-1
+T25	DNA 1171 1198	IL-2Rbeta DNA binding motif
+T26	DNA 1241 1259	Egr-1 binding site
+T27	protein 1274 1279	Egr-1
+T28	DNA 1293 1308	Sp binding site
+T29	cell_line 1313 1325	Jurkat cells
+T30	protein 1364 1373	IL-2Rbeta
+T31	protein 1430 1435	Egr-1
+T32	protein 1514 1517	Sp1
+T33	protein 1522 1527	Egr-1
+T34	protein 1602 1607	Egr-1
+T35	cell_line 1611 1623	Jurkat cells
+T36	protein 1652 1655	Sp1
+T37	protein 1660 1665	Egr-1
+T38	DNA 1723 1741	IL-2Rbeta promoter

@@ -1,0 +1,29 @@
+T1	protein 0 5	BCL-6
+T2	DNA 72 82	BCL-6 gene
+T3	protein 171 176	BCL-6
+T4	DNA 210 232	5' untranslated region
+T5	DNA 269 290	translocation partner
+T6	protein 321 326	BCL-6
+T7	cell_type 354 365	lymphocytes
+T8	cell_type 396 423	Resting B and T lymphocytes
+T9	RNA 447 457	BCL-6 mRNA
+T10	cell_type 474 487	mouse B cells
+T11	protein 493 519	anti-IgM or IgD antibodies
+T12	protein 602 613	CD40 ligand
+T13	RNA 656 666	BCL-6 mRNA
+T14	RNA 701 711	BCL-6 mRNA
+T15	cell_type 724 737	human B cells
+T16	protein 781 794	interleukin-2
+T17	protein 798 817	anti-IgM antibodies
+T18	cell_type 825 844	human T lymphocytes
+T19	protein 861 879	phytohemagglutinin
+T20	RNA 881 891	BCL-6 mRNA
+T21	cell_type 1014 1021	B cells
+T22	protein 1052 1057	BCL-6
+T23	cell_type 1075 1092	activated B cells
+T24	protein 1232 1237	BCL-6
+T25	cell_type 1292 1315	germinal center B cells
+T26	cell_type 1324 1339	resting B cells
+T27	protein 1357 1362	BCL-6
+T28	cell_type 1542 1549	B cells
+T29	protein 1587 1592	BCL-6

@@ -1,0 +1,24 @@
+T1	protein 0 4	Jak3
+T2	protein 24 28	CD40
+T3	protein 49 53	CD40
+T4	cell_type 86 93	B cells
+T5	protein 95 99	CD40
+T6	cell_type 199 212	B lymphocytes
+T7	protein 223 227	CD40
+T8	protein 356 360	CD40
+T9	protein 405 409	CD40
+T10	protein 461 465	Jak3
+T11	protein 480 485	STAT3
+T12	protein 487 491	Jak3
+T13	protein 526 530	CD40
+T14	protein 564 585	proline-rich sequence
+T15	protein 593 617	membrane-proximal region
+T16	protein 621 625	CD40
+T17	protein 679 683	CD40
+T18	protein 708 712	CD23
+T19	protein 714 720	ICAM-1
+T20	DNA 726 749	lymphotoxin-alpha genes
+T21	cell_type 753 760	B cells
+T22	protein 808 812	Jak3
+T23	protein 829 833	CD40
+T24	protein 865 869	CD40

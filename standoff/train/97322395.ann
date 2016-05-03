@@ -1,0 +1,23 @@
+T1	protein 0 38	CCAAT/enhancer binding protein epsilon
+T2	DNA 173 182	promoters
+T3	protein 210 256	CCAAT/enhancer binding protein (C/EBP) epsilon
+T4	protein 292 304	C/EBP family
+T5	protein 308 329	transcription factors
+T6	DNA 397 420	human C/EBPepsilon gene
+T7	DNA 455 464	promoters
+T8	DNA 466 472	Palpha
+T9	DNA 477 482	Pbeta
+T10	DNA 546 555	promoters
+T11	RNA 571 584	mRNA isoforms
+T12	RNA 693 701	32.2 kDa
+T13	RNA 703 711	27.8 kDa
+T14	RNA 717 725	14.3 kDa
+T15	protein 759 769	antibodies
+T16	RNA 864 881	C/EBPepsilon mRNA
+T17	cell_type 950 977	human primary CD34(+) cells
+T18	cell_line 1006 1039	HL60 promyelocytic leukemia cells
+T19	RNA 1058 1075	C/EBPepsilon mRNA
+T20	protein 1283 1299	32.2-kDa protein
+T21	DNA 1336 1391	granulocyte colony-stimulating factor receptor promoter
+T22	protein 1403 1419	14.3-kDa protein
+T23	protein 1434 1446	C/EBPepsilon

@@ -1,0 +1,29 @@
+T1	cell_type 0 38	Peripheral blood T cells and monocytes
+T2	cell_line 43 55	B cell lines
+T3	cell_type 147 159	normal cells
+T4	RNA 201 235	estrogen receptor (ER) transcripts
+T5	cell_type 249 261	immune cells
+T6	cell_type 343 381	Peripheral blood monocytes and T cells
+T7	cell_type 455 462	T cells
+T8	cell_type 483 486	CD4
+T9	cell_type 491 494	CD8
+T10	cell_type 501 510	monocytes
+T11	cell_type 515 522	T cells
+T12	cell_line 606 618	B cell lines
+T13	cell_line 631 648	B cell hybridomas
+T14	RNA 777 784	ER mRNA
+T15	DNA 854 858	cDNA
+T16	RNA 925 932	ER mRNA
+T17	DNA 1006 1015	exons 1-8
+T18	RNA 1071 1084	human ER mRNA
+T19	RNA 1127 1141	ER transcripts
+T20	DNA 1218 1224	exon 5
+T21	DNA 1228 1234	exon 7
+T22	protein 1254 1276	hormone binding domain
+T23	protein 1465 1493	functional receptor proteins
+T24	RNA 1556 1563	ER mRNA
+T25	cell_type 1668 1677	Monocytes
+T26	cell_type 1679 1686	T cells
+T27	cell_type 1692 1699	B cells
+T28	protein 1746 1758	wild type ER
+T29	protein 1767 1798	hormone binding domain variants

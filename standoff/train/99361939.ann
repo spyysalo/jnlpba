@@ -1,0 +1,20 @@
+T1	cell_line 41 53	32Dcl3 cells
+T2	DNA 57 71	AML1/ETO(MTG8)
+T3	protein 100 105	Bcl-2
+T4	DNA 111 125	chimeric gene,
+T5	DNA 126 141	AML1/ETO (MTG8)
+T6	DNA 156 163	t(8;21)
+T7	protein 214 219	Bcl-2
+T8	DNA 281 289	AML1/ETO
+T9	protein 339 344	Bcl-2
+T10	cell_line 352 386	murine myeloid precursor cell line
+T11	cell_line 388 394	32Dcl3
+T12	cell_line 416 428	32Dcl3 cells
+T13	protein 450 455	Bcl-2
+T14	protein 608 613	Bcl-2
+T15	protein 702 707	Bcl-2
+T16	cell_line 726 738	32Dcl3 cells
+T17	DNA 757 765	AML1/ETO
+T18	protein 852 857	G-CSF
+T19	protein 932 937	Bcl-2
+T20	DNA 978 986	AML1/ETO

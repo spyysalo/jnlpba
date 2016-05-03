@@ -1,0 +1,31 @@
+T1	protein 41 51	NF-kappa B
+T2	cell_type 110 125	human monocytes
+T3	cell_type 130 143	T lymphocytes
+T4	protein 243 270	PC-specific phospholipase C
+T5	protein 272 278	PC-PLC
+T6	protein 336 342	PC-PLC
+T7	protein 376 386	NF-kappa B
+T8	DNA 401 444	human immunodeficiency virus (HIV) enhancer
+T9	protein 519 537	p50/p65 NF-kappa B
+T10	cell_line 574 584	cell lines
+T11	cell_line 700 720	PC-PLC-treated cells
+T12	protein 735 745	NF-kappa B
+T13	protein 749 755	PC-PLC
+T14	protein 837 858	tumor necrosis factor
+T15	protein 862 875	interleukin 1
+T16	cell_line 880 927	human monocytic and lymphoblastoid T-cell lines
+T17	protein 942 952	NF-kappa B
+T18	protein 956 962	PC-PLC
+T19	protein 994 1004	luciferase
+T20	DNA 1052 1079	synthetic kappa B enhancers
+T21	DNA 1119 1154	HIV long terminal repeat constructs
+T22	protein 1189 1195	PC-PLC
+T23	cell_type 1220 1229	monocytes
+T24	cell_type 1236 1247	lymphocytes
+T25	protein 1295 1311	exogenous PC-PLC
+T26	protein 1392 1425	phosphatidylinositol-specific PLC
+T27	protein 1490 1523	kappa B enhancer-directed vectors
+T28	protein 1610 1651	phorbol ester-inducible protein kinases C
+T29	cell_type 1767 1780	T lymphocytes
+T30	cell_type 1785 1794	monocytes
+T31	DNA 1922 1934	HIV enhancer

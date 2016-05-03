@@ -1,0 +1,18 @@
+T1	protein 14 35	1,25(OH)2D3 receptors
+T2	cell_type 39 59	alveolar lymphocytes
+T3	protein 314 335	1,25(OH)2D3 receptors
+T4	cell_type 339 369	peripheral blood T-lymphocytes
+T5	protein 742 763	1,25(OH)2D3 receptors
+T6	cell_type 927 956	receptor-positive lymphocytes
+T7	cell_type 1023 1040	blood lymphocytes
+T8	protein 1110 1131	1,25(OH)2D3 receptors
+T9	cell_type 1151 1171	lavage T-lymphocytes
+T10	protein 1183 1204	1,25(OH)2D3 receptors
+T11	protein 1366 1387	1,25(OH)2D3 receptors
+T12	cell_type 1426 1444	CD8+ T-lymphocytes
+T13	cell_type 1453 1471	CD4+ T-lymphocytes
+T14	cell_type 1520 1524	CD4+
+T15	cell_type 1533 1551	CD8+ T-lymphocytes
+T16	cell_type 1703 1716	T-lymphocytes
+T17	cell_type 1845 1867	lymphocyte populations
+T18	protein 1899 1924	immunoregulatory molecule

@@ -1,0 +1,17 @@
+T1	protein 30 64	Epstein-Barr virus-encoded dUTPase
+T2	protein 134 144	antibodies
+T3	protein 157 163	enzyme
+T4	protein 187 228	Epstein-Barr virus (EBV)-specific dUTPase
+T5	DNA 248 257	virus DNA
+T6	cell_type 325 337	insect cells
+T7	protein 343 361	non-fusion protein
+T8	protein 558 565	dUTPase
+T9	cell_line 616 678	12-O-tetradecanoyl-phorbol-13-acetate (TPA)-stimulated B cells
+T10	cell_type 744 759	untreated cells
+T11	protein 861 891	immediate early transactivator
+T12	protein 892 897	BZLF1
+T13	protein 966 979	virus dUTPase
+T14	cell_type 994 1012	EBV-infected cells
+T15	protein 1018 1032	phosphoprotein
+T16	cell_type 1059 1071	insect cells
+T17	protein 1109 1128	specific antibodies

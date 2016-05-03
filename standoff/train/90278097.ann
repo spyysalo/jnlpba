@@ -1,0 +1,21 @@
+T1	DNA 18 23	c-fos
+T2	DNA 25 30	c-jun
+T3	DNA 36 47	c-myc genes
+T4	cell_type 78 98	human lymphoid cells
+T5	DNA 150 172	nuclear protooncogenes
+T6	DNA 173 178	c-fos
+T7	DNA 180 185	c-jun
+T8	DNA 191 196	c-myc
+T9	cell_type 212 232	human lymphoid cells
+T10	RNA 313 323	c-myc mRNA
+T11	cell_line 334 372	pre-B (Hyon) and T (DND-41) cell lines
+T12	DNA 469 483	protooncogenes
+T13	cell_line 487 497	Hyon cells
+T14	DNA 662 667	c-fos
+T15	DNA 672 683	c-myc genes
+T16	cell_line 749 759	Hyon cells
+T17	RNA 775 785	c-myc mRNA
+T18	RNA 875 885	c-myc mRNA
+T19	DNA 1000 1022	nuclear protooncogenes
+T20	DNA 1072 1094	nuclear protooncogenes
+T21	cell_type 1121 1135	lymphoid cells

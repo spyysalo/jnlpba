@@ -1,0 +1,21 @@
+T1	protein 57 78	HLA class II antigens
+T2	cell_type 82 93	lymphocytes
+T3	protein 128 148	trans-acting factors
+T4	DNA 175 192	HLA class II gene
+T5	DNA 242 256	class II genes
+T6	protein 260 275	soluble factors
+T7	protein 297 316	trans-acting factor
+T8	cell_type 358 385	B-lymphoblastoid cell lines
+T9	DNA 530 544	class II genes
+T10	DNA 579 593	class II genes
+T11	protein 785 802	class II antigens
+T12	cell_line 897 914	mutant cell lines
+T13	protein 1004 1010	NFX1.1
+T14	protein 1015 1021	NFX1.2
+T15	DNA 1040 1063	DRA X consensus element
+T16	cell_line 1101 1112	mutant line
+T17	cell_line 1133 1140	RJ2.2.5
+T18	DNA 1196 1201	X box
+T19	protein 1231 1237	NFX1.1
+T20	protein 1241 1247	NFX1.2
+T21	cell_line 1276 1293	mutant cell lines

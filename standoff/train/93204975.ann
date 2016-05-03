@@ -1,0 +1,45 @@
+T1	DNA 30 58	human zeta 2 globin promoter
+T2	DNA 66 97	alpha globin regulatory element
+T3	DNA 99 104	HS-40
+T4	protein 135 163	nuclear factor-DNA complexes
+T5	DNA 211 249	human embryonic zeta 2 globin promoter
+T6	DNA 258 289	alpha globin regulatory element
+T7	DNA 291 296	HS-40
+T8	DNA 306 320	40 kb upstream
+T9	DNA 328 346	zeta 2 globin gene
+T10	DNA 396 401	HS-40
+T11	DNA 426 434	enhancer
+T12	DNA 450 472	zeta 2 globin promoter
+T13	cell_line 485 495	K562 cells
+T14	DNA 609 627	zeta 2 globin gene
+T15	DNA 667 688	enhancerless plasmids
+T16	DNA 717 731	HS-40 enhancer
+T17	DNA 757 779	zeta 2 globin promoter
+T18	DNA 830 835	HS-40
+T19	DNA 845 867	zeta 2 globin promoter
+T20	DNA 998 1003	HS-40
+T21	DNA 1162 1167	HS-40
+T22	DNA 1212 1234	zeta 2 globin promoter
+T23	DNA 1292 1300	enhancer
+T24	DNA 1348 1353	HS-40
+T25	protein 1389 1394	NF-E2
+T26	protein 1403 1427	AP1 transcription factor
+T27	DNA 1473 1494	HS-40 enhancer region
+T28	cell_line 1498 1508	K562 cells
+T29	cell_line 1510 1539	adult nucleated erythroblasts
+T30	cell_type 1555 1573	nonerythroid cells
+T31	DNA 1625 1630	HS-40
+T32	protein 1695 1709	nuclear factor
+T33	cell_line 1723 1733	K562 cells
+T34	cell_type 1745 1763	nonerythroid cells
+T35	DNA 1811 1840	nonfunctional sequence motifs
+T36	cell_line 1890 1894	K562
+T37	cell_line 1896 1919	nucleated erythroblasts
+T38	protein 1997 2011	nuclear factor
+T39	DNA 2035 2040	HS-40
+T40	DNA 2103 2137	human embryonic zeta 2 globin gene
+T41	DNA 2146 2176	fetal/adult alpha globin genes
+T42	protein 2220 2277	developmental stage-specific nuclear factor-DNA complexes
+T43	DNA 2296 2304	enhancer
+T44	DNA 2306 2311	HS-40
+T45	DNA 2321 2337	globin promoters

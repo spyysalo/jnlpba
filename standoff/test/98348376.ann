@@ -1,0 +1,25 @@
+T1	cell_type 36 53	human lymphocytes
+T2	cell_line 94 131	cultured human B-lymphoblastoid cells
+T3	cell_line 133 138	B-LCL
+T4	cell_type 145 175	peripheral blood T and B cells
+T5	RNA 299 310	transcripts
+T6	cell_type 352 374	peripheral lymphocytes
+T7	protein 379 385	CYP11A
+T8	protein 387 392	CYP17
+T9	protein 394 400	HSD11L
+T10	protein 402 439	11beta-hydroxysteroid dehydrogenase I
+T11	protein 442 449	HSD17B1
+T12	protein 451 493	17beta-hydroxysteroid dehydrogenase type I
+T13	protein 499 505	SRD5A1
+T14	protein 507 525	5alpha-reductase I
+T15	cell_type 543 556	T and B cells
+T16	protein 568 574	CYP11B
+T17	protein 608 614	HSD3B1
+T18	protein 619 625	HSD3B2
+T19	protein 627 670	3beta-hydroxysteroid dehydrogenase I and II
+T20	cell_line 675 680	B-LCL
+T21	cell_type 685 692	T cells
+T22	protein 710 715	CYP19
+T23	protein 720 726	HSD11K
+T24	protein 803 834	17-hydroxysteroid dehydrogenase
+T25	protein 839 855	5alpha-reductase

@@ -1,0 +1,53 @@
+T1	protein 0 5	IL-12
+T2	protein 14 45	IFN regulating factor-1 (IRF-1)
+T3	cell_type 71 73	NK
+T4	cell_type 78 85	T cells
+T5	protein 87 92	IL-12
+T6	protein 98 132	critical immunoregulatory cytokine
+T7	cell_type 211 221	CD4+ cells
+T8	cell_type 225 234	Th1 cells
+T9	protein 260 265	IL-12
+T10	protein 342 347	IL-12
+T11	protein 405 410	IL-12
+T12	DNA 433 438	IL-12
+T13	DNA 444 469	IFN-alpha-inducible genes
+T14	protein 515 520	IL-12
+T15	protein 530 540	MIP-1alpha
+T16	protein 542 551	MIP-1beta
+T17	protein 553 559	IL-1RA
+T18	protein 565 596	IFN regulatory factor-1 (IRF-1)
+T19	protein 598 603	IRF-1
+T20	protein 609 629	transcription factor
+T21	protein 643 647	IFNs
+T22	cell_type 675 678	Th1
+T23	protein 711 716	IL-12
+T24	protein 739 744	IRF-1
+T25	protein 767 776	IFN-alpha
+T26	cell_type 793 800	T cells
+T27	cell_type 808 816	NK cells
+T28	protein 833 838	IL-12
+T29	protein 862 867	IRF-1
+T30	protein 923 932	IFN-gamma
+T31	protein 958 962	IL-2
+T32	protein 967 972	IL-12
+T33	protein 997 1002	IRF-1
+T34	protein 1012 1021	IFN-alpha
+T35	protein 1026 1031	IL-12
+T36	protein 1062 1067	STAT4
+T37	protein 1089 1094	IRF-1
+T38	protein 1132 1137	STAT4
+T39	protein 1159 1164	IL-12
+T40	DNA 1197 1221	IRF-1 reporter construct
+T41	protein 1235 1240	STAT4
+T42	DNA 1256 1270	IRF-1 promoter
+T43	protein 1308 1313	IL-12
+T44	protein 1335 1340	IRF-1
+T45	cell_line 1354 1375	IL-4-stimulated cells
+T46	protein 1381 1385	IL-4
+T47	protein 1400 1405	IL-12
+T48	protein 1433 1438	IRF-1
+T49	protein 1451 1456	IRF-1
+T50	protein 1492 1497	IL-12
+T51	protein 1545 1550	IL-12
+T52	protein 1569 1572	IRF
+T53	protein 1638 1658	transcription factor

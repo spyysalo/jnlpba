@@ -1,0 +1,20 @@
+T1	DNA 12 23	globin gene
+T2	cell_type 49 84	differentiated embryonic stem cells
+T3	cell_type 94 125	mouse embryonic stem (ES) cells
+T4	DNA 135 146	globin gene
+T5	cell_type 195 221	ES-derived embryoid bodies
+T6	DNA 253 281	mouse embryonic globin genes
+T7	DNA 372 389	fetal/adult genes
+T8	protein 408 447	erythroid-specific transcription factor
+T9	protein 448 453	NF-E1
+T10	protein 506 512	globin
+T11	cell_type 516 531	embryoid bodies
+T12	DNA 659 694	human epsilon- or beta-globin genes
+T13	DNA 709 732	dominant control region
+T14	DNA 734 737	DCR
+T15	DNA 776 801	human epsilon-globin gene
+T16	DNA 822 838	beta-globin gene
+T17	DNA 882 885	DCR
+T18	DNA 918 932	embryonic gene
+T19	DNA 965 984	epsilon-globin gene
+T20	DNA 1041 1064	human beta-globin locus

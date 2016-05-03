@@ -1,0 +1,9 @@
+T1	protein 37 54	RNA polymerase II
+T2	protein 313 318	TFIID
+T3	DNA 358 385	RNA polymerase II promoters
+T4	protein 437 454	RNA polymerase II
+T5	cell_type 508 525	human lymphocytes
+T6	protein 558 564	TFIIDs
+T7	protein 695 720	acidic activator proteins
+T8	protein 942 968	general initiation factors
+T9	protein 1003 1020	acidic activators

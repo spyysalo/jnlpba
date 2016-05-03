@@ -1,0 +1,18 @@
+T1	protein 19 24	TRAF2
+T2	protein 49 72	CD40 cytoplasmic domain
+T3	protein 74 79	TRAF2
+T4	protein 85 120	signal transducing adaptor molecule
+T5	protein 140 163	CD40 cytoplasmic domain
+T6	cell_line 274 283	293 cells
+T7	protein 373 378	TRAF2
+T8	protein 498 515	wild-type protein
+T9	protein 560 565	TRAF2
+T10	protein 631 635	CD40
+T11	protein 679 702	CD40 cytoplasmic domain
+T12	protein 754 759	TRAF2
+T13	protein 769 780	phosphatase
+T14	protein 829 834	TRAF2
+T15	protein 838 842	CD40
+T16	protein 903 908	TRAF2
+T17	protein 1011 1015	CD40
+T18	protein 1015 1021	-TRAF2

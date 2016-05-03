@@ -1,0 +1,21 @@
+T1	protein 14 30	protein kinase C
+T2	protein 87 92	c-Fos
+T3	protein 97 101	AP-1
+T4	protein 185 201	protein kinase C
+T5	protein 203 206	PKC
+T6	protein 331 333	Gs
+T7	protein 454 457	PKC
+T8	protein 483 501	adenosine receptor
+T9	protein 598 603	c-Fos
+T10	protein 608 611	Jun
+T11	protein 667 687	transcription factor
+T12	protein 689 708	activator protein-1
+T13	protein 710 714	AP-1
+T14	protein 969 974	c-Fos
+T15	protein 989 992	Jun
+T16	protein 1031 1035	AP-1
+T17	protein 1079 1083	AP-1
+T18	protein 1164 1167	PKC
+T19	protein 1270 1273	PKC
+T20	protein 1317 1321	AP-1
+T21	cell_line 1352 1372	T-leukemia cell line

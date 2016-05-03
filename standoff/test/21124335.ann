@@ -1,0 +1,16 @@
+T1	protein 54 73	endogenous RARalpha
+T2	DNA 180 224	retinoic acid receptor alpha (RARalpha) gene
+T3	protein 276 295	endogenous RARalpha
+T4	protein 571 609	agonist-bound and ligand-free RARalpha
+T5	protein 640 648	RARalpha
+T6	cell_type 713 742	normal granulocyte population
+T7	protein 845 853	RARalpha
+T8	protein 899 907	RARalpha
+T9	cell_type 1134 1155	immature granulocytes
+T10	protein 1190 1198	RARalpha
+T11	protein 1247 1253	ligand
+T12	cell_type 1262 1284	granulocyte precursors
+T13	protein 1388 1396	RARalpha
+T14	protein 1397 1412	fusion proteins
+T15	cell_type 1426 1435	APL cells
+T16	protein 1495 1514	unliganded RARalpha

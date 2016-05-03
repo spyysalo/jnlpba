@@ -1,0 +1,29 @@
+T1	cell_type 82 95	myeloid cells
+T2	protein 99 113	NF-kappa B/Rel
+T3	protein 114 135	transcription factors
+T4	cell_line 137 153	CD4+ macrophages
+T5	cell_type 202 221	promyelocytic cells
+T6	cell_type 242 268	peripheral blood monocytes
+T7	cell_type 387 400	myeloid cells
+T8	cell_type 529 542	myeloid cells
+T9	protein 573 590	surface receptors
+T10	protein 701 710	cytokines
+T11	protein 873 903	cellular transcription factors
+T12	protein 912 922	NF-kappa B
+T13	protein 924 934	NF-kappa B
+T14	DNA 948 962	HIV-1 enhancer
+T15	DNA 977 997	long terminal repeat
+T16	protein 1141 1162	cytoplasmic inhibitor
+T17	protein 1163 1172	I kappa B
+T18	protein 1230 1240	NF-kappa B
+T19	protein 1298 1307	I kappa B
+T20	cell_type 1388 1401	myeloid cells
+T21	protein 1424 1434	NF-kappa B
+T22	protein 1574 1591	latent NF-kappa B
+T23	protein 1633 1643	NF-kappa B
+T24	protein 1654 1662	cytokine
+T25	protein 1751 1759	cytokine
+T26	cell_line 1846 1874	HIV-1-infected myeloid cells
+T27	cell_type 1889 1905	uninfected cells
+T28	protein 1934 1956	inflammatory cytokines
+T29	protein 2032 2062	myeloid cell-derived cytokines

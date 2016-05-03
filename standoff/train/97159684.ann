@@ -1,0 +1,53 @@
+T1	protein 0 7	V3 loop
+T2	protein 58 71	interleukin 2
+T3	protein 249 258	V3 region
+T4	protein 346 350	IL-2
+T5	protein 380 387	V3-BH10
+T6	protein 407 421	42 amino acids
+T7	protein 432 446	loop structure
+T8	protein 459 463	IL-2
+T9	cell_line 492 512	IL-2-dependent cells
+T10	cell_line 514 520	Kit225
+T11	cell_line 522 533	ED-40515(+)
+T12	cell_line 535 539	KT-3
+T13	cell_line 541 557	7-day PHA-blasts
+T14	cell_type 563 603	fresh peripheral blood mononuclear cells
+T15	cell_line 660 687	IL-2-independent cell lines
+T16	cell_line 689 695	Hut102
+T17	cell_line 697 703	Molt-4
+T18	cell_line 709 715	Jurkat
+T19	protein 759 763	IL-2
+T20	cell_type 786 810	CD8-positive lymphocytes
+T21	cell_type 825 841	7-day PHA-blasts
+T22	protein 859 872	CD4 molecules
+T23	protein 931 963	anti-V3 loop monoclonal antibody
+T24	protein 965 977	902 antibody
+T25	protein 1026 1033	V3-BH10
+T26	protein 1048 1055	V3-BH10
+T27	cell_line 1080 1092	Kit225 cells
+T28	cell_line 1102 1135	purified CD8-positive lymphocytes
+T29	protein 1167 1171	IL-2
+T30	DNA 1181 1190	chromatin
+T31	cell_line 1242 1254	Kit225 cells
+T32	protein 1269 1276	V3-BH10
+T33	protein 1281 1285	IL-2
+T34	protein 1287 1294	V3-BH10
+T35	protein 1324 1328	IL-2
+T36	protein 1340 1354	IL-2 receptors
+T37	protein 1403 1420	cellular proteins
+T38	protein 1422 1426	p120
+T39	protein 1428 1431	p98
+T40	protein 1433 1436	p96
+T41	protein 1438 1441	p54
+T42	protein 1447 1450	p38
+T43	protein 1485 1489	IL-2
+T44	protein 1512 1519	V3-BH10
+T45	protein 1529 1533	IL-2
+T46	RNA 1533 1546	-induced mRNA
+T47	DNA 1561 1566	c-fos
+T48	DNA 1575 1580	c-myc
+T49	DNA 1584 1588	junB
+T50	protein 1611 1618	V3 loop
+T51	protein 1622 1627	gp120
+T52	protein 1692 1696	IL-2
+T53	protein 1742 1746	IL-2

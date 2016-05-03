@@ -1,0 +1,31 @@
+T1	protein 8 30	retinoic acid receptor
+T2	protein 32 35	RAR
+T3	cell_line 100 111	HL-60 cells
+T4	protein 129 137	RARalpha
+T5	cell_type 158 180	myeloid leukemic cells
+T6	cell_line 209 220	HL-60 cells
+T7	cell_type 254 273	mature granulocytes
+T8	protein 382 403	transcription factors
+T9	protein 405 428	retinoic acid receptors
+T10	protein 430 434	RARs
+T11	protein 440 460	retinoid X receptors
+T12	protein 462 466	RXRs
+T13	protein 469 473	RARs
+T14	protein 478 482	RXRs
+T15	protein 488 500	heterodimers
+T16	protein 584 587	RAR
+T17	protein 634 637	RAR
+T18	protein 704 707	RXR
+T19	protein 712 715	RAR
+T20	protein 744 747	RAR
+T21	cell_type 825 847	myeloid leukemic cells
+T22	protein 870 874	RXRs
+T23	cell_line 1056 1075	HL-60 and NB4 cells
+T24	protein 1089 1092	RAR
+T25	protein 1233 1246	BCL-2 protein
+T26	cell_type 1283 1305	myeloid leukemic cells
+T27	cell_line 1320 1331	HL-60 cells
+T28	DNA 1350 1373	bcl-2 expression vector
+T29	cell_line 1435 1455	parental HL-60 cells
+T30	cell_line 1501 1523	bcl-2-transduced cells
+T31	cell_type 1602 1624	myeloid leukemic cells

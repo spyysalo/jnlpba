@@ -1,0 +1,12 @@
+T1	protein 0 20	Transcription factor
+T2	cell_line 59 71	cell hybrids
+T3	cell_line 78 121	immunoglobulin (Ig)-secreting plasmacytomas
+T4	cell_type 137 152	T-cell lymphoma
+T5	DNA 154 161	Ig gene
+T6	DNA 292 319	B lymphocyte-specific genes
+T7	cell_line 375 396	Ig-expressing hybrids
+T8	protein 543 586	T-cell-derived chromosome encoding a factor
+T9	cell_line 766 819	Ig-silenced (common) and Ig-expressing (rare) hybrids
+T10	DNA 879 886	Ig gene
+T11	protein 1042 1078	B-cell-specific transcription factor
+T12	protein 1080 1085	Oct-2

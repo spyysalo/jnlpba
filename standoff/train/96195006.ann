@@ -1,0 +1,17 @@
+T1	protein 21 46	transcriptional repressor
+T2	protein 47 51	ICER
+T3	cell_type 70 96	mature human T lymphocytes
+T4	cell_type 304 311	T cells
+T5	cell_type 328 335	T cells
+T6	cell_type 471 495	peripheral T lymphocytes
+T7	cell_type 539 546	T cells
+T8	protein 584 616	potent transcriptional repressor
+T9	protein 617 621	ICER
+T10	protein 623 653	inducible cAMP early repressor
+T11	protein 764 768	ICER
+T12	protein 778 789	calcineurin
+T13	DNA 817 839	interleukin 2 promoter
+T14	protein 851 854	Tax
+T15	DNA 887 938	human T-lymphotropic virus type I (HTLV-I) promoter
+T16	protein 963 967	ICER
+T17	cell_type 971 978	T cells

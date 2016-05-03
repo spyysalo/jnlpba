@@ -1,0 +1,17 @@
+T1	protein 97 131	phosphotyrosine-containing protein
+T2	DNA 137 157	proto-oncogene c-fos
+T3	DNA 164 184	immediate-early gene
+T4	DNA 431 453	serum response element
+T5	DNA 455 458	SRE
+T6	DNA 467 490	c-fos regulatory region
+T7	protein 545 559	growth factors
+T8	protein 652 667	protein complex
+T9	protein 669 675	Band A
+T10	DNA 686 693	SRE DNA
+T11	cell_line 739 750	human PBL-T
+T12	protein 789 795	Band A
+T13	protein 809 830	serum response factor
+T14	cell_line 916 929	resting PBL-T
+T15	protein 967 973	Band A
+T16	DNA 981 990	SRE motif
+T17	protein 1073 1079	Band A

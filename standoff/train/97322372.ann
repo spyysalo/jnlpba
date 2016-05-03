@@ -1,0 +1,34 @@
+T1	protein 39 98	type II bare lymphocyte syndrome-associated transactivators
+T2	protein 99 104	CIITA
+T3	protein 109 113	RFX5
+T4	protein 320 324	RFX5
+T5	protein 350 384	RFX family of DNA binding proteins
+T6	protein 397 402	CIITA
+T7	protein 443 483	acidic transcriptional activation domain
+T8	DNA 526 545	Expression plasmids
+T9	protein 566 570	RFX5
+T10	protein 584 607	GAL4 DNA binding domain
+T11	DNA 669 679	GAL4 sites
+T12	cell_line 713 735	Raji human B cell line
+T13	DNA 752 760	plasmids
+T14	cell_line 798 808	HeLa cells
+T15	protein 834 850	interferon gamma
+T16	protein 904 909	CIITA
+T17	protein 914 972	class II major histocompatibility complex surface proteins
+T18	DNA 1005 1013	plasmids
+T19	cell_line 1033 1040	RJ2.2.5
+T20	cell_line 1080 1084	Raji
+T21	protein 1109 1114	CIITA
+T22	protein 1164 1183	RFX5 fusion protein
+T23	cell_line 1205 1212	RJ2.2.5
+T24	DNA 1238 1262	CIITA expression plasmid
+T25	protein 1302 1306	RFX5
+T26	protein 1311 1316	CIITA
+T27	protein 1391 1395	RFX5
+T28	protein 1448 1453	CIITA
+T29	protein 1455 1459	RFX5
+T30	protein 1464 1469	CIITA
+T31	DNA 1539 1590	class II major histocompatibility complex promoters
+T32	protein 1673 1677	RFX5
+T33	protein 1738 1762	acidic activation domain
+T34	protein 1766 1771	CIITA

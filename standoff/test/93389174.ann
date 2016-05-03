@@ -1,0 +1,34 @@
+T1	protein 12 16	IL-2
+T2	protein 21 25	IL-4
+T3	cell_type 79 85	T cell
+T4	cell_type 157 163	T cell
+T5	protein 369 373	IL-2
+T6	protein 378 382	IL-4
+T7	protein 513 537	glucocorticoid receptors
+T8	protein 539 541	GR
+T9	cell_type 577 581	PBMC
+T10	protein 676 685	cytokines
+T11	protein 761 765	IL-2
+T12	protein 768 772	IL-4
+T13	cell_type 902 906	PBMC
+T14	cell_type 1017 1021	PBMC
+T15	protein 1042 1046	IL-2
+T16	protein 1056 1060	IL-4
+T17	cell_type 1133 1140	T cells
+T18	cell_type 1145 1156	non-T cells
+T19	cell_type 1288 1305	T cell population
+T20	protein 1535 1539	IL-2
+T21	protein 1542 1546	IL-4
+T22	cell_type 1699 1705	T cell
+T23	protein 1738 1742	IL-2
+T24	protein 1745 1749	IL-4
+T25	cell_type 1753 1757	PBMC
+T26	protein 1758 1760	GR
+T27	protein 1825 1834	IFN-gamma
+T28	cell_type 1853 1857	PBMC
+T29	protein 2170 2174	IL-2
+T30	protein 2177 2181	IL-4
+T31	protein 2252 2261	cytokines
+T32	protein 2349 2353	IL-2
+T33	protein 2358 2362	IL-4
+T34	protein 2379 2388	IFN-gamma

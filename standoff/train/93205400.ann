@@ -1,0 +1,30 @@
+T1	protein 4 36	transcriptionally active factors
+T2	protein 65 90	HTLV-I Tax transactivator
+T3	DNA 98 126	IL-2R alpha kappa B enhancer
+T4	DNA 154 174	c-rel proto-oncogene
+T5	protein 195 205	HTLV-I Tax
+T6	DNA 220 228	promoter
+T7	protein 256 290	interleukin 2 alpha-chain receptor
+T8	protein 292 303	IL-2R alpha
+T9	DNA 311 323	kappa B site
+T10	protein 369 379	rel family
+T11	protein 381 385	Tax1
+T12	cell_line 450 465	epithelial HeLa
+T13	cell_line 479 491	Jurkat cells
+T14	protein 594 597	p50
+T15	protein 599 602	p65
+T16	protein 607 619	Rel proteins
+T17	protein 677 688	IL-2R alpha
+T18	DNA 689 701	kappa B site
+T19	protein 725 728	Rel
+T20	protein 733 736	Rel
+T21	protein 742 745	p65
+T22	protein 770 773	Tax
+T23	protein 862 872	NF-kappa B
+T24	DNA 880 904	IL-2R alpha kappa B site
+T25	protein 997 1001	Tax1
+T26	protein 1146 1149	Rel
+T27	protein 1157 1183	functionally active factor
+T28	protein 1263 1273	rel family
+T29	protein 1326 1329	Rel
+T30	DNA 1384 1397	kappa B sites

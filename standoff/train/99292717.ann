@@ -1,0 +1,18 @@
+T1	protein 26 31	STAT3
+T2	cell_type 86 103	human lymphocytes
+T3	DNA 207 230	cytokine-encoding genes
+T4	protein 294 299	STAT3
+T5	protein 305 325	transcription factor
+T6	cell_type 365 382	human lymphocytes
+T7	protein 404 412	catalase
+T8	protein 482 487	STAT3
+T9	protein 496 533	sequence-specific DNA-bound complexes
+T10	protein 701 717	STAT3 antibodies
+T11	protein 757 763	92 kDa
+T12	protein 997 1002	STAT3
+T13	protein 1195 1200	STAT3
+T14	protein 1284 1318	intracellular tyrosine phosphatase
+T15	protein 1343 1348	STAT3
+T16	protein 1477 1482	STAT3
+T17	protein 1597 1600	JAK
+T18	protein 1600 1605	-STAT

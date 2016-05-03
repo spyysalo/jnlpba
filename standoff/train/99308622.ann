@@ -1,0 +1,23 @@
+T1	protein 45 49	JAK3
+T2	protein 49 58	/STAT5a/b
+T3	cell_type 133 140	T cells
+T4	protein 142 163	Janus kinase 3 (JAK3)
+T5	protein 169 196	cytoplasmic tyrosine kinase
+T6	cell_type 210 216	T cell
+T7	protein 246 255	cytokines
+T8	protein 273 332	interleukin-2 (IL-2) receptor common gamma chain (gamma(c))
+T9	protein 358 362	JAK3
+T10	protein 483 487	JAK3
+T11	protein 658 662	JAK3
+T12	protein 711 780	signal transducer and activator of transcription 5a and 5b (STAT5a/b)
+T13	protein 834 843	cytokines
+T14	protein 853 861	gamma(c)
+T15	protein 885 889	IL-2
+T16	cell_type 929 936	T cells
+T17	protein 1151 1156	Zap70
+T18	protein 1160 1166	p56Lck
+T19	protein 1173 1181	anti-CD3
+T20	cell_type 1203 1210	T cells
+T21	protein 1276 1280	JAK3
+T22	cell_type 1328 1334	T cell
+T23	cell_type 1407 1413	T cell

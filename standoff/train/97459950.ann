@@ -1,0 +1,31 @@
+T1	protein 15 25	Spi-1/PU.1
+T2	protein 34 67	activated erythropoietin receptor
+T3	protein 91 94	Epo
+T4	cell_type 124 145	primary erythroblasts
+T5	protein 200 210	Spi-1/PU.1
+T6	protein 216 265	myeloid- and B-cell specific transcription factor
+T7	protein 417 440	erythropoietin receptor
+T8	protein 442 446	EpoR
+T9	protein 455 510	spleen focus forming virus (SFFV) envelope glycoprotein
+T10	protein 592 597	Spi-1
+T11	DNA 618 643	p53 tumor suppressor gene
+T12	cell_type 786 805	Avian erythroblasts
+T13	protein 821 848	activated mouse EpoR(R129C)
+T14	cell_type 869 881	erythrocytes
+T15	protein 897 901	hEpo
+T16	protein 917 922	Spi-1
+T17	protein 1060 1064	hEpo
+T18	protein 1120 1130	mutant p53
+T19	protein 1147 1152	Spi-1
+T20	protein 1157 1168	EpoR(R129C)
+T21	protein 1239 1244	Spi-1
+T22	protein 1253 1273	wild-type mouse EpoR
+T23	protein 1378 1383	Spi-1
+T24	protein 1388 1399	EpoR(R129C)
+T25	cell_line 1477 1514	differentiation-blocked erythroblasts
+T26	protein 1555 1590	endogenous tyrosine kinase receptor
+T27	protein 1591 1596	c-Kit
+T28	protein 1628 1632	PU.1
+T29	cell_type 1780 1801	primary erythroblasts
+T30	protein 1842 1852	Spi-1/PU.1
+T31	protein 1927 1945	gp55-modified EpoR

@@ -1,0 +1,32 @@
+T1	protein 14 52	cellular retinoic acid binding protein
+T2	protein 54 62	CRABP II
+T3	cell_type 71 85	human monocyte
+T4	protein 112 151	Cellular retinoic acid binding proteins
+T5	protein 153 158	CRABP
+T6	protein 164 193	low molecular weight proteins
+T7	protein 346 353	CRABP I
+T8	protein 381 389	CRABP II
+T9	protein 496 504	CRABP II
+T10	cell_type 535 569	human monocyte-derived macrophages
+T11	cell_type 571 574	MAC
+T12	cell_type 587 613	freshly isolated monocytes
+T13	cell_type 615 617	MO
+T14	RNA 624 637	CRABP II mRNA
+T15	cell_type 692 694	MO
+T16	cell_type 698 701	MAC
+T17	cell_type 765 767	MO
+T18	protein 793 801	CRABP II
+T19	protein 887 895	CRABP II
+T20	cell_type 941 943	MO
+T21	cell_type 1002 1005	MAC
+T22	protein 1064 1072	CRABP II
+T23	cell_type 1076 1102	MO-derived dendritic cells
+T24	protein 1121 1124	FCS
+T25	protein 1126 1130	IL-4
+T26	protein 1136 1142	GM-CSF
+T27	cell_type 1159 1162	MAC
+T28	cell_type 1164 1190	MO-derived dendritic cells
+T29	protein 1229 1237	CRABP II
+T30	cell_type 1348 1351	MAC
+T31	cell_type 1364 1366	MO
+T32	cell_type 1371 1386	dendritic cells

@@ -1,0 +1,18 @@
+T1	protein 41 51	Fas ligand
+T2	cell_type 80 93	T lymphocytes
+T3	protein 116 126	NF-kappa B
+T4	protein 131 135	AP-1
+T5	protein 218 228	Fas ligand
+T6	protein 230 234	FasL
+T7	protein 315 356	transcription factors NF-kappa B and AP-1
+T8	protein 382 386	FasL
+T9	protein 454 474	nondegradable mutant
+T10	protein 478 487	I kappa B
+T11	protein 501 505	FasL
+T12	DNA 718 731	FasL promoter
+T13	protein 786 793	p65 Rel
+T14	protein 797 804	Fos/Jun
+T15	DNA 832 865	NF-kappa B and AP-1 binding sites
+T16	protein 914 924	NF-kappa B
+T17	protein 929 933	AP-1
+T18	protein 996 1000	FasL

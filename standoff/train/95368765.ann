@@ -1,0 +1,44 @@
+T1	DNA 20 61	5' end of human thromboxane receptor gene
+T2	DNA 102 139	protein kinase C--responsive elements
+T3	cell_type 165 174	platelets
+T4	protein 176 206	Platelet thromboxane receptors
+T5	protein 306 327	thromboxane receptors
+T6	DNA 393 417	human genomic DNA clones
+T7	DNA 433 451	5' flanking region
+T8	DNA 459 484	thromboxane receptor gene
+T9	DNA 490 511	exon-intron structure
+T10	DNA 519 529	5' portion
+T11	DNA 537 562	thromboxane receptor gene
+T12	DNA 605 624	nucleotide sequence
+T13	DNA 632 657	5' flanking genomic clone
+T14	DNA 673 718	novel human uterine thromboxane receptor cDNA
+T15	RNA 737 741	mRNA
+T16	DNA 742 765	141 bp further upstream
+T17	DNA 775 817	previously identified human placental cDNA
+T18	DNA 827 856	transcription initiation site
+T19	DNA 906 921	560 bp upstream
+T20	DNA 931 959	translation initiation codon
+T21	DNA 964 979	380 bp upstream
+T22	DNA 1011 1040	transcription initiation site
+T23	DNA 1046 1071	thromboxane receptor gene
+T24	DNA 1086 1090	TATA
+T25	DNA 1097 1116	CAAT consensus site
+T26	DNA 1143 1161	5' flanking region
+T27	DNA 1169 1194	thromboxane receptor gene
+T28	DNA 1228 1319	thromboxane receptor gene promoter/chloramphenicol acetyltransferase (CAT) chimera plasmids
+T29	cell_line 1339 1349	K562 cells
+T30	DNA 1363 1380	receptor promoter
+T31	protein 1406 1409	CAT
+T32	DNA 1524 1546	5' deletion constructs
+T33	cell_line 1562 1572	K562 cells
+T34	DNA 1655 1680	thromboxane receptor gene
+T35	DNA 1706 1756	activator protein-2 (AP-2) binding consensus sites
+T36	DNA 1798 1827	transcription initiation site
+T37	DNA 1922 1947	thromboxane receptor gene
+T38	DNA 1969 1994	thromboxane receptor gene
+T39	protein 2040 2056	protein kinase C
+T40	protein 2077 2101	AP-2-like nuclear factor
+T41	DNA 2113 2139	upstream promoter elements
+T42	protein 2233 2263	platelet thromboxane receptors
+T43	DNA 2311 2336	thromboxane receptor gene
+T44	cell_type 2354 2379	platelet-progenitor cells

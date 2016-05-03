@@ -1,0 +1,47 @@
+T1	protein 0 17	Sp family members
+T2	DNA 51 75	promoter proximal repeat
+T3	DNA 87 102	HTLV-I enhancer
+T4	protein 164 186	transactivator protein
+T5	protein 188 191	Tax
+T6	DNA 242 265	21 bp repeated elements
+T7	DNA 277 286	U3 region
+T8	DNA 294 314	long terminal repeat
+T9	DNA 316 319	LTR
+T10	protein 341 354	basal factors
+T11	DNA 376 397	21 bp repeat elements
+T12	protein 486 507	DNA-protein complexes
+T13	DNA 530 543	21 bp repeats
+T14	DNA 545 550	C1-C3
+T15	protein 569 590	DNA-protein complexes
+T16	DNA 607 636	promoter proximal (pp) repeat
+T17	DNA 638 640	U1
+T18	DNA 642 649	U1A/U1B
+T19	DNA 655 657	U2
+T20	protein 760 776	cellular factors
+T21	DNA 838 864	mutated pp repeat elements
+T22	DNA 923 925	U1
+T23	DNA 927 934	U1A/U1B
+T24	DNA 940 942	U2
+T25	DNA 991 996	C1-C3
+T26	protein 1103 1120	Sp family members
+T27	DNA 1148 1150	U1
+T28	DNA 1152 1159	U1A/U1B
+T29	DNA 1165 1167	U2
+T30	protein 1177 1200	ATF/CREB family members
+T31	DNA 1228 1233	C1-C3
+T32	protein 1282 1285	Sp1
+T33	protein 1321 1324	Sp3
+T34	cell_line 1412 1439	Tax-expressing Jurkat cells
+T35	cell_type 1444 1497	HTLV-I-transformed peripheral blood mononuclear cells
+T36	protein 1515 1518	Tax
+T37	DNA 1545 1547	U1
+T38	DNA 1549 1556	U1A/U1B
+T39	DNA 1562 1564	U2
+T40	protein 1565 1586	DNA-protein complexes
+T41	protein 1599 1602	Tax
+T42	protein 1641 1658	Sp family members
+T43	DNA 1668 1677	pp repeat
+T44	protein 1747 1749	Sp
+T45	protein 1754 1777	ATF/CREB family members
+T46	DNA 1787 1796	pp repeat
+T47	protein 1814 1817	Tax

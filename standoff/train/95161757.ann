@@ -1,0 +1,19 @@
+T1	RNA 17 63	chromosome 16 CBF beta-MYH11 fusion transcript
+T2	DNA 268 276	CBF beta
+T3	DNA 281 286	MYH11
+T4	RNA 317 335	fusion transcripts
+T5	RNA 414 447	CBF beta-MYH11 fusion transcripts
+T6	cell_type 627 656	atypical abnormal eosinophils
+T7	DNA 777 785	CBF beta
+T8	DNA 785 791	-MYH11
+T9	cell_type 983 1003	abnormal eosinophils
+T10	DNA 1009 1017	CBF beta
+T11	DNA 1017 1023	-MYH11
+T12	DNA 1071 1084	chromosome 16
+T13	DNA 1177 1182	MYH11
+T14	RNA 1363 1396	CBF beta-MYH11 fusion transcripts
+T15	DNA 1583 1596	chromosome 16
+T16	DNA 1673 1681	CBF beta
+T17	RNA 1682 1699	MYH11 transcripts
+T18	DNA 1727 1740	chromosome 16
+T19	RNA 1992 2009	fusion transcript

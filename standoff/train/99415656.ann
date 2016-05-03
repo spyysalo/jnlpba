@@ -1,0 +1,25 @@
+T1	protein 10 17	IkappaB
+T2	protein 44 61	nuclear NF-kappaB
+T3	cell_type 65 88	human mononuclear cells
+T4	cell_type 253 303	mononuclear (MNC) and polymorphonuclear leucocytes
+T5	cell_type 305 309	PMNL
+T6	protein 328 335	IkappaB
+T7	protein 374 395	proinflammatory genes
+T8	protein 504 511	IkappaB
+T9	protein 539 548	NF-kappaB
+T10	cell_type 600 603	MNC
+T11	cell_type 864 867	MNC
+T12	protein 892 899	IkappaB
+T13	cell_type 910 913	MNC
+T14	protein 1034 1043	NF-kappaB
+T15	cell_type 1047 1050	MNC
+T16	protein 1216 1233	NF-kappaB subunit
+T17	protein 1235 1238	P65
+T18	cell_type 1243 1246	MNC
+T19	protein 1454 1463	NF-kappaB
+T20	protein 1657 1664	IkappaB
+T21	protein 1680 1689	NF-kappaB
+T22	cell_type 1704 1707	MNC
+T23	protein 1721 1728	IkappaB
+T24	protein 1766 1775	NF-kappaB
+T25	DNA 1827 1848	proinflammatory genes

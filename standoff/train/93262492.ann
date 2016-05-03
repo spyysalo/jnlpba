@@ -1,0 +1,29 @@
+T1	protein 18 50	Ets-related transcription factor
+T2	protein 51 56	Elf-1
+T3	protein 75 97	retinoblastoma protein
+T4	protein 103 130	retinoblastoma gene product
+T5	protein 132 134	Rb
+T6	protein 141 163	nuclear phosphoprotein
+T7	protein 203 208	Elf-1
+T8	protein 214 256	lymphoid-specific Ets transcription factor
+T9	cell_type 305 311	T cell
+T10	protein 364 369	Elf-1
+T11	protein 426 442	Rb binding sites
+T12	protein 460 472	oncoproteins
+T13	protein 507 509	Rb
+T14	protein 537 542	Elf-1
+T15	protein 596 598	Rb
+T16	protein 620 630	Rb mutants
+T17	protein 745 750	Elf-1
+T18	protein 755 757	Rb
+T19	cell_type 761 789	resting normal human T cells
+T20	protein 839 841	Rb
+T21	protein 868 873	Elf-1
+T22	protein 929 934	Elf-1
+T23	protein 1013 1015	Rb
+T24	protein 1026 1031	Elf-1
+T25	cell_type 1063 1069	T cell
+T26	protein 1113 1115	Rb
+T27	protein 1146 1189	lineage-restricted Ets transcription factor
+T28	protein 1303 1313	lymphokine
+T29	cell_type 1356 1373	activated T cells

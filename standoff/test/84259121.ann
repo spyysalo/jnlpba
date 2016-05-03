@@ -1,0 +1,17 @@
+T1	protein 32 66	cytosolic glucocorticoid receptors
+T2	cell_type 72 92	human leukemic cells
+T3	cell_type 97 115	normal lymphocytes
+T4	protein 397 425	glucocorticoid-binding sites
+T5	protein 535 559	glucocorticoid receptors
+T6	cell_type 580 594	leukemic cells
+T7	cell_type 599 617	normal lymphocytes
+T8	protein 649 670	endogenous peptidases
+T9	cell_type 724 758	fresh or rapidly frozen leukocytes
+T10	cell_type 1239 1262	leukemic cell specimens
+T11	cell_line 1518 1537	leukemic cell lines
+T12	protein 1786 1806	oligomeric complexes
+T13	protein 1959 1967	oligomer
+T14	protein 1976 1983	subunit
+T15	protein 2033 2043	peptidases
+T16	protein 2238 2256	endogenous enzymes
+T17	cell_type 2341 2359	leukemic specimens

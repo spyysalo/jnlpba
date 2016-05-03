@@ -1,0 +1,38 @@
+T1	cell_type 17 32	epithelial cell
+T2	cell_type 124 162	mature CD4(+) CD8(-) CD3(+) thymocytes
+T3	protein 184 205	tumor necrosis factor
+T4	protein 210 223	interleukin-7
+T5	cell_type 459 482	thymic epithelial cells
+T6	cell_type 484 487	TEC
+T7	protein 529 559	T-tropic primary isolate HIV-1
+T8	protein 560 566	B-LAIp
+T9	cell_type 594 625	CD4(+) CD8(-) CD3(+) thymocytes
+T10	protein 627 648	Tumor necrosis factor
+T11	protein 650 653	TNF
+T12	protein 659 672	interleukin-7
+T13	protein 674 678	IL-7
+T14	DNA 742 766	HIV long terminal repeat
+T15	protein 791 800	NF-kappaB
+T16	protein 823 826	TNF
+T17	protein 851 860	NF-kappaB
+T18	protein 885 900	p50-p65 complex
+T19	protein 910 914	IL-7
+T20	protein 970 986	p75 TNF receptor
+T21	protein 1008 1011	TNF
+T22	cell_type 1078 1122	intermediate CD4(+) CD8(-) CD3(-) thymocytes
+T23	protein 1177 1180	TNF
+T24	cell_type 1222 1225	TEC
+T25	protein 1269 1278	NF-kappaB
+T26	cell_type 1297 1324	freshly isolated thymocytes
+T27	protein 1348 1351	TNF
+T28	cell_line 1359 1390	intermediate thymocyte cultures
+T29	protein 1399 1408	NF-kappaB
+T30	cell_type 1486 1489	TEC
+T31	protein 1536 1548	CD4 receptor
+T32	cell_type 1562 1616	double-positive (DP) CD4(+) CD8(+) CD3(+/-) thymocytes
+T33	protein 1739 1742	TNF
+T34	protein 1747 1751	IL-7
+T35	cell_type 1847 1868	CD4(+) subpopulations
+T36	cell_type 1928 1976	mature CD4(+) CD8(-) CD3(+) subset of thymocytes
+T37	protein 2046 2049	TNF
+T38	cell_type 2079 2113	intermediate thymocyte compartment

@@ -1,0 +1,29 @@
+T1	protein 33 67	interleukin-2 receptor alpha-chain
+T2	protein 133 138	Elf-1
+T3	protein 140 148	HMG-I(Y)
+T4	protein 154 180	NF-kappa B family proteins
+T5	DNA 186 239	interleukin 2 receptor alpha-chain (IL-2R alpha) gene
+T6	cell_type 275 282	T cells
+T7	DNA 332 350	inducible enhancer
+T8	DNA 359 384	nucleotides -299 and -228
+T9	DNA 399 425	NF-kappa B and CArG motifs
+T10	DNA 489 526	essential positive regulatory element
+T11	DNA 543 567	nucleotides -137 and -64
+T12	protein 579 584	Elf-1
+T13	protein 589 597	HMG-I(Y)
+T14	cell_type 636 650	lymphoid cells
+T15	protein 693 698	Elf-1
+T16	DNA 734 754	IL-2R alpha promoter
+T17	DNA 785 819	Elf-1 or the HMG-I(Y) binding site
+T18	DNA 894 913	-137 to -64 element
+T19	cell_line 917 928	COS-7 cells
+T20	protein 930 935	Elf-1
+T21	protein 963 968	HMG-I
+T22	protein 978 988	NF-kappa B
+T23	protein 989 992	p50
+T24	protein 997 1002	c-Rel
+T25	DNA 1107 1159	upstream and downstream positive regulatory elements
+T26	protein 1245 1271	NF-kappa B family proteins
+T27	protein 1422 1433	IL-2R alpha
+T28	protein 1506 1511	Elf-1
+T29	protein 1516 1542	NF-kappa B family proteins

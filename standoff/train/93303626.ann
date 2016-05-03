@@ -1,0 +1,27 @@
+T1	DNA 14 75	lymphoid-specific immunoglobulin mu heavy chain gene enhancer
+T2	DNA 104 112	enhancer
+T3	DNA 121 155	immunoglobulin mu heavy chain gene
+T4	protein 157 160	IgH
+T5	DNA 174 191	heterologous gene
+T6	cell_type 219 231	B lymphocyte
+T7	DNA 251 276	lymphoid-specific element
+T8	DNA 278 284	microB
+T9	DNA 303 311	enhancer
+T10	cell_type 324 335	pre-B cells
+T11	protein 339 361	microB binding protein
+T12	DNA 380 405	PU.1/Spi-1 proto-oncogene
+T13	DNA 415 431	sequence element
+T14	DNA 433 439	microA
+T15	DNA 463 474	mu enhancer
+T16	DNA 505 525	ets-1 proto-oncogene
+T17	DNA 531 537	microA
+T18	DNA 561 586	microB-dependent enhancer
+T19	DNA 619 651	minimal B cell-specific enhancer
+T20	DNA 676 704	PU.1 and Ets-1 binding sites
+T21	protein 728 732	PU.1
+T22	protein 737 742	Ets-1
+T23	cell_type 746 763	nonlymphoid cells
+T24	DNA 764 797	trans-activated reporter plasmids
+T25	DNA 825 836	mu enhancer
+T26	protein 881 891	Ets family
+T27	DNA 913 921	IgH gene

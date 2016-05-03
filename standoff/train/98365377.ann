@@ -1,0 +1,32 @@
+T1	protein 11 23	PKC isoforms
+T2	cell_type 27 53	human alveolar macrophages
+T3	cell_type 68 83	blood monocytes
+T4	cell_type 272 287	precursor cells
+T5	cell_type 289 304	blood monocytes
+T6	protein 402 433	protein kinase C (PKC) isoforms
+T7	protein 459 486	Ca2+-dependent PKC isoforms
+T8	protein 581 606	Ca2+-independent isoforms
+T9	cell_type 610 630	alveolar macrophages
+T10	cell_type 645 654	monocytes
+T11	protein 693 696	PKC
+T12	protein 728 766	mitogen-activated protein (MAP) kinase
+T13	protein 824 880	MAP kinase extracellular signal-regulated kinase (ERK) 2
+T14	protein 955 966	ERK2 kinase
+T15	cell_type 975 995	alveolar macrophages
+T16	cell_type 1000 1009	monocytes
+T17	cell_type 1020 1029	monocytes
+T18	protein 1088 1099	ERK2 kinase
+T19	cell_type 1121 1141	alveolar macrophages
+T20	protein 1190 1193	PKC
+T21	protein 1223 1233	ERK kinase
+T22	protein 1255 1295	transcription factor activator protein-1
+T23	protein 1297 1301	AP-1
+T24	protein 1335 1339	AP-1
+T25	cell_type 1355 1364	monocytes
+T26	protein 1428 1432	AP-1
+T27	cell_type 1471 1491	alveolar macrophages
+T28	cell_type 1501 1510	monocytes
+T29	protein 1546 1550	AP-1
+T30	protein 1614 1626	PKC isoforms
+T31	cell_type 1630 1650	alveolar macrophages
+T32	cell_type 1655 1670	blood monocytes

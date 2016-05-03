@@ -1,0 +1,17 @@
+T1	protein 18 27	NF-kappaB
+T2	cell_line 73 83	8e51 cells
+T3	DNA 123 144	double NF-kappaB site
+T4	DNA 163 166	LTR
+T5	protein 336 354	NF-kappaB subunits
+T6	DNA 391 411	HIV-1 NF-kappaB site
+T7	cell_line 415 433	human 8e51 T-cells
+T8	protein 500 519	NF-kappaB complexes
+T9	protein 579 598	specific antibodies
+T10	protein 736 761	NF-kappaB family members,
+T11	protein 787 791	RelA
+T12	protein 847 866	NF-kappaB complexes
+T13	cell_line 996 1006	8e51 cells
+T14	cell_line 1017 1027	8e51 cells
+T15	protein 1133 1162	NF-kappaB DNA-binding complex
+T16	cell_type 1172 1193	actively fusing cells
+T17	protein 1260 1281	transcription factors

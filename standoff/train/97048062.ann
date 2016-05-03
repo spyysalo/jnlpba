@@ -1,0 +1,31 @@
+T1	DNA 42 106	tumor necrosis factor receptor-associated factor 3 binding sites
+T2	DNA 114 163	human and simian Epstein-Barr virus oncogene LMP1
+T3	protein 582 623	latent membrane protein 1 (LMP1) homologs
+T4	protein 922 957	carboxy-terminal cytoplasmic domain
+T5	cell_type 972 978	B-cell
+T6	protein 1020 1050	tumor necrosis factor receptor
+T7	protein 1088 1104	simian EBV LMP1s
+T8	protein 1146 1150	LMP1
+T9	protein 1184 1195	NF-(kappa)B
+T10	cell_type 1208 1219	human cells
+T11	protein 1233 1274	tumor necrosis factor-associated factor 3
+T12	protein 1276 1281	TRAF3
+T13	DNA 1321 1359	tumor necrosis factor-responsive genes
+T14	DNA 1369 1374	ICAM1
+T15	cell_type 1379 1398	human B lymphocytes
+T16	DNA 1409 1428	TRAF3 binding sites
+T17	DNA 1442 1463	PXQXT/S core sequence
+T18	protein 1489 1505	simian EBV LMP1s
+T19	DNA 1538 1565	PXQXT/S-containing sequence
+T20	protein 1589 1607	cytoplasmic domain
+T21	protein 1641 1645	CD30
+T22	protein 1657 1662	TRAF3
+T23	protein 1677 1696	last 13 amino acids
+T24	DNA 1710 1726	PXQXT/S sequence
+T25	protein 1772 1776	LMP1
+T26	protein 1793 1798	TRAF3
+T27	protein 1856 1860	LMP1
+T28	DNA 1876 1895	TRAF3 binding sites
+T29	protein 1899 1903	LMP1
+T30	protein 1912 1941	CD30 Hodgkin's disease marker
+T31	protein 1975 1980	TRAF3

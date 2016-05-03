@@ -1,0 +1,37 @@
+T1	protein 126 139	IkappaB-alpha
+T2	protein 157 178	nuclear factor-kappaB
+T3	protein 180 189	NF-kappaB
+T4	protein 233 263	endothelial adhesion molecules
+T5	protein 361 370	NF-kappaB
+T6	protein 535 544	NF-kappaB
+T7	protein 555 568	IkappaB-alpha
+T8	protein 624 637	IkappaB-alpha
+T9	cell_type 641 658	endothelial cells
+T10	protein 700 727	tumor necrosis factor-alpha
+T11	protein 729 738	TNF-alpha
+T12	protein 763 776	IkappaB-alpha
+T13	protein 812 845	vascular cell adhesion molecule-1
+T14	protein 847 853	VCAM-1
+T15	protein 856 889	intercellular adhesion molecule-1
+T16	protein 891 897	ICAM-1
+T17	RNA 904 919	E-selectin mRNA
+T18	protein 995 1005	chemokines
+T19	protein 1006 1040	monocyte chemoattractant protein 1
+T20	protein 1042 1047	MCP-1
+T21	protein 1053 1082	growth-related activity-alpha
+T22	protein 1084 1093	GRO-alpha
+T23	protein 1098 1107	TNF-alpha
+T24	protein 1161 1166	MCP-1
+T25	protein 1181 1190	GRO-alpha
+T26	cell_type 1323 1332	monocytes
+T27	protein 1336 1345	TNF-alpha
+T28	protein 1394 1407	IkappaB-alpha
+T29	protein 1440 1461	monoclonal antibodies
+T30	protein 1571 1581	chemokines
+T31	cell_type 1645 1654	monocytes
+T32	protein 1672 1685	IkappaB-alpha
+T33	protein 1722 1732	P-selectin
+T34	protein 1793 1803	E-selectin
+T35	protein 1882 1891	NF-kappaB
+T36	protein 1918 1931	IkappaB-alpha
+T37	protein 1967 1992	endothelial gene products

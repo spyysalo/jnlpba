@@ -1,0 +1,18 @@
+T1	protein 33 49	Ile50Val variant
+T2	protein 57 88	human IL-4 receptor alpha-chain
+T3	protein 92 95	IgE
+T4	DNA 127 162	IL-4R alpha-chain (IL-4Ralpha) gene
+T5	protein 337 341	IL-4
+T6	protein 378 388	IL-4Ralpha
+T7	protein 419 421	50
+T8	protein 447 450	551
+T9	protein 494 499	STAT6
+T10	DNA 561 578	Iepsilon promoter
+T11	protein 582 586	IL-4
+T12	protein 637 641	IL-4
+T13	protein 724 728	CD23
+T14	protein 744 747	IgE
+T15	protein 761 765	IL-4
+T16	cell_line 784 802	Ile50-bearing PBMC
+T17	protein 899 903	IL-4
+T18	protein 1022 1025	IgE

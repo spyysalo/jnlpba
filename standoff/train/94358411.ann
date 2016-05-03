@@ -1,0 +1,49 @@
+T1	protein 15 30	phospholipase D
+T2	protein 52 77	transcription factor AP-1
+T3	cell_line 81 110	human T lymphoid Jurkat cells
+T4	protein 133 137	AP-1
+T5	protein 138 158	transcription factor
+T6	protein 286 301	phospholipase D
+T7	protein 303 306	PLD
+T8	protein 335 360	transcription factor AP-1
+T9	cell_line 400 425	T lymphocyte Jurkat cells
+T10	DNA 455 476	AP-1 enhancer element
+T11	DNA 483 530	chloramphenicol acetyltransferase reporter gene
+T12	protein 561 564	PLD
+T13	cell_line 568 580	Jurkat cells
+T14	protein 668 671	PLD
+T15	cell_line 726 738	Jurkat cells
+T16	protein 766 791	transcription factor AP-1
+T17	cell_line 806 818	Jurkat cells
+T18	protein 824 836	anti-CD3 mAb
+T19	protein 852 855	PLD
+T20	protein 860 885	transcription factor AP-1
+T21	protein 932 935	PLD
+T22	protein 960 968	anti-CD3
+T23	protein 995 998	PLD
+T24	DNA 1012 1025	AP-1 enhancer
+T25	cell_line 1071 1088	transfected cells
+T26	protein 1097 1100	PLD
+T27	DNA 1129 1142	AP-1 enhancer
+T28	protein 1235 1238	PLD
+T29	DNA 1280 1293	AP-1 enhancer
+T30	protein 1318 1326	anti-CD3
+T31	DNA 1438 1451	AP-1 enhancer
+T32	protein 1478 1490	anti-CD3 mAb
+T33	protein 1569 1585	phosphohydrolase
+T34	protein 1590 1606	protein kinase C
+T35	protein 1608 1611	PKC
+T36	protein 1643 1651	anti-CD3
+T37	DNA 1673 1686	AP-1 enhancer
+T38	protein 1728 1731	PKC
+T39	protein 1749 1752	PKC
+T40	protein 1795 1798	PLD
+T41	protein 1828 1853	transcription factor AP-1
+T42	cell_type 1857 1870	T lymphocytes
+T43	DNA 1906 1919	AP-1 enhancer
+T44	protein 1958 1961	PKC
+T45	protein 2118 2121	PLD
+T46	DNA 2157 2170	AP-1 enhancer
+T47	protein 2214 2229	TCR/CD3 complex
+T48	protein 2257 2260	PLD
+T49	cell_type 2300 2312	T lymphocyte

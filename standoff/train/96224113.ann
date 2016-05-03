@@ -1,0 +1,33 @@
+T1	DNA 18 43	transcriptional activator
+T2	DNA 51 59	env gene
+T3	protein 98 155	activation-dependent, T cell-specific transacting factors
+T4	DNA 187 195	env gene
+T5	DNA 207 232	transcriptional activator
+T6	DNA 234 238	META
+T7	DNA 287 314	long terminal repeat region
+T8	DNA 343 347	META
+T9	DNA 374 390	lymphokine genes
+T10	cell_type 410 417	T cells
+T11	protein 514 521	DNase I
+T12	protein 550 565	nuclear factors
+T13	cell_type 571 594	activated T lymphocytes
+T14	DNA 603 625	promoter-proximal site
+T15	DNA 627 634	META(P)
+T16	DNA 642 662	promoter-distal site
+T17	DNA 664 672	META(D+)
+T18	DNA 685 710	400-base pair META region
+T19	protein 712 727	Nuclear factors
+T20	DNA 791 799	META(D-)
+T21	DNA 813 821	META(D+)
+T22	DNA 823 831	META(D+)
+T23	DNA 867 882	luciferase gene
+T24	protein 938 966	CsA-sensitive T cell factors
+T25	DNA 1017 1043	NFAT and NF-kappaB targets
+T26	protein 1068 1091	META(D+) binding factor
+T27	DNA 1100 1118	SV40 core sequence
+T28	protein 1132 1156	META(D+) binding factors
+T29	DNA 1162 1170	META(D+)
+T30	DNA 1280 1288	META(D+)
+T31	DNA 1300 1332	transcriptional enhancer element
+T32	DNA 1429 1441	NFAT element
+T33	protein 1499 1511	Mls antigens

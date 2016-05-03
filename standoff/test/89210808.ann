@@ -1,0 +1,28 @@
+T1	protein 26 67	lymphoid specific octamer binding protein
+T2	protein 69 75	OTF-2B
+T3	DNA 184 231	immunoglobulin (Ig) heavy and light chain genes
+T4	DNA 243 263	heavy chain enhancer
+T5	DNA 331 339	Ig genes
+T6	cell_type 343 350	B cells
+T7	DNA 411 448	upstream promoter or enhancer element
+T8	DNA 465 483	housekeeping genes
+T9	DNA 496 525	histone H2B and U snRNA genes
+T10	protein 634 658	octamer binding proteins
+T11	protein 694 699	OTF-1
+T12	protein 819 840	transcription factors
+T13	protein 846 892	lymphoid cell specific octamer binding protein
+T14	protein 903 909	OTF-2A
+T15	DNA 935 947	Ig promoters
+T16	DNA 979 987	TATA-box
+T17	DNA 995 1011	octamer sequence
+T18	protein 1069 1108	B cell specific octamer binding protein
+T19	protein 1119 1125	OTF-2B
+T20	protein 1176 1182	OTF-2B
+T21	protein 1192 1198	OTF-2A
+T22	cell_line 1207 1222	lymphocyte line
+T23	DNA 1250 1262	IgH enhancer
+T24	protein 1289 1309	novel octamer factor
+T25	DNA 1346 1358	IgH enhancer
+T26	cell_type 1481 1488	B cells
+T27	protein 1537 1543	OTF-2B
+T28	protein 1570 1590	60 kd species OTF-2A

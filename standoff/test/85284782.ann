@@ -1,0 +1,16 @@
+T1	protein 54 77	glucocorticoid receptor
+T2	cell_type 275 296	leukemic lymphoblasts
+T3	protein 364 387	glucocorticoid receptor
+T4	cell_line 440 488	glucocorticoid-sensitive and -resistant variants
+T5	cell_line 496 520	human leukemic cell line
+T6	cell_line 521 527	CEM C7
+T7	cell_line 532 562	glucocorticoid-sensitive cells
+T8	protein 600 620	glutamine synthetase
+T9	protein 730 756	[3H]CVZ-receptor complexes
+T10	cell_line 975 1005	glucocorticoid-sensitive cells
+T11	protein 1216 1234	high affinity site
+T12	cell_line 1695 1729	glucocorticoid-resistant cell line
+T13	protein 1791 1817	high affinity binding site
+T14	protein 1926 1944	high affinity site
+T15	cell_line 1961 1995	glucocorticoid-sensitive cell line
+T16	cell_line 1996 1998	C7

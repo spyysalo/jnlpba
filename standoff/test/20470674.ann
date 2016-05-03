@@ -1,0 +1,20 @@
+T1	DNA 30 46	heme oxygenase-1
+T2	protein 287 303	heme oxygenase-1
+T3	DNA 496 512	heme oxygenase-1
+T4	DNA 653 669	heme oxygenase-1
+T5	protein 768 791	heme oxygenase-1 and -2
+T6	protein 793 838	cytokine-induced neutrophil chemoattractant-1
+T7	protein 844 877	intercellular adhesion molecule-1
+T8	protein 936 957	nuclear factor-kappaB
+T9	cell_type 1211 1222	neutrophils
+T10	protein 1248 1269	nuclear factor-kappaB
+T11	protein 1274 1307	intercellular adhesion molecule-1
+T12	protein 1312 1357	cytokine-induced neutrophil chemoattractant-1
+T13	protein 1378 1394	heme oxygenase-1
+T14	cell_type 1439 1450	hepatocytes
+T15	cell_type 1455 1476	non-parenchymal cells
+T16	cell_type 1610 1628	hepatic neutrophil
+T17	protein 1646 1667	nuclear factor-kappaB
+T18	DNA 1870 1891	heme oxygenase-1 gene
+T19	DNA 1902 1918	heme oxygenase-1
+T20	protein 2059 2080	nuclear factor-kappaB

@@ -1,0 +1,24 @@
+T1	protein 4 18	PEBP2betaMYH11
+T2	DNA 37 53	Inv(16)(p13;q22)
+T3	protein 207 230	alpha and beta subunits
+T4	protein 238 268	Pebp2/Cbf transcription factor
+T5	DNA 371 387	Inv(16)(p13;q22)
+T6	protein 416 428	beta subunit
+T7	protein 432 437	Pebp2
+T8	DNA 445 455	MYH11 gene
+T9	protein 467 499	smooth muscle myosin heavy chain
+T10	protein 501 506	Smmhc
+T11	DNA 538 554	inv(16)(p13;q22)
+T12	DNA 584 606	hMRP8 promoter element
+T13	protein 650 659	Pebp2beta
+T14	protein 659 688	Smmhc chimeric fusion protein
+T15	cell_type 692 705	myeloid cells
+T16	protein 745 759	PEBP2betaMYH11
+T17	cell_type 828 851	circulating neutrophils
+T18	cell_type 902 929	immature neutrophilic cells
+T19	protein 986 1000	PEBP2betaMYH11
+T20	cell_type 1065 1090	hematopoietic progenitors
+T21	protein 1113 1127	PEBP2betaMYH11
+T22	protein 1132 1146	activated NRAS
+T23	protein 1286 1300	PEBP2betaMYH11
+T24	protein 1376 1381	Pebp2

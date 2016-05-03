@@ -1,0 +1,33 @@
+T1	protein 14 18	IL-4
+T2	protein 37 57	transcription factor
+T3	protein 58 62	JunB
+T4	protein 136 144	cytokine
+T5	cell_type 159 202	T helper 1 (Th1) and T helper 2 (Th2) cells
+T6	DNA 243 245	P1
+T7	DNA 265 294	interleukin 4 (IL-4) promoter
+T8	protein 344 348	IL-4
+T9	protein 379 383	JunB
+T10	protein 403 421	Jun family members
+T11	cell_type 450 459	Th2 cells
+T12	cell_type 471 480	Th1 cells
+T13	protein 505 509	JunB
+T14	protein 608 612	JunB
+T15	DNA 635 642	P1 site
+T16	protein 663 668	c-Maf
+T17	DNA 684 713	IL-4 luciferase reporter gene
+T18	protein 715 719	JunB
+T19	protein 731 735	IL-4
+T20	protein 785 789	JunB
+T21	protein 812 826	JNK MAP kinase
+T22	protein 848 853	c-Maf
+T23	protein 858 862	JunB
+T24	protein 933 937	JunB
+T25	protein 984 988	JunB
+T26	protein 1035 1048	Th2 cytokines
+T27	cell_type 1063 1072	Th1 cells
+T28	protein 1074 1078	JunB
+T29	protein 1096 1100	IL-4
+T30	protein 1169 1173	JunB
+T31	cell_type 1185 1194	Th2 cells
+T32	protein 1227 1232	c-Maf
+T33	protein 1236 1240	IL-4

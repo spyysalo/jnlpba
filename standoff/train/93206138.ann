@@ -1,0 +1,20 @@
+T1	protein 0 10	NF-kappa B
+T2	protein 44 59	I kappa B alpha
+T3	protein 126 146	transcription factor
+T4	protein 147 169	nuclear factor-kappa B
+T5	protein 171 181	NF-kappa B
+T6	cell_type 243 255	T lymphocyte
+T7	protein 301 311	NF-kappa B
+T8	protein 381 396	I kappa B alpha
+T9	protein 416 443	tumor necrosis factor-alpha
+T10	protein 457 475	nuclear NF-kappa B
+T11	protein 529 544	I kappa B alpha
+T12	protein 567 576	I kappa B
+T13	DNA 639 659	I kappa B alpha gene
+T14	protein 691 728	65-kilodalton transactivating subunit
+T15	protein 732 742	NF-kappa B
+T16	protein 781 796	I kappa B alpha
+T17	protein 802 805	p65
+T18	protein 843 853	NF-kappa B
+T19	protein 961 971	NF-kappa B
+T20	protein 999 1008	I kappa B

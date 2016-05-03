@@ -1,0 +1,37 @@
+T1	protein 57 79	nuclear factor kappa B
+T2	protein 101 104	p50
+T3	cell_line 136 161	human monocytic cell line
+T4	cell_line 162 172	Mono Mac 6
+T5	protein 246 255	cytokines
+T6	protein 261 282	tumor necrosis factor
+T7	protein 284 287	TNF
+T8	DNA 451 459	TNF gene
+T9	cell_type 534 548	tolerant cells
+T10	protein 672 676	CD14
+T11	cell_line 740 754	tolerant cells
+T12	cell_line 806 820	tolerant cells
+T13	protein 857 877	transcription factor
+T14	protein 878 900	nuclear factor kappa B
+T15	protein 902 912	NF-kappa B
+T16	protein 933 951	NF-kappa B complex
+T17	protein 989 1004	binding protein
+T18	cell_line 1019 1041	naive Mono Mac 6 cells
+T19	protein 1062 1082	p50-p65 heterodimers
+T20	cell_line 1093 1107	tolerant cells
+T21	protein 1113 1126	p50 homodimer
+T22	protein 1160 1174	p50 homodimers
+T23	RNA 1205 1214	p105 mRNA
+T24	protein 1265 1268	p50
+T25	protein 1310 1328	NF-kappa B complex
+T26	cell_line 1342 1356	tolerant cells
+T27	DNA 1390 1432	NF-kappa B-dependent luciferase constructs
+T28	DNA 1448 1497	human immunodeficiency virus long terminal repeat
+T29	DNA 1505 1518	TNF 5'-region
+T30	cell_line 1587 1603	Mono Mac 6 cells
+T31	cell_type 1605 1628	primary blood monocytes
+T32	protein 1711 1714	TNF
+T33	cell_type 1742 1766	tolerant blood monocytes
+T34	protein 1784 1788	CD14
+T35	protein 1808 1818	NF-kappa B
+T36	protein 1842 1856	p50 homodimers
+T37	protein 2007 2025	NF-kappa B complex

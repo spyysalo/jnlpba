@@ -1,0 +1,13 @@
+T1	cell_type 75 134	human class I-restricted cytotoxic T lymphocyte clonotypes:
+T2	cell_type 213 242	CD8(+) cytotoxic T lymphocyte
+T3	protein 317 359	Epstein-Barr virus immediate-early antigen
+T4	protein 361 366	BZLF1
+T5	protein 398 430	T cell receptor (TCR) repertoire
+T6	protein 603 626	serine/threonine kinase
+T7	protein 671 723	Staphylococcus aureus replication initiation protein
+T8	cell_line 730 740	CTL clones
+T9	protein 837 840	TCR
+T10	cell_line 856 866	CTL clones
+T11	protein 1008 1011	TCR
+T12	cell_type 1224 1235	memory CTLs
+T13	cell_line 1571 1588	I-restricted CTLs

@@ -1,0 +1,21 @@
+T1	protein 39 67	extracellular matrix protein
+T2	protein 68 76	tenascin
+T3	protein 78 86	Tenascin
+T4	protein 88 90	TN
+T5	protein 98 126	extracellular matrix protein
+T6	protein 333 335	TN
+T7	cell_type 362 375	human T cells
+T8	protein 391 403	alpha CD3 Ab
+T9	protein 428 456	extracellular matrix protein
+T10	protein 457 468	fibronectin
+T11	protein 470 472	FN
+T12	protein 475 477	TN
+T13	protein 516 530	alpha CD3/IL-2
+T14	protein 537 556	phorbol ester/IL-2,
+T15	protein 597 602	IL-2R
+T16	protein 620 622	TN
+T17	protein 745 754	alpha CD3
+T18	protein 819 856	NF-AT1 transcription factor complexes
+T19	protein 944 946	TN
+T20	protein 974 976	FN
+T21	protein 1054 1056	TN

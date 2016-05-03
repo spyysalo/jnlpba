@@ -1,0 +1,11 @@
+T1	protein 4 28	T cell activation factor
+T2	protein 29 35	NF-ATc
+T3	cell_type 98 105	T cells
+T4	protein 418 453	nuclear factor of activated T cells
+T5	protein 455 460	NF-AT
+T6	protein 626 651	NF-AT(Rel) family members
+T7	DNA 674 700	kappaB regulatory elements
+T8	protein 717 726	NF-kappaB
+T9	protein 731 734	Tat
+T10	cell_type 808 815	T cells
+T11	protein 836 854	regulatory factors

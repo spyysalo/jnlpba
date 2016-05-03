@@ -1,0 +1,27 @@
+T1	cell_line 28 48	T cell clone variant
+T2	protein 75 134	phosphorylated Ser133 cAMP response element-binding protein
+T3	protein 169 173	IL-2
+T4	protein 232 266	proliferating cell nuclear antigen
+T5	protein 268 272	PCNA
+T6	protein 311 331	DNA polymerase delta
+T7	protein 333 337	PCNA
+T8	DNA 388 401	CRE sequences
+T9	protein 409 442	promoter and CRE binding proteins
+T10	protein 444 448	IL-2
+T11	cell_line 488 515	resting cloned T lymphocyte
+T12	cell_line 517 519	L2
+T13	cell_line 537 545	L2 cells
+T14	cell_line 662 685	L2 and L2 variant cells
+T15	protein 702 706	IL-2
+T16	cell_line 828 836	L2 cells
+T17	protein 838 842	IL-2
+T18	protein 910 921	CREB kinase
+T19	cell_line 970 986	L2 variant cells
+T20	protein 988 999	CREB kinase
+T21	protein 1034 1038	IL-2
+T22	protein 1135 1139	IL-2
+T23	protein 1188 1199	CREB kinase
+T24	cell_line 1212 1220	L2 cells
+T25	protein 1250 1254	CREB
+T26	protein 1288 1292	PCNA
+T27	protein 1348 1352	IL-2

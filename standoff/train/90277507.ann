@@ -1,0 +1,20 @@
+T1	protein 17 34	antigen molecules
+T2	protein 49 78	anti-tax1 monoclonal antibody
+T3	protein 79 83	Lt-4
+T4	protein 175 194	monoclonal antibody
+T5	protein 196 200	Lt-4
+T6	protein 219 293	human T cell leukemia virus type I (HTLV-I) trans-activator (tax1) antigen
+T7	protein 325 329	tax1
+T8	protein 342 350	antigens
+T9	cell_line 367 379	T cell lines
+T10	protein 524 528	Lt-4
+T11	cell_line 546 571	HTLV-I-bearing cell lines
+T12	cell_line 601 618	simian cell lines
+T13	cell_line 651 676	HTLV-II-bearing cell line
+T14	protein 678 682	Lt-4
+T15	protein 698 720	tax1 antigen molecules
+T16	cell_line 729 754	HTLV-I-bearing cell lines
+T17	protein 791 809	39 kd tax1 antigen
+T18	cell_line 818 845	STLV-I-bearing T cell lines
+T19	protein 847 877	tax1-related antigen molecules
+T20	protein 890 894	Lt-4

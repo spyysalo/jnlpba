@@ -1,0 +1,12 @@
+T1	protein 0 5	ICSAT
+T2	protein 91 96	ICSAT
+T3	protein 98 165	Interferon Consensus Sequence binding protein for Activated T cells
+T4	protein 206 247	interferon regulatory factor (IRF) family
+T5	DNA 334 383	ATL(Adult T-cell leukemia)-16T expression library
+T6	protein 442 447	ICSAT
+T7	cell_type 451 462	lymphocytes
+T8	protein 517 521	IL-2
+T9	protein 627 632	ICSAT
+T10	protein 634 639	ICSAT
+T11	cell_type 658 669	lymphocytes
+T12	protein 854 858	IL-2

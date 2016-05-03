@@ -1,0 +1,41 @@
+T1	protein 41 45	NFAT
+T2	protein 47 82	nuclear factor of activated T cells
+T3	protein 103 108	NFATc
+T4	protein 185 256	cyclosporin A (CsA)/FK506-sensitive nuclear factor of activated T cells
+T5	protein 258 262	NFAT
+T6	DNA 312 326	cytokine genes
+T7	cell_type 330 337	T cells
+T8	protein 348 352	NFAT
+T9	cell_type 404 422	non-T immune cells
+T10	DNA 428 452	NFAT gene family members
+T11	cell_type 504 511	T cells
+T12	protein 537 541	NFAT
+T13	cell_type 554 567	human B cells
+T14	protein 616 629	NFAT proteins
+T15	DNA 686 696	cDNA clone
+T16	cell_line 706 722	Raji B cell line
+T17	DNA 728 738	cDNA clone
+T18	protein 762 772	NFATc.beta
+T19	protein 781 804	NFAT gene family member
+T20	protein 805 810	NFATc
+T21	protein 828 839	NFATc.alpha
+T22	protein 846 865	amino acid sequence
+T23	protein 869 879	NFATc.beta
+T24	protein 901 906	NFATc
+T25	protein 927 951	NH2-terminal 29 residues
+T26	protein 989 1001	142 residues
+T27	protein 1009 1022	COOH terminus
+T28	RNA 1113 1125	mRNA species
+T29	RNA 1129 1155	2.7 and 4.5 kilobase pairs
+T30	DNA 1166 1191	NFATc.beta-specific probe
+T31	RNA 1210 1232	4.5-kilobase pair mRNA
+T32	protein 1307 1317	NFATc.beta
+T33	DNA 1347 1386	interleukin-2 NFAT-driven reporter gene
+T34	cell_line 1390 1413	stimulated Jurkat cells
+T35	protein 1450 1460	NFATc.beta
+T36	DNA 1482 1496	kappa3 element
+T37	DNA 1501 1518	NFAT-binding site
+T38	DNA 1527 1563	tumor necrosis factor-alpha promoter
+T39	DNA 1582 1618	tumor necrosis factor-alpha promoter
+T40	DNA 1702 1711	NFAT gene
+T41	DNA 1766 1780	cytokine genes

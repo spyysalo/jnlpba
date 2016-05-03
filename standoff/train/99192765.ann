@@ -1,0 +1,19 @@
+T1	protein 27 33	4E-BP1
+T2	protein 38 44	4E-BP2
+T3	cell_type 95 113	human myeloid cell
+T4	cell_type 344 362	human myeloid cell
+T5	cell_line 389 427	HL-60 promyelocytic leukemia cell line
+T6	cell_line 436 463	U-937 monoblastic cell line
+T7	protein 747 753	4E-BP1
+T8	protein 758 764	4E-BP2
+T9	cell_line 779 784	HL-60
+T10	cell_line 789 794	U-937
+T11	cell_type 821 842	monocytes/macrophages
+T12	protein 846 855	IFN-gamma
+T13	protein 923 929	4E-BP1
+T14	protein 952 958	4E-BP1
+T15	cell_line 982 993	U-937 cells
+T16	cell_type 1029 1050	monocytes/macrophages
+T17	cell_line 1125 1136	HL-60 cells
+T18	protein 1239 1245	4E-BP1
+T19	protein 1314 1320	4E-BP2

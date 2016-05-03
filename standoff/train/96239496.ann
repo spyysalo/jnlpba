@@ -1,0 +1,21 @@
+T1	protein 14 30	alpha interferon
+T2	protein 39 55	gamma interferon
+T3	protein 111 131	tyrosine phosphatase
+T4	protein 1056 1077	transcription factors
+T5	protein 1078 1088	Stat1alpha
+T6	protein 1090 1095	Stat2
+T7	protein 1101 1106	Stat3
+T8	protein 1118 1133	tyrosine kinase
+T9	protein 1134 1138	Tyk2
+T10	protein 1160 1169	IFN-gamma
+T11	protein 1184 1194	Stat1alpha
+T12	protein 1244 1248	Jak1
+T13	protein 1257 1270	alpha subunit
+T14	protein 1278 1296	IFN-alpha receptor
+T15	protein 1401 1405	Tyk2
+T16	protein 1417 1421	Jak1
+T17	protein 1446 1449	IFN
+T18	protein 1543 1547	Tyk2
+T19	protein 1652 1672	tyrosine phosphatase
+T20	protein 1701 1705	Tyk2
+T21	protein 1714 1718	Jak1

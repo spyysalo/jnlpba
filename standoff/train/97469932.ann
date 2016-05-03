@@ -1,0 +1,25 @@
+T1	protein 313 324	1 cytokines
+T2	protein 326 339	interleukin-2
+T3	protein 341 345	IL-2
+T4	protein 351 356	IL-12
+T5	protein 386 402	type 2 cytokines
+T6	protein 404 408	IL-4
+T7	protein 410 414	IL-6
+T8	protein 420 425	IL-10
+T9	protein 459 462	IgE
+T10	protein 681 690	cytokines
+T11	protein 725 733	cytokine
+T12	cell_type 1114 1148	peripheral blood mononuclear cells
+T13	protein 1272 1275	IgE
+T14	protein 1322 1326	IL-2
+T15	protein 1328 1332	IL-4
+T16	protein 1338 1343	IL-10
+T17	protein 1344 1353	cytokines
+T18	protein 1358 1374	interferon-gamma
+T19	protein 1454 1458	IL-2
+T20	protein 1468 1472	IL-4
+T21	protein 1474 1479	IL-10
+T22	protein 1485 1488	IgE
+T23	protein 1545 1549	IL-2
+T24	protein 1558 1562	IL-4
+T25	protein 1567 1570	IgE

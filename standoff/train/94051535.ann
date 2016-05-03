@@ -1,0 +1,44 @@
+T1	protein 51 64	tissue factor
+T2	cell_type 142 156	effector cells
+T3	protein 271 306	inflammatory effector gene products
+T4	cell_type 405 418	T helper cell
+T5	protein 494 504	lymphokine
+T6	DNA 549 572	Tissue Factor (TF) gene
+T7	protein 597 607	TF protein
+T8	DNA 706 726	LPS Response Element
+T9	protein 764 797	AP-1 type heterodimeric complexes
+T10	protein 809 848	NF kappa B like heterodimeric complexes
+T11	protein 866 876	NF kappa B
+T12	protein 882 892	Ig kappa B
+T13	cell_type 939 956	activated T cells
+T14	DNA 1009 1040	TF and other inflammatory genes
+T15	protein 1071 1073	TF
+T16	cell_type 1109 1126	endothelial cells
+T17	protein 1192 1211	leukocyte integrins
+T18	protein 1267 1269	TF
+T19	protein 1351 1377	recombinant full length TF
+T20	protein 1382 1406	truncated surface domain
+T21	protein 1410 1412	TF
+T22	protein 1462 1464	TF
+T23	protein 1477 1503	zymogen plasma factors VII
+T24	protein 1512 1539	serine protease factor VIIa
+T25	protein 1550 1572	soluble surface domain
+T26	protein 1576 1578	TF
+T27	protein 1666 1686	anchored TF molecule
+T28	protein 1743 1757	surface domain
+T29	protein 1761 1763	TF
+T30	protein 1769 1773	VIIa
+T31	protein 1793 1808	TF.VIIa complex
+T32	protein 1859 1875	catalytic domain
+T33	protein 1879 1883	VIIa
+T34	protein 1938 1955	protein substrate
+T35	protein 2043 2047	VIIa
+T36	protein 2079 2081	TF
+T37	protein 2105 2113	cofactor
+T38	protein 2143 2158	TF.VIIa complex
+T39	protein 2206 2229	zymogen plasma factor X
+T40	protein 2237 2255	serine protease Xa
+T41	protein 2354 2369	TF.VIIa complex
+T42	protein 2427 2452	new recognition structure
+T43	protein 2493 2494	X
+T44	protein 2574 2581	zymogen

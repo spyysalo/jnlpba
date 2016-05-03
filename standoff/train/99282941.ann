@@ -1,0 +1,22 @@
+T1	protein 14 18	CD28
+T2	protein 110 132	costimulatory molecule
+T3	protein 133 137	CD28
+T4	cell_type 195 202	T cells
+T5	cell_type 212 230	plasmacytoma cells
+T6	protein 241 245	CD28
+T7	cell_type 410 422	CD8+ T cells
+T8	cell_type 445 457	CD4+ T cells
+T9	protein 478 482	CD28
+T10	protein 626 645	site alpha and beta
+T11	DNA 658 679	CD28 minimal promoter
+T12	cell_type 757 770	CD28+ T cells
+T13	cell_line 784 803	transformed B cells
+T14	protein 935 944	site beta
+T15	protein 954 964	site alpha
+T16	cell_type 1101 1113	CD8+ T cells
+T17	protein 1210 1214	CD28
+T18	cell_type 1228 1240	CD8+ T cells
+T19	cell_line 1259 1296	CD4+CD28null and CD8+CD28null T cells
+T20	protein 1312 1343	alpha- and beta-bound complexes
+T21	cell_type 1376 1403	chronically activated cells
+T22	cell_type 1415 1430	senescent cells

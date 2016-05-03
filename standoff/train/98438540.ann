@@ -1,0 +1,44 @@
+T1	protein 0 16	Fcgamma receptor
+T2	protein 26 58	mitogen-activated protein kinase
+T3	cell_type 73 82	monocytes
+T4	protein 101 104	Ras
+T5	protein 124 134	Fc portion
+T6	protein 138 162	immunoglobulin molecules
+T7	protein 164 167	FcR
+T8	protein 362 384	inflammatory mediators
+T9	protein 442 445	FcR
+T10	protein 451 467	immune complexes
+T11	protein 498 522	protein-tyrosine kinases
+T12	protein 704 716	Fc receptors
+T13	protein 765 774	cytokines
+T14	cell_type 778 787	monocytes
+T15	protein 806 809	FcR
+T16	cell_line 818 843	THP-1 monocytic cell line
+T17	protein 848 864	immune complexes
+T18	protein 900 920	transcription factor
+T19	protein 921 930	NF-kappaB
+T20	protein 935 948	interleukin 1
+T21	protein 1004 1019	tyrosine kinase
+T22	protein 1059 1084	dominant negative mutants
+T23	protein 1088 1091	Ras
+T24	protein 1096 1101	Raf-1
+T25	protein 1146 1149	FcR
+T26	protein 1159 1173	nuclear factor
+T27	protein 1206 1238	mitogen-activated protein kinase
+T28	protein 1240 1244	MAPK
+T29	protein 1306 1310	MAPK
+T30	protein 1375 1378	FcR
+T31	protein 1398 1414	immune complexes
+T32	protein 1435 1439	MAPK
+T33	protein 1532 1536	MAPK
+T34	protein 1565 1568	FcR
+T35	protein 1597 1611	nuclear factor
+T36	protein 1612 1621	NF-kappaB
+T37	protein 1686 1698	Fc receptors
+T38	protein 1787 1803	tyrosine kinases
+T39	protein 1817 1821	MAPK
+T40	protein 1859 1884	tyrosine kinase receptors
+T41	protein 1886 1889	FcR
+T42	protein 1899 1903	MAPK
+T43	protein 1932 1935	Ras
+T44	protein 1940 1943	Raf

@@ -1,0 +1,52 @@
+T1	protein 0 5	Tpl-2
+T2	protein 14 18	IL-2
+T3	cell_line 33 45	T-cell lines
+T4	protein 102 106	NFAT
+T5	protein 111 120	NF-kappaB
+T6	protein 126 138	Tpl-2 kinase
+T7	protein 153 188	nuclear factor of activated T cells
+T8	protein 190 194	NFAT
+T9	protein 208 212	IL-2
+T10	cell_line 227 239	T-cell lines
+T11	DNA 281 294	IL-2 promoter
+T12	protein 298 303	Tpl-2
+T13	protein 320 346	mutant signaling molecules
+T14	protein 364 396	mitogen-activated protein kinase
+T15	protein 398 402	MAPK
+T16	protein 411 422	calcineurin
+T17	protein 422 427	/NFAT
+T18	protein 472 491	signaling molecules
+T19	protein 595 599	MAPK
+T20	protein 608 619	calcineurin
+T21	protein 619 624	/NFAT
+T22	DNA 688 701	IL-2 promoter
+T23	protein 705 710	Tpl-2
+T24	DNA 739 752	IL-2 promoter
+T25	DNA 760 788	NFAT-driven minimal promoter
+T26	protein 835 839	Raf1
+T27	DNA 866 879	IL-2 promoter
+T28	protein 900 905	Tpl-2
+T29	protein 931 969	dominant negative mutant MEK1S218/222A
+T30	protein 1032 1036	NFAT
+T31	protein 1040 1044	MAPK
+T32	protein 1103 1107	MAPK
+T33	protein 1111 1116	Tpl-2
+T34	protein 1170 1174	MEK1
+T35	protein 1179 1183	MEK2
+T36	DNA 1240 1253	IL-2 promoter
+T37	protein 1287 1291	NFAT
+T38	protein 1337 1340	MEK
+T39	cell_line 1367 1372	COS-1
+T40	cell_line 1377 1387	EL-4 cells
+T41	protein 1463 1468	Tpl-2
+T42	protein 1472 1481	NF-kappaB
+T43	DNA 1511 1524	IL-2 promoter
+T44	DNA 1532 1560	NFAT-driven minimal promoter
+T45	protein 1564 1569	Tpl-2
+T46	protein 1595 1619	dominant negative mutant
+T47	protein 1620 1633	NFAT delta418
+T48	protein 1672 1683	calcineurin
+T49	protein 1728 1733	Tpl-2
+T50	protein 1743 1747	NFAT
+T51	protein 1884 1889	Bcl-2
+T52	protein 1893 1901	Bcl-X(L)

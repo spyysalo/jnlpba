@@ -1,0 +1,28 @@
+T1	protein 0 18	Vitamin D receptor
+T2	protein 107 131	Taq I restriction enzyme
+T3	DNA 172 201	vitamin D receptor (VDR) gene
+T4	DNA 322 327	RFLPs
+T5	DNA 329 333	TaqI
+T6	DNA 335 339	ApaI
+T7	DNA 341 345	BsmI
+T8	DNA 404 417	polymorphisms
+T9	protein 429 447	translated protein
+T10	DNA 455 474	sequence variations
+T11	DNA 482 488	3' UTR
+T12	protein 492 495	VDR
+T13	RNA 592 600	VDR mRNA
+T14	DNA 671 679	allele T
+T15	DNA 700 708	allele t
+T16	DNA 789 813	big T and small t allele
+T17	cell_type 817 848	normal heterozygous lymphocytes
+T18	cell_line 857 880	heterozygous cell lines
+T19	cell_line 881 884	NB4
+T20	cell_line 908 912	PC-3
+T21	cell_line 917 923	DU 145
+T22	DNA 1068 1082	RT-PCR product
+T23	RNA 1100 1119	small t allele mRNA
+T24	RNA 1199 1218	small t allele mRNA
+T25	DNA 1324 1331	alleles
+T26	DNA 1398 1411	polymorphisms
+T27	protein 1490 1493	VDR
+T28	DNA 1494 1507	polymorphisms

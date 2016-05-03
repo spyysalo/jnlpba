@@ -1,0 +1,31 @@
+T1	protein 20 42	nuclear factor-kappa B
+T2	protein 61 84	T cell receptor complex
+T3	protein 94 121	tumor necrosis factor alpha
+T4	protein 141 168	nuclear factor (NF)-kappa B
+T5	protein 187 220	T cell receptor (TcR)/CD3 complex
+T6	cell_type 238 245	T cells
+T7	protein 303 325	p50 NF-kappa B protein
+T8	DNA 336 351	kappa B element
+T9	DNA 355 406	interleukin-2 receptor (IL-2R) alpha chain promoter
+T10	cell_type 418 425	T cells
+T11	protein 454 461	TcR/CD3
+T12	protein 524 544	p50.p65 heterodimers
+T13	protein 559 581	p50.c-rel heterodimers
+T14	protein 815 818	p65
+T15	protein 823 828	c-rel
+T16	RNA 933 941	p65 mRNA
+T17	protein 1086 1150	anti-tumor necrosis factor alpha (TNF-alpha) monoclonal antibody
+T18	protein 1191 1194	p65
+T19	protein 1199 1204	c-rel
+T20	protein 1397 1406	TNF-alpha
+T21	protein 1479 1489	NF-kappa B
+T22	protein 1529 1536	TcR/CD3
+T23	protein 1558 1565	TcR/CD3
+T24	protein 1629 1638	TNF-alpha
+T25	protein 1651 1660	TNF-alpha
+T26	protein 1734 1744	NF-kappa B
+T27	protein 1791 1794	p65
+T28	protein 1799 1804	c-rel
+T29	RNA 1814 1818	mRNA
+T30	protein 1833 1838	c-rel
+T31	protein 1843 1851	p105/p50

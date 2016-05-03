@@ -1,0 +1,20 @@
+T1	cell_line 58 77	recombinant B-cells
+T2	cell_line 416 428	B cell lines
+T3	cell_line 447 467	R59Z activator cells
+T4	protein 559 581	BZLF 1 trans-activator
+T5	protein 583 586	Zta
+T6	cell_line 589 609	R7-57 reporter cells
+T7	DNA 663 694	lytic origin of EBV replication
+T8	DNA 696 703	ori Lyt
+T9	DNA 825 852	recombinant ori Lyt element
+T10	cell_line 856 876	R7-57 reporter cells
+T11	protein 878 884	BZLF 1
+T12	cell_line 911 931	R7-57 reporter cells
+T13	protein 946 965	EBV trans-activator
+T14	cell_type 1112 1150	BZLF 1-expressing R59Z activator cells
+T15	cell_line 1160 1179	R7-57 reporter line
+T16	cell_line 1266 1281	activator cells
+T17	protein 1305 1311	BZLF 1
+T18	cell_line 1394 1403	activator
+T19	cell_line 1407 1421	reporter cells
+T20	DNA 1607 1629	regulatory gene BZLF 1

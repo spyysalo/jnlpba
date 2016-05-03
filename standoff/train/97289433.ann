@@ -1,0 +1,29 @@
+T1	RNA 18 41	vitamin D receptor mRNA
+T2	cell_type 86 90	PBMC
+T3	DNA 120 143	common allelic variants
+T4	protein 200 218	vitamin D receptor
+T5	protein 220 223	VDR
+T6	RNA 375 383	VDR mRNA
+T7	cell_type 387 421	peripheral blood mononuclear cells
+T8	cell_type 423 428	PBMCs
+T9	protein 448 461	VDR genotypes
+T10	DNA 589 597	VDR cDNA
+T11	DNA 663 677	human VDR CDNA
+T12	DNA 691 713	BglII restriction site
+T13	cell_type 851 873	normal human monocytes
+T14	cell_type 906 917	lymphocytes
+T15	protein 932 935	VDR
+T16	RNA 962 970	VDR mRNA
+T17	cell_type 1012 1033	cell-sorted monocytes
+T18	cell_type 1041 1071	in vitro activated lymphocytes
+T19	cell_type 1119 1130	lymphocytes
+T20	RNA 1154 1162	VDR mRNA
+T21	cell_type 1191 1196	PBMCs
+T22	cell_type 1234 1243	monocytes
+T23	DNA 1341 1381	restriction fragment length polymorphism
+T24	RNA 1522 1530	VDR mRNA
+T25	cell_type 1560 1569	monocytes
+T26	protein 1654 1670	serum calcitriol
+T27	protein 1672 1689	serum osteocalcin
+T28	protein 1744 1747	VDR
+T29	RNA 1798 1806	VDR mRNA

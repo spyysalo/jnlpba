@@ -1,0 +1,21 @@
+T1	protein 51 72	nuclear factor-kappaB
+T2	cell_type 87 94	T cells
+T3	protein 114 156	transcription factor nuclear factor-kappaB
+T4	protein 158 166	NFkappaB
+T5	cell_type 183 190	T cells
+T6	cell_type 255 262	T cells
+T7	protein 319 327	NFkappaB
+T8	protein 404 422	cytoplasmic factor
+T9	protein 423 435	IkappaBalpha
+T10	protein 437 467	Tumor-derived soluble products
+T11	protein 503 511	NFkappaB
+T12	cell_type 524 531	T cells
+T13	protein 600 612	IkappaBalpha
+T14	protein 741 754	neuraminidase
+T15	protein 763 771	protease
+T16	cell_type 891 903	RCC explants
+T17	protein 1066 1074	NFkappaB
+T18	cell_type 1095 1102	T cells
+T19	protein 1133 1142	cytokines
+T20	protein 1143 1147	IL-2
+T21	protein 1152 1161	IFN-gamma

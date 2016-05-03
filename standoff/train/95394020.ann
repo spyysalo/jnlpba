@@ -1,0 +1,49 @@
+T1	DNA 0 22	Interleukin-2 promoter
+T2	cell_line 35 79	Epstein-Barr virus-transformed B lymphocytes
+T3	protein 97 117	nuclear factor-chi B
+T4	DNA 137 160	interleukin (IL)-2 gene
+T5	cell_type 204 217	T lymphocytes
+T6	protein 248 252	IL-2
+T7	cell_type 263 270	B cells
+T8	protein 291 295	IL-2
+T9	DNA 345 358	IL-2 promoter
+T10	cell_line 371 421	Epstein-Barr virus (EBV)-transformed B cell clones
+T11	protein 453 457	IL-2
+T12	DNA 592 611	reporter constructs
+T13	DNA 630 664	transcription factor binding sites
+T14	DNA 674 687	IL-2 promoter
+T15	protein 689 718	distal nuclear factor (NF)-AT
+T16	protein 720 734	proximal NF-AT
+T17	protein 736 748	AP-1/Octamer
+T18	protein 750 753	UPS
+T19	protein 758 766	NF-chi B
+T20	protein 768 772	TCEd
+T21	cell_line 800 824	EBV-transformed B clones
+T22	DNA 830 840	chi B site
+T23	DNA 887 906	NF-AT binding sites
+T24	cell_line 958 972	Jurkat T cells
+T25	DNA 977 990	IL-2 promoter
+T26	DNA 1011 1024	NF-chi B site
+T27	cell_line 1052 1075	EBV-transformed B cells
+T28	cell_line 1108 1122	Jurkat T cells
+T29	cell_line 1133 1150	EBV-B cell clones
+T30	protein 1199 1203	IL-2
+T31	DNA 1225 1238	IL-2 promoter
+T32	protein 1274 1278	IL-2
+T33	DNA 1303 1340	human immunodeficiency virus promoter
+T34	protein 1379 1392	chi B factors
+T35	cell_line 1424 1450	IL-2 producing EBV-B cells
+T36	cell_line 1472 1496	non-IL-2-producing cells
+T37	cell_line 1564 1575	EBV-B cells
+T38	protein 1584 1588	IL-2
+T39	protein 1589 1597	NF-chi B
+T40	protein 1644 1659	chi B complexes
+T41	cell_line 1663 1683	IL-2-secreting cells
+T42	protein 1705 1736	heterodimeric p50/p65 complexes
+T43	DNA 1747 1752	chi B
+T44	cell_line 1819 1843	non-IL-2-secreting cells
+T45	DNA 1880 1898	IL-2 NF-chi B site
+T46	DNA 1940 1953	IL-2 promoter
+T47	cell_line 1957 1980	EBV-transformed B cells
+T48	protein 1996 2017	transcription factors
+T49	protein 2050 2054	IL-2

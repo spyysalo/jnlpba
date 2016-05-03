@@ -1,0 +1,28 @@
+T1	protein 21 57	p38 mitogen-activated protein kinase
+T2	cell_type 61 70	Th2 cells
+T3	protein 91 97	GATA-3
+T4	cell_type 117 120	Th2
+T5	cell_type 254 261	T cells
+T6	protein 289 298	IL-1alpha
+T7	protein 302 305	PGs
+T8	cell_type 347 354	T cells
+T9	protein 412 420	cytokine
+T10	cell_type 435 444	Th1 cells
+T11	protein 460 468	cytokine
+T12	cell_type 483 492	Th2 cells
+T13	cell_type 538 547	Th2 cells
+T14	protein 575 591	protein kinase A
+T15	protein 721 757	p38 mitogen-activated protein kinase
+T16	cell_type 761 770	Th2 cells
+T17	cell_type 793 796	Th2
+T18	protein 843 846	p38
+T19	cell_type 866 875	Th1 cells
+T20	cell_type 893 902	Th2 cells
+T21	protein 941 945	IL-5
+T22	protein 950 955	IL-13
+T23	protein 1089 1116	transcription factor GATA-3
+T24	cell_type 1165 1168	Th2
+T25	cell_type 1246 1249	Th2
+T26	protein 1259 1265	GATA-3
+T27	protein 1281 1317	p38 mitogen-activated protein kinase
+T28	cell_type 1412 1433	T helper cell subsets

@@ -1,0 +1,19 @@
+T1	protein 50 81	transcription factor NF-kappa B
+T2	protein 121 139	HTLV-I Tax protein
+T3	protein 180 191	Tax protein
+T4	protein 278 309	transcription factor NF-kappa B
+T5	protein 418 449	transcription factor NF-kappa B
+T6	cell_line 468 492	Namalwa B lymphoid cells
+T7	protein 523 526	Tax
+T8	protein 541 551	NF-kappa B
+T9	protein 627 630	Tax
+T10	cell_line 634 654	Jurkat T lymphocytes
+T11	protein 689 698	cytokines
+T12	protein 711 721	NF-kappa B
+T13	cell_line 742 754	Jurkat cells
+T14	protein 781 784	Tax
+T15	protein 819 858	mitogen-inducible transcription factors
+T16	protein 868 871	Fos
+T17	protein 876 879	Jun
+T18	protein 978 981	Tax
+T19	protein 1047 1050	Tax

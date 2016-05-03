@@ -1,0 +1,18 @@
+T1	DNA 27 36	IL-2 gene
+T2	cell_type 51 66	anergic T cells
+T3	protein 120 124	IL-2
+T4	cell_type 214 236	anergic murine T cells
+T5	cell_type 240 269	human Jurkat T leukemia cells
+T6	cell_line 287 300	heterokaryons
+T7	RNA 383 399	murine IL-2 mRNA
+T8	DNA 456 465	IL-2 gene
+T9	cell_line 484 497	Heterokaryons
+T10	cell_type 522 544	anergic murine T cells
+T11	cell_type 548 569	normal murine T cells
+T12	protein 596 622	intracellular IL-2 protein
+T13	protein 681 684	CD3
+T14	protein 689 698	CD28 mAbs
+T15	protein 724 740	protein kinase C
+T16	protein 906 940	dominant-acting repressor molecule
+T17	DNA 982 991	IL-2 gene
+T18	cell_type 1006 1021	anergic T cells

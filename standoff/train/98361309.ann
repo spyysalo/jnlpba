@@ -1,0 +1,21 @@
+T1	DNA 27 37	MyD88 gene
+T2	protein 92 97	MyD88
+T3	DNA 148 169	primary response gene
+T4	protein 204 217	interleukin-1
+T5	protein 219 223	IL-1
+T6	protein 264 285	IL-1 receptor complex
+T7	protein 290 321	IL-1 receptor-associated kinase
+T8	protein 323 327	IRAK
+T9	protein 371 376	MyD88
+T10	protein 463 472	cytokines
+T11	protein 488 492	IL-1
+T12	protein 507 523	interferon-gamma
+T13	protein 583 588	IL-18
+T14	protein 656 661	IL-18
+T15	protein 684 693	NF-kappaB
+T16	protein 698 721	c-Jun N-terminal kinase
+T17	protein 723 726	JNK
+T18	cell_line 742 771	MyD88-/- Th1-developing cells
+T19	protein 820 825	MyD88
+T20	protein 895 908	IL-1 receptor
+T21	protein 920 934	IL-18 receptor

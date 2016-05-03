@@ -1,0 +1,26 @@
+T1	protein 14 49	nuclear factor of activated T cells
+T2	protein 189 243	Ca2+/calmodulin-dependent serine-threonine phosphatase
+T3	protein 244 255	calcineurin
+T4	protein 263 288	drug-immunophilin complex
+T5	protein 299 310	calcineurin
+T6	protein 337 372	nuclear factor of activated T cells
+T7	protein 374 378	NFAT
+T8	protein 383 403	transcription factor
+T9	DNA 435 460	interleukin 2 (IL-2) gene
+T10	protein 462 466	IL-2
+T11	cell_line 481 498	CsA-treated cells
+T12	protein 569 573	NFAT
+T13	protein 618 622	IL-2
+T14	protein 660 664	CD28
+T15	protein 733 737	NFAT
+T16	DNA 743 800	IL-2 promoter-beta-galactosidase reporter gene constructs
+T17	protein 867 871	CD28
+T18	protein 990 1016	CsA-resistant NFAT complex
+T19	cell_type 1044 1068	peripheral blood T cells
+T20	protein 1094 1103	alphaCD28
+T21	cell_type 1105 1129	Peripheral blood T cells
+T22	protein 1149 1159	/alphaCD28
+T23	protein 1169 1173	IL-2
+T24	protein 1236 1240	NFAT
+T25	protein 1262 1266	IL-2
+T26	protein 1288 1299	calcineurin

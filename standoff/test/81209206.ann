@@ -1,0 +1,16 @@
+T1	protein 0 23	Glucocorticoid receptor
+T2	protein 52 63	transferase
+T3	protein 148 185	terminal deoxynucleotidyl transferase
+T4	protein 187 190	TdT
+T5	protein 193 212	adenosine deaminase
+T6	protein 218 232	5'nucleotidase
+T7	protein 267 306	glucocorticoid (dexamethasone) receptor
+T8	protein 456 459	TdT
+T9	protein 665 688	glucocorticoid receptor
+T10	cell_type 710 731	leukaemic blast cells
+T11	cell_type 796 807	blast cells
+T12	protein 815 838	glucocorticoid receptor
+T13	protein 1154 1173	Adenosine deaminase
+T14	protein 1178 1192	5'nucleotidase
+T15	protein 1386 1389	TdT
+T16	protein 1407 1430	glucocorticoid receptor

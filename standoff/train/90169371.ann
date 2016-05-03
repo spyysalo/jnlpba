@@ -1,0 +1,26 @@
+T1	protein 0 29	Octamer transcription factors
+T2	DNA 38 82	cell type-specificity of immunoglobulin gene
+T3	protein 95 105	Antibodies
+T4	cell_type 134 147	B lymphocytes
+T5	DNA 171 194	antibody-encoding genes
+T6	DNA 200 225	immunoglobulin (Ig) genes
+T7	cell_type 249 256	B cells
+T8	DNA 262 278	octamer sequence
+T9	DNA 306 314	promoter
+T10	DNA 323 331	enhancer
+T11	DNA 335 343	Ig genes
+T12	DNA 413 427	sequence motif
+T13	protein 450 466	nuclear proteins
+T14	protein 482 511	octamer transcription factors
+T15	protein 513 516	Oct
+T16	protein 520 531	OTF factors
+T17	protein 538 551	Oct-1 protein
+T18	protein 606 612	Oct-2A
+T19	protein 617 623	Oct-2B
+T20	cell_type 644 657	B lymphocytes
+T21	DNA 785 793	Ig genes
+T22	protein 831 856	type-specific Oct factors
+T23	protein 931 936	Oct-1
+T24	protein 941 954	Oct-2 factors
+T25	protein 984 1007	octamer factor variants
+T26	RNA 1083 1101	primary transcript

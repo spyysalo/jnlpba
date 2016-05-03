@@ -1,0 +1,9 @@
+Molecular and cellular mediators of interleukin-1-dependent acute inflammatory arthritis.
+OBJECTIVE:
+To examine the molecular and cellular mechanisms in a model of acute inflammatory monarticular arthritis induced by methylated bovine serum albumin (mBSA) and interleukin-1 (IL-1).
+METHODS:
+Mice were injected intraarticularly with mBSA on day 0 and subcutaneously with recombinant human IL-1beta on days 0-2. At day 7, knee joints were removed and assessed histologically. Flow cytometry and RNase protection were used to analyze IL-1-dependent events.
+RESULTS:
+C57BL/6 (B6), 129/Sv, and (B6 x 129/ Sv)F1 hybrid mice, all H-2b strains, were susceptible to mBSA/IL-1-induced arthritis, whereas C3H/HeJ (H-2k) mice were not. B6 mice lacking T and B cells (RAG1-/-) or major histocompatibility complex (MHC) class II antigens (MHCII-/-), and B6 mice treated with a CD4+ T cell-depleting monoclonal antibody, were resistant to disease. In contrast, B cell-deficient (muMT/ muMT) mice developed arthritis at an incidence and severity similar to that of controls. RelB-deficient (RelB-/-) bone marrow chimeric mice had arthritis that was significantly reduced in incidence and severity. In B6 mice, flow cytometry demonstrated an IL-1-dependent leukocyte infiltration into the synovial compartment and RNase protection assays revealed induction of messenger RNA (mRNA) for the chemokines monocyte chemoattractant protein 1, macrophage inhibitory protein 2 (MIP-2), RANTES, MIP-1alpha, and MIP-1beta, in vivo and in vitro.
+CONCLUSION:
+Arthritis induced by mBSA/IL-1 is strain specific and dependent on CD4+ T lymphocytes and at least partially on RelB, but not on B lymphocytes or antibody. IL-1 contributes to leukocyte recruitment to the synovium and directly induces chemokine mRNA production by synovial cells. This model of acute monarticular arthritis is particularly suitable for further investigations into cell-mediated immunity in arthritis and the role of IL-1.

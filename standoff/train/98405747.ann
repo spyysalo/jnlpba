@@ -1,0 +1,35 @@
+T1	protein 0 31	Interferon-gamma-induced factor
+T2	DNA 47 79	interleukin-4-responsive element
+T3	DNA 83 97	CD23b promoter
+T4	cell_type 101 134	human tonsillar mononuclear cells
+T5	RNA 175 207	interleukin-4-induced CD23b mRNA
+T6	cell_type 224 257	human tonsillar mononuclear cells
+T7	protein 263 276	interleukin-4
+T8	protein 278 282	IL-4
+T9	protein 288 304	interferon-gamma
+T10	protein 306 315	IFN-gamma
+T11	protein 360 375	nuclear factors
+T12	DNA 426 447	IL-4 response element
+T13	DNA 449 455	IL-4RE
+T14	DNA 460 474	CD23b promoter
+T15	protein 552 556	IL-4
+T16	protein 561 570	IFN-gamma
+T17	protein 672 692	IL-4-induced complex
+T18	protein 706 770	anti-STAT (signal transducers and activators of transcription) 6
+T19	protein 827 852	IFN-gamma-induced complex
+T20	protein 870 881	anti-STAT 1
+T21	protein 936 947	anti-STAT 6
+T22	protein 952 963	anti-STAT 1
+T23	protein 974 983	IFN-gamma
+T24	RNA 1005 1014	CD23 mRNA
+T25	RNA 1095 1117	IL-4-induced CD23 mRNA
+T26	protein 1121 1130	IFN-gamma
+T27	protein 1145 1154	IFN-gamma
+T28	cell_type 1174 1189	tonsillar cells
+T29	DNA 1220 1226	IL-4RE
+T30	DNA 1234 1253	IL-4-inducible gene
+T31	protein 1275 1312	IL-4- and IFN-gamma-activated factors
+T32	protein 1322 1328	STAT 6
+T33	protein 1333 1339	STAT 1
+T34	protein 1351 1385	homodimeric or heterodimeric forms
+T35	protein 1501 1505	IL-4

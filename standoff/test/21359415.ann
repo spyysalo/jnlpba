@@ -1,0 +1,29 @@
+T1	protein 18 39	phosphorylation sites
+T2	protein 44 68	Bruton's tyrosine kinase
+T3	protein 80 116	transcriptional regulator BAP/TFII-I
+T4	protein 118 142	Bruton's tyrosine kinase
+T5	protein 144 147	Btk
+T6	protein 166 197	Tec family of cytosolic kinases
+T7	cell_type 216 222	B cell
+T8	protein 249 259	BAP/TFII-I
+T9	protein 332 335	Btk
+T10	cell_type 339 346	B cells
+T11	cell_type 403 409	B cell
+T12	protein 431 441	BAP/TFII-I
+T13	protein 461 464	Btk
+T14	protein 536 539	Btk
+T15	cell_type 543 558	mammalian cells
+T16	protein 619 629	BAP/TFII-I
+T17	protein 792 802	BAP/TFII-I
+T18	protein 822 825	Btk
+T19	protein 922 925	Btk
+T20	protein 955 965	BAP/TFII-I
+T21	protein 1027 1039	loop regions
+T22	protein 1052 1081	helix-loop-helix-like repeats
+T23	protein 1089 1099	BAP/TFII-I
+T24	DNA 1192 1206	c-fos promoter
+T25	DNA 1219 1239	wild-type BAP/TFII-I
+T26	cell_line 1255 1266	COS-7 cells
+T27	protein 1401 1411	BAP/TFII-I
+T28	protein 1415 1418	Btk
+T29	protein 1468 1482	immunoglobulin

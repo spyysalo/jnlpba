@@ -1,0 +1,19 @@
+T1	protein 0 15	NF-ATc isoforms
+T2	cell_type 62 85	murine T and mast cells
+T3	protein 87 110	NF of activated T cells
+T4	protein 112 117	NF-AT
+T5	protein 139 160	transcription factors
+T6	protein 219 253	immunologically important proteins
+T7	DNA 487 504	promoter elements
+T8	DNA 508 529	NF-AT-regulated genes
+T9	protein 625 630	NF-AT
+T10	DNA 778 789	NF-AT cDNAs
+T11	cell_type 800 810	mast cells
+T12	protein 864 879	NF-ATc isoforms
+T13	protein 906 929	amino-terminal sequence
+T14	DNA 968 981	coding region
+T15	RNA 1090 1107	NF-ATc.alpha mRNA
+T16	cell_line 1165 1186	T and mast cell lines
+T17	protein 1205 1217	beta isoform
+T18	protein 1373 1384	FcepsilonRI
+T19	protein 1477 1489	NF-AT family

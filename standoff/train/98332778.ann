@@ -1,0 +1,21 @@
+T1	protein 26 42	tyrosine kinases
+T2	protein 48 58	PLC-gamma1
+T3	protein 104 140	nonreceptor protein tyrosine kinases
+T4	protein 142 146	PTKs
+T5	protein 165 180	T cell receptor
+T6	protein 182 185	TCR
+T7	protein 239 253	PTK substrates
+T8	cell_line 276 294	mutant T cell line
+T9	protein 334 340	SLP-76
+T10	protein 342 381	SH2 domain-containing leukocyte protein
+T11	protein 404 447	hematopoietically expressed adaptor protein
+T12	protein 452 465	PTK substrate
+T13	protein 467 473	SLP-76
+T14	protein 495 498	TCR
+T15	protein 622 644	phospholipase C-gamma1
+T16	protein 646 656	PLC-gamma1
+T17	protein 670 673	Ras
+T18	protein 694 697	TCR
+T19	protein 741 747	SLP-76
+T20	protein 767 785	TCR-regulated PTKs
+T21	protein 828 834	SLP-76

@@ -1,0 +1,9 @@
+Insufficient glycemic control increases nuclear factor-kappa B binding activity in peripheral blood mononuclear cells isolated from patients with type 1 diabetes.
+OBJECTIVE:
+The redox-sensitive transcription factor nuclear factor-kappa B (NF-kappa B) is believed to contribute to late diabetic complications. It is unknown whether NF-kappa B is influenced by glycemic control.
+RESEARCH DESIGN AND METHODS:
+To determine whether NF-kappa B is activated in patients with insufficient glycemic control (HbA1c > 10%), we developed a tissue culture-independent electrophoretic mobility shift assay (EMSA)-based semiquantitative detection system that allowed us to determine NF-kappa B activation in ex vivo-isolated peripheral blood mononuclear cells (PBMCs). We included 43 patients with type 1 diabetes in this cross-sectional study. 10 of those received the antioxidant thioctic acid (600 mg/day p.o.) for 2 weeks.
+RESULTS:
+Monocytes of patients with HbA1c levels > 10% demonstrated significantly higher NF-kappa B binding activity in an EMSA and a stronger NF-kappa B staining in immunohistochemistry than monocytes of patients with HbA1c levels of 6-8%. The increase in NF-kappa B activation correlated with an increase in plasmatic markers of lipid peroxidation. Treatment with the antioxidant thioctic acid decreased NF-kappa B binding activity.
+CONCLUSIONS:
+Hyperglycemia induces activation of the transcription factor NF-kappa B in ex vivo-isolated PBMCs of patients with type 1 diabetes. NF-kappa B activation is at least partially dependent on oxidative stress, since the antioxidant thioctic acid significantly lowered the extent of NF-kappa B binding activity.

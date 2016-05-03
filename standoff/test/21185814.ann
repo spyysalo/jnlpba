@@ -1,0 +1,17 @@
+T1	cell_type 62 80	B- and T-cell type
+T2	DNA 82 87	BCL-6
+T3	DNA 167 192	immunoglobulin (Ig) genes
+T4	DNA 219 238	5'-noncoding region
+T5	DNA 246 256	BCL-6 gene
+T6	DNA 324 334	BCL-6 gene
+T7	DNA 338 360	heterologous promoters
+T8	DNA 382 412	5'-noncoding regulatory region
+T9	DNA 471 476	BCL-6
+T10	cell_type 828 835	B cells
+T11	DNA 999 1017	5'-noncoding BCL-6
+T12	cell_type 1032 1077	single Hodgkin and Reed-Sternberg (HRS) cells
+T13	cell_line 1113 1134	HD-derived cell lines
+T14	protein 1404 1417	BCL-6 protein
+T15	cell_type 1438 1447	HRS cells
+T16	cell_type 1537 1543	B-cell
+T17	protein 1660 1673	BCL-6 protein

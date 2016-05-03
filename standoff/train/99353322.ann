@@ -1,0 +1,12 @@
+T1	DNA 92 98	HLA-DQ
+T2	protein 156 174	HSV-2 VP16 protein
+T3	protein 344 356	position 442
+T4	cell_type 1002 1026	antigen presenting cells
+T5	cell_type 1028 1031	APC
+T6	cell_type 1138 1145	T cells
+T7	cell_type 1174 1177	APC
+T8	cell_line 1278 1290	T cell clone
+T9	cell_type 1298 1301	APC
+T10	cell_line 1433 1445	T cell clone
+T11	cell_line 1492 1503	APC culture
+T12	protein 1550 1571	MHC-peptide complexes

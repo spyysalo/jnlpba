@@ -1,0 +1,28 @@
+T1	protein 29 51	nuclear factor kappa B
+T2	protein 97 108	thioredoxin
+T3	protein 202 243	pleiotropic cellular transcription factor
+T4	protein 245 267	nuclear factor kappa B
+T5	protein 269 279	NF kappa B
+T6	protein 313 323	NF kappa B
+T7	cell_type 373 400	primary human T lymphocytes
+T8	protein 444 455	thioredoxin
+T9	protein 457 460	Trx
+T10	protein 517 527	NF kappa B
+T11	protein 579 589	NF kappa B
+T12	protein 677 687	NF kappa B
+T13	protein 691 694	Trx
+T14	protein 768 777	I kappa B
+T15	protein 781 808	cytosolic-anchoring protein
+T16	protein 813 823	NF kappa B
+T17	protein 850 853	Trx
+T18	DNA 907 959	chloramphenicol acetyltransferase-expressing plasmid
+T19	DNA 981 1036	human immunodeficiency virus (HIV) long terminal repeat
+T20	DNA 1044 1060	effector plasmid
+T21	protein 1072 1081	human Trx
+T22	DNA 1110 1134	HIV long terminal repeat
+T23	DNA 1180 1202	Trx-expressing plasmid
+T24	protein 1238 1248	NF kappa B
+T25	protein 1322 1332	NF kappa B
+T26	protein 1377 1387	NF kappa B
+T27	protein 1437 1440	Trx
+T28	protein 1477 1487	NF kappa B

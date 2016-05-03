@@ -1,0 +1,40 @@
+T1	protein 13 56	endothelial cell surface adhesion molecules
+T2	protein 60 81	tumor necrosis factor
+T3	protein 149 188	nuclear transcription factor NF-kappa B
+T4	protein 245 273	protein tyrosine phosphatase
+T5	protein 275 281	PTPase
+T6	protein 316 337	tumor necrosis factor
+T7	protein 339 342	TNF
+T8	protein 371 410	nuclear transcription factor NF-kappa B
+T9	cell_line 414 419	ML-1a
+T10	cell_line 423 442	monocytic cell line
+T11	protein 504 507	TNF
+T12	protein 548 566	adhesion molecules
+T13	protein 653 663	NF-kappa B
+T14	protein 691 697	PTPase
+T15	protein 716 719	TNF
+T16	protein 742 782	intracellular adhesion molecule (ICAM)-1
+T17	protein 784 824	vascular cell adhesion molecule (VCAM)-1
+T18	protein 829 877	endothelial leukocyte adhesion molecule (ELAM)-1
+T19	cell_line 884 889	ML-1a
+T20	cell_line 891 933	human dermal microvessel endothelial cells
+T21	cell_line 935 939	MVEC
+T22	protein 954 957	TNF
+T23	protein 992 1002	NF-kappa B
+T24	protein 1112 1118	PTPase
+T25	protein 1137 1143	ICAM-1
+T26	protein 1145 1151	VCAM-1
+T27	protein 1157 1163	ELAM-1
+T28	protein 1167 1170	TNF
+T29	cell_line 1174 1178	MVEC
+T30	protein 1329 1332	TNF
+T31	protein 1420 1426	PTPase
+T32	protein 1476 1479	TNF
+T33	protein 1490 1500	NF-kappa B
+T34	protein 1543 1560	adhesion proteins
+T35	cell_line 1624 1628	MVEC
+T36	protein 1653 1659	PTPase
+T37	protein 1718 1724	PTPase
+T38	protein 1810 1845	endothelial cell adhesion molecules
+T39	protein 1849 1852	TNF
+T40	protein 1894 1900	PTPase

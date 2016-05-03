@@ -1,0 +1,47 @@
+T1	protein 0 6	SOCS-3
+T2	protein 49 62	interleukin-2
+T3	protein 78 83	STAT5
+T4	protein 165 184	SOCS/CIS/SSI family
+T5	protein 221 229	cytokine
+T6	protein 388 401	SOCS proteins
+T7	protein 439 452	interleukin-2
+T8	protein 454 458	IL-2
+T9	cell_type 473 480	T cells
+T10	protein 497 503	SOCS-3
+T11	protein 530 534	IL-2
+T12	cell_line 543 555	T-cell lines
+T13	cell_type 560 594	human peripheral blood lymphocytes
+T14	protein 596 602	SOCS-3
+T15	protein 655 659	IL-2
+T16	protein 679 682	CIS
+T17	protein 729 732	CIS
+T18	protein 734 740	SOCS-3
+T19	protein 792 796	IL-2
+T20	protein 826 832	SOCS-3
+T21	protein 869 873	Jak1
+T22	protein 878 882	Jak2
+T23	protein 904 908	Jak3
+T24	protein 932 938	SOCS-3
+T25	protein 955 959	Jak1
+T26	protein 974 978	Jak1
+T27	protein 1057 1081	IL-2 receptor beta chain
+T28	protein 1083 1092	IL-2Rbeta
+T29	protein 1115 1119	IL-2
+T30	cell_type 1135 1142	T cells
+T31	protein 1144 1150	SOCS-3
+T32	protein 1181 1202	IL-2 receptor complex
+T33	protein 1222 1250	tyrosine phosphorylated Jak1
+T34	protein 1255 1264	IL-2Rbeta
+T35	cell_type 1283 1294	lymphocytes
+T36	protein 1306 1312	SOCS-3
+T37	protein 1321 1324	CIS
+T38	protein 1326 1330	IL-2
+T39	protein 1367 1373	STAT5b
+T40	protein 1434 1454	IL-3-mediated STAT5b
+T41	protein 1520 1524	IL-2
+T42	protein 1530 1534	IL-3
+T43	protein 1582 1588	SOCS-3
+T44	protein 1621 1627	SOCS-3
+T45	protein 1650 1654	IL-2
+T46	cell_type 1658 1665	T cells
+T47	protein 1686 1690	IL-2

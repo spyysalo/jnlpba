@@ -1,0 +1,35 @@
+T1	protein 8 38	mitogen-inducible gene product
+T2	protein 50 69	p50/p105-NF-kappa B
+T3	DNA 112 124	kappa B site
+T4	protein 128 183	Rel-related, mitogen-inducible, kappa B-binding protein
+T5	DNA 206 237	immediate-early activation gene
+T6	cell_type 241 271	human peripheral blood T cells
+T7	DNA 277 281	cDNA
+T8	DNA 289 307	open reading frame
+T9	DNA 311 326	900 amino acids
+T10	protein 349 363	97-kDa protein
+T11	protein 434 448	p50-NF-kappa B
+T12	protein 493 526	amino-terminal Rel-related domain
+T13	protein 558 581	carboxy-terminal domain
+T14	protein 597 612	full cell cycle
+T15	protein 616 631	ankyrin repeats
+T16	protein 636 661	vitro-translated proteins
+T17	DNA 691 701	Rel domain
+T18	DNA 734 747	kappa B sites
+T19	protein 765 799	kappa B-binding, truncated protein
+T20	protein 803 807	p50B
+T21	protein 824 838	p50-NF-kappa B
+T22	protein 873 876	p97
+T23	protein 878 882	p50B
+T24	protein 899 936	heteromeric kappa B-binding complexes
+T25	protein 942 946	RelB
+T26	protein 964 967	p65
+T27	protein 972 975	p50
+T28	protein 997 1007	NF-kappa B
+T29	cell_line 1047 1072	embryonal carcinoma cells
+T30	protein 1118 1122	p50B
+T31	protein 1127 1131	RelB
+T32	protein 1135 1138	p65
+T33	DNA 1163 1179	reporter plasmid
+T34	DNA 1195 1207	kappa B site
+T35	protein 1261 1298	NF-kappa B-like transcription factors

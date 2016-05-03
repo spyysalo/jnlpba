@@ -1,0 +1,23 @@
+T1	protein 65 69	BSAP
+T2	protein 71 76	Pax-5
+T3	protein 126 131	Pax-5
+T4	protein 146 166	transcription factor
+T5	protein 167 171	BSAP
+T6	cell_type 231 269	terminally differentiated plasma cells
+T7	protein 389 409	transcription factor
+T8	protein 411 415	BSAP
+T9	cell_type 571 598	Pax-5-deficient pro-B cells
+T10	protein 633 637	BSAP
+T11	protein 663 667	CD19
+T12	protein 669 673	mb-1
+T13	protein 675 683	Ig alpha
+T14	DNA 689 700	N-myc genes
+T15	protein 785 823	immunoglobulin heavy-chain (IgH) locus
+T16	DNA 829 845	human PAX-5 gene
+T17	DNA 898 907	IgH locus
+T18	DNA 941 957	t(9;14)(p13;q32)
+T19	DNA 1084 1107	translocated PAX-5 gene
+T20	DNA 1143 1166	IgH regulatory elements
+T21	DNA 1176 1185	5' region
+T22	protein 1262 1267	PAX-5
+T23	cell_type 1314 1325	plasma cell

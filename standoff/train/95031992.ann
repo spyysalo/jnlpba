@@ -1,0 +1,10 @@
+T1	DNA 36 41	v-abl
+T2	protein 47 70	protein tyrosine kinase
+T3	DNA 87 101	v-abl oncogene
+T4	cell_type 179 193	lymphoid cells
+T5	cell_type 324 344	B cell lineage cells
+T6	DNA 441 446	v-abl
+T7	protein 490 499	NF-kappaB
+T8	DNA 535 543	RAG gene
+T9	DNA 588 593	v-abl
+T10	cell_type 635 642	B cells

@@ -1,0 +1,40 @@
+T1	protein 0 28	HIV-1 envelope glycoproteins
+T2	protein 60 69	protein-1
+T3	cell_type 73 85	CD4+ T cells
+T4	cell_type 170 190	CD4 positive T cells
+T5	cell_line 324 349	CD4 positive T cell lines
+T6	cell_type 354 370	purified T cells
+T7	protein 422 451	native envelope glycoproteins
+T8	protein 460 466	gp 160
+T9	protein 493 534	transcription factor, activated protein-1
+T10	protein 536 540	AP-1
+T11	protein 570 575	gp160
+T12	protein 601 613	CD4 molecule
+T13	protein 634 639	gp160
+T14	protein 653 660	CD4-IgG
+T15	cell_line 689 714	CD4 negative T cell lines
+T16	protein 742 747	gp160
+T17	protein 776 782	gp 160
+T18	protein 813 834	polyclonal antibodies
+T19	protein 838 841	Fos
+T20	protein 846 858	Jun proteins
+T21	protein 874 886	AP-1 complex
+T22	protein 944 970	gp160-induced AP-1 complex
+T23	protein 1116 1132	protein kinase C
+T24	protein 1206 1211	gp160
+T25	cell_type 1271 1278	T cells
+T26	cell_type 1297 1309	CD4+ T cells
+T27	protein 1315 1320	gp160
+T28	protein 1355 1363	anti-CD3
+T29	protein 1372 1385	interleukin-2
+T30	protein 1416 1421	gp160
+T31	protein 1437 1449	anti-CD4 mAb
+T32	protein 1478 1482	AP-1
+T33	protein 1486 1491	gp160
+T34	cell_type 1495 1515	CD4 positive T cells
+T35	protein 1549 1558	cytokines
+T36	DNA 1570 1580	AP-1 sites
+T37	protein 1587 1600	interleukin-3
+T38	protein 1605 1653	granulocyte macrophage colony-stimulating factor
+T39	cell_type 1680 1686	T cell
+T40	protein 1718 1731	interleukin-2

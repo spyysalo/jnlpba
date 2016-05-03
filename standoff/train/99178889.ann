@@ -1,0 +1,39 @@
+T1	protein 52 93	p38alpha mitogen-activated protein kinase
+T2	cell_line 97 138	lipopolysaccharide-stimulated neutrophils
+T3	cell_type 154 164	leukocytes
+T4	protein 282 289	kinases
+T5	cell_type 331 348	human neutrophils
+T6	protein 385 421	p38 mitogen-activated protein kinase
+T7	protein 423 427	MAPk
+T8	protein 443 461	upstream activator
+T9	protein 468 476	p38 MAPk
+T10	protein 509 517	p38 MAPk
+T11	protein 575 586	MAPk kinase
+T12	protein 588 591	MKK
+T13	protein 608 616	p38 MAPk
+T14	protein 641 658	p38 MAPk isoforms
+T15	protein 744 752	p38 MAPk
+T16	protein 774 778	MKK3
+T17	protein 780 784	MKK4
+T18	protein 790 794	MKK6
+T19	protein 809 817	p38 MAPk
+T20	protein 847 851	MKK3
+T21	protein 886 894	p38 MAPk
+T22	protein 926 943	p38 MAPk isoforms
+T23	protein 958 966	p38alpha
+T24	protein 971 979	p38delta
+T25	cell_type 997 1008	neutrophils
+T26	protein 1048 1056	p38alpha
+T27	protein 1081 1094	p38alpha MAPk
+T28	protein 1149 1158	NF-kappaB
+T29	protein 1189 1216	tumor necrosis factor-alpha
+T30	protein 1218 1227	TNF-alpha
+T31	protein 1244 1257	p38alpha MAPk
+T32	RNA 1294 1308	TNF-alpha mRNA
+T33	protein 1345 1354	TNF-alpha
+T34	cell_type 1427 1438	neutrophils
+T35	protein 1464 1468	MKK3
+T36	protein 1494 1507	p38alpha MAPk
+T37	protein 1541 1550	NF-kappaB
+T38	protein 1591 1600	TNF-alpha
+T39	protein 1620 1629	TNF-alpha

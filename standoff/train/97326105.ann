@@ -1,0 +1,28 @@
+T1	protein 18 27	HSF2-beta
+T2	protein 37 42	hemin
+T3	cell_line 111 121	K562 cells
+T4	DNA 229 245	heat shock genes
+T5	cell_line 263 273	K562 cells
+T6	protein 343 347	HSF2
+T7	protein 396 406	HSF2-alpha
+T8	protein 411 420	HSF2-beta
+T9	protein 556 566	HSF2-alpha
+T10	protein 571 580	HSF2-beta
+T11	protein 623 627	HSF2
+T12	protein 644 648	HSF2
+T13	protein 800 810	HSF2-alpha
+T14	protein 815 824	HSF2-beta
+T15	cell_line 851 861	K562 cells
+T16	protein 867 885	HSF2-alpha isoform
+T17	protein 917 921	HSF2
+T18	protein 979 988	HSF2-beta
+T19	protein 1031 1052	endogenous HSF2-alpha
+T20	DNA 1114 1130	heat shock genes
+T21	protein 1172 1182	HSF2-alpha
+T22	protein 1206 1211	hemin
+T23	protein 1239 1244	hemin
+T24	protein 1269 1275	globin
+T25	protein 1362 1371	HSF2-beta
+T26	protein 1389 1398	HSF2-beta
+T27	protein 1431 1435	HSF2
+T28	cell_line 1496 1506	K562 cells

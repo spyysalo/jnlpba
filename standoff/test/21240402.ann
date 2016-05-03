@@ -1,0 +1,38 @@
+T1	cell_type 25 35	FA-C cells
+T2	protein 41 46	FANCC
+T3	DNA 76 108	interferon gamma-inducible genes
+T4	cell_type 118 137	hematopoietic cells
+T5	protein 266 282	interferon gamma
+T6	protein 284 292	IFNgamma
+T7	DNA 319 343	IFNgamma-inducible genes
+T8	DNA 444 468	IFNgamma-inducible genes
+T9	protein 470 512	IFN-stimulated gene factor 3 gamma subunit
+T10	protein 514 524	ISGF3gamma
+T11	protein 527 550	IFN regulatory factor-1
+T12	protein 552 557	IRF-1
+T13	protein 568 605	cyclin-dependent kinase inhibitor p21
+T14	protein 606 610	WAF1
+T15	protein 625 630	FANCC
+T16	cell_type 638 652	B lymphoblasts
+T17	cell_type 654 683	low-density bone marrow cells
+T18	cell_type 689 717	murine embryonic fibroblasts
+T19	protein 753 819	activate signal transducer and activator of transcription (STAT) 1
+T20	cell_type 875 885	FA-C cells
+T21	DNA 898 922	IFNgamma-inducible genes
+T22	protein 1012 1027	activated STAT1
+T23	protein 1068 1109	hematopoietic IFNgamma-responsive protein
+T24	DNA 1154 1179	IFNgamma-responsive genes
+T25	protein 1195 1203	IFNgamma
+T26	protein 1221 1259	IFN consensus sequence binding protein
+T27	protein 1261 1266	ICSBP
+T28	protein 1271 1302	negative trans-acting regulator
+T29	DNA 1311 1335	IFNgamma-inducible genes
+T30	protein 1354 1359	ICSBP
+T31	cell_type 1383 1402	FA-C B lymphoblasts
+T32	cell_type 1407 1411	MEFs
+T33	protein 1445 1450	ICSBP
+T34	protein 1475 1480	IRF-1
+T35	protein 1482 1492	ISGF3gamma
+T36	protein 1498 1507	p21(WAF1)
+T37	protein 1519 1532	FANCC protein
+T38	protein 1799 1804	ICSBP

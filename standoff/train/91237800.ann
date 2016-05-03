@@ -1,0 +1,18 @@
+T1	protein 45 92	Epstein-Barr virus BZLF1 transactivator protein
+T2	protein 124 137	BZLF1 protein
+T3	protein 175 198	immediate-early protein
+T4	cell_type 248 268	EBV-infected B cells
+T5	protein 290 309	monoclonal antibody
+T6	protein 311 314	BZ1
+T7	protein 319 324	BZLF1
+T8	protein 428 448	active, dimeric form
+T9	protein 457 481	inactive, monomeric form
+T10	protein 653 656	BZ1
+T11	protein 657 676	monoclonal antibody
+T12	protein 718 723	BZLF1
+T13	protein 749 752	BZ1
+T14	DNA 847 861	BZLF1 promoter
+T15	DNA 963 970	EBV DNA
+T16	protein 975 995	viral capsid antigen
+T17	protein 1010 1013	BZ1
+T18	protein 1040 1045	BZLF1

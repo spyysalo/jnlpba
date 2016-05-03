@@ -1,0 +1,33 @@
+T1	DNA 15 35	interferon beta gene
+T2	protein 71 81	NF-kappa B
+T3	protein 94 104	TH protein
+T4	DNA 110 161	human interferon beta (IFN-beta) regulatory element
+T5	DNA 183 199	enhanson domains
+T6	protein 222 243	transcription factors
+T7	DNA 284 292	promoter
+T8	protein 357 365	IFN-beta
+T9	protein 377 429	positive regulatory domain (PRD) II binding proteins
+T10	cell_line 471 485	Jurkat T-cells
+T11	cell_line 495 574	IFN primed, cycloheximide/polyinosinic-polycytidylic acid treated HeLa S3 cells
+T12	cell_line 581 591	HeLa cells
+T13	protein 615 641	52 and 45 kilodaltons (kD)
+T14	cell_type 693 700	T-cells
+T15	protein 719 732	major protein
+T16	protein 736 741	52 kD
+T17	protein 752 766	minor proteins
+T18	protein 770 772	82
+T19	protein 774 776	67
+T20	protein 782 790	43-47 kD
+T21	protein 826 854	specific DNA binding protein
+T22	cell_line 873 883	HeLa cells
+T23	DNA 919 940	tetrahexamer sequence
+T24	DNA 949 960	PRDI domain
+T25	protein 1008 1019	IRF-1/ISGF2
+T26	DNA 1131 1158	IFN beta promoter deletions
+T27	DNA 1186 1199	PRDII element
+T28	DNA 1302 1310	promoter
+T29	DNA 1335 1352	IFN-beta promoter
+T30	DNA 1430 1434	PRDI
+T31	DNA 1439 1453	PRDII elements
+T32	protein 1515 1554	PRDII and tetrahexamer binding proteins
+T33	protein 1805 1813	IFN-beta

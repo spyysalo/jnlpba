@@ -1,0 +1,40 @@
+T1	DNA 20 58	interleukin-13 and interleukin-4 genes
+T2	DNA 105 126	cytokine gene cluster
+T3	DNA 130 154	human chromosome 5q23-31
+T4	protein 156 170	Interleukin-13
+T5	protein 172 177	IL-13
+T6	protein 183 187	IL-4
+T7	DNA 316 326	IL-13 gene
+T8	cell_type 341 348	T cells
+T9	DNA 386 396	IL-13 gene
+T10	DNA 411 429	5'-flanking region
+T11	DNA 444 479	transcriptional activation elements
+T12	cell_line 512 553	nontransformed T-lineage cell populations
+T13	DNA 559 575	human IL-13 gene
+T14	DNA 588 604	12.5-kb upstream
+T15	DNA 612 621	IL-4 gene
+T16	DNA 626 641	2-kb downstream
+T17	DNA 647 657	CpG island
+T18	DNA 663 689	IL-13 gene 5' flank region
+T19	DNA 735 745	P elements
+T20	DNA 753 766	IL-4 promoter
+T21	cell_type 809 816	T cells
+T22	DNA 834 854	IL-13 P element site
+T23	protein 877 882	IL-13
+T24	protein 967 972	IL-13
+T25	DNA 976 996	IL-4 P element sites
+T26	protein 1020 1053	transcriptional activator protein
+T27	protein 1055 1087	nuclear factor-activated T cells
+T28	protein 1100 1106	NF-ATp
+T29	cell_type 1159 1176	activated T cells
+T30	protein 1189 1193	IL-4
+T31	RNA 1195 1205	IL-13 mRNA
+T32	cell_line 1232 1250	T-cell populations
+T33	DNA 1379 1399	IL-13 and IL-4 genes
+T34	cell_line 1436 1450	primed T cells
+T35	protein 1476 1490	nuclear NF-ATp
+T36	DNA 1514 1524	P elements
+T37	DNA 1532 1556	IL-4 and IL-13 promoters
+T38	cell_type 1566 1590	freshly-isolated T cells
+T39	DNA 1596 1620	NF-AT-binding P elements
+T40	DNA 1697 1711	cytokine genes

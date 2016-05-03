@@ -1,0 +1,27 @@
+T1	protein 56 82	matrix metalloproteinase 9
+T2	protein 87 107	transcription factor
+T3	protein 108 112	AP-1
+T4	cell_type 116 133	bovine leucocytes
+T5	cell_type 162 179	bovine leucocytes
+T6	DNA 334 348	host cell gene
+T7	cell_type 420 451	T. annulata-infected leucocytes
+T8	protein 478 495	metalloproteinase
+T9	protein 540 542	B1
+T10	protein 549 563	97-kDa protein
+T11	DNA 710 720	cDNA clone
+T12	protein 756 758	B1
+T13	protein 785 811	matrix metalloproteinase 9
+T14	protein 813 817	MMP9
+T15	protein 882 888	RNAase
+T16	protein 929 933	MMP9
+T17	cell_type 954 968	infected cells
+T18	protein 990 994	MMP9
+T19	protein 1038 1058	transcription factor
+T20	protein 1059 1063	AP-1
+T21	cell_type 1140 1164	Theileria-infected cells
+T22	RNA 1202 1206	mRNA
+T23	protein 1216 1221	c-Fos
+T24	protein 1245 1249	AP-1
+T25	cell_type 1298 1312	infected cells
+T26	protein 1320 1324	AP-1
+T27	protein 1377 1381	MMP9

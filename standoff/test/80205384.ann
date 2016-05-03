@@ -1,0 +1,13 @@
+T1	cell_type 20 31	lymphocytes
+T2	protein 69 92	glucocorticoid receptor
+T3	protein 125 148	glucocorticoid receptor
+T4	cell_line 197 244	mitogen-stimulated human peripheral lymphocytes
+T5	cell_type 249 269	rat lymph node cells
+T6	cell_type 466 510	G0 and G1 phase and S and post-S phase cells
+T7	cell_type 663 708	nonstimulated rat lymph node cell suspensions
+T8	cell_line 713 767	concanavalin A-stimulated human peripheral lymphocytes
+T9	protein 858 882	glucocorticoid receptors
+T10	cell_type 931 950	proliferating cells
+T11	protein 985 1009	glucocorticoid receptors
+T12	protein 1060 1084	glucocorticoid receptors
+T13	cell_type 1088 1118	mitogen-stimulated lymphocytes

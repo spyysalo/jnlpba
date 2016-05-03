@@ -1,0 +1,21 @@
+T1	protein 83 96	human factors
+T2	protein 97 100	YY1
+T3	protein 105 108	LSF
+T4	cell_type 189 215	stably infected CD4+ cells
+T5	protein 593 596	YY1
+T6	protein 619 645	human transcription factor
+T7	DNA 667 693	HIV-1 long terminal repeat
+T8	DNA 695 698	LTR
+T9	protein 736 739	LSF
+T10	protein 755 760	LBP-1
+T11	protein 762 765	UBP
+T12	protein 771 775	CP-2
+T13	protein 859 862	LSF
+T14	DNA 880 883	LTR
+T15	protein 922 925	YY1
+T16	protein 930 933	LSF
+T17	DNA 1021 1030	HIV-1 LTR
+T18	DNA 1105 1108	LTR
+T19	protein 1210 1213	LSF
+T20	protein 1432 1435	YY1
+T21	protein 1440 1443	LSF

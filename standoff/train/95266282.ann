@@ -1,0 +1,34 @@
+T1	protein 13 16	Sp1
+T2	DNA 37 72	NF-kappa B-independent HIV promoter
+T3	cell_type 92 105	T lymphocytes
+T4	protein 189 198	cytokines
+T5	protein 207 210	TNF
+T6	DNA 234 255	HIV regulatory region
+T7	DNA 257 260	LTR
+T8	protein 379 389	NF-kappa B
+T9	DNA 399 414	promoter domain
+T10	DNA 422 425	LTR
+T11	DNA 447 494	HIV LTR-driven luciferase expression constructs
+T12	cell_type 498 518	lymphoblastoid cells
+T13	DNA 554 585	functional Sp1 binding elements
+T14	DNA 609 617	TATA box
+T15	protein 638 641	TBP
+T16	cell_type 651 685	transformed and normal lymphocytes
+T17	protein 767 778	Sp1 protein
+T18	protein 827 830	TNF
+T19	protein 850 853	PHA
+T20	protein 858 871	interleukin 2
+T21	DNA 891 905	LTR constructs
+T22	DNA 917 933	kappa B elements
+T23	protein 937 944	HIV Tat
+T24	protein 987 990	TNF
+T25	protein 1029 1032	SP1
+T26	protein 1094 1122	serine-threonine phosphatase
+T27	protein 1123 1127	PP2A
+T28	protein 1160 1181	transcription complex
+T29	protein 1200 1221	transcription factors
+T30	protein 1223 1230	HIV Tat
+T31	protein 1236 1248	Sp1 proteins
+T32	protein 1332 1342	NF-kappa B
+T33	DNA 1374 1381	HIV LTR
+T34	cell_type 1394 1414	normal T lymphocytes

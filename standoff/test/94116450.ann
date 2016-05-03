@@ -1,0 +1,18 @@
+T1	protein 18 44	chicken GATA factor family
+T2	DNA 149 183	transcriptional regulatory domains
+T3	DNA 187 193	globin
+T4	DNA 204 228	erythroid-specific genes
+T5	protein 237 255	activator proteins
+T6	DNA 274 292	regulatory element
+T7	protein 298 310	GATA factors
+T8	protein 324 341	multi-gene family
+T9	cell_type 363 386	chicken erythroid cells
+T10	protein 447 465	GATA factor family
+T11	cell_type 483 515	human and murine erythroid cells
+T12	protein 616 635	GATA family members
+T13	cell_type 702 729	primitive erythroid lineage
+T14	DNA 752 781	embryonic epsilon-globin gene
+T15	cell_type 859 885	definitive erythroid cells
+T16	protein 935 941	GATA-3
+T17	RNA 1012 1017	mRNAs
+T18	protein 1119 1130	GATA factor

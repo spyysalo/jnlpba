@@ -1,0 +1,34 @@
+T1	protein 27 36	NF-kappaB
+T2	cell_type 40 75	primary adult T-cell leukemia cells
+T3	protein 179 192	viral protein
+T4	protein 193 196	Tax
+T5	protein 253 273	transcription factor
+T6	protein 274 283	NF-kappaB
+T7	cell_type 351 358	T cells
+T8	DNA 383 395	HTLV-I genes
+T9	protein 406 409	Tax
+T10	cell_type 445 467	primary leukemic cells
+T11	protein 528 537	NF-kappaB
+T12	cell_type 552 583	freshly isolated leukemic cells
+T13	cell_type 617 631	leukemic cells
+T14	cell_line 656 684	HTLV-I-infected T-cell lines
+T15	protein 707 716	NF-kappaB
+T16	protein 767 779	IkappaBalpha
+T17	protein 797 806	NF-kappaB
+T18	protein 821 830	NF-kappaB
+T19	cell_line 851 878	Tax-expressing T-cell lines
+T20	protein 899 908	p50/c-Rel
+T21	protein 938 970	p50/p50 and p50/p65 heterodimers
+T22	cell_line 976 987	T-cell line
+T23	cell_type 1005 1019	leukemic cells
+T24	protein 1052 1061	NF-kappaB
+T25	protein 1107 1119	IkappaBalpha
+T26	protein 1152 1155	Tax
+T27	protein 1187 1196	NF-kappaB
+T28	protein 1219 1226	p50/p50
+T29	protein 1231 1238	p50/p65
+T30	cell_type 1258 1280	primary leukemic cells
+T31	protein 1321 1330	NF-kappaB
+T32	protein 1348 1351	Tax
+T33	cell_type 1377 1391	leukemic cells
+T34	protein 1438 1447	NF-kappaB

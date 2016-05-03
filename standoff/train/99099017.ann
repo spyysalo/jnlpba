@@ -1,0 +1,27 @@
+T1	protein 0 46	Human T-cell leukemia virus type 1 tax protein
+T2	protein 57 70	interleukin-2
+T3	cell_line 87 104	mouse T-cell line
+T4	protein 199 202	Tax
+T5	protein 208 221	viral protein
+T6	cell_type 303 318	healthy T cells
+T7	protein 396 399	Tax
+T8	cell_line 430 472	interleukin-2 (IL-2)-dependent T-cell line
+T9	cell_line 473 479	CTLL-2
+T10	protein 502 505	Tax
+T11	cell_line 509 515	CTLL-2
+T12	protein 551 555	IL-2
+T13	protein 569 573	IL-2
+T14	protein 587 590	Tax
+T15	protein 624 633	NF-kappaB
+T16	DNA 642 685	cyclic AMP-responsive element-like sequence
+T17	protein 725 728	Tax
+T18	protein 787 796	NF-kappaB
+T19	protein 823 827	IL-2
+T20	cell_type 850 862	CTLL-2 cells
+T21	DNA 873 876	CRE
+T22	protein 1019 1029	CTLL-2/Tax
+T23	protein 1053 1056	Tax
+T24	cell_type 1097 1104	T cells
+T25	protein 1123 1126	Tax
+T26	protein 1151 1155	IL-2
+T27	protein 1239 1243	IL-2

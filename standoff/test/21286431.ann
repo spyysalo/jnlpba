@@ -1,0 +1,18 @@
+T1	DNA 105 111	GATA-3
+T2	protein 223 250	transcription factor GATA-3
+T3	cell_type 254 261	T cells
+T4	cell_type 274 294	T helper cell type 2
+T5	cell_type 296 299	Th2
+T6	protein 384 390	GATA-3
+T7	DNA 517 523	GATA-3
+T8	protein 663 669	GATA-3
+T9	protein 747 765	interleukin (IL)-4
+T10	cell_type 776 783	T cells
+T11	DNA 870 892	translation start site
+T12	DNA 896 902	GATA-3
+T13	cell_type 1232 1242	lung cells
+T14	cell_type 1434 1445	eosinophils
+T15	cell_type 1450 1453	Th2
+T16	DNA 1838 1844	GATA-3
+T17	protein 2135 2164	proinflammatory Th2 cytokines
+T18	protein 2229 2237	cytokine

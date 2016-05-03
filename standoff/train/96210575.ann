@@ -1,0 +1,20 @@
+T1	protein 18 59	monocyte/macrophage tumor necrosis factor
+T2	protein 102 123	Tumor necrosis factor
+T3	protein 125 128	TNF
+T4	protein 366 369	TNF
+T5	protein 948 951	TNF
+T6	protein 1012 1015	TNF
+T7	RNA 1133 1141	TNF mRNA
+T8	protein 1167 1192	nuclear factor NF-kappa B
+T9	cell_type 1211 1222	macrophages
+T10	protein 1318 1328	NF-kappa B
+T11	protein 1368 1371	TNF
+T12	protein 1399 1419	26-kDa membrane form
+T13	protein 1423 1426	TNF
+T14	protein 1518 1521	TNF
+T15	DNA 1552 1603	chloram-phenicol acetyltransferase (CAT) constructs
+T16	DNA 1631 1639	TNF gene
+T17	protein 1661 1664	TNF
+T18	DNA 1700 1730	5' and 3' untranslated regions
+T19	DNA 1738 1746	TNF gene
+T20	protein 1889 1892	TNF

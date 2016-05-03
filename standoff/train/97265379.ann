@@ -1,0 +1,26 @@
+T1	protein 14 34	NFAT-family proteins
+T2	cell_type 38 58	normal human T cells
+T3	protein 60 73	NFAT proteins
+T4	protein 97 118	transcription factors
+T5	protein 242 247	NFATp
+T6	protein 249 256	135 kDa
+T7	cell_type 289 309	normal human T cells
+T8	protein 330 335	NFATc
+T9	protein 357 363	86 kDa
+T10	protein 400 407	NFAT4/x
+T11	protein 527 540	NFAT3 protein
+T12	protein 580 611	Higher-molecular-weight species
+T13	protein 615 620	NFATc
+T14	RNA 690 700	NFATc mRNA
+T15	DNA 739 749	AUG codons
+T16	protein 852 857	NFATc
+T17	protein 862 867	NFATp
+T18	protein 992 1001	anti-CD28
+T19	protein 1017 1022	NFATc
+T20	protein 1064 1077	interleukin-2
+T21	protein 1132 1137	NFATc
+T22	protein 1176 1185	anti-CD28
+T23	protein 1221 1233	nuclear NFAT
+T24	protein 1288 1293	NFATc
+T25	protein 1417 1422	NFATp
+T26	cell_type 1508 1528	normal human T cells

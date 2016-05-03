@@ -1,0 +1,29 @@
+T1	protein 71 98	tumor necrosis factor-alpha
+T2	protein 100 107	IL-beta
+T3	protein 113 117	IL-6
+T4	cell_type 121 161	human peripheral blood mononuclear cells
+T5	protein 373 406	tumor necrosis factor (TNF)-alpha
+T6	protein 408 417	IL-1 beta
+T7	protein 423 427	IL-6
+T8	cell_type 431 471	human peripheral blood mononuclear cells
+T9	cell_type 473 477	PBMC
+T10	protein 569 577	cytokine
+T11	protein 675 683	cytokine
+T12	cell_type 698 702	PBMC
+T13	protein 994 1003	cytokines
+T14	protein 1042 1046	IL-1
+T15	protein 1069 1073	IL-6
+T16	cell_type 1077 1088	fibroblasts
+T17	protein 1169 1177	cytokine
+T18	RNA 1241 1255	messenger RNAs
+T19	DNA 1331 1345	IL-1 beta gene
+T20	protein 1386 1407	transcription factors
+T21	protein 1408 1418	NF-kappa B
+T22	protein 1423 1427	AP-1
+T23	cell_type 1460 1464	PBMC
+T24	protein 1554 1563	TNF-alpha
+T25	protein 1568 1577	IL-1 beta
+T26	protein 1706 1727	transcription factors
+T27	DNA 1756 1761	genes
+T28	protein 1766 1792	pro-inflammatory cytokines
+T29	protein 1863 1872	cytokines

@@ -1,0 +1,21 @@
+T1	DNA 2 26	T cell-specific enhancer
+T2	DNA 34 53	interleukin-3 locus
+T3	DNA 84 105	Oct and NFAT elements
+T4	DNA 115 142	DNase I-hypersensitive site
+T5	protein 144 157	Interleukin-3
+T6	protein 159 163	IL-3
+T7	protein 170 178	cytokine
+T8	cell_type 210 227	activated T cells
+T9	DNA 261 285	T cell-specific enhancer
+T10	DNA 308 317	IL-3 gene
+T11	protein 350 365	T cell receptor
+T12	protein 390 394	IL-3
+T13	DNA 425 476	cyclosporin A-sensitive DNase I-hypersensitive site
+T14	cell_type 491 498	T cells
+T15	DNA 505 523	NFAT-like elements
+T16	DNA 571 589	NFAT-like elements
+T17	DNA 624 651	DNase I-hypersensitive site
+T18	DNA 666 684	NFAT-like elements
+T19	DNA 709 739	Oct- and NFATp/c-binding sites
+T20	DNA 844 853	IL-3 gene
+T21	protein 919 947	Oct and NFAT family proteins

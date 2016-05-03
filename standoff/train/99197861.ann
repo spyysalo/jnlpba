@@ -1,0 +1,39 @@
+T1	protein 73 86	interleukin-2
+T2	protein 88 122	interleukin-2 receptor alpha-chain
+T3	protein 132 140	Jak/Stat
+T4	cell_line 254 291	Jeg-3 human choriocarcinoma cell line
+T5	protein 364 382	interleukin (IL)-2
+T6	protein 384 388	IL-4
+T7	protein 393 415	interferon (IFN)-gamma
+T8	protein 428 455	IL-2 receptor (IL-2R) alpha
+T9	protein 458 462	beta
+T10	protein 469 480	gamma-chain
+T11	protein 490 517	signaling pathway molecules
+T12	protein 518 530	Janus kinase
+T13	protein 531 537	(Jak)1
+T14	protein 539 543	Jak3
+T15	protein 568 595	activators of transcription
+T16	protein 596 603	(Stat)1
+T17	protein 605 610	Stat3
+T18	protein 616 621	Stat5
+T19	protein 821 824	ILs
+T20	protein 867 870	ILs
+T21	protein 908 913	IL-2R
+T22	cell_type 966 983	blood lymphocytes
+T23	protein 1005 1023	phytohemagglutinin
+T24	protein 1025 1028	PHA
+T25	protein 1081 1091	Jaks/Stats
+T26	cell_line 1269 1280	IL-2+ cells
+T27	cell_type 1371 1389	unstimulated cells
+T28	protein 1476 1479	PHA
+T29	protein 1549 1576	signaling pathway molecules
+T30	protein 1577 1581	Jak1
+T31	protein 1583 1587	Jak3
+T32	protein 1596 1601	Stat3
+T33	protein 1607 1612	Stat5
+T34	protein 1640 1651	alpha-chain
+T35	protein 1681 1691	beta-chain
+T36	cell_type 1794 1812	unstimulated cells
+T37	protein 1867 1871	IL-2
+T38	protein 1877 1894	IL-2R alpha-chain
+T39	DNA 2011 2032	IL-2R regulation gene

@@ -1,0 +1,10 @@
+T1	protein 118 138	tyrosine phosphatase
+T2	cell_type 176 216	human peripheral blood mononuclear cells
+T3	cell_type 218 223	PBMCs
+T4	cell_type 415 420	PBMCs
+T5	cell_type 422 439	primary monocytes
+T6	cell_line 463 488	promonocytic U1 cell line
+T7	protein 548 559	p24 antigen
+T8	protein 697 707	NF-kappa B
+T9	protein 767 794	tumor necrosis factor alpha
+T10	protein 796 805	TNF-alpha

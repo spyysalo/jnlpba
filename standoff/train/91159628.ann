@@ -1,0 +1,52 @@
+T1	RNA 0 37	1,25-Dihydroxyvitamin D3 receptor RNA
+T2	cell_type 53 72	hematopoietic cells
+T3	cell_type 167 189	myeloid leukemic cells
+T4	protein 271 291	1,25(OH)2D3 receptor
+T5	RNA 326 350	1,25(OH)2D3 receptor RNA
+T6	cell_type 354 373	hematopoietic cells
+T7	RNA 434 458	1,25(OH)2D3 receptor RNA
+T8	cell_type 470 524	proliferating and nonproliferating hematopoietic cells
+T9	RNA 553 577	1,25(OH)2D3 receptor RNA
+T10	cell_type 611 630	hematopoietic cells
+T11	cell_type 668 681	T lymphocytes
+T12	cell_line 708 712	KG-1
+T13	cell_line 714 725	myeloblasts
+T14	cell_line 728 733	HL-60
+T15	cell_line 735 748	promyelocytes
+T16	cell_line 751 755	ML-3
+T17	cell_line 757 772	myelomonoblasts
+T18	cell_line 775 779	U937
+T19	cell_line 781 786	THP-1
+T20	cell_line 788 798	monoblasts
+T21	cell_line 801 805	K562
+T22	cell_line 807 820	erythroblasts
+T23	cell_line 827 832	S-LB1
+T24	cell_line 834 866	HTLV-1-transfected T lymphocytes
+T25	RNA 869 889	Receptor transcripts
+T26	protein 1004 1025	1,25(OH)2D3 receptors
+T27	cell_line 1032 1050	B lymphocyte lines
+T28	RNA 1082 1106	1,25(OH)2D3 receptor RNA
+T29	cell_line 1143 1174	lymphoid/myeloid somatic hybrid
+T30	RNA 1219 1243	1,25(OH)2D3 receptor RNA
+T31	cell_type 1247 1260	B lymphocytes
+T32	cell_line 1295 1306	HL-60 cells
+T33	protein 1399 1419	1,25(OH)2D3 receptor
+T34	protein 1476 1484	receptor
+T35	protein 1561 1589	1,25(OH)2D3 receptor protein
+T36	cell_line 1609 1620	HL-60 cells
+T37	protein 1646 1667	1,25(OH)2D3 receptors
+T38	RNA 1763 1787	1,25(OH)2D3 receptor RNA
+T39	cell_line 1837 1842	HL-60
+T40	cell_type 1857 1869	granulocytes
+T41	cell_type 1873 1884	macrophages
+T42	cell_type 1898 1909	macrophages
+T43	RNA 1949 1973	1,25(OH)2D3 receptor RNA
+T44	cell_type 1988 2028	nondividing peripheral blood lymphocytes
+T45	RNA 2069 2093	1,25(OH)2D3 receptor RNA
+T46	RNA 2161 2185	1,25(OH)2D3 receptor RNA
+T47	RNA 2226 2250	1,25(OH)2D3 receptor RNA
+T48	cell_type 2254 2267	T lymphocytes
+T49	RNA 2417 2441	1,25(OH)2D3 receptor RNA
+T50	protein 2570 2591	1,25(OH)2D3 receptors
+T51	cell_type 2595 2608	myeloid cells
+T52	cell_type 2613 2640	proliferating T lymphocytes

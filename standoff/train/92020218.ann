@@ -1,0 +1,9 @@
+T1	DNA 3 30	erythroid specific enhancer
+T2	protein 65 104	cell-type specific transcription factor
+T3	protein 105 111	GATA-1
+T4	protein 117 137	transcription factor
+T5	protein 138 144	GATA-1
+T6	cell_type 173 190	hemopoietic cells
+T7	DNA 297 309	GATA-1 genes
+T8	protein 469 475	GATA-1
+T9	DNA 583 610	dimeric GATA-1 binding site

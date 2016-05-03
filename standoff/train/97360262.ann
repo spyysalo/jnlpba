@@ -1,0 +1,15 @@
+T1	protein 0 24	Glucocorticoid receptors
+T2	cell_type 28 68	human peripheral blood mononuclear cells
+T3	protein 111 135	Glucocorticoid receptors
+T4	protein 137 139	GR
+T5	cell_type 255 289	Peripheral blood mononuclear cells
+T6	cell_type 291 296	PBMCs
+T7	protein 330 332	GR
+T8	protein 553 555	GR
+T9	protein 776 778	GR
+T10	cell_type 803 808	PBMCs
+T11	protein 981 983	GR
+T12	protein 1203 1205	GR
+T13	protein 1497 1499	GR
+T14	protein 1751 1759	cytokine
+T15	protein 1868 1870	GR

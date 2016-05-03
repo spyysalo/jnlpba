@@ -1,0 +1,30 @@
+T1	protein 60 79	human cytokine IL-4
+T2	protein 81 85	IL-4
+T3	cell_type 98 115	activated T cells
+T4	protein 121 141	pleiotropic cytokine
+T5	cell_type 209 216	T cells
+T6	cell_type 218 225	B cells
+T7	cell_type 231 241	mast cells
+T8	DNA 263 291	upstream regulatory elements
+T9	DNA 299 318	human IL-4 promoter
+T10	DNA 322 371	novel T cell-specific negative regulatory element
+T11	DNA 373 376	NRE
+T12	DNA 461 470	IL-4 gene
+T13	DNA 491 496	NRE-I
+T14	DNA 526 532	NRE-II
+T15	protein 537 560	T cell-specific protein
+T16	protein 561 566	Neg-1
+T17	protein 573 591	ubiquitous protein
+T18	protein 592 597	Neg-2
+T19	DNA 609 614	NRE-I
+T20	DNA 619 625	NRE-II
+T21	DNA 673 700	positive regulatory element
+T22	DNA 711 727	45 bp downstream
+T23	DNA 735 738	NRE
+T24	DNA 769 772	PRE
+T25	DNA 808 811	NRE
+T26	DNA 849 862	IL-4 promoter
+T27	DNA 905 908	NRE
+T28	DNA 931 967	enhancer positive regulatory element
+T29	protein 1031 1035	IL-4
+T30	cell_type 1050 1057	T cells

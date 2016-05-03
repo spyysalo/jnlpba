@@ -1,0 +1,19 @@
+T1	cell_type 178 209	germinal center-related B cells
+T2	DNA 824 850	BCL-6 5' noncoding regions
+T3	protein 952 965	BCL-6 protein
+T4	cell_type 990 1000	GC B cells
+T5	protein 1167 1172	BCL-6
+T6	protein 1215 1279	Epstein-Barr virus (EBV)-encoded latent membrane protein (LMP)-1
+T7	protein 1314 1319	BCL-2
+T8	cell_type 1368 1382	mature B cells
+T9	cell_type 1402 1412	GC B cells
+T10	cell_type 1473 1483	GC B cells
+T11	protein 1576 1581	BCL-6
+T12	protein 1583 1588	LMP-1
+T13	protein 1594 1599	BCL-2
+T14	protein 1601 1606	BCL-6
+T15	protein 1610 1615	LMP-1
+T16	protein 1619 1624	BCL-2
+T17	protein 1770 1775	BCL-6
+T18	protein 1779 1784	LMP-1
+T19	protein 1788 1793	BCL-2

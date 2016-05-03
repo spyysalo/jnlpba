@@ -1,0 +1,27 @@
+T1	DNA 21 53	hypersensitive site HS2 enhancer
+T2	cell_type 57 72	erythroid cells
+T3	DNA 81 93	human genome
+T4	DNA 99 150	erythroid-specific hypersensitive site HS2 enhancer
+T5	DNA 186 219	downstream beta-like globin genes
+T6	DNA 220 235	10-50 kilobases
+T7	DNA 259 271	HS2 enhancer
+T8	DNA 388 400	HS2 enhancer
+T9	DNA 404 476	transfected recombinant chloramphenicol acetyltransferase (CAT) plasmids
+T10	cell_line 481 501	erythroid K562 cells
+T11	DNA 515 527	HS2 enhancer
+T12	DNA 543 555	HS2 sequence
+T13	DNA 653 661	enhancer
+T14	DNA 713 732	cis-linked CAT gene
+T15	cell_line 737 761	nonerythroid HL-60 cells
+T16	DNA 775 787	HS2 enhancer
+T17	RNA 801 826	long enhancer transcripts
+T18	DNA 861 873	HS2 enhancer
+T19	DNA 886 902	tandem Ap1 sites
+T20	RNA 941 966	long enhancer transcripts
+T21	RNA 1096 1099	RNA
+T22	DNA 1124 1127	DNA
+T23	DNA 1188 1200	HS2 enhancer
+T24	DNA 1221 1240	chromatin structure
+T25	DNA 1246 1257	gene domain
+T26	protein 1275 1300	enhancer binding proteins
+T27	DNA 1388 1396	cap site

@@ -1,0 +1,19 @@
+T1	protein 15 37	trans-acting activator
+T2	protein 80 97	human CD5 antigen
+T3	cell_line 112 132	somatic cell hybrids
+T4	cell_line 162 188	mouse T-lymphoma cell line
+T5	cell_line 190 196	BW5147
+T6	cell_type 203 229	normal human T lymphocytes
+T7	cell_type 270 280	Thymocytes
+T8	cell_type 282 316	activated peripheral T lymphocytes
+T9	cell_line 324 346	activated T-cell clone
+T10	cell_line 496 503	hybrids
+T11	protein 509 512	CD5
+T12	protein 630 633	CD5
+T13	DNA 679 696	human autosome 11
+T14	DNA 711 719	CD5 gene
+T15	DNA 760 779	CD5 structural gene
+T16	protein 802 805	CD5
+T17	RNA 865 869	mRNA
+T18	DNA 977 1008	non-syntenic trans-active locus
+T19	DNA 1064 1078	human CD5 gene

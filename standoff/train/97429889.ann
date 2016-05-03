@@ -1,0 +1,25 @@
+T1	protein 4 40	carboxyl-terminal cytoplasmic domain
+T2	protein 44 48	CD36
+T3	protein 112 121	NF-kappaB
+T4	protein 134 161	tumor necrosis factor-alpha
+T5	cell_type 223 231	monocyte
+T6	cell_type 231 243	-macrophages
+T7	protein 393 410	glycoprotein CD36
+T8	cell_type 483 503	monocyte-macrophages
+T9	protein 551 555	CD36
+T10	protein 620 624	CD36
+T11	cell_type 637 671	Chinese hampster ovary (CHO) cells
+T12	protein 743 763	transcription factor
+T13	protein 764 773	NF-kappaB
+T14	DNA 858 876	NF-kappaB sequence
+T15	cell_line 901 925	CD36-producing CHO cells
+T16	protein 935 959	proinflammatory cytokine
+T17	protein 960 987	tumor necrosis factor-alpha
+T18	protein 989 998	TNF-alpha
+T19	protein 1069 1073	CD36
+T20	protein 1101 1129	human CD36-specific antibody
+T21	protein 1130 1134	OKM5
+T22	protein 1174 1183	NF-kappaB
+T23	protein 1224 1261	carboxyl-terminal cytoplasmic segment
+T24	protein 1265 1269	CD36
+T25	protein 1305 1315	human CD36

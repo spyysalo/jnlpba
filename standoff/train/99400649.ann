@@ -1,0 +1,21 @@
+T1	DNA 0 12	E1A oncogene
+T2	cell_type 64 85	cytolytic lymphocytes
+T3	DNA 141 153	E1A oncogene
+T4	cell_type 217 238	cytolytic lymphocytes
+T5	cell_type 240 243	CLs
+T6	cell_type 352 355	CLs
+T7	protein 425 428	E1A
+T8	protein 496 499	E1A
+T9	cell_type 534 570	Mouse, rat, hamster, and human cells
+T10	protein 615 618	E1A
+T11	cell_type 701 719	E1A-positive cells
+T12	cell_type 777 795	E1A-negative cells
+T13	protein 871 874	E1A
+T14	protein 965 968	E1A
+T15	protein 969 980	oncoprotein
+T16	cell_type 1124 1150	E1A-positive sarcoma cells
+T17	protein 1194 1197	E1A
+T18	protein 1198 1213	mutant proteins
+T19	protein 1235 1271	cellular transcriptional coactivator
+T20	protein 1273 1277	p300
+T21	protein 1413 1416	E1A

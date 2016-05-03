@@ -1,0 +1,26 @@
+T1	protein 0 17	Nuclear factor-90
+T2	cell_type 21 38	activated T-cells
+T3	RNA 42 61	double-stranded RNA
+T4	protein 100 144	double-stranded RNA-dependent protein kinase
+T5	protein 146 149	PKR
+T6	protein 318 322	IL-2
+T7	DNA 378 391	IL-2 enhancer
+T8	DNA 405 440	antigen receptor response element 2
+T9	DNA 442 448	ARRE-2
+T10	DNA 480 486	ARRE-2
+T11	protein 536 547	heterodimer
+T12	protein 615 619	NF90
+T13	protein 638 642	NF45
+T14	protein 675 686	heterodimer
+T15	protein 709 713	NF90
+T16	RNA 823 842	double-stranded RNA
+T17	protein 910 914	NF90
+T18	RNA 937 956	double-stranded RNA
+T19	protein 971 975	NF90
+T20	RNA 1000 1019	double-stranded RNA
+T21	protein 1071 1115	double-stranded RNA-dependent protein kinase
+T22	protein 1117 1120	PKR
+T23	protein 1126 1130	NF90
+T24	cell_type 1177 1184	T-cells
+T25	cell_line 1198 1218	nonimmune HeLa cells
+T26	cell_line 1223 1233	HeLa cells

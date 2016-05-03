@@ -1,0 +1,38 @@
+T1	protein 0 19	Retinoid X receptor
+T2	protein 24 56	c-cerbA/thyroid hormone receptor
+T3	protein 109 126	Nuclear receptors
+T4	protein 218 237	retinoid X receptor
+T5	protein 239 242	RXR
+T6	protein 245 267	retinoic acid receptor
+T7	protein 269 272	RAR
+T8	protein 286 322	c-erbA/thyroid hormone (T3) receptor
+T9	protein 324 333	c-erbA/TR
+T10	cell_type 368 383	erythroid cells
+T11	cell_type 420 468	stem cell factor-dependent erythroid progenitors
+T12	protein 470 473	RXR
+T13	protein 475 478	RAR
+T14	protein 484 493	c-erbA/TR
+T15	DNA 532 555	erythroid-specific gene
+T16	protein 689 698	c-erbA/TR
+T17	protein 739 748	c-erbA/TR
+T18	protein 845 854	c-erbA/TR
+T19	cell_type 899 918	erythroid cell fate
+T20	protein 931 940	c-erbA/TR
+T21	protein 980 989	c-erbA/TR
+T22	protein 1056 1059	RXR
+T23	protein 1113 1124	mutant RXRs
+T24	protein 1174 1178	AF-1
+T25	protein 1183 1187	AF-2
+T26	protein 1192 1196	AF-2
+T27	DNA 1210 1235	entire DNA-binding domain
+T28	cell_type 1258 1284	erythroid progenitor cells
+T29	protein 1337 1340	RXR
+T30	protein 1391 1404	wild-type RXR
+T31	protein 1416 1427	RXR mutants
+T32	protein 1438 1442	AF-1
+T33	protein 1450 1454	AF-2
+T34	cell_type 1490 1505	erythroid cells
+T35	protein 1545 1589	dominant interfering deltaDNA-binding domain
+T36	protein 1590 1593	RXR
+T37	DNA 1624 1649	entire DNA-binding domain
+T38	protein 1734 1737	RXR

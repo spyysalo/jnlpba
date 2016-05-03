@@ -1,0 +1,34 @@
+T1	protein 30 51	lysosomal acid lipase
+T2	protein 96 117	transcription factors
+T3	protein 118 121	Sp1
+T4	protein 126 130	AP-2
+T5	protein 138 159	lysosomal acid lipase
+T6	protein 161 164	LAL
+T7	protein 171 180	hydrolase
+T8	RNA 368 376	LAL-mRNA
+T9	protein 420 436	protein kinase C
+T10	protein 504 507	LAL
+T11	cell_line 550 565	THP-1 cell line
+T12	cell_line 614 648	human monocytic leukemia cell line
+T13	cell_line 649 654	THP-1
+T14	cell_type 675 696	macrophage-like cells
+T15	DNA 757 776	cis-acting elements
+T16	DNA 907 920	reporter gene
+T17	DNA 931 953	PMA responsive element
+T18	DNA 982 989	-182 bp
+T19	DNA 994 1001	-107 bp
+T20	DNA 1018 1048	major transcription start site
+T21	protein 1105 1108	Sp1
+T22	protein 1113 1117	AP-2
+T23	DNA 1125 1137	LAL promoter
+T24	cell_line 1161 1172	THP-1 cells
+T25	DNA 1196 1215	expression plasmids
+T26	protein 1220 1223	Sp1
+T27	protein 1228 1232	AP-2
+T28	protein 1280 1301	transcription factors
+T29	protein 1333 1336	LAL
+T30	protein 1409 1430	lysosomal acid lipase
+T31	protein 1432 1435	LAL
+T32	cell_line 1451 1462	THP-1 cells
+T33	protein 1500 1503	Sp1
+T34	protein 1508 1512	AP-2

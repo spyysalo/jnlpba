@@ -1,0 +1,24 @@
+T1	DNA 17 46	pro-myelocytic leukaemia gene
+T2	protein 50 80	type I and type II interferons
+T3	protein 112 155	pro-myelocytic leukaemia (PML) gene product
+T4	DNA 198 201	PML
+T5	DNA 337 340	PML
+T6	protein 355 366	interferons
+T7	protein 368 372	IFNs
+T8	protein 378 382	IL-1
+T9	cell_line 394 420	human haematopoietic lines
+T10	cell_line 422 426	U937
+T11	cell_line 428 432	THP1
+T12	cell_line 434 438	HL60
+T13	cell_line 440 443	NB4
+T14	cell_type 449 474	human diploid fibroblasts
+T15	cell_type 482 515	human peripheral blood leukocytes
+T16	DNA 548 551	PML
+T17	protein 674 678	IFNs
+T18	protein 683 687	IL-1
+T19	protein 850 859	IFN-alpha
+T20	protein 964 982	PML nuclear bodies
+T21	DNA 1021 1024	PML
+T22	protein 1039 1050	interferons
+T23	protein 1055 1059	IL-1
+T24	protein 1092 1104	PML proteins

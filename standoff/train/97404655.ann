@@ -1,0 +1,26 @@
+T1	protein 97 130	anti-Tat single-chain intrabodies
+T2	protein 159 206	Human immunodeficiency virus type 1 (HIV-1) Tat
+T3	protein 217 235	regulatory protein
+T4	DNA 315 341	HIV-1 long terminal repeat
+T5	DNA 343 346	LTR
+T6	DNA 371 403	transactivation response element
+T7	DNA 405 408	TAR
+T8	DNA 535 549	HIV-1 promoter
+T9	DNA 560 563	TAR
+T10	protein 655 658	PKC
+T11	protein 684 694	NF-kappa B
+T12	protein 714 717	Tat
+T13	protein 722 732	NF-kappa B
+T14	protein 766 769	Tat
+T15	DNA 779 782	LTR
+T16	protein 871 874	PKC
+T17	protein 876 886	NF-kappa B
+T18	protein 957 1001	anti-Tat single-chain intracellular antibody
+T19	protein 1003 1016	sFv intrabody
+T20	DNA 1078 1081	LTR
+T21	DNA 1211 1220	HIV-1 LTR
+T22	protein 1300 1324	anti-Tat sFv intrabodies
+T23	protein 1337 1347	NF-kappa B
+T24	protein 1525 1535	NF-kappa B
+T25	protein 1565 1584	Tat sFv intrabodies
+T26	cell_line 1770 1786	transduced cells

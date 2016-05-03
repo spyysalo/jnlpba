@@ -1,0 +1,40 @@
+T1	DNA 24 84	human platelet/endothelial cell adhesion molecule-1 promoter
+T2	DNA 106 128	GATA-2 binding element
+T3	protein 176 221	Platelet/endothelial cell adhesion molecule-1
+T4	protein 223 230	PECAM-1
+T5	protein 237 250	130-kD member
+T6	DNA 258 277	Ig gene superfamily
+T7	cell_type 299 308	platelets
+T8	cell_type 310 327	endothelial cells
+T9	cell_type 341 358	leukocyte subsets
+T10	protein 427 434	PECAM-1
+T11	DNA 450 468	5'-flanking region
+T12	DNA 476 488	PECAM-1 gene
+T13	DNA 558 567	cDNA ends
+T14	DNA 569 576	5'-RACE
+T15	DNA 698 713	204 bp upstream
+T16	DNA 723 745	translation start site
+T17	DNA 802 831	transcription initiation site
+T18	DNA 833 836	TIS
+T19	DNA 858 862	TATA
+T20	DNA 866 879	CAAT elements
+T21	DNA 928 947	TATA-less promoters
+T22	DNA 964 967	TIS
+T23	DNA 969 1016	5'-serially truncated PECAM-1 promoter segments
+T24	DNA 1038 1057	luciferase reporter
+T25	DNA 1139 1166	cis-acting control elements
+T26	DNA 1184 1204	300-bp core promoter
+T27	DNA 1218 1227	ets sites
+T28	DNA 1232 1240	Sp1 site
+T29	DNA 1249 1262	E-box domains
+T30	DNA 1268 1289	GATA-associated sites
+T31	DNA 1302 1319	AP-2 binding site
+T32	DNA 1327 1339	GATA element
+T33	DNA 1343 1346	-24
+T34	DNA 1426 1439	GATA sequence
+T35	DNA 1452 1455	-24
+T36	protein 1502 1529	GATA-2 transcription factor
+T37	protein 1539 1545	GATA-1
+T38	DNA 1575 1591	PECAM-1 promoter
+T39	protein 1611 1639	cis- and transacting factors
+T40	protein 1688 1695	PECAM-1

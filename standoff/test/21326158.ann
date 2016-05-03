@@ -1,0 +1,38 @@
+T1	DNA 18 34	human MAT2B gene
+T2	protein 48 71	regulatory beta subunit
+T3	protein 75 105	methionine adenosyltransferase
+T4	protein 107 113	MAT II
+T5	protein 115 145	Methionine adenosyltransferase
+T6	protein 147 150	MAT
+T7	protein 182 202	S-adenosylmethionine
+T8	protein 204 210	AdoMet
+T9	protein 290 304	MAT II isozyme
+T10	protein 319 365	catalytic alpha2 and a regulatory beta subunit
+T11	protein 390 409	MAT II beta subunit
+T12	protein 466 472	AdoMet
+T13	protein 522 534	beta subunit
+T14	DNA 574 584	MAT2B gene
+T15	DNA 633 654	5'-flanking sequences
+T16	DNA 714 722	promoter
+T17	DNA 745 755	MAT2B gene
+T18	DNA 799 821	translation start site
+T19	DNA 823 849	Promoter deletion analysis
+T20	DNA 860 876	minimal promoter
+T21	DNA 885 906	positions +52 and +93
+T22	DNA 921 935	GC-rich region
+T23	DNA 1044 1064	Sp1 recognition site
+T24	DNA 1172 1176	TATA
+T25	DNA 1189 1197	Sp1 site
+T26	DNA 1286 1294	Sp1 site
+T27	DNA 1309 1313	TATA
+T28	protein 1411 1428	anti-Sp1 antibody
+T29	protein 1463 1480	anti-Sp3 antibody
+T30	protein 1551 1554	Sp3
+T31	DNA 1598 1606	Sp1 site
+T32	protein 1679 1682	Sp1
+T33	protein 1687 1690	Sp3
+T34	DNA 1718 1732	MAT2B promoter
+T35	DNA 1757 1782	5'-untranslated sequences
+T36	DNA 1824 1834	MAT2B gene
+T37	DNA 1854 1862	Sp1 site
+T38	protein 1980 1986	AdoMet

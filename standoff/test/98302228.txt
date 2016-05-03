@@ -1,0 +1,2 @@
+Long-range transcriptional regulation of cytokine gene expression.
+Most studies on the control of cytokine gene expression have involved the functional analysis of proximal promoters. Recent work has identified distal elements that mediate long-range cytokine gene regulation and has implicated chromatin reorganization in regulation of cytokine gene loci. These studies have begun to elucidate the basis for cell-specificity and high-level expression of cytokine genes.

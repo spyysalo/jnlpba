@@ -1,0 +1,18 @@
+T1	protein 0 9	NF-kappaB
+T2	protein 30 78	proapoptotic and antiapoptotic regulatory factor
+T3	protein 115 124	NF-kappaB
+T4	cell_line 198 215	T cell hybridomas
+T5	protein 308 317	NF-kappaB
+T6	protein 336 366	dominant negative IkappaBalpha
+T7	protein 492 502	Fas Ligand
+T8	protein 504 508	FasL
+T9	protein 552 561	NF-kappaB
+T10	RNA 610 619	FasL mRNA
+T11	protein 694 703	NF-kappaB
+T12	protein 709 728	proapoptotic factor
+T13	protein 772 781	NF-kappaB
+T14	protein 865 874	NF-kappaB
+T15	protein 935 944	NF-kappaB
+T16	protein 1012 1021	NF-kappaB
+T17	cell_type 1065 1075	thymocytes
+T18	cell_type 1122 1147	mature peripheral T cells

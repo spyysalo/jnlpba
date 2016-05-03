@@ -1,0 +1,48 @@
+T1	protein 0 5	Elf-1
+T2	protein 10 15	Stat5
+T3	DNA 68 107	human interleukin-2 receptor alpha gene
+T4	DNA 179 232	interleukin 2 receptor alpha-chain (IL-2R alpha) gene
+T5	protein 281 292	IL-2R alpha
+T6	cell_type 328 335	T cells
+T7	protein 370 383	Interleukin 2
+T8	protein 385 389	IL-2
+T9	protein 402 413	IL-2R alpha
+T10	protein 471 493	high-affinity receptor
+T11	protein 495 506	IL-2R alpha
+T12	protein 559 586	positive regulatory regions
+T13	DNA 588 592	PRRI
+T14	DNA 597 602	PRRII
+T15	DNA 604 608	PRRI
+T16	DNA 615 642	inducible proximal enhancer
+T17	DNA 652 685	between nucleotides -276 and -244
+T18	DNA 702 731	NF-kappaB and SRE/CArG motifs
+T19	DNA 733 738	PRRII
+T20	DNA 744 768	T-cell-specific enhancer
+T21	protein 828 855	T-cell-specific Ets protein
+T22	protein 856 861	Elf-1
+T23	protein 866 883	HMG-I(Y) proteins
+T24	protein 983 987	IL-2
+T25	DNA 1001 1019	regulatory regions
+T26	DNA 1027 1043	IL-2R alpha gene
+T27	DNA 1092 1108	IL-2R alpha gene
+T28	DNA 1222 1252	murine IL-2-responsive element
+T29	DNA 1254 1261	mIL-2rE
+T30	DNA 1278 1290	human IL-2rE
+T31	DNA 1303 1309	PRRIII
+T32	protein 1319 1323	IL-2
+T33	DNA 1344 1365	heterologous promoter
+T34	DNA 1367 1373	PRRIII
+T35	DNA 1385 1410	Stat protein binding site
+T36	DNA 1433 1442	EBS motif
+T37	DNA 1444 1453	GASd/EBSd
+T38	protein 1480 1484	IL-2
+T39	DNA 1501 1531	PRRIII/CAT reporter constructs
+T40	protein 1533 1537	IL-2
+T41	protein 1561 1582	Stat5a and b proteins
+T42	DNA 1590 1608	human GASd element
+T43	protein 1749 1760	IL-2R alpha
+T44	DNA 1805 1817	GASd element
+T45	DNA 1860 1877	GASd/EBSd element
+T46	protein 1881 1892	IL-2R alpha
+T47	protein 1925 1953	T-cell-specific Elf-1 factor
+T48	protein 1969 1994	transcriptional repressor

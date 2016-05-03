@@ -1,0 +1,26 @@
+T1	DNA 0 5	c-Myb
+T2	protein 10 22	Ets proteins
+T3	protein 75 78	ZEB
+T4	protein 84 94	Zfh family
+T5	protein 98 130	zinc finger/homeodomain proteins
+T6	protein 265 268	ZEB
+T7	protein 294 299	Zfh-1
+T8	DNA 319 326	E boxes
+T9	DNA 387 399	muscle genes
+T10	protein 431 434	ZEB
+T11	DNA 477 495	hematopoietic gene
+T12	protein 527 548	transcription factors
+T13	protein 596 601	c-Myb
+T14	protein 606 609	Ets
+T15	DNA 749 768	hematopoietic genes
+T16	protein 770 773	ZEB
+T17	protein 797 802	c-Myb
+T18	protein 807 810	Ets
+T19	protein 934 939	c-Myb
+T20	protein 944 947	Ets
+T21	protein 1090 1093	ZEB
+T22	protein 1128 1133	c-Myb
+T23	protein 1133 1137	/Ets
+T24	cell_type 1214 1233	hematopoietic cells
+T25	protein 1318 1333	alpha4 integrin
+T26	cell_type 1397 1414	mature leukocytes

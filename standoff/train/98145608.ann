@@ -1,0 +1,6 @@
+T1	protein 0 21	Transcription factors
+T2	cell_type 109 131	hemopoietic stem cells
+T3	cell_type 234 249	primitive cells
+T4	protein 429 450	transcription factors
+T5	DNA 637 666	PU.1, Ikaros and GATA-3 genes
+T6	cell_type 764 789	B and T lymphoid lineages

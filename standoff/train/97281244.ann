@@ -1,0 +1,48 @@
+T1	protein 4 42	tumour associated cell surface antigen
+T2	protein 43 46	A6H
+T3	cell_type 68 99	human CD4+ but not CD8+ T cells
+T4	protein 105 128	A6H monoclonal antibody
+T5	protein 148 174	120,000-140,000 MW antigen
+T6	cell_type 233 254	CD4+ and CD8+ T cells
+T7	protein 304 311	A6H mAb
+T8	cell_line 346 372	anti-CD3 activated T cells
+T9	protein 410 413	A6H
+T10	protein 450 458	cytokine
+T11	cell_type 482 494	CD4+ T cells
+T12	cell_type 514 539	CD8+ T-cell subpopulation
+T13	cell_type 559 571	CD4+ T cells
+T14	protein 594 601	A6H mAb
+T15	protein 614 618	CD80
+T16	protein 620 624	CD86
+T17	protein 626 630	CD71
+T18	protein 632 659	interleukin-2 (IL-2)R alpha
+T19	protein 661 671	IL-2R beta
+T20	protein 676 687	IL-2R gamma
+T21	protein 735 757	cell surface molecules
+T22	cell_type 770 782	CD8+ T cells
+T23	protein 826 833	A6H mAb
+T24	protein 908 929	transcription factors
+T25	protein 930 935	OCT-1
+T26	protein 937 941	AP-1
+T27	protein 946 956	NF-kappa B
+T28	protein 979 1005	transcriptional regulators
+T29	protein 1017 1025	cytokine
+T30	protein 1030 1038	cytokine
+T31	DNA 1069 1089	IL-2 and IL-2R genes
+T32	protein 1110 1113	A6H
+T33	protein 1130 1141	CD3 complex
+T34	protein 1168 1188	transcription factor
+T35	protein 1189 1193	AP-1
+T36	cell_type 1197 1209	CD4+ T cells
+T37	protein 1234 1244	NF-kappa B
+T38	protein 1249 1279	octamer-binding (Oct) proteins
+T39	cell_type 1301 1308	T cells
+T40	protein 1325 1333	anti-CD3
+T41	protein 1370 1374	AP-1
+T42	protein 1387 1390	A6H
+T43	cell_type 1404 1416	CD8+ T cells
+T44	protein 1540 1543	A6H
+T45	protein 1583 1595	A6H molecule
+T46	protein 1626 1629	A6H
+T47	protein 1641 1645	AP-1
+T48	cell_type 1678 1713	CD4+ and CD8+ T cell subpopulations

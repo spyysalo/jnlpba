@@ -1,0 +1,31 @@
+T1	protein 0 25	CholecystokininB receptor
+T2	cell_line 31 65	human Jurkat lymphoblastic T cells
+T3	protein 81 100	activator protein-1
+T4	protein 178 211	cholecystokinin (CCK(B)) receptor
+T5	cell_line 215 249	human lymphoblastic Jurkat T cells
+T6	DNA 344 357	reporter gene
+T7	cell_line 413 427	Jurkat T cells
+T8	DNA 437 470	reporter plasmid p[(TRE)3-tk-Luc]
+T9	protein 528 538	luciferase
+T10	protein 561 580	activator protein-1
+T11	protein 582 586	AP-1
+T12	protein 683 695	AP-1 complex
+T13	protein 886 901	CCK(B) receptor
+T14	protein 983 998	CCK(B) receptor
+T15	protein 1092 1107	CCK(B) receptor
+T16	cell_line 1120 1134	Jurkat T cells
+T17	protein 1161 1165	AP-1
+T18	protein 1176 1186	luciferase
+T19	cell_line 1201 1215	Jurkat T cells
+T20	protein 1254 1293	serine/threonine phosphatases-1 and -2A
+T21	protein 1495 1505	luciferase
+T22	protein 1532 1548	CCK(B) receptors
+T23	protein 1565 1569	AP-1
+T24	protein 1616 1629	interleukin-2
+T25	DNA 1652 1667	endogenous gene
+T26	protein 1708 1712	AP-1
+T27	cell_line 1717 1731	Jurkat T cells
+T28	protein 1781 1799	phytohemagglutinin
+T29	cell_line 1935 1949	Jurkat T cells
+T30	protein 1973 1989	CCK(B) receptors
+T31	DNA 2021 2041	AP-1-regulated genes

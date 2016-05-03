@@ -1,0 +1,34 @@
+T1	protein 0 25	CD45 tyrosine phosphatase
+T2	protein 42 62	gamma-chain cytokine
+T3	protein 72 76	STAT
+T4	cell_type 136 164	activated human lymphoblasts
+T5	cell_type 324 352	activated human lymphoblasts
+T6	cell_type 380 392	lymphoblasts
+T7	protein 433 454	gamma-chain cytokines
+T8	protein 537 554	CD45R0 mAb UCHL-1
+T9	protein 564 581	control CD45 mAbs
+T10	protein 652 671	pan-CD45 mAb GAP8.3
+T11	cell_type 746 767	quiescent lymphocytes
+T12	cell_type 788 800	lymphoblasts
+T13	protein 814 827	CD3 mAb OKT-3
+T14	protein 893 899	UCHL-1
+T15	protein 933 938	OKT-3
+T16	protein 942 946	IL-4
+T17	protein 952 956	IL-7
+T18	protein 990 996	UCHL-1
+T19	protein 1149 1153	mAbs
+T20	protein 1164 1201	phosphorylated STAT-3, STAT-5, STAT-6
+T21	protein 1206 1245	extracellular signal-related kinase 1/2
+T22	protein 1469 1474	IL-13
+T23	protein 1476 1480	IL-5
+T24	RNA 1485 1499	IFN-gamma mRNA
+T25	protein 1527 1532	OKT-3
+T26	protein 1537 1541	IL-2
+T27	protein 1573 1582	IFN-gamma
+T28	protein 1584 1593	TNF-alpha
+T29	protein 1599 1603	IL-5
+T30	cell_type 1788 1816	activated human lymphoblasts
+T31	protein 1856 1869	CD45 epitopes
+T32	protein 1871 1877	GAP8.3
+T33	cell_type 1927 1948	quiescent lymphocytes
+T34	cell_type 1975 2003	activated human lymphoblasts

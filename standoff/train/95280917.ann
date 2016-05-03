@@ -1,0 +1,20 @@
+T1	DNA 2 49	Myc-associated zinc finger protein binding site
+T2	DNA 75 93	functional regions
+T3	DNA 101 113	CD4 promoter
+T4	DNA 119 131	CD4 promoter
+T5	protein 188 191	CD4
+T6	DNA 248 260	CD4 promoter
+T7	DNA 270 290	factor binding sites
+T8	protein 409 424	nuclear factors
+T9	DNA 480 503	initiator-like sequence
+T10	DNA 519 527	cap site
+T11	DNA 535 557	Ets consensus sequence
+T12	DNA 580 588	promoter
+T13	protein 628 662	Myc-associated zinc finger protein
+T14	protein 664 667	MAZ
+T15	protein 687 705	predominant factor
+T16	DNA 774 794	ME1a1 G3AG4AG3 motif
+T17	DNA 844 855	P2 promoter
+T18	DNA 863 873	c-myc gene
+T19	protein 905 929	MAZ transcription factor
+T20	DNA 1021 1029	CD4 gene

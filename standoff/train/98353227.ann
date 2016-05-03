@@ -1,0 +1,30 @@
+T1	DNA 14 40	gamma-IFN responsive genes
+T2	cell_type 63 88	over-expressing monocytes
+T3	protein 186 215	macrophage scavenger receptor
+T4	protein 217 219	SR
+T5	cell_type 224 239	blood monocytes
+T6	protein 401 449	signal transducer and activator of transcription
+T7	protein 451 461	STAT1alpha
+T8	cell_type 466 475	monocytes
+T9	cell_line 485 497	proband II-2
+T10	protein 513 550	gamma-interferon inducible protein 10
+T11	protein 552 557	IP-10
+T12	DNA 562 588	STAT1alpha-responsive gene
+T13	cell_type 665 674	monocytes
+T14	cell_line 680 684	II-2
+T15	cell_type 734 743	monocytes
+T16	cell_line 749 753	II-2
+T17	cell_type 778 787	monocytes
+T18	protein 850 852	SR
+T19	cell_line 882 892	THP-1 cell
+T20	protein 913 922	gamma-IFN
+T21	DNA 973 999	STATI DNA binding elements
+T22	DNA 1007 1034	human IP-10 promoter region
+T23	DNA 1040 1066	nucleotides - 245 to - 188
+T24	protein 1171 1181	STAT1alpha
+T25	protein 1211 1216	IP-10
+T26	cell_line 1225 1242	THP-1 macrophages
+T27	cell_type 1257 1266	monocytes
+T28	cell_line 1272 1276	II-2
+T29	cell_type 1290 1299	monocytes
+T30	protein 1527 1536	gamma-IFN

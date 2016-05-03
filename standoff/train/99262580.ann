@@ -1,0 +1,36 @@
+T1	protein 31 35	IL-5
+T2	cell_type 44 64	human helper T cells
+T3	protein 66 70	IL-5
+T4	protein 113 117	IL-2
+T5	protein 121 125	IL-4
+T6	protein 149 153	IL-5
+T7	protein 221 225	IL-5
+T8	protein 372 376	IL-5
+T9	protein 405 409	IL-5
+T10	cell_line 430 461	Allergen-specific T-cell clones
+T11	cell_line 466 483	T-cell hybridomas
+T12	cell_type 510 538	peripheral blood lymphocytes
+T13	DNA 606 615	IL-5 gene
+T14	DNA 723 771	IL-5 promoter/enhancer-luciferase gene construct
+T15	DNA 773 787	pIL-5(-511)Luc
+T16	cell_line 822 850	IL-5-producing T-cell clones
+T17	cell_line 860 884	IL-5-nonproducing clones
+T18	DNA 886 900	pIL-5(-511)Luc
+T19	cell_line 920 937	T-cell hybridomas
+T20	cell_line 966 994	IL-5-producing T-cell clones
+T21	cell_line 1002 1037	IL-5 gene-nonexpressing T-cell line
+T22	cell_line 1050 1060	hybridomas
+T23	cell_line 1074 1105	IL-5-nonproducing T-cell clones
+T24	protein 1107 1111	IL-5
+T25	protein 1186 1190	IL-2
+T26	protein 1224 1229	NF-AT
+T27	protein 1231 1240	NF-kappaB
+T28	protein 1246 1250	AP-1
+T29	protein 1266 1281	T-cell receptor
+T30	protein 1283 1286	TcR
+T31	protein 1362 1366	IL-2
+T32	protein 1392 1396	IL-5
+T33	cell_type 1410 1430	human helper T cells
+T34	DNA 1544 1562	IL-2 or IL-4 genes
+T35	DNA 1584 1593	IL-5 gene
+T36	protein 1619 1623	IL-5

@@ -1,0 +1,42 @@
+T1	protein 23 44	nuclear factor-kappaB
+T2	cell_line 62 81	monocytic cell line
+T3	protein 170 190	transcription factor
+T4	protein 191 212	nuclear factor-kappaB
+T5	protein 214 223	NF-kappaB
+T6	cell_line 232 273	Mono Mac 6 monocytic/macrophage cell line
+T7	cell_type 320 347	synovial tissue macrophages
+T8	cell_line 371 387	Mono Mac 6 cells
+T9	cell_line 588 604	Mono Mac 6 cells
+T10	protein 696 726	NF-kappaB DNA binding proteins
+T11	protein 750 759	NF-kappaB
+T12	protein 779 804	p65(RelA)/p50 heterodimer
+T13	cell_line 847 863	Mono Mac 6 cells
+T14	protein 1029 1052	neutralizing antibodies
+T15	protein 1061 1100	tumor necrosis factor-alpha (TNF-alpha)
+T16	protein 1110 1120	antibodies
+T17	protein 1129 1149	interleukin 6 (IL-6)
+T18	protein 1297 1306	NF-kappaB
+T19	cell_line 1347 1363	Mono Mac 6 cells
+T20	protein 1502 1511	TNF-alpha
+T21	protein 1515 1519	IL-6
+T22	protein 1564 1573	TNF-alpha
+T23	protein 1585 1594	TNF-alpha
+T24	protein 1595 1603	IL-1beta
+T25	protein 1605 1609	IL-6
+T26	protein 1611 1641	platelet derived growth factor
+T27	protein 1708 1725	migrating complex
+T28	protein 1757 1767	antibodies
+T29	protein 1776 1785	NF-kappaB
+T30	protein 1787 1790	Jun
+T31	protein 1828 1832	p300
+T32	protein 1836 1839	CBP
+T33	protein 1843 1868	NF-kappaB-binding complex
+T34	protein 2010 2019	TNF-alpha
+T35	protein 2073 2090	p65/p50 NF-kappaB
+T36	cell_type 2115 2126	macrophages
+T37	protein 2168 2177	TNF-alpha
+T38	protein 2188 2197	cytokines
+T39	protein 2259 2284	NF-kappaB-binding complex
+T40	protein 2371 2387	nuclear proteins
+T41	protein 2395 2417	NF-kappaB binding site
+T42	cell_type 2421 2432	macrophages

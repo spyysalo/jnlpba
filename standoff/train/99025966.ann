@@ -1,0 +1,43 @@
+T1	cell_type 15 34	sickle erythrocytes
+T2	cell_type 40 57	endothelial cells
+T3	cell_type 177 186	monocytes
+T4	cell_type 214 236	sickle red blood cells
+T5	cell_type 238 244	SS RBC
+T6	cell_type 249 266	endothelial cells
+T7	cell_type 419 425	SS RBC
+T8	cell_type 440 457	endothelial cells
+T9	protein 528 551	cell adhesion molecules
+T10	protein 553 557	CAMs
+T11	cell_type 602 611	monocytes
+T12	cell_type 633 649	SS reticulocytes
+T13	cell_type 685 691	SS RBC
+T14	protein 744 765	von Willebrand factor
+T15	protein 767 770	vWf
+T16	cell_line 842 889	cultured human umbilical vein endothelial cells
+T17	cell_line 891 896	HUVEC
+T18	protein 1015 1035	transcription factor
+T19	protein 1036 1041	NF-kB
+T20	cell_type 1087 1097	Normal RBC
+T21	protein 1224 1228	CAMs
+T22	protein 1230 1236	ICAM-1
+T23	protein 1238 1248	E-selectin
+T24	protein 1254 1260	VCAM-1
+T25	cell_line 1264 1269	HUVEC
+T26	protein 1287 1319	oxygen radical scavenger enzymes
+T27	protein 1321 1329	catalase
+T28	protein 1331 1351	superoxide dismutase
+T29	cell_line 1435 1440	HUVEC
+T30	protein 1498 1501	vWf
+T31	cell_type 1523 1529	SS RBC
+T32	protein 1564 1570	VCAM-1
+T33	protein 1575 1580	NF-kB
+T34	cell_type 1606 1612	SS RBC
+T35	cell_line 1709 1734	monocyte-like HL-60 cells
+T36	cell_type 1739 1771	human peripheral blood monocytes
+T37	protein 1813 1858	platelet-endothelial cell adhesion molecule-1
+T38	protein 1860 1867	PECAM-1
+T39	protein 1915 1931	protein kinase C
+T40	cell_type 2012 2018	SS RBC
+T41	cell_type 2022 2039	endothelial cells
+T42	cell_type 2141 2150	monocytes
+T43	cell_type 2187 2203	SS reticulocytes

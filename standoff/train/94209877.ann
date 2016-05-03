@@ -1,0 +1,43 @@
+T1	protein 14 36	nuclear factor kappa B
+T2	cell_line 40 70	human neuroblastoma cell lines
+T3	protein 76 98	nuclear factor kappa B
+T4	protein 100 110	NF-kappa B
+T5	protein 128 148	transcription factor
+T6	cell_type 153 160	B cells
+T7	cell_type 165 176	macrophages
+T8	protein 256 266	NF-kappa B
+T9	protein 335 362	tumor necrosis factor alpha
+T10	protein 364 373	TNF alpha
+T11	cell_line 427 451	neuroblastoma cell lines
+T12	cell_type 485 497	neural cells
+T13	protein 498 508	NF-kappa B
+T14	protein 580 589	TNF alpha
+T15	protein 605 614	TNF alpha
+T16	protein 625 635	NF-kappa B
+T17	protein 670 680	NF-kappa B
+T18	protein 695 704	TNF alpha
+T19	protein 794 813	nerve growth factor
+T20	protein 815 818	NGF
+T21	cell_line 930 961	SH-SY5Y neuroblastoma cell line
+T22	protein 973 983	NF-kappa B
+T23	cell_line 1013 1022	cell line
+T24	cell_line 1029 1074	NGF-responsive rat pheochromocytoma cell line
+T25	cell_line 1076 1080	PC12
+T26	protein 1096 1106	NF-kappa B
+T27	protein 1116 1119	NGF
+T28	cell_line 1138 1162	neuroblastoma cell lines
+T29	cell_line 1172 1182	SK-N-Be(2)
+T30	protein 1261 1271	NF-kappa B
+T31	cell_line 1312 1328	SK-N-Be(2) cells
+T32	protein 1329 1345	protein kinase C
+T33	protein 1347 1350	PKC
+T34	cell_line 1410 1427	control cell line
+T35	protein 1445 1448	PKC
+T36	protein 1483 1486	PKC
+T37	protein 1507 1517	NF-kappa B
+T38	cell_line 1609 1633	neuroblastoma cell lines
+T39	protein 1667 1677	NF-kappa B
+T40	cell_type 1710 1723	neuroblastoma
+T41	protein 1785 1794	TNF alpha
+T42	protein 1807 1817	NF-kappa B
+T43	cell_type 1865 1878	neuroblastoma

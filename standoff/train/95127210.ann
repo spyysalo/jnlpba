@@ -1,0 +1,21 @@
+T1	DNA 0 25	T-cell functional regions
+T2	DNA 33 61	human IL-3 proximal promoter
+T3	DNA 67 98	human interleukin-3 (IL-3) gene
+T4	cell_type 144 151	T cells
+T5	cell_line 284 298	Jurkat T cells
+T6	protein 304 321	phytohemaglutinin
+T7	protein 323 326	PHA
+T8	DNA 400 409	IL-3 gene
+T9	DNA 565 603	IL-3 gene 5' and 3' flanking sequences
+T10	DNA 610 651	positive and negative regulatory elements
+T11	DNA 675 702	proximal 5' flanking region
+T12	DNA 710 719	IL-3 gene
+T13	DNA 725 740	promoter region
+T14	DNA 749 761	-173 and -60
+T15	DNA 786 805	activating elements
+T16	protein 811 831	transcription factor
+T17	protein 832 836	AP-1
+T18	DNA 936 959	IL-3 CK-1/CK-2 elements
+T19	DNA 985 999	cytokine genes
+T20	DNA 1093 1114	heterologous promoter
+T21	protein 1145 1149	/PHA

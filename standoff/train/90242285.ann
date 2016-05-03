@@ -1,0 +1,15 @@
+T1	cell_line 50 94	human chronic myelogenous leukemia cell line
+T2	cell_line 95 102	RWLeu-4
+T3	cell_line 232 303	Philadelphia chromosome-positive chronic myelogenous leukemia cell line
+T4	cell_line 305 312	RWLeu-4
+T5	cell_line 473 486	RWLeu-4 cells
+T6	protein 504 519	24R-hydroxylase
+T7	cell_line 597 610	RWLeu-4 cells
+T8	cell_line 801 814	RWLeu-4 cells
+T9	cell_type 882 912	macrophage/monocyte type cells
+T10	protein 1009 1050	cell surface maturation-specific antigens
+T11	cell_type 1058 1085	monocyte/macrophage lineage
+T12	cell_line 1114 1127	RWLeu-4 cells
+T13	RNA 1200 1209	c-myc RNA
+T14	cell_line 1248 1261	RWLeu-4 cells
+T15	protein 1459 1487	p210bcr-abl oncogene product

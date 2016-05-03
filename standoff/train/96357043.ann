@@ -1,0 +1,42 @@
+T1	cell_type 57 70	myeloid cells
+T2	protein 114 127	NF-kappaB/Rel
+T3	protein 149 161	IkappaBalpha
+T4	protein 257 266	NF-kappaB
+T5	protein 410 419	NF-kappaB
+T6	cell_line 444 474	myelomonoblastic PLB-985 cells
+T7	protein 523 532	NF-kappaB
+T8	cell_type 557 577	HIV1 -infected cells
+T9	protein 627 639	IkappaBalpha
+T10	protein 669 713	double-stranded RNA-dependent protein kinase
+T11	protein 715 718	PKR
+T12	protein 752 770	NF-kappaB subunits
+T13	cell_line 778 785	PLB-985
+T14	cell_line 790 814	U937 myeloid cell models
+T15	protein 882 899	type 1 interferon
+T16	protein 901 904	IFN
+T17	protein 938 941	PKR
+T18	cell_line 972 992	HIV-1-infected cells
+T19	protein 1018 1021	IFN
+T20	protein 1056 1084	anti-IFN-alpha/beta antibody
+T21	protein 1108 1111	PKR
+T22	protein 1153 1165	IkappaBalpha
+T23	protein 1216 1228	IkappaBalpha
+T24	cell_line 1232 1252	HIV-1-infected cells
+T25	DNA 1278 1294	constitutive DNA
+T26	protein 1364 1373	NF-kappaB
+T27	protein 1383 1388	c-Rel
+T28	protein 1393 1408	NF-kappaB2 p100
+T29	protein 1436 1450	NF-kappaB2 p52
+T30	protein 1455 1464	RelA(p65)
+T31	cell_line 1482 1502	HIV-1-infected cells
+T32	protein 1512 1531	NF-kappaB1 p105/p50
+T33	cell_type 1582 1598	uninfected cells
+T34	cell_type 1635 1648	myeloid cells
+T35	protein 1657 1660	IFN
+T36	protein 1676 1679	PKR
+T37	protein 1727 1739	IkappaBalpha
+T38	protein 1809 1827	NF-kappaB subunits
+T39	protein 1878 1900	NF-kappaB/IkappaBalpha
+T40	protein 1954 1966	IkappaBalpha
+T41	protein 1991 2013	NF-kappaB/Rel proteins
+T42	cell_line 2067 2087	HIV-1-infected cells

@@ -1,0 +1,19 @@
+T1	protein 33 55	nuclear factor-kappa B
+T2	protein 60 75	I kappa B alpha
+T3	cell_type 79 113	peripheral blood mononuclear cells
+T4	protein 134 161	Nuclear factor (NF)-kappa B
+T5	cell_type 215 249	peripheral blood mononuclear cells
+T6	cell_type 251 256	PBMCs
+T7	cell_type 317 322	PBMCs
+T8	protein 393 412	p65p50 heterodimers
+T9	protein 417 434	p50p50 homodimers
+T10	cell_type 542 547	PBMCs
+T11	cell_type 781 786	PBMCs
+T12	protein 862 877	I kappa B alpha
+T13	cell_type 892 897	PBMCs
+T14	cell_type 978 983	PBMCs
+T15	protein 1216 1230	interleukin-10
+T16	protein 1234 1265	transforming growth factor-beta
+T17	protein 1270 1280	NF-kappa B
+T18	protein 1288 1315	immunosuppressive cytokines
+T19	protein 1456 1466	NF-kappa B

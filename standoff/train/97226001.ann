@@ -1,0 +1,43 @@
+T1	protein 21 53	NFIL3/E4BP4 transcription factor
+T2	protein 57 70	interleukin 3
+T3	cell_type 92 109	pro-B lymphocytes
+T4	protein 115 160	E2A-HLF (hepatic leukemia factor) oncoprotein
+T5	cell_type 175 192	pro-B lymphocytes
+T6	protein 210 233	trans-activation domain
+T7	protein 237 240	E2A
+T8	protein 248 289	basic region/leucine zipper (bZIP) domain
+T9	protein 293 296	HLF
+T10	protein 314 349	anti-apoptotic transcription factor
+T11	protein 404 417	interleukin 3
+T12	protein 419 423	IL-3
+T13	cell_type 441 458	pro-B lymphocytes
+T14	protein 460 467	E2A-HLF
+T15	protein 498 511	growth factor
+T16	protein 541 545	IL-3
+T17	protein 593 613	transcription factor
+T18	protein 667 687	chimeric oncoprotein
+T19	protein 708 734	bZIP transcription factors
+T20	protein 767 788	IL-3-regulated factor
+T21	DNA 824 846	DNA consensus sequence
+T22	protein 861 868	E2A-HLF
+T23	protein 891 919	Caenorhabditis elegans CES-2
+T24	protein 921 953	cell death specification protein
+T25	protein 955 993	neuron-specific mediator of cell death
+T26	protein 1038 1051	Nfil3 protein
+T27	protein 1065 1070	E4bp4
+T28	protein 1084 1087	Hlf
+T29	protein 1089 1092	Dbp
+T30	protein 1097 1100	Tef
+T31	protein 1131 1135	IL-3
+T32	cell_line 1139 1161	mouse pro-B cell lines
+T33	cell_line 1163 1168	Baf-3
+T34	cell_line 1173 1179	FL5.12
+T35	protein 1217 1228	Nfil3/E4bp4
+T36	DNA 1247 1283	"delayed-early" IL-3-responsive gene
+T37	protein 1340 1344	IL-3
+T38	DNA 1373 1395	human NFIL3/E4BP4 cDNA
+T39	cell_type 1440 1466	IL-3-dependent pro-B cells
+T40	protein 1490 1501	NFIL3/E4BP4
+T41	protein 1503 1574	nuclear factor regulated by IL-3/adenovirus E4 promoter binding protein
+T42	cell_type 1672 1696	early B-cell progenitors
+T43	protein 1722 1729	E2A-HLF

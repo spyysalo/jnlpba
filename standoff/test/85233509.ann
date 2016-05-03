@@ -1,0 +1,25 @@
+T1	cell_type 0 17	Mononuclear cells
+T2	protein 91 112	monoclonal antibodies
+T3	cell_type 208 226	lymphocyte subsets
+T4	cell_type 228 237	monocytes
+T5	cell_type 239 247	NK cells
+T6	protein 252 285	major histocompatibility antigens
+T7	protein 287 292	HLA-A
+T8	protein 294 296	-B
+T9	protein 302 309	Ia-like
+T10	cell_type 432 448	mononuclear cell
+T11	cell_type 564 594	infiltrating mononuclear cells
+T12	cell_type 600 607	T cells
+T13	cell_line 623 633	OKT8 cells
+T14	protein 803 813	Ia antigen
+T15	cell_type 852 859	B cells
+T16	cell_type 1005 1014	monocytes
+T17	protein 1062 1067	OKM I
+T18	cell_type 1142 1159	mononuclear cells
+T19	protein 1173 1189	acid phosphatase
+T20	cell_type 1209 1229	natural killer cells
+T21	protein 1408 1428	HLA class-I antigens
+T22	cell_type 1432 1442	tumor cell
+T23	cell_type 1479 1497	lymphocyte subsets
+T24	cell_type 1515 1537	breast carcinoma cells
+T25	cell_type 1578 1595	mononuclear cells

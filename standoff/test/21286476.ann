@@ -1,0 +1,31 @@
+T1	protein 0 5	Stat6
+T2	protein 93 97	IL-4
+T3	cell_type 147 178	CR-stimulated naive CD4 T cells
+T4	protein 216 220	IL-4
+T5	protein 226 231	IL-4R
+T6	protein 251 301	phosphotyrosine binding domain-containing proteins
+T7	protein 313 343	insulin receptor substrate 1/2
+T8	protein 345 348	Shc
+T9	protein 354 379	IL-4R interacting protein
+T10	protein 392 397	Stat6
+T11	protein 399 404	Stat6
+T12	protein 490 522	phosphotyrosine binding adaptors
+T13	protein 599 625	human (h)IL-4R alpha-chain
+T14	protein 627 632	Y497F
+T15	protein 681 699	mutant hIL-4Ralpha
+T16	protein 716 742	wild-type (WT) hIL-4Ralpha
+T17	cell_type 764 781	naive CD4 T cells
+T18	protein 807 812	Y497F
+T19	protein 835 849	WT hIL-4Ralpha
+T20	protein 1021 1026	Y497F
+T21	protein 1057 1062	Y497F
+T22	protein 1099 1127	insulin receptor substrate 2
+T23	protein 1187 1191	Y497
+T24	protein 1216 1220	IL-4
+T25	protein 1273 1297	WT and Y497F hIL-4Ralpha
+T26	cell_type 1366 1392	Stat6-knockout CD4 T cells
+T27	protein 1429 1434	Stat6
+T28	cell_type 1451 1462	CD4 T cells
+T29	protein 1535 1550	activated Stat6
+T30	protein 1595 1599	IL-4
+T31	cell_type 1649 1660	CD4 T cells

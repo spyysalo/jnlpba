@@ -1,0 +1,37 @@
+T1	protein 0 4	IL-7
+T2	protein 39 44	v-Abl
+T3	cell_type 88 108	early lymphoid cells
+T4	protein 140 145	v-Abl
+T5	protein 223 227	IL-4
+T6	protein 232 236	IL-7
+T7	protein 286 313	Janus protein kinase (JAK)1
+T8	protein 315 319	JAK3
+T9	protein 321 326	STAT5
+T10	protein 332 337	STAT6
+T11	cell_type 342 353	pre-B cells
+T12	protein 369 374	v-Abl
+T13	protein 448 453	v-Abl
+T14	protein 551 555	IL-4
+T15	protein 560 564	IL-7
+T16	cell_type 568 579	pre-B cells
+T17	protein 599 633	temperature-sensitive v-Abl mutant
+T18	protein 657 661	IL-4
+T19	protein 687 691	IL-7
+T20	protein 757 762	v-Abl
+T21	protein 784 788	IL-7
+T22	protein 833 838	c-Myc
+T23	protein 840 845	Bcl-2
+T24	protein 851 857	Bcl-xL
+T25	protein 882 887	v-Abl
+T26	protein 905 909	IL-7
+T27	protein 927 932	v-Abl
+T28	cell_type 972 983	pre-B cells
+T29	protein 1002 1011	NF-kappaB
+T30	DNA 1016 1024	RAG gene
+T31	protein 1057 1061	IL-7
+T32	protein 1107 1111	IL-7
+T33	protein 1152 1157	v-Abl
+T34	protein 1200 1204	IL-4
+T35	protein 1209 1213	IL-7
+T36	protein 1256 1261	v-Abl
+T37	cell_type 1272 1295	transformed pre-B cells

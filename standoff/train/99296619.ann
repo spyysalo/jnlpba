@@ -1,0 +1,31 @@
+T1	cell_type 35 58	human endothelial cells
+T2	protein 75 78	Rho
+T3	protein 114 120	GTPase
+T4	protein 121 124	Rho
+T5	protein 255 258	Rho
+T6	protein 297 323	monocyte-binding receptors
+T7	protein 324 334	E-selectin
+T8	protein 336 342	ICAM-1
+T9	protein 348 354	VCAM-1
+T10	cell_type 358 381	human endothelial cells
+T11	protein 397 400	Rho
+T12	protein 415 429	C3 transferase
+T13	protein 433 440	N19RhoA
+T14	protein 462 473	RhoA mutant
+T15	cell_type 499 508	monocytes
+T16	cell_type 522 539	endothelial cells
+T17	cell_type 623 640	endothelial cells
+T18	protein 675 715	dominant negative Rac and Cdc42 proteins
+T19	protein 836 862	monocyte-binding receptors
+T20	cell_type 866 883	endothelial cells
+T21	protein 915 925	E-selectin
+T22	protein 927 933	ICAM-1
+T23	protein 939 945	VCAM-1
+T24	protein 998 1022	cross-linking antibodies
+T25	protein 1035 1042	N19RhoA
+T26	protein 1168 1193	myosin light chain kinase
+T27	protein 1302 1332	ezrin/moesin/ radixin proteins
+T28	protein 1361 1364	Rho
+T29	cell_type 1380 1397	endothelial cells
+T30	cell_type 1440 1449	monocytes
+T31	protein 1472 1498	monocyte-binding receptors

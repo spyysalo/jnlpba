@@ -1,0 +1,37 @@
+T1	protein 38 72	IL-2R associated JAK/STAT proteins
+T2	cell_line 81 138	HTLV-I(+), IL-2-independent and IL-2-dependent cell lines
+T3	cell_type 143 168	uncultured leukemic cells
+T4	protein 258 263	IL-2R
+T5	protein 276 284	Jak/STAT
+T6	cell_line 301 322	HTLV-I infected cells
+T7	protein 364 368	Jak3
+T8	protein 370 375	STAT3
+T9	protein 381 386	STAT5
+T10	cell_line 398 420	HTLV-I(+) T-cell lines
+T11	cell_type 428 455	uncultured leukemic T cells
+T12	protein 561 565	Jak3
+T13	protein 580 585	STAT3
+T14	protein 590 595	STAT5
+T15	cell_line 621 648	IL-2-independent cell lines
+T16	cell_line 682 707	IL-2-dependent cell lines
+T17	protein 769 773	Jak3
+T18	protein 778 783	STAT5
+T19	cell_type 791 805	leukemic cells
+T20	protein 880 884	IL-2
+T21	protein 897 901	Jak3
+T22	protein 906 911	STAT5
+T23	cell_type 936 955	leukemic ATLL cells
+T24	cell_line 960 980	IL-2-dependent lines
+T25	protein 1009 1026	SHP-1 phosphatase
+T26	protein 1060 1077	cytokine receptor
+T27	cell_line 1106 1133	IL-2 independent cell lines
+T28	cell_type 1164 1174	ATLL cells
+T29	cell_line 1195 1217	HTLV-I(+) T-cell lines
+T30	cell_line 1245 1267	HTLV-I(-) T-cell lines
+T31	protein 1424 1428	Jak3
+T32	protein 1430 1435	STAT3
+T33	protein 1441 1446	STAT5
+T34	protein 1568 1572	IL-2
+T35	protein 1600 1605	IL-2R
+T36	protein 1606 1614	Jak/STAT
+T37	protein 1723 1728	SHP-1

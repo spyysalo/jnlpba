@@ -1,0 +1,14 @@
+T1	cell_type 36 56	human leukemic cells
+T2	protein 101 124	glucocorticoid receptor
+T3	cell_type 152 163	lymphocytes
+T4	protein 285 308	glucocorticoid receptor
+T5	DNA 459 470	lysis genes
+T6	protein 479 497	activated receptor
+T7	protein 530 581	activation-deficient glucocorticoid receptor mutant
+T8	protein 605 623	wild-type receptor
+T9	protein 641 645	AP-1
+T10	protein 670 683	interleukin-2
+T11	DNA 710 715	c-myc
+T12	protein 848 870	retinoic acid receptor
+T13	protein 960 983	glucocorticoid receptor
+T14	protein 1183 1204	transcription factors

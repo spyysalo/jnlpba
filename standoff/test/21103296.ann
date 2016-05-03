@@ -1,0 +1,29 @@
+T1	protein 41 61	transcription factor
+T2	protein 62 68	Pax-5a
+T3	cell_type 72 85	B lymphocytes
+T4	protein 282 302	transcription factor
+T5	protein 303 308	Pax-5
+T6	protein 351 391	Pax-5a/B cell-specific activator protein
+T7	protein 399 436	alternatively spliced isoform, Pax-5d
+T8	protein 517 539	transactivation domain
+T9	protein 543 549	Pax-5d
+T10	cell_type 560 566	B cell
+T11	protein 660 673	Pax-5a and 5d
+T12	cell_type 677 691	mature B cells
+T13	protein 904 911	isoform
+T14	protein 981 987	Pax-5a
+T15	protein 996 1002	Pax-5d
+T16	cell_type 1027 1039	aged B cells
+T17	protein 1108 1121	Pax-5a and 5d
+T18	protein 1189 1195	Pax-5a
+T19	DNA 1258 1276	Pax-5 target genes
+T20	cell_type 1280 1292	aged B cells
+T21	protein 1312 1322	Ig J chain
+T22	protein 1348 1353	Ig mu
+T23	protein 1396 1402	Pax-5a
+T24	cell_type 1406 1420	mature B cells
+T25	cell_type 1440 1447	B cells
+T26	protein 1584 1590	Pax-5a
+T27	protein 1599 1605	Pax-5d
+T28	protein 1703 1710	J chain
+T29	protein 1729 1732	IgM

@@ -1,0 +1,37 @@
+T1	protein 0 27	Tumor necrosis factor-alpha
+T2	protein 72 120	granulocyte-macrophage colony-stimulating factor
+T3	protein 133 161	Tumor necrosis factor- alpha
+T4	protein 163 172	TNF-alpha
+T5	protein 362 372	TNF- alpha
+T6	cell_line 420 461	acute myeloid leukemia-derived cell lines
+T7	protein 466 476	TNF- alpha
+T8	cell_line 507 516	OCI-AML-1
+T9	cell_line 518 528	OCI-AML-11
+T10	protein 531 541	TNF- alpha
+T11	cell_line 582 586	HU-3
+T12	cell_line 588 593	M-07e
+T13	cell_line 595 599	TF-1
+T14	protein 731 740	NF-kappaB
+T15	protein 832 861	TNF- alpha receptors I and II
+T16	protein 879 889	TNF- alpha
+T17	protein 909 942	intercellular adhesion molecule-1
+T18	protein 959 1007	granulocyte-macrophage colony-stimulating factor
+T19	protein 1009 1015	GM-CSF
+T20	protein 1018 1028	TNF- alpha
+T21	protein 1050 1060	MAP kinase
+T22	protein 1151 1160	TNF-alpha
+T23	cell_type 1198 1228	TNF- alpha-proliferative cells
+T24	protein 1321 1343	Anti-GM-CSF antibodies
+T25	protein 1358 1367	TNF-alpha
+T26	protein 1464 1470	GM-CSF
+T27	protein 1496 1505	TNF-alpha
+T28	RNA 1530 1541	GM-CSF mRNA
+T29	protein 1578 1587	TNF-alpha
+T30	cell_line 1618 1648	TNF-alpha-apoptotic cell lines
+T31	protein 1682 1688	GM-CSF
+T32	cell_line 1799 1827	TNF-alpha-treated cell lines
+T33	protein 1868 1874	GM-CSF
+T34	protein 1938 1944	GM-CSF
+T35	protein 2061 2070	NF-kappaB
+T36	protein 2087 2093	GM-CSF
+T37	protein 2155 2164	TNF-alpha

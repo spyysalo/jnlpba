@@ -1,0 +1,34 @@
+T1	protein 41 49	integrin
+T2	cell_type 114 133	hematopoietic cells
+T3	cell_type 214 233	hematopoietic cells
+T4	cell_line 257 297	cytokine-dependent murine myeloid FDC-P1
+T5	cell_line 302 339	human erythroleukemic TF-1 cell lines
+T6	protein 425 444	exogenous cytokines
+T7	protein 471 483	Raf proteins
+T8	DNA 520 525	cDNAs
+T9	protein 541 554	Raf catalytic
+T10	protein 568 595	negative-regulatory domains
+T11	protein 617 639	hormone binding domain
+T12	protein 647 664	estrogen receptor
+T13	protein 666 677	deltaRaf:ER
+T14	protein 691 699	deltaRaf
+T15	protein 749 768	exogenous cytokines
+T16	cell_type 803 823	FD/deltaRaf:ER cells
+T17	cell_line 889 929	parental cytokine-dependent FDC-P1 cells
+T18	cell_line 980 1002	FD/deltaRaf-1:ER cells
+T19	protein 1075 1100	Mac-2 and Mac-3 molecules
+T20	cell_type 1110 1122	cell surface
+T21	protein 1171 1175	IL-3
+T22	protein 1200 1218	adhesion molecules
+T23	protein 1258 1274	Raf oncoproteins
+T24	cell_line 1337 1347	TF-1 cells
+T25	cell_type 1395 1415	Raf-responsive cells
+T26	protein 1598 1631	CD11b and CD18 integrin molecules
+T27	cell_type 1639 1651	cell surface
+T28	cell_type 1674 1694	Raf-responsive cells
+T29	protein 1738 1744	GM-CSF
+T30	protein 1764 1775	deltaRaf:ER
+T31	protein 1812 1836	CD11b and CD18 molecules
+T32	protein 1923 1929	GM-CSF
+T33	cell_line 2158 2183	Raf-responsive cell lines
+T34	cell_type 2253 2271	hematopoietic cell

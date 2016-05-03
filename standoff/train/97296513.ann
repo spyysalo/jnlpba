@@ -1,0 +1,37 @@
+T1	DNA 6 16	mouse gene
+T2	DNA 18 22	SRG3
+T3	DNA 39 43	SWI3
+T4	cell_line 131 148	thymoma cell line
+T5	DNA 168 178	mouse gene
+T6	cell_type 207 217	thymocytes
+T7	DNA 249 253	SRG3
+T8	DNA 297 301	SWI3
+T9	DNA 305 336	yeast transcriptional activator
+T10	DNA 346 366	human homolog BAF155
+T11	DNA 368 372	SRG3
+T12	protein 428 440	SWI3 protein
+T13	protein 465 477	SRG3 protein
+T14	protein 490 509	acidic NH2 terminus
+T15	protein 513 540	myb-like DNA binding domain
+T16	protein 544 564	leucine-zipper motif
+T17	protein 572 606	proline- and glutamine-rich region
+T18	protein 614 627	COOH terminus
+T19	DNA 696 700	SRG3
+T20	protein 791 805	170-kD protein
+T21	protein 844 856	human BAF170
+T22	protein 925 935	mouse SRG3
+T23	protein 956 970	195-kD protein
+T24	protein 1027 1045	human SWI2 protein
+T25	protein 1076 1088	SRG3 protein
+T26	protein 1107 1117	mouse SWI2
+T27	protein 1123 1135	SRG3 protein
+T28	cell_type 1177 1187	thymocytes
+T29	cell_type 1196 1218	peripheral lymphocytes
+T30	protein 1238 1252	anti-sense RNA
+T31	RNA 1256 1265	SRG3 mRNA
+T32	cell_line 1271 1288	thymoma cell line
+T33	cell_line 1290 1295	S49.1
+T34	protein 1333 1345	SRG3 protein
+T35	protein 1445 1457	SRG3 protein
+T36	cell_line 1517 1534	thymoma cell line
+T37	DNA 1561 1565	SRG3

@@ -1,0 +1,23 @@
+T1	protein 31 54	glucocorticoid receptor
+T2	cell_line 69 94	human T- and B-cell lines
+T3	protein 110 133	glucocorticoid receptor
+T4	cell_line 192 250	glucocorticoid-sensitive human leukemic T-cell line 6TG1.1
+T5	cell_line 262 284	human B-cell line IM-9
+T6	RNA 317 324	GR mRNA
+T7	cell_line 333 343	IM-9 cells
+T8	cell_line 414 426	6TG1.1 cells
+T9	RNA 461 468	GR mRNA
+T10	protein 505 510	RNase
+T11	protein 578 588	GR protein
+T12	RNA 616 623	GR mRNA
+T13	cell_line 639 651	6TG1.1 cells
+T14	protein 835 837	GR
+T15	cell_line 852 864	6TG1.1 cells
+T16	protein 925 927	GR
+T17	cell_line 960 997	glucocorticoid-resistant CEM-C1 cells
+T18	protein 1024 1026	GR
+T19	cell_line 1212 1222	IM-9 cells
+T20	cell_line 1254 1266	6TG1.1 cells
+T21	RNA 1352 1359	GR mRNA
+T22	cell_line 1372 1384	6TG1.1 cells
+T23	cell_line 1530 1540	IM-9 cells

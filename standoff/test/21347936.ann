@@ -1,0 +1,37 @@
+T1	protein 0 10	Cot kinase
+T2	cell_type 50 57	T cells
+T3	protein 84 119	nuclear factor of activated T cells
+T4	protein 121 137	Cyclooxygenase-2
+T5	protein 139 144	COX-2
+T6	cell_type 160 179	human T lymphocytes
+T7	protein 185 200	T cell receptor
+T8	protein 233 243	Cot kinase
+T9	protein 247 293	mitogen-activated protein kinase kinase kinase
+T10	DNA 338 348	COX-2 gene
+T11	cell_line 363 377	Jurkat T cells
+T12	protein 419 429	Cot kinase
+T13	protein 472 507	nuclear factor of activated T cells
+T14	protein 509 513	NFAT
+T15	DNA 532 549	distal (-105/-97)
+T16	DNA 554 572	proximal (-76/-61)
+T17	DNA 573 595	NFAT response elements
+T18	DNA 603 617	COX-2 promoter
+T19	protein 654 664	Cot kinase
+T20	protein 724 728	NFAT
+T21	protein 739 749	Cot kinase
+T22	DNA 759 773	COX-2 promoter
+T23	protein 851 892	calcium-dependent phosphatase calcineurin
+T24	protein 909 919	Cot kinase
+T25	DNA 944 958	COX-2 promoter
+T26	protein 993 1003	Cot kinase
+T27	protein 1044 1068	GAL4-NFAT fusion protein
+T28	protein 1084 1117	N-terminal transactivation domain
+T29	protein 1121 1126	NFATp
+T30	protein 1188 1198	Cot kinase
+T31	DNA 1214 1228	COX-2 promoter
+T32	protein 1242 1246	NFAT
+T33	protein 1336 1346	Cot kinase
+T34	DNA 1360 1374	COX-2 promoter
+T35	DNA 1408 1430	NFAT response elements
+T36	protein 1442 1452	Cot kinase
+T37	protein 1461 1465	NFAT

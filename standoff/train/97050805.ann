@@ -1,0 +1,33 @@
+T1	protein 0 11	Interferons
+T2	protein 39 73	retinoic-acid receptors type alpha
+T3	cell_type 77 111	acute promyelocytic leukemia cells
+T4	protein 165 188	differentiation markers
+T5	cell_line 207 242	acute promyelocytic (APL) cell line
+T6	cell_line 243 246	NB4
+T7	protein 252 268	interferon alpha
+T8	protein 270 280	IFN(alpha)
+T9	protein 294 313	IFN(beta) and gamma
+T10	protein 380 413	retinoic-acid receptor type alpha
+T11	protein 415 425	RAR(alpha)
+T12	protein 435 475	leukemia-specific retinoic acid receptor
+T13	protein 476 483	PML-RAR
+T14	RNA 518 546	RAR(alpha) and PML-RAR mRNAs
+T15	protein 641 651	RAR(alpha)
+T16	protein 656 663	PML-RAR
+T17	protein 683 693	IFN(alpha)
+T18	protein 756 795	retinoid-dependent granulocytic markers
+T19	RNA 803 854	granulocyte-colony-stimulating factor receptor mRNA
+T20	protein 859 889	leukocyte alkaline phosphatase
+T21	protein 900 910	IFN(alpha)
+T22	protein 981 1004	myeloid surface markers
+T23	protein 1005 1010	CD11b
+T24	protein 1015 1019	CD33
+T25	protein 1025 1028	IFN
+T26	protein 1051 1061	RAR(alpha)
+T27	protein 1101 1109	cytokine
+T28	protein 1113 1152	retinoid-dependent granulocytic markers
+T29	cell_line 1191 1213	PML-RAR positive cells
+T30	cell_line 1255 1274	HL-60 promyelocytes
+T31	protein 1276 1287	Interferons
+T32	cell_line 1331 1340	NB4 cells
+T33	protein 1512 1516	IFNs

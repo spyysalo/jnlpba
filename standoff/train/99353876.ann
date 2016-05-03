@@ -1,0 +1,38 @@
+T1	cell_type 15 25	neutrophil
+T2	protein 26 39	interleukin-8
+T3	protein 54 92	eosinophil granule major basic protein
+T4	protein 122 160	eosinophil granule major basic protein
+T5	protein 162 165	MBP
+T6	protein 180 198	interleukin (IL)-8
+T7	cell_type 213 224	neutrophils
+T8	protein 226 229	MBP
+T9	protein 333 337	IL-8
+T10	protein 364 367	MBP
+T11	protein 411 415	IL-8
+T12	protein 499 526	eosinophil cationic protein
+T13	protein 563 584	eosinophil peroxidase
+T14	protein 625 629	IL-8
+T15	protein 642 645	MBP
+T16	RNA 677 695	IL-8 messenger RNA
+T17	RNA 697 701	mRNA
+T18	protein 815 818	MBP
+T19	protein 874 900	nuclear factor (NF)-kappaB
+T20	protein 904 923	activator protein-1
+T21	protein 928 935	NF-IL-6
+T22	protein 1026 1029	MBP
+T23	RNA 1057 1066	IL-8 mRNA
+T24	protein 1068 1071	MBP
+T25	RNA 1108 1112	mRNA
+T26	protein 1117 1161	macrophage inflammatory protein (MIP)-1alpha
+T27	protein 1166 1175	MIP-1beta
+T28	protein 1221 1230	chemokine
+T29	protein 1261 1264	MBP
+T30	protein 1288 1315	eosinophil granule proteins
+T31	cell_type 1334 1344	neutrophil
+T32	protein 1345 1349	IL-8
+T33	cell_type 1392 1402	neutrophil
+T34	protein 1403 1407	IL-8
+T35	protein 1419 1422	MBP
+T36	protein 1507 1510	MBP
+T37	protein 1530 1534	IL-8
+T38	cell_type 1538 1549	neutrophils

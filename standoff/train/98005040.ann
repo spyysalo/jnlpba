@@ -1,0 +1,40 @@
+T1	cell_line 23 33	U937 cells
+T2	DNA 48 72	antisense RXR-alpha cDNA
+T3	protein 93 102	RXR-alpha
+T4	cell_type 309 321	granulocytes
+T5	cell_type 326 335	monocytes
+T6	cell_type 410 427	monoblast lineage
+T7	protein 467 487	retinoid X receptors
+T8	protein 489 493	RXRs
+T9	protein 521 568	steroid/thyroid hormone nuclear receptor family
+T10	cell_line 623 664	human monoblastic leukemia cell line U937
+T11	protein 735 739	RXRs
+T12	protein 741 750	RXR-alpha
+T13	RNA 782 796	RXR-alpha mRNA
+T14	cell_line 822 832	U937 cells
+T15	RNA 933 946	RXR-beta mRNA
+T16	DNA 983 1012	antisense RXR-alpha sequences
+T17	protein 1156 1165	RXR-alpha
+T18	cell_line 1185 1201	sense cell lines
+T19	cell_line 1203 1212	U alpha S
+T20	cell_line 1245 1248	G2S
+T21	cell_line 1296 1316	antisense cell lines
+T22	cell_line 1318 1327	U alpha A
+T23	cell_line 1360 1363	B5A
+T24	DNA 1462 1489	RA-responsive reporter gene
+T25	cell_line 1496 1505	U alpha A
+T26	cell_line 1516 1519	B5A
+T27	cell_line 1625 1634	U alpha S
+T28	protein 1643 1652	alpha G2S
+T29	cell_line 1765 1785	antisense cell lines
+T30	protein 1800 1809	alpha G2S
+T31	protein 1844 1849	CD11b
+T32	protein 1854 1858	CD54
+T33	cell_line 1866 1881	alpha B5A cells
+T34	protein 1913 1918	CD102
+T35	protein 1936 1945	RXR-alpha
+T36	protein 1985 2008	cell adhesion molecules
+T37	cell_line 2012 2022	U937 cells
+T38	protein 2055 2064	RXR-alpha
+T39	protein 2202 2214	heterodimers
+T40	protein 2225 2234	RXR-alpha

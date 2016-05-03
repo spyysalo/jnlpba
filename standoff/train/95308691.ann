@@ -1,0 +1,42 @@
+T1	protein 14 25	Ah receptor
+T2	protein 27 40	TCDD receptor
+T3	RNA 128 166	human Ah receptor (TCDD receptor) mRNA
+T4	cell_type 170 192	peripheral blood cells
+T5	cell_type 255 266	blood cells
+T6	cell_type 306 321	nucleated cells
+T7	DNA 363 379	Ah receptor gene
+T8	cell_type 387 404	monocyte fraction
+T9	RNA 436 444	AhR mRNA
+T10	cell_line 456 480	hematopoietic cell lines
+T11	protein 518 522	Arnt
+T12	protein 527 534	P450IA1
+T13	protein 536 539	AhR
+T14	cell_line 572 587	monocytoid U937
+T15	cell_line 589 593	THP1
+T16	cell_line 599 610	HEL/S cells
+T17	cell_line 638 662	promyelocytic HL60 cells
+T18	cell_line 667 691	erythroblastic HEL cells
+T19	cell_type 725 739	lymphoid cells
+T20	cell_line 740 745	MOLT4
+T21	cell_type 747 753	T cell
+T22	cell_line 759 764	BALL1
+T23	cell_type 766 772	B cell
+T24	cell_line 782 800	K562 erythroblasts
+T25	protein 839 842	AhR
+T26	cell_line 896 900	HL60
+T27	cell_line 905 914	HEL cells
+T28	cell_line 916 926	HL60 cells
+T29	cell_type 964 985	monocytes-macrophages
+T30	RNA 1055 1063	AhR mRNA
+T31	protein 1085 1118	transforming growth factor beta 1
+T32	RNA 1193 1201	AhR mRNA
+T33	cell_line 1207 1216	HEL cells
+T34	RNA 1255 1263	AhR mRNA
+T35	cell_type 1307 1332	monocyte-macrophage cells
+T36	cell_line 1495 1520	differentiated HL60 cells
+T37	protein 1560 1563	AhR
+T38	protein 1595 1602	P450IA1
+T39	RNA 1652 1660	AhR mRNA
+T40	cell_type 1733 1753	differentiated cells
+T41	protein 1811 1814	AhR
+T42	cell_type 1861 1870	monocytes

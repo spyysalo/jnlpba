@@ -1,0 +1,17 @@
+T1	protein 94 99	BCL-6
+T2	protein 100 120	transcription factor
+T3	DNA 126 146	bcl-6 proto-oncogene
+T4	protein 157 198	POZ/zinc finger transcriptional repressor
+T5	cell_type 212 246	germinal center (GC) B and T cells
+T6	DNA 327 332	bcl-6
+T7	DNA 401 422	bcl-6 promoter region
+T8	DNA 501 506	bcl-6
+T9	protein 588 593	BCL-6
+T10	protein 613 645	mitogen-activated protein kinase
+T11	protein 647 651	MAPK
+T12	protein 688 693	BCL-6
+T13	protein 723 732	ubiquitin
+T14	protein 733 743	proteasome
+T15	protein 782 787	BCL-6
+T16	protein 850 854	MAPK
+T17	protein 1018 1055	POZ/zinc finger transcription factors

@@ -1,0 +1,23 @@
+T1	protein 0 5	TRAMP
+T2	protein 15 43	apoptosis-mediating receptor
+T3	protein 70 102	tumor necrosis factor receptor 1
+T4	protein 107 110	Fas
+T5	protein 111 121	Apo-1/CD95
+T6	protein 146 189	tumor necrosis factor (TNF) receptor family
+T7	protein 202 207	TRAMP
+T8	protein 265 296	393 amino acid long human TRAMP
+T9	protein 319 333	TNF receptor 1
+T10	protein 335 340	TRAMP
+T11	cell_type 368 378	thymocytes
+T12	cell_type 383 394	lymphocytes
+T13	protein 441 462	cysteine-rich domains
+T14	protein 472 490	cytoplasmic region
+T15	protein 502 514	death domain
+T16	protein 560 565	TRAMP
+T17	protein 596 605	NF-kappaB
+T18	protein 632 637	TRAMP
+T19	protein 689 707	ICE-like proteases
+T20	protein 720 725	Bcl-2
+T21	protein 740 745	TRAMP
+T22	protein 796 822	apoptosis-inducing ligands
+T23	protein 830 840	TNF family

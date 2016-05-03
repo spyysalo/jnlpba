@@ -1,0 +1,24 @@
+T1	cell_type 108 115	T cells
+T2	protein 131 151	thyrotropin receptor
+T3	cell_type 624 658	peripheral blood mononuclear cells
+T4	cell_type 660 664	PBMC
+T5	cell_line 670 711	TSH receptor (TSHR)-specific T cell lines
+T6	protein 715 758	recombinant human TSHR extracellular domain
+T7	protein 760 773	thyroglobulin
+T8	protein 779 783	TSHR
+T9	protein 912 916	TSHR
+T10	protein 982 1002	extracellular domain
+T11	cell_type 1073 1077	PBMC
+T12	protein 1208 1212	TSHR
+T13	cell_type 1278 1282	PBMC
+T14	protein 1560 1564	TSHR
+T15	cell_type 1680 1684	PBMC
+T16	cell_line 1808 1820	T cell lines
+T17	cell_type 1872 1876	PBMC
+T18	protein 1894 1907	TSHR antibody
+T19	protein 1912 1931	microsomal antibody
+T20	cell_type 2062 2066	PBMC
+T21	protein 2256 2272	thyroid antigens
+T22	cell_type 2401 2408	T cells
+T23	protein 2524 2528	TSHR
+T24	protein 2679 2687	epitopes

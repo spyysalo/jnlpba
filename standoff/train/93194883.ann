@@ -1,0 +1,22 @@
+T1	protein 15 34	interleukin-1 alpha
+T2	protein 39 57	interleukin-1 beta
+T3	cell_type 72 87	human monocytes
+T4	protein 132 161	Protein phosphatases 1 and 2A
+T5	cell_type 274 289	human monocytes
+T6	protein 315 327	phosphatases
+T7	protein 431 449	interleukin-1 beta
+T8	protein 454 473	interleukin-1 alpha
+T9	RNA 489 493	mRNA
+T10	DNA 590 609	interleukin-1 genes
+T11	DNA 626 644	interleukin-1 gene
+T12	protein 695 715	transcription factor
+T13	protein 747 751	AP-1
+T14	protein 762 781	protein phosphatase
+T15	protein 838 856	interleukin-1 beta
+T16	RNA 980 1005	IL-1 beta convertase mRNA
+T17	protein 1039 1058	interleukin-1 alpha
+T18	protein 1115 1133	interleukin-1 beta
+T19	protein 1171 1209	precursor interleukin-1 alpha cytokine
+T20	cell_type 1338 1353	human monocytes
+T21	protein 1381 1393	phosphatases
+T22	protein 1429 1442	interleukin-1

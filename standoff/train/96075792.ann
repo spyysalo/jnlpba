@@ -1,0 +1,32 @@
+T1	protein 0 9	IFN-gamma
+T2	cell_type 21 30	monocytes
+T3	protein 52 55	TNF
+T4	protein 137 145	cytokine
+T5	cell_type 160 169	monocytes
+T6	cell_type 170 181	macrophages
+T7	protein 185 204	bacterial endotoxin
+T8	protein 319 335	interferon gamma
+T9	protein 337 346	IFN-gamma
+T10	protein 469 491	tumour necrosis factor
+T11	protein 493 496	TNF
+T12	cell_type 609 624	human monocytes
+T13	protein 637 646	IFN-gamma
+T14	RNA 688 696	TNF mRNA
+T15	protein 711 720	IFN-gamma
+T16	protein 901 910	IFN-gamma
+T17	protein 914 920	GM-CSF
+T18	protein 930 935	M-CSF
+T19	cell_type 944 953	monocytes
+T20	RNA 966 974	TNF mRNA
+T21	cell_type 1014 1023	monocytes
+T22	protein 1122 1144	nuclear factor-kappa B
+T23	DNA 1231 1267	consensus NF-kappa B oligonucleotide
+T24	RNA 1312 1320	TNF mRNA
+T25	cell_line 1332 1344	primed cells
+T26	cell_line 1374 1388	unprimed cells
+T27	RNA 1446 1450	mRNA
+T28	RNA 1478 1482	mRNA
+T29	cell_type 1543 1552	monocytes
+T30	RNA 1741 1749	TNF mRNA
+T31	cell_line 1766 1780	unprimed cells
+T32	cell_line 1803 1819	primed monocytes

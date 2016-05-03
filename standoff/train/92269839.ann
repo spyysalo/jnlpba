@@ -1,0 +1,27 @@
+T1	DNA 4 12	promoter
+T2	DNA 20 29	CD19 gene
+T3	protein 50 86	B-cell-specific transcription factor
+T4	protein 87 91	BSAP
+T5	protein 97 109	CD19 protein
+T6	cell_type 145 161	B-lymphoid cells
+T7	cell_type 184 222	terminally differentiated plasma cells
+T8	DNA 412 421	CD19 gene
+T9	protein 430 466	B-cell-specific transcription factor
+T10	protein 467 471	BSAP
+T11	cell_line 492 513	B-lymphoid cell lines
+T12	DNA 519 534	human CD19 gene
+T13	DNA 564 582	BSAP-binding sites
+T14	DNA 658 689	high-affinity BSAP-binding site
+T15	DNA 703 716	TATA sequence
+T16	DNA 735 754	-30 promoter region
+T17	protein 856 860	BSAP
+T18	cell_line 874 901	CD19-expressing B-cell line
+T19	cell_type 913 919	plasma
+T20	cell_line 923 933	HeLa cells
+T21	DNA 940 958	high-affinity site
+T22	DNA 985 994	promoters
+T23	DNA 1003 1029	human and mouse CD19 genes
+T24	protein 1168 1172	BSAP
+T25	DNA 1279 1292	CD19 promoter
+T26	protein 1338 1342	BSAP
+T27	DNA 1368 1377	CD19 gene

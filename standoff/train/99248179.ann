@@ -1,0 +1,30 @@
+T1	protein 0 9	USF/c-Myc
+T2	protein 26 36	Yin-Yang 1
+T3	protein 74 79	CXCR4
+T4	protein 83 93	coreceptor
+T5	protein 111 132	Transcription factors
+T6	protein 133 137	USF1
+T7	protein 142 146	USF2
+T8	DNA 183 210	HIV-1 long terminal repeats
+T9	DNA 236 241	E box
+T10	DNA 285 297	binding site
+T11	protein 302 307	c-Myc
+T12	protein 313 330	c-Myc oncoprotein
+T13	protein 408 418	Yin-Yang 1
+T14	protein 420 423	YY1
+T15	DNA 481 505	cellular and viral genes
+T16	protein 650 659	USF/c-Myc
+T17	protein 680 683	YY1
+T18	protein 724 729	CXCR4
+T19	DNA 797 802	E box
+T20	DNA 810 814	-260
+T21	DNA 821 837	YY1 binding site
+T22	DNA 845 849	-300
+T23	DNA 866 890	transcription start site
+T24	DNA 908 913	E box
+T25	protein 924 933	USF/c-Myc
+T26	protein 960 965	CXCR4
+T27	DNA 1005 1021	YY1 binding site
+T28	protein 1062 1065	YY1
+T29	protein 1111 1120	USF/c-Myc
+T30	protein 1125 1128	YY1

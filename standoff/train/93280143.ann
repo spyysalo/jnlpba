@@ -1,0 +1,26 @@
+T1	protein 46 50	MAD3
+T2	protein 69 74	c-Rel
+T3	protein 87 97	NF-kappa B
+T4	cell_line 110 137	human monocytic THP-1 cells
+T5	cell_type 257 272	monocytic cells
+T6	protein 370 412	NF-kappa B/Rel transcription factor family
+T7	protein 581 603	c-Rel/p50 heterodimers
+T8	protein 615 622	p50/p65
+T9	protein 624 634	NF-kappa B
+T10	cell_line 669 696	human monocytic THP-1 cells
+T11	protein 831 871	phorbol ester-sensitive protein kinase C
+T12	protein 958 963	c-Rel
+T13	protein 965 969	p105
+T14	protein 975 978	p50
+T15	RNA 1084 1089	mRNAs
+T16	cell_line 1115 1126	THP-1 cells
+T17	cell_line 1146 1157	THP-1 cells
+T18	protein 1189 1193	MAD3
+T19	protein 1198 1207	I kappa B
+T20	RNA 1243 1252	MAD3 mRNA
+T21	protein 1273 1277	MAD3
+T22	cell_type 1324 1339	monocytic cells
+T23	protein 1373 1382	c-Rel/p50
+T24	protein 1387 1394	p50/p65
+T25	protein 1396 1406	NF-kappa B
+T26	protein 1439 1443	MAD3

@@ -1,0 +1,35 @@
+T1	protein 50 60	Ets family
+T2	protein 64 85	transcription factors
+T3	DNA 112 142	alpha 4 integrin gene promoter
+T4	protein 144 161	alpha 4 integrins
+T5	protein 401 408	alpha 4
+T6	DNA 459 478	5' deletion mutants
+T7	DNA 486 507	alpha 4 gene promoter
+T8	cell_line 549 559	cell lines
+T9	protein 573 580	alpha 4
+T10	cell_line 585 595	cell lines
+T11	DNA 639 661	-42 and -76 base pairs
+T12	protein 730 737	alpha 4
+T13	cell_line 768 778	HeLa cells
+T14	protein 801 808	alpha 4
+T15	DNA 816 829	binding sites
+T16	protein 838 848	Ets family
+T17	protein 852 873	transcription factors
+T18	DNA 932 946	-50 and -54 bp
+T19	DNA 958 965	5' site
+T20	DNA 978 984	-67 bp
+T21	DNA 1084 1096	3'-most site
+T22	protein 1130 1154	GA-binding protein alpha
+T23	protein 1156 1177	GABP alpha)/GABP beta
+T24	protein 1339 1349	Ets family
+T25	DNA 1464 1480	5'-most Ets site
+T26	protein 1509 1529	GABP alpha/GABP beta
+T27	protein 1587 1615	new Ets-1-containing complex
+T28	protein 1617 1618	c
+T29	DNA 1754 1771	5'-most Ets sites
+T30	protein 1784 1799	nuclear protein
+T31	protein 1863 1875	Ets proteins
+T32	DNA 1890 1911	alpha 4 gene promoter
+T33	DNA 1933 1942	Ets sites
+T34	protein 2010 2021	Ets members
+T35	protein 2073 2089	alpha 4 integrin

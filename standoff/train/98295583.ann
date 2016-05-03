@@ -1,0 +1,12 @@
+T1	protein 62 79	nuclear receptors
+T2	protein 128 145	nuclear receptors
+T3	protein 248 269	ligand binding domain
+T4	protein 279 288	receptors
+T5	protein 384 393	proteases
+T6	protein 395 421	In vitro labeled receptors
+T7	protein 512 519	trypsin
+T8	protein 609 616	trypsin
+T9	protein 764 819	wild-type or mutated human retinoic acid receptor alpha
+T10	protein 1022 1053	human retinoic X receptor alpha
+T11	protein 1055 1078	glucocorticoid receptor
+T12	protein 1084 1105	progesterone receptor

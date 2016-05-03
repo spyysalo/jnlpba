@@ -1,0 +1,14 @@
+T1	cell_line 104 139	human promyeloid leukemia cell line
+T2	cell_line 140 144	HL60
+T3	cell_type 148 157	monocytes
+T4	cell_line 341 351	HL60 cells
+T5	cell_type 355 366	neutrophils
+T6	cell_line 484 511	serum-free grown HL60 cells
+T7	cell_line 1051 1066	RA primed cells
+T8	RNA 1223 1228	mRNAs
+T9	protein 1238 1247	receptors
+T10	protein 1256 1259	VDR
+T11	protein 1266 1275	RAR alpha
+T12	protein 1290 1312	RXR alpha, beta, gamma
+T13	protein 1495 1498	VDR
+T14	protein 1503 1506	RXR

@@ -1,0 +1,43 @@
+T1	protein 14 38	c-fos and c-jun proteins
+T2	protein 43 47	AP-1
+T3	cell_line 98 108	HL60 cells
+T4	cell_line 113 154	phytohemagglutinin-stimulated lymphocytes
+T5	DNA 184 189	c-fos
+T6	protein 191 199	p62c-fos
+T7	DNA 205 210	c-jun
+T8	protein 212 220	p39c-jun
+T9	protein 247 279	AP-1 transcription factor family
+T10	cell_line 717 733	cellular systems
+T11	cell_line 737 784	continuously growing myeloid leukemic cell line
+T12	cell_line 786 790	HL60
+T13	cell_type 796 808	normal cells
+T14	cell_line 832 911	phyto- hemagglutinin (PHA)-stimulated normal human peripheral blood lymphocytes
+T15	cell_type 913 916	PBL
+T16	protein 964 968	AP-1
+T17	protein 998 1025	Fos and Jun family proteins
+T18	protein 1086 1094	p62c-fos
+T19	protein 1096 1104	p39c-jun
+T20	protein 1110 1114	AP-1
+T21	cell_line 1166 1176	HL60 cells
+T22	cell_line 1184 1202	PHA-stimulated PBL
+T23	protein 1401 1405	AP-1
+T24	protein 1428 1436	p62c-fos
+T25	protein 1442 1450	p39c-jun
+T26	protein 1451 1455	AP-1
+T27	cell_line 1576 1586	HL60 cells
+T28	protein 1604 1633	nuclear p62c-fos and p39c-jun
+T29	cell_type 1659 1675	unstimulated PBL
+T30	protein 1708 1716	p62c-fos
+T31	protein 1721 1729	p39c-jun
+T32	protein 1735 1739	AP-1
+T33	protein 1795 1798	PHA
+T34	cell_type 1814 1817	PBL
+T35	protein 1835 1839	AP-1
+T36	protein 1897 1905	p39c-jun
+T37	protein 1940 1973	cytoplasmic p62c-fos and p39c-jun
+T38	cell_line 1990 2000	HL60 cells
+T39	cell_line 2005 2023	PHA-stimulated PBL
+T40	protein 2037 2057	cytoplasmic p62c-fos
+T41	cell_type 2074 2090	unstimulated PBL
+T42	protein 2115 2135	cytoplasmic p39c-jun
+T43	protein 2208 2216	proteins

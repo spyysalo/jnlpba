@@ -1,0 +1,28 @@
+T1	protein 0 5	CIITA
+T2	DNA 28 50	MHC class II promoters
+T3	protein 106 144	promoter-bound multi-protein complexes
+T4	cell_type 168 180	MHC class II
+T5	protein 256 270	transactivator
+T6	protein 271 276	CIITA
+T7	DNA 338 355	MHC class II gene
+T8	DNA 430 452	MHC class II promoters
+T9	protein 497 520	multi-protein complexes
+T10	protein 522 525	RFX
+T11	protein 527 531	X2BP
+T12	protein 536 540	NF-Y
+T13	protein 684 689	CIITA
+T14	cell_line 693 712	MHC class II- cells
+T15	protein 829 834	CIITA
+T16	protein 923 956	DNA-bound multi-protein complexes
+T17	protein 997 1002	CIITA
+T18	protein 1086 1089	RFX
+T19	protein 1091 1095	X2BP
+T20	protein 1100 1104	NF-Y
+T21	protein 1141 1146	CIITA
+T22	DNA 1196 1205	chromatin
+T23	DNA 1254 1276	MHC class II promoters
+T24	protein 1294 1299	CIITA
+T25	protein 1428 1433	CIITA
+T26	protein 1477 1482	CIITA
+T27	DNA 1524 1546	MHC class II promoters
+T28	cell_type 1550 1563	B lymphocytes

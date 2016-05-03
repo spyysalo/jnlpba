@@ -1,0 +1,27 @@
+T1	protein 0 3	Sp1
+T2	DNA 19 28	chromatin
+T3	DNA 57 84	human alpha-globin promoter
+T4	DNA 99 117	5' flanking region
+T5	DNA 125 148	human alpha-globin gene
+T6	DNA 206 224	consensus sequence
+T7	DNA 233 249	Sp1 binding site
+T8	DNA 284 301	G + C-rich region
+T9	DNA 316 337	alpha-globin promoter
+T10	DNA 370 404	far-upstream alpha-globin enhancer
+T11	DNA 406 411	HS-40
+T12	cell_line 429 468	transiently transfected erythroid cells
+T13	DNA 486 528	alpha-globin G + C-rich 5' flanking region
+T14	DNA 546 567	alpha-globin promoter
+T15	DNA 616 625	chromatin
+T16	DNA 734 755	alpha-globin promoter
+T17	DNA 810 852	alpha-globin G + C-rich 5' flanking region
+T18	DNA 862 883	alpha-globin promoter
+T19	DNA 898 907	chromatin
+T20	DNA 952 969	G + C-rich region
+T21	DNA 1004 1021	alpha-globin gene
+T22	DNA 1157 1174	G + C-rich region
+T23	DNA 1187 1208	alpha-globin promoter
+T24	DNA 1243 1260	alpha-globin gene
+T25	DNA 1280 1302	multiple binding sites
+T26	protein 1311 1331	transcription factor
+T27	protein 1332 1335	Sp1

@@ -1,0 +1,47 @@
+T1	protein 34 39	STAT6
+T2	protein 43 56	interleukin 4
+T3	cell_type 60 75	human monocytes
+T4	DNA 88 99	SOCS-1 gene
+T5	protein 112 123	Interferons
+T6	protein 125 129	IFNs
+T7	protein 152 156	IL-4
+T8	cell_type 178 193	human monocytes
+T9	protein 227 231	IFNs
+T10	protein 278 282	IL-4
+T11	protein 398 425	latent transcription factor
+T12	protein 427 432	STAT6
+T13	protein 434 484	signal transducer and activator of transcription-6
+T14	protein 487 492	STAT6
+T15	DNA 551 560	promoters
+T16	DNA 564 584	IL-4-inducible genes
+T17	protein 594 599	STAT6
+T18	protein 628 632	IL-4
+T19	protein 704 708	IFNs
+T20	protein 735 740	STAT6
+T21	protein 744 748	IL-4
+T22	cell_type 752 775	primary human monocytes
+T23	cell_type 793 802	monocytes
+T24	protein 808 816	IFN-beta
+T25	protein 820 829	IFN-gamma
+T26	protein 839 843	IL-1
+T27	protein 845 849	IL-2
+T28	protein 851 887	macrophage colony-stimulating factor
+T29	protein 889 937	granulocyte/macrophage colony-stimulating factor
+T30	protein 939 943	IL-6
+T31	protein 1005 1010	STAT6
+T32	protein 1014 1018	IL-4
+T33	protein 1120 1125	STAT6
+T34	protein 1186 1189	IFN
+T35	protein 1215 1219	IL-4
+T36	protein 1260 1263	IFN
+T37	DNA 1363 1387	JAK/STAT inhibitory gene
+T38	DNA 1389 1395	SOCS-1
+T39	DNA 1418 1424	SOCS-1
+T40	cell_line 1430 1450	macrophage cell line
+T41	cell_line 1452 1458	RAW264
+T42	DNA 1503 1526	IL-4-inducible reporter
+T43	protein 1622 1626	IFNs
+T44	protein 1635 1639	IL-4
+T45	protein 1662 1667	STAT6
+T46	protein 1672 1677	STAT6
+T47	DNA 1749 1755	SOCS-1

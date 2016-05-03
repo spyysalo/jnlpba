@@ -1,0 +1,21 @@
+T1	protein 0 26	GATA transcription factors
+T2	cell_type 77 90	erythroblasts
+T3	cell_type 95 109	megakaryocytes
+T4	protein 139 165	GATA transcription factors
+T5	cell_type 169 194	murine haemopoietic cells
+T6	protein 264 270	GATA-1
+T7	cell_type 301 323	erythroleukaemia cells
+T8	cell_type 328 356	primary murine erythroblasts
+T9	cell_type 361 375	megakaryocytes
+T10	protein 584 590	GATA-1
+T11	DNA 594 609	consensus sites
+T12	DNA 617 633	beta-globin loci
+T13	protein 744 750	GATA-1
+T14	protein 788 794	GATA-1
+T15	protein 902 918	nuclear antigens
+T16	protein 955 1032	ubiquitous (Spl, c-Jun and TBP) or haemopoietic (NF-E2) transcription factors
+T17	protein 1049 1055	GATA-2
+T18	protein 1060 1075	GATA-3 proteins
+T19	protein 1146 1190	GATA-1 and -2 or GATA-1 and -3 gene products
+T20	protein 1249 1275	GATA transcription factors
+T21	protein 1371 1394	GATA zinc finger domain

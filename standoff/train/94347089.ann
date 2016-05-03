@@ -1,0 +1,27 @@
+T1	protein 28 53	transcription factor AP-1
+T2	protein 57 61	CD28
+T3	cell_type 76 89	human T-cells
+T4	cell_type 109 122	T-lymphocytes
+T5	protein 126 141	T-cell receptor
+T6	protein 143 146	TcR
+T7	protein 180 201	CD28 surface molecule
+T8	protein 240 253	interleukin 2
+T9	protein 255 259	IL-2
+T10	protein 289 293	IL-2
+T11	protein 323 327	CD28
+T12	DNA 339 360	kappa B-like sequence
+T13	DNA 368 388	5'-regulatory region
+T14	DNA 396 409	IL-2 promoter
+T15	DNA 418 441	CD28-responsive element
+T16	cell_type 458 465	T-cells
+T17	protein 479 499	anti-CD28 antibodies
+T18	protein 562 565	TcR
+T19	protein 621 641	transcription factor
+T20	protein 642 652	NF-kappa B
+T21	protein 674 678	CD28
+T22	protein 731 756	transcription factor AP-1
+T23	protein 766 775	anti-CD28
+T24	protein 853 863	NF-kappa B
+T25	protein 891 895	AP-1
+T26	protein 959 968	anti-CD28
+T27	protein 1092 1113	transcription factors

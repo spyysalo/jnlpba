@@ -1,0 +1,29 @@
+T1	cell_type 91 112	human monocytic cells
+T2	protein 141 163	c-Rel/p65 heterodimers
+T3	protein 165 178	Tissue factor
+T4	protein 180 182	TF
+T5	cell_type 208 223	human monocytes
+T6	protein 235 254	bacterial endotoxin
+T7	protein 338 360	c-Rel/p65 heterodimers
+T8	DNA 366 383	kappa B-like site
+T9	DNA 391 402	TF promoter
+T10	protein 429 461	cytosolic c-Rel/p65 heterodimers
+T11	protein 487 508	NF-kappa B/Rel family
+T12	protein 566 583	inhibitor protein
+T13	protein 585 600	I kappa B alpha
+T14	protein 753 776	NF-kappa B/Rel proteins
+T15	protein 806 821	I kappa B alpha
+T16	protein 880 882	TF
+T17	cell_type 912 927	human monocytes
+T18	cell_line 932 953	monocytic THP-1 cells
+T19	protein 1073 1083	TF protein
+T20	RNA 1085 1092	TF mRNA
+T21	protein 1097 1099	TF
+T22	protein 1201 1216	I kappa B alpha
+T23	protein 1246 1268	c-Rel/p65 heterodimers
+T24	DNA 1327 1347	immediate-early gene
+T25	protein 1361 1381	transcription factor
+T26	protein 1383 1388	Egr-1
+T27	protein 1468 1490	c-Rel/p65 heterodimers
+T28	protein 1518 1520	TF
+T29	cell_type 1543 1558	monocytic cells

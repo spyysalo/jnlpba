@@ -1,0 +1,29 @@
+T1	protein 0 21	Nuclear factor-kappaB
+T2	protein 45 58	interleukin-8
+T3	protein 78 105	tumor necrosis factor alpha
+T4	protein 201 228	Tumor necrosis factor alpha
+T5	protein 230 238	TNFalpha
+T6	protein 297 321	proinflammatory cytokine
+T7	protein 405 418	CXC chemokine
+T8	protein 420 433	interleukin-8
+T9	protein 484 492	TNFalpha
+T10	protein 536 540	IL-8
+T11	cell_line 571 602	U937 histiocytic lymphoma cells
+T12	protein 604 612	TNFalpha
+T13	DNA 637 646	IL-8 gene
+T14	cell_line 661 665	U937
+T15	RNA 700 704	mRNA
+T16	protein 776 784	TNFalpha
+T17	DNA 813 877	inducible nuclear factor-kappaB (NF-kappaB) (Rel A) binding site
+T18	DNA 885 898	IL-8 promoter
+T19	protein 900 908	TNFalpha
+T20	protein 956 987	65 kD transcriptional activator
+T21	protein 988 1005	NF-kappaB subunit
+T22	protein 1007 1012	Rel A
+T23	protein 1148 1156	TNFalpha
+T24	protein 1233 1242	NF-kappaB
+T25	protein 1323 1328	Rel A
+T26	protein 1367 1376	NF-kappaB
+T27	protein 1496 1504	TNFalpha
+T28	protein 1577 1586	NF-kappaB
+T29	protein 1771 1779	TNFalpha

@@ -1,0 +1,35 @@
+T1	protein 14 18	CD40
+T2	cell_type 22 29	B cells
+T3	protein 53 85	stress-activated protein kinases
+T4	protein 98 131	mitogen-activated protein kinases
+T5	protein 137 171	B cell-associated surface molecule
+T6	protein 172 176	CD40
+T7	protein 271 275	CD40
+T8	protein 306 320	immunoglobulin
+T9	protein 376 380	CD40
+T10	protein 401 421	downstream effectors
+T11	protein 437 460	tyrosine protein kinase
+T12	protein 462 465	Lyn
+T13	protein 471 500	phosphatidylinositol-3-kinase
+T14	protein 502 513	PI-3 kinase
+T15	protein 546 556	NF-kappa B
+T16	protein 593 625	stress-activated protein kinases
+T17	protein 627 631	SAPK
+T18	protein 653 657	CD40
+T19	cell_line 683 695	B cell lines
+T20	cell_type 699 722	human tonsillar B cells
+T21	protein 882 898	protein kinase C
+T22	protein 906 910	CD40
+T23	protein 943 948	SAPKs
+T24	protein 1000 1039	mitogen-activated protein kinase family
+T25	protein 1041 1045	MAPK
+T26	protein 1047 1051	ERK1
+T27	protein 1056 1060	ERK2
+T28	protein 1091 1095	CD40
+T29	RNA 1116 1140	c-jun but not c-fos mRNA
+T30	protein 1155 1175	transcription factor
+T31	protein 1176 1180	ATF2
+T32	protein 1193 1206	Raf-1 protein
+T33	protein 1220 1224	CD40
+T34	protein 1258 1262	SAPK
+T35	protein 1271 1275	MAPK

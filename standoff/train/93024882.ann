@@ -1,0 +1,21 @@
+T1	protein 4 31	candidate oncoprotein Bcl-3
+T2	protein 52 66	p50/NF-kappa B
+T3	DNA 92 116	candidate oncogene bcl-3
+T4	DNA 160 186	immunoglobulin alpha-locus
+T5	protein 247 260	protein Bcl-3
+T6	protein 286 301	ankyrin repeats
+T7	protein 311 324	repeat motifs
+T8	protein 350 377	diverse regulatory proteins
+T9	protein 396 401	Bcl-3
+T10	protein 445 463	I kappa B proteins
+T11	protein 477 491	ankyrin repeat
+T12	protein 551 561	NF-kappa B
+T13	protein 622 627	Bcl-3
+T14	protein 660 665	Bcl-3
+T15	protein 701 712	p50 subunit
+T16	protein 716 726	NF-kappa B
+T17	protein 762 767	Bcl-3
+T18	DNA 776 788	kappa B site
+T19	protein 864 889	p50/NF-kappa B homodimers
+T20	protein 891 896	Bcl-3
+T21	DNA 936 962	NF-kappa B-regulated genes

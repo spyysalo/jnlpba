@@ -1,0 +1,42 @@
+T1	DNA 4 21	cellular oncogene
+T2	DNA 22 27	c-myb
+T3	protein 66 105	Epstein-Barr virus BZLF1 transactivator
+T4	cell_type 109 123	lymphoid cells
+T5	DNA 168 199	Epstein-Barr virus (EBV) genome
+T6	protein 236 272	virally encoded transcription factor
+T7	protein 274 275	Z
+T8	protein 277 282	BZLF1
+T9	protein 308 322	Z gene product
+T10	DNA 339 349	AP-1 sites
+T11	DNA 396 401	c-Fos
+T12	DNA 432 450	EBV early promoter
+T13	DNA 452 457	BMRF1
+T14	cell_line 488 498	HeLa cells
+T15	cell_line 522 534	Jurkat cells
+T16	protein 566 594	c-myb proto-oncogene product
+T17	protein 614 633	DNA-binding protein
+T18	protein 638 668	transcriptional transactivator
+T19	protein 704 705	Z
+T20	DNA 724 738	BMRF1 promoter
+T21	cell_line 742 754	Jurkat cells
+T22	cell_line 758 769	T-cell line
+T23	cell_line 774 784	Raji cells
+T24	cell_line 789 808	EBV-positive B-cell
+T25	protein 823 841	c-myb gene product
+T26	DNA 875 905	simian virus 40 early promoter
+T27	protein 947 966	Z/c-myb combination
+T28	DNA 1003 1017	BMRF1 promoter
+T29	protein 1025 1044	Z/c-myb combination
+T30	protein 1086 1095	Z protein
+T31	protein 1108 1121	c-myb protein
+T32	DNA 1125 1139	30-bp sequence
+T33	DNA 1147 1161	BMRF1 promoter
+T34	DNA 1179 1193	Z binding site
+T35	DNA 1197 1216	consensus AP-1 site
+T36	protein 1295 1314	Z/c-myb combination
+T37	DNA 1320 1341	heterologous promoter
+T38	protein 1352 1374	c-myb oncogene product
+T39	protein 1412 1430	EBV-encoded member
+T40	protein 1438 1467	leucine zipper protein family
+T41	DNA 1477 1482	c-myb
+T42	protein 1532 1572	cellularly encoded transcription factors

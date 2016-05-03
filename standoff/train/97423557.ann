@@ -1,0 +1,39 @@
+T1	protein 55 82	cytokine-induced E-selectin
+T2	protein 87 93	VCAM-1
+T3	cell_type 263 280	endothelial cells
+T4	cell_type 282 284	EC
+T5	protein 301 314	interleukin-1
+T6	protein 316 325	IL-1 beta
+T7	cell_type 431 433	EC
+T8	protein 449 476	tumor necrosis factor-alpha
+T9	protein 478 487	TNF-alpha
+T10	protein 516 530	alpha-thrombin
+T11	protein 692 725	vascular cell adhesion molecule 1
+T12	protein 727 733	VCAM-1
+T13	RNA 750 772	IL-1 beta-induced mRNA
+T14	protein 809 819	E-selectin
+T15	protein 824 830	VCAM-1
+T16	RNA 870 895	E-selectin or VCAM-1 mRNA
+T17	protein 918 940	nuclear factor-kappa B
+T18	protein 942 952	NF-kappa B
+T19	cell_type 968 970	EC
+T20	DNA 1012 1033	oligonucleotide probe
+T21	DNA 1065 1089	NF-kappa B binding sites
+T22	DNA 1097 1108	VCAM-1 gene
+T23	protein 1110 1125	VCAM-NF-kappa B
+T24	DNA 1208 1241	consensus NF-kappa B binding site
+T25	DNA 1249 1264	E-selectin gene
+T26	protein 1266 1276	E-selectin
+T27	protein 1276 1287	-NF-kappa B
+T28	protein 1307 1317	NF-kappa B
+T29	cell_type 1396 1398	EC
+T30	cell_type 1502 1504	EC
+T31	protein 1573 1583	NF-kappa B
+T32	DNA 1591 1615	VCAM-NF-kappa B oligomer
+T33	DNA 1741 1771	E-selectin-NF-kappa B oligomer
+T34	cell_type 1849 1851	EC
+T35	protein 1903 1913	NF-kappa B
+T36	protein 1956 1962	VCAM-1
+T37	DNA 1967 1982	E-selectin gene
+T38	cell_type 2197 2199	EC
+T39	cell_type 2311 2313	EC

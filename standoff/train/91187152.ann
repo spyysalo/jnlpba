@@ -1,0 +1,17 @@
+T1	protein 35 58	glucocorticoid receptor
+T2	protein 80 103	glucocorticoid receptor
+T3	protein 105 107	GR
+T4	cell_type 128 137	rat liver
+T5	cell_type 142 169	human peripheral leukocytes
+T6	protein 281 291	hepatic GR
+T7	protein 408 418	hepatic GR
+T8	cell_type 532 548	human leukocytes
+T9	protein 568 570	GR
+T10	protein 837 839	GR
+T11	protein 1033 1035	GR
+T12	protein 1212 1214	GR
+T13	protein 1473 1475	GR
+T14	cell_type 1524 1536	target cells
+T15	protein 1582 1584	GR
+T16	cell_type 1663 1691	polymorphonuclear leukocytes
+T17	protein 1748 1750	GR

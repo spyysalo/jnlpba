@@ -1,0 +1,24 @@
+T1	cell_type 39 58	naive human T cells
+T2	cell_type 97 112	dendritic cells
+T3	cell_type 180 195	Dendritic cells
+T4	cell_type 197 199	DC
+T5	cell_type 212 215	APC
+T6	cell_type 322 330	human DC
+T7	cell_type 365 383	naive CD4+ T cells
+T8	protein 387 395	epitopes
+T9	protein 403 436	immediate early 62 (IE62) protein
+T10	protein 487 491	CD4+
+T11	protein 592 608	VZV IE62 protein
+T12	cell_type 628 635	T cells
+T13	cell_type 640 642	DC
+T14	cell_type 730 743	naive T cells
+T15	cell_type 969 971	DC
+T16	cell_type 975 978	APC
+T17	cell_type 980 989	Monocytes
+T18	cell_type 1005 1008	APC
+T19	cell_type 1163 1170	T cells
+T20	cell_type 1285 1287	DC
+T21	cell_type 1340 1349	monocytes
+T22	cell_type 1353 1356	APC
+T23	cell_type 1604 1606	DC
+T24	cell_type 1610 1613	APC

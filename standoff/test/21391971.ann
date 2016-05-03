@@ -1,0 +1,53 @@
+T1	protein 0 20	Transcription factor
+T2	protein 21 27	STAT5A
+T3	protein 46 70	Bruton's tyrosine kinase
+T4	cell_type 74 81	B cells
+T5	protein 83 89	STAT5A
+T6	cell_type 167 192	lymphohematopoietic cells
+T7	protein 212 218	STAT5A
+T8	protein 258 282	Bruton's tyrosine kinase
+T9	protein 284 287	BTK
+T10	protein 290 314	Purified recombinant BTK
+T11	protein 347 374	purified recombinant STAT5A
+T12	protein 487 490	BTK
+T13	protein 558 576	recombinant STAT5A
+T14	protein 620 634	Janus kinase 3
+T15	protein 656 659	BTK
+T16	protein 679 716	Y665F, Y668F, and Y682F,Y683F mutants
+T17	protein 729 741	Y694F mutant
+T18	protein 745 751	STAT5A
+T19	protein 777 813	Src homology 2 (SH2) and SH3 domains
+T20	protein 832 835	BTK
+T21	protein 871 895	Recombinant BTK proteins
+T22	protein 929 948	SH2, or SH3 domains
+T23	protein 981 987	STAT5A
+T24	protein 997 1021	recombinant BTK proteins
+T25	protein 1096 1111	full-length BTK
+T26	protein 1120 1137	SH1/kinase domain
+T27	protein 1172 1191	SH2, or SH3 domains
+T28	protein 1217 1223	STAT5A
+T29	protein 1247 1264	BTK kinase domain
+T30	protein 1305 1311	STAT5A
+T31	protein 1339 1342	BTK
+T32	protein 1421 1436	Tyr(694) mutant
+T33	protein 1438 1444	STAT5A
+T34	protein 1483 1486	BTK
+T35	cell_type 1505 1512	B cells
+T36	protein 1562 1575	STAT5 protein
+T37	protein 1615 1618	BTK
+T38	protein 1776 1781	STAT5
+T39	protein 1785 1788	BTK
+T40	cell_type 1807 1814	B cells
+T41	protein 1834 1853	wild type human BTK
+T42	protein 1865 1868	BTK
+T43	cell_type 1887 1894	B cells
+T44	protein 1914 1940	kinase-inactive mutant BTK
+T45	protein 2023 2029	STAT5A
+T46	protein 2033 2036	BTK
+T47	cell_type 2047 2054	B cells
+T48	protein 2086 2089	BTK
+T49	cell_type 2100 2107	B cells
+T50	cell_type 2138 2145	B cells
+T51	cell_type 2161 2168	B cells
+T52	protein 2330 2333	BTK
+T53	cell_type 2429 2436	B cells

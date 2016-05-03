@@ -1,0 +1,11 @@
+T1	protein 47 51	CTCF
+T2	protein 135 139	CTCF
+T3	protein 199 203	CTCF
+T4	protein 300 304	CTCF
+T5	protein 341 345	CTCF
+T6	cell_type 411 439	human myeloid leukemia cells
+T7	RNA 465 474	CTCF mRNA
+T8	protein 570 574	CTCF
+T9	DNA 636 641	c-myc
+T10	protein 649 661	CTCF protein
+T11	protein 785 789	CTCF

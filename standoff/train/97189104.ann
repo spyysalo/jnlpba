@@ -1,0 +1,34 @@
+T1	protein 36 73	varicella-zoster virus glycoprotein E
+T2	protein 78 101	immediate-early protein
+T3	protein 103 107	IE62
+T4	protein 239 276	varicella-zoster virus (VZV) proteins
+T5	protein 337 355	VZV glycoprotein E
+T6	protein 357 359	gE
+T7	DNA 373 379	ORF 68
+T8	protein 388 399	VZV product
+T9	DNA 403 409	ORF 62
+T10	protein 414 452	immediate-early major tegument protein
+T11	protein 454 458	IE62
+T12	DNA 467 487	HSV/VZV recombinants
+T13	DNA 508 539	VZV gE protein coding sequences
+T14	protein 555 570	promoter region
+T15	DNA 594 620	thymidine kinase (TK) gene
+T16	protein 646 652	VZV gE
+T17	DNA 672 691	HSV-1 ICP4 promoter
+T18	DNA 714 738	glycoprotein C (gC) gene
+T19	DNA 766 799	VZV IE62 protein coding sequences
+T20	DNA 825 844	HSV-1 ICP4 promoter
+T21	DNA 868 875	gC gene
+T22	protein 1007 1019	VZV proteins
+T23	protein 1070 1080	VZV gE-HSV
+T24	protein 1082 1084	TK
+T25	protein 1090 1102	VZV IE62-HSV
+T26	protein 1104 1106	gC
+T27	protein 1119 1122	IgG
+T28	protein 1140 1146	VZV gE
+T29	protein 1150 1158	VZV IE62
+T30	cell_type 1201 1214	T-lymphocytes
+T31	cell_type 1284 1297	T-lymphocytes
+T32	protein 1314 1320	VZV gE
+T33	protein 1324 1332	VZV IE62
+T34	protein 1501 1513	VZV proteins

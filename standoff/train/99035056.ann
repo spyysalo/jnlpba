@@ -1,0 +1,29 @@
+T1	protein 64 92	pml/RAR-alpha hybrid protein
+T2	cell_type 96 107	lymphocytes
+T3	protein 214 235	pml/RAR-alpha protein
+T4	cell_line 250 290	acute promyelocytic leukemia (APL) cells
+T5	cell_line 350 361	CD4 T cells
+T6	protein 367 379	HLA class II
+T7	protein 513 521	HLA DR11
+T8	cell_type 552 580	peripheral blood lymphocytes
+T9	protein 669 678	RAR-alpha
+T10	cell_line 796 835	anti-pml/RAR-alpha CD4(+) T-cell clones
+T11	cell_line 907 935	C3/5, CD3(+), CD4(+), CD8(-)
+T12	cell_line 972 982	Clone C3/5
+T13	protein 1042 1069	tumor necrosis factor alpha
+T14	protein 1071 1119	granulocyte-macrophage colony-stimulating factor
+T15	cell_line 1153 1188	autologous lymphoblastic cell lines
+T16	cell_line 1218 1228	C3/5 cells
+T17	cell_line 1300 1339	peptide-pulsed lymphoblastic cell lines
+T18	cell_type 1344 1372	peripheral blood lymphocytes
+T19	cell_type 1409 1419	APL blasts
+T20	cell_line 1485 1489	C3/5
+T21	cell_line 1548 1557	APL cells
+T22	protein 1563 1572	IFN-gamma
+T23	protein 1590 1612	HLA class II molecules
+T24	cell_line 1636 1646	C3/5 clone
+T25	cell_line 1654 1663	APL cells
+T26	protein 1679 1701	HLA class II molecules
+T27	protein 1840 1843	CD8
+T28	protein 1843 1855	/HLA class I
+T29	cell_line 1880 1908	peptide-specific T-cell line

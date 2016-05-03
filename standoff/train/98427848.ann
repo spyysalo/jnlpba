@@ -1,0 +1,35 @@
+T1	protein 0 20	Transcription factor
+T2	cell_type 56 68	killer cells
+T3	cell_type 73 84	lymphocytes
+T4	protein 109 113	IL-2
+T5	protein 151 173	cytokine interleukin-2
+T6	protein 175 179	IL-2
+T7	protein 347 356	NF-kappaB
+T8	protein 362 412	signal transducers and activators of transcription
+T9	protein 414 418	STAT
+T10	cell_type 423 451	cancer patients' lymphocytes
+T11	protein 469 473	IL-2
+T12	protein 548 552	IL-2
+T13	cell_type 588 628	fresh peripheral blood mononuclear cells
+T14	cell_type 630 634	PBMC
+T15	protein 664 668	IL-2
+T16	protein 718 728	lymphokine
+T17	protein 1014 1018	IL-2
+T18	protein 1066 1087	transcription factors
+T19	cell_type 1091 1095	PBMC
+T20	cell_type 1139 1143	PBMC
+T21	protein 1194 1198	IL-2
+T22	protein 1249 1253	AP-1
+T23	protein 1256 1259	Sp1
+T24	protein 1265 1274	NF-kappaB
+T25	cell_type 1318 1322	PBMC
+T26	protein 1336 1340	IL-2
+T27	protein 1384 1388	IL-2
+T28	protein 1456 1476	STAT binding factors
+T29	protein 1484 1493	LAK cells
+T30	protein 1547 1551	IL-2
+T31	protein 1588 1592	STAT
+T32	cell_type 1700 1712	immune cells
+T33	protein 1770 1774	IL-2
+T34	cell_type 1844 1848	PBMC
+T35	protein 1883 1887	IL-2

@@ -1,0 +1,20 @@
+T1	protein 0 19	Calcineurin mutants
+T2	cell_type 27 40	T lymphocytes
+T3	protein 257 287	intracellular binding proteins
+T4	protein 304 317	cyclophilin A
+T5	protein 333 339	FKBP12
+T6	cell_type 432 439	T cells
+T7	protein 515 526	calcineurin
+T8	protein 530 602	Ca2+/calmodulin-regulated, serine/threonine-specific protein phosphatase
+T9	protein 642 662	transcription factor
+T10	protein 664 669	NF-AT
+T11	DNA 698 721	T cell activation genes
+T12	protein 758 769	calcineurin
+T13	protein 806 849	cyclophilin A/CsA or FKBP12/FK506 complexes
+T14	protein 1008 1019	calcineurin
+T15	protein 1031 1046	T cell receptor
+T16	cell_line 1092 1112	human Jurkat T cells
+T17	protein 1159 1170	calcineurin
+T18	protein 1218 1229	calcineurin
+T19	protein 1242 1265	CsA-sensitive component
+T20	protein 1294 1309	T cell receptor

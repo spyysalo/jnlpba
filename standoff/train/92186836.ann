@@ -1,0 +1,44 @@
+T1	DNA 0 20	cis-acting sequences
+T2	DNA 44 66	interleukin-2 enhancer
+T3	protein 89 108	Ets-related protein
+T4	protein 110 115	Elf-1
+T5	DNA 154 174	DNA binding sequence
+T6	protein 183 193	Ets family
+T7	protein 197 218	transcription factors
+T8	DNA 263 280	Ets binding sites
+T9	DNA 288 297	promoters
+T10	DNA 302 311	enhancers
+T11	DNA 320 342	inducible T-cell genes
+T12	DNA 418 435	Ets binding sites
+T13	DNA 446 450	EBS2
+T14	DNA 484 524	human and murine interleukin-2 enhancers
+T15	DNA 537 551	human enhancer
+T16	protein 611 618	DNase I
+T17	DNA 631 637	NFAT-1
+T18	DNA 642 649	NFIL-2B
+T19	DNA 761 765	EBS2
+T20	protein 805 849	NFAT-1 and NFIL-2B nuclear protein complexes
+T21	DNA 925 947	interleukin-2 enhancer
+T22	DNA 997 1001	EBS2
+T23	protein 1026 1044	Ets family members
+T24	protein 1046 1051	Ets-1
+T25	protein 1056 1061	Ets-2
+T26	DNA 1191 1195	EBS2
+T27	DNA 1221 1232	T-cell cDNA
+T28	protein 1295 1313	DNA binding domain
+T29	protein 1317 1322	Ets-1
+T30	protein 1338 1361	novel Ets family member
+T31	protein 1363 1368	Elf-1
+T32	protein 1370 1375	Elf-1
+T33	protein 1387 1405	DNA binding domain
+T34	protein 1442 1445	E74
+T35	protein 1451 1501	ecdysone-inducible Drosophila transcription factor
+T36	protein 1545 1550	Elf-1
+T37	protein 1556 1573	E74-like factor 1
+T38	protein 1576 1581	Elf-1
+T39	DNA 1618 1622	EBS2
+T40	DNA 1686 1710	purine-rich CD3R element
+T41	DNA 1720 1776	human immunodeficiency virus type 2 long terminal repeat
+T42	protein 1865 1880	T-cell receptor
+T43	protein 1929 1956	multiple Ets family members
+T44	cell_type 2049 2078	resting and activated T cells

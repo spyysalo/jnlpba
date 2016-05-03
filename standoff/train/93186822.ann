@@ -1,0 +1,22 @@
+T1	protein 110 144	cell-specific transcription factor
+T2	protein 146 151	NF-E2
+T3	DNA 159 175	enhancer element
+T4	DNA 206 229	erythroid-specific gene
+T5	DNA 336 359	erythroid-specific gene
+T6	cell_line 378 398	human cell line K562
+T7	protein 481 502	transcription factors
+T8	DNA 508 526	regulatory element
+T9	DNA 544 580	transcriptional regulatory sequences
+T10	DNA 589 613	erythroid-specific genes
+T11	protein 654 677	ubiquitous AP-1 factors
+T12	protein 737 773	lineage limited transcription factor
+T13	protein 774 779	NF-E2
+T14	DNA 788 819	transcriptional control element
+T15	cell_line 840 850	K562 cells
+T16	protein 886 891	NF-E2
+T17	cell_line 1020 1030	K562 cells
+T18	protein 1085 1090	hemin
+T19	protein 1138 1174	lineage limited transcription factor
+T20	cell_line 1243 1253	K562 cells
+T21	protein 1313 1333	transcription factor
+T22	protein 1334 1339	NF-E2

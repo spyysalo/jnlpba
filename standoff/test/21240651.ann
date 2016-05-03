@@ -1,0 +1,33 @@
+T1	protein 9 14	BMI-1
+T2	protein 19 23	EZH2
+T3	cell_type 47 57	thymocytes
+T4	cell_type 62 76	mature T cells
+T5	DNA 96 110	Polycomb genes
+T6	protein 144 149	BMI-1
+T7	protein 154 158	EZH2
+T8	protein 159 188	Polycomb-group (PcG) proteins
+T9	cell_type 355 388	mature resting peripheral T cells
+T10	protein 399 404	BMI-1
+T11	cell_type 414 429	dividing blasts
+T12	cell_type 457 522	subcapsular immature double-negative (DN) (CD4(-)/CD8(-)) T cells
+T13	protein 549 554	BMI-1
+T14	protein 559 563	EZH2
+T15	cell_type 614 669	double-positive (DP; CD4(+)/CD8(+)) cortical thymocytes
+T16	protein 681 685	EZH2
+T17	protein 694 699	BMI-1
+T18	cell_type 706 734	EZH2(+) DN and DP thymocytes
+T19	cell_type 756 786	DN BMI-1(+)/EZH2(-) thymocytes
+T20	cell_type 844 869	DN BMI-1(+)/EZH2(+) cells
+T21	cell_type 885 907	DP cortical thymocytes
+T22	cell_type 911 941	single-positive (CD4(+)/CD8(-)
+T23	cell_type 945 979	CD8(+)/CD4(-)) medullar thymocytes
+T24	protein 1023 1027	EZH2
+T25	protein 1062 1067	BMI-1
+T26	protein 1088 1093	BMI-1
+T27	protein 1098 1102	EZH2
+T28	cell_type 1117 1142	mature peripheral T cells
+T29	cell_type 1249 1259	thymocytes
+T30	cell_type 1287 1293	T cell
+T31	DNA 1346 1355	PcG genes
+T32	cell_type 1562 1581	medullar thymocytes
+T33	cell_type 1586 1616	mature interfollicular T cells

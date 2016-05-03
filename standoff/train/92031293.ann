@@ -1,0 +1,33 @@
+T1	DNA 47 62	HTLV-I enhancer
+T2	protein 88 103	trans-activator
+T3	DNA 159 176	enhancer elements
+T4	cell_line 234 252	human T-cell lines
+T5	cell_line 253 259	Jurkat
+T6	cell_line 264 270	MOLT 4
+T7	DNA 429 444	HTLV-I enhancer
+T8	DNA 457 487	21-base-pair (bp) core element
+T9	protein 543 558	trans-activator
+T10	protein 559 565	p40tax
+T11	protein 602 665	cyclic-AMP responsive element binding factor (CREB)-like factor
+T12	DNA 715 729	21-bp elements
+T13	DNA 811 825	21-bp elements
+T14	protein 861 867	p40tax
+T15	protein 900 930	NF-kappa B-like nuclear factor
+T16	protein 960 979	protein-DNA complex
+T17	protein 989 1004	C26 subfragment
+T18	protein 1032 1038	p40tax
+T19	DNA 1044 1055	C26 element
+T20	protein 1092 1098	p40tax
+T21	DNA 1130 1143	21-bp element
+T22	protein 1201 1207	p40tax
+T23	DNA 1222 1233	C26 element
+T24	protein 1287 1293	p40tax
+T25	DNA 1308 1335	NF-kappa B-binding elements
+T26	DNA 1354 1365	C26 element
+T27	DNA 1500 1515	HTLV-I enhancer
+T28	DNA 1525 1553	multiple functional elements
+T29	protein 1592 1625	CREB- and NF-kappa B-like factors
+T30	DNA 1680 1695	HTLV-I enhancer
+T31	protein 1711 1717	p40tax
+T32	DNA 1785 1800	HTLV-I enhancer
+T33	DNA 1829 1840	C26 element

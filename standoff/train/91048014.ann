@@ -1,0 +1,15 @@
+T1	protein 145 180	transcriptional regulatory proteins
+T2	protein 386 424	sequence-specific DNA-binding proteins
+T3	DNA 513 551	octamer or kappa B consensus sequences
+T4	protein 617 645	octamer transcription factor
+T5	protein 649 676	nuclear factor (NF)-kappa B
+T6	DNA 866 882	reporter plasmid
+T7	protein 886 896	NF-kappa B
+T8	DNA 925 968	human immunodeficiency virus (HIV) enhancer
+T9	cell_line 1052 1087	transiently transfected B cell line
+T10	DNA 1154 1171	octamer consensus
+T11	cell_line 1175 1198	Jurkat T leukemia cells
+T12	protein 1209 1222	interleukin-2
+T13	protein 1224 1228	IL-2
+T14	DNA 1284 1304	mutated octamer site
+T15	DNA 1312 1325	IL-2 enhancer

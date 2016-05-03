@@ -1,0 +1,25 @@
+T1	protein 49 84	nuclear factor of activated T cells
+T2	protein 90 125	nuclear factor of activated T cells
+T3	protein 127 132	NF-AT
+T4	protein 151 170	DNA-binding protein
+T5	DNA 226 235	IL-2 gene
+T6	protein 262 267	NF-AT
+T7	protein 311 350	ubiquitous, inducible nuclear component
+T8	protein 378 381	Fos
+T9	protein 386 398	Jun proteins
+T10	protein 419 444	T cell-specific component
+T11	protein 446 452	NF-ATp
+T12	cell_type 590 607	activated T cells
+T13	protein 627 642	NF-AT complexes
+T14	DNA 688 705	distal NF-AT site
+T15	DNA 713 733	murine IL-2 promoter
+T16	cell_type 779 786	T cells
+T17	protein 820 826	NF-ATp
+T18	protein 863 869	NF-ATp
+T19	protein 1024 1029	NF-AT
+T20	protein 1163 1184	nuclear NF-AT complex
+T21	protein 1277 1283	NF-ATp
+T22	protein 1294 1297	Fos
+T23	protein 1302 1305	Jun
+T24	protein 1428 1443	NF-AT complexes
+T25	protein 1447 1453	NF-ATp

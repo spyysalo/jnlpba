@@ -1,0 +1,58 @@
+T1	protein 14 18	IL-4
+T2	cell_type 48 63	human monocytes
+T3	protein 67 97	type I and type II interferons
+T4	protein 103 121	Th2-type cytokines
+T5	protein 123 136	interleukin-4
+T6	protein 138 142	IL-4
+T7	protein 148 162	interleukin-13
+T8	protein 164 169	IL-13
+T9	cell_type 223 238	human monocytes
+T10	protein 250 263	FcepsilonRIIb
+T11	protein 265 269	CD23
+T12	protein 272 287	15-lipoxygenase
+T13	protein 289 313	IL-1 receptor antagonist
+T14	protein 315 321	IL-1ra
+T15	protein 328 361	type I and type II IL-1 receptors
+T16	protein 363 368	IL-1R
+T17	protein 371 389	Type I interferons
+T18	protein 391 400	IFN-alpha
+T19	protein 405 413	IFN-beta
+T20	protein 419 437	type II interferon
+T21	protein 439 448	IFN-gamma
+T22	protein 486 490	IL-4
+T23	protein 495 500	IL-13
+T24	protein 534 538	IFNs
+T25	protein 630 650	transcription factor
+T26	protein 652 657	STAT6
+T27	protein 659 709	signal transducer and activator of transcription-6
+T28	cell_type 767 776	monocytes
+T29	protein 819 842	type I and type II IFNs
+T30	protein 852 856	IL-4
+T31	protein 857 862	IL-13
+T32	protein 957 962	STAT6
+T33	protein 979 1002	type I and type II IFNs
+T34	protein 1014 1018	IL-4
+T35	protein 1019 1024	IL-13
+T36	protein 1033 1038	STAT6
+T37	cell_type 1098 1107	monocytes
+T38	protein 1116 1120	IFNs
+T39	cell_type 1148 1159	fibroblasts
+T40	protein 1175 1180	STAT6
+T41	protein 1240 1243	IFN
+T42	protein 1268 1272	IL-4
+T43	cell_type 1438 1447	monocytes
+T44	protein 1451 1454	IFN
+T45	protein 1489 1506	inhibitory factor
+T46	protein 1544 1569	SOCS/ SSI/CIS gene family
+T47	protein 1608 1613	STAT6
+T48	protein 1617 1621	IL-4
+T49	protein 1626 1631	IL-13
+T50	protein 1641 1646	STAT6
+T51	protein 1685 1689	IL-4
+T52	protein 1690 1695	IL-13
+T53	protein 1736 1744	IFN-beta
+T54	protein 1749 1758	IFN-gamma
+T55	protein 1770 1775	STAT6
+T56	protein 1817 1821	IFNs
+T57	protein 1835 1839	IL-4
+T58	protein 1840 1845	IL-13

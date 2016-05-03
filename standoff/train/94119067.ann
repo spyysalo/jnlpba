@@ -1,0 +1,30 @@
+T1	DNA 18 75	granulocyte-macrophage colony-stimulating factor promoter
+T2	cell_type 79 86	T cells
+T3	protein 119 124	Elf-1
+T4	protein 129 133	AP-1
+T5	protein 134 155	transcription factors
+T6	DNA 161 223	granulocyte-macrophage colony-stimulating factor (GM-CSF) gene
+T7	DNA 336 347	GM-CSF gene
+T8	cell_type 368 400	resting peripheral blood T cells
+T9	protein 486 514	cell surface T-cell receptor
+T10	DNA 579 600	human GM-CSF TATA box
+T11	DNA 602 615	bp -34 to -52
+T12	DNA 632 644	purine box 1
+T13	DNA 646 649	PB1
+T14	protein 677 707	T-cell nuclear protein complex
+T15	DNA 764 775	GM-CSF gene
+T16	DNA 809 812	PB1
+T17	DNA 856 885	human and murine GM-CSF genes
+T18	DNA 927 938	PB1 element
+T19	cell_line 1021 1041	human Jurkat T cells
+T20	protein 1076 1111	PB1 nuclear protein-binding complex
+T21	cell_type 1135 1167	resting peripheral blood T cells
+T22	DNA 1252 1255	PB1
+T23	DNA 1271 1293	adjacent binding sites
+T24	protein 1298 1301	Ets
+T25	protein 1306 1310	AP-1
+T26	protein 1311 1332	transcription factors
+T27	DNA 1394 1412	Ets and AP-1 sites
+T28	protein 1455 1482	PB1 nuclear protein complex
+T29	DNA 1544 1559	GM-CSF promoter
+T30	cell_type 1563 1580	activated T cells

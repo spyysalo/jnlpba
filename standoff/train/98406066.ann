@@ -1,0 +1,17 @@
+T1	protein 31 51	plasma membrane CD14
+T2	protein 215 220	mCD14
+T3	protein 222 235	membrane CD14
+T4	cell_type 283 292	monocytes
+T5	cell_type 297 308	neutrophils
+T6	protein 323 328	mCD14
+T7	protein 487 492	mCD14
+T8	protein 565 570	mCD14
+T9	protein 618 637	LPS-binding protein
+T10	protein 712 717	mCD14
+T11	protein 745 750	mCD14
+T12	protein 769 800	anti-CD14 monoclonal antibodies
+T13	protein 817 823	-mCD14
+T14	protein 864 870	-mCD14
+T15	cell_type 908 917	monocytes
+T16	cell_type 919 981	Serum-equilibrated PtdIns also binds to mCD14-expressing cells
+T17	protein 1079 1084	mCD14

@@ -1,0 +1,26 @@
+T1	cell_type 28 47	preleukemic T cells
+T2	DNA 90 103	TCL1 oncogene
+T3	DNA 107 123	human chromosome
+T4	DNA 124 131	14q32.1
+T5	DNA 174 193	t(14;14)(q11;q32.1)
+T6	DNA 198 216	t(7;14)(q35;q32.1)
+T7	DNA 234 250	inv14(q11;q32.1)
+T8	DNA 257 276	TCR alpha/beta loci
+T9	cell_type 535 542	T cells
+T10	RNA 638 647	TCL1 mRNA
+T11	protein 652 659	protein
+T12	cell_type 663 691	peripheral blood lymphocytes
+T13	cell_type 693 697	PBLs
+T14	DNA 763 772	TCL1 gene
+T15	cell_type 798 802	PBLs
+T16	cell_line 827 857	large clonal T-cell population
+T17	cell_type 911 922	lymphocytes
+T18	DNA 985 1003	TCL1 genomic locus
+T19	DNA 1155 1165	TCL1 locus
+T20	DNA 1219 1230	distal part
+T21	DNA 1234 1247	chromosome 14
+T22	DNA 1274 1278	TCL1
+T23	cell_line 1295 1319	preleukemic clonal cells
+T24	DNA 1394 1403	TCR locus
+T25	DNA 1407 1412	14q11
+T26	DNA 1430 1434	TCL1

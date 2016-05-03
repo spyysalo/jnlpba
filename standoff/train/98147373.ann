@@ -1,0 +1,27 @@
+T1	protein 0 8	Cytokine
+T2	cell_type 57 64	T cells
+T3	protein 99 111	IkappaBalpha
+T4	cell_line 210 230	mature Th cell lines
+T5	protein 295 304	cytokines
+T6	protein 317 321	IL-2
+T7	cell_type 325 334	Th1 cells
+T8	protein 342 346	IL-4
+T9	cell_type 350 359	Th2 cells
+T10	protein 415 424	cytokines
+T11	cell_type 428 436	Th cells
+T12	protein 466 478	IkappaBalpha
+T13	protein 508 517	cytokines
+T14	RNA 561 578	IkappaBalpha mRNA
+T15	protein 656 668	IkappaBalpha
+T16	protein 707 711	IL-2
+T17	protein 721 725	IL-4
+T18	cell_type 730 739	Th1 cells
+T19	cell_type 779 788	Th2 cells
+T20	protein 814 822	cytokine
+T21	protein 854 866	IkappaBalpha
+T22	cell_type 973 990	Th1 and Th2 cells
+T23	cell_type 1015 1022	T cells
+T24	protein 1059 1068	NF-kappaB
+T25	protein 1141 1158	nuclear NF kappaB
+T26	protein 1181 1193	IkappaBalpha
+T27	protein 1208 1217	cytokines

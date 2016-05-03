@@ -1,0 +1,26 @@
+T1	protein 46 66	T-cell interleukin-2
+T2	protein 94 119	purine-box/nuclear factor
+T3	cell_type 123 140	activated T-cells
+T4	protein 145 154	NF-kappaB
+T5	protein 306 323	interleukin(IL)-2
+T6	cell_type 338 379	normal human peripheral blood lymphocytes
+T7	protein 450 453	CD3
+T8	cell_line 530 544	Jurkat T-cells
+T9	protein 581 585	IL-2
+T10	DNA 661 772	purine-box/antigen receptor response element (ARRE)/nuclear factor of activated T-cells (NF-AT) target sequence
+T11	DNA 788 802	NF-kappaB site
+T12	DNA 867 923	purine-box/ARRE/NF-AT and NF-kappaB target DNA sequences
+T13	protein 974 1001	tumor necrosis factor-alpha
+T14	protein 1055 1084	chimeric transcription factor
+T15	protein 1098 1135	C-terminal TA1 transactivation domain
+T16	protein 1139 1152	NF-kappaB p65
+T17	protein 1169 1187	DNA binding domain
+T18	protein 1191 1195	GAL4
+T19	cell_type 1200 1238	16HBE human bronchial epithelial cells
+T20	protein 1240 1244	IL-8
+T21	protein 1286 1295	NF-kappaB
+T22	protein 1366 1370	IL-8
+T23	DNA 1409 1422	cytokine gene
+T24	protein 1526 1535	NF-kappaB
+T25	DNA 1544 1564	purine-box regulator
+T26	DNA 1582 1597	ARRE/NF-AT site

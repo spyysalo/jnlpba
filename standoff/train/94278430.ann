@@ -1,0 +1,25 @@
+T1	protein 12 24	Oct2-isoform
+T2	cell_line 39 82	lipopolysaccharide-stimulated B lymphocytes
+T3	protein 84 96	Oct2-isoform
+T4	cell_type 111 126	splenic B cells
+T5	cell_line 256 276	Oct2-positive clones
+T6	protein 357 393	amino- or carboxy-terminal sequences
+T7	DNA 414 421	exon 11
+T8	protein 436 473	carboxy-terminal leucin-zipper region
+T9	protein 521 550	proline-rich carboxy terminus
+T10	DNA 558 562	exon
+T11	DNA 620 641	between exons 4 and 5
+T12	DNA 666 704	between glutamine-rich regions 2 and 3
+T13	protein 706 722	carboxy terminal
+T14	protein 738 762	leucine-zipper structure
+T15	protein 814 843	Oct2a's amino terminal insert
+T16	DNA 845 852	exon 7a
+T17	protein 858 889	Oct2b's carboxy terminal insert
+T18	DNA 891 898	exon 13
+T19	protein 946 952	Oct2ab
+T20	protein 989 994	Oct2a
+T21	protein 999 1004	Oct2b
+T22	cell_line 1034 1071	lipopolysaccharide-stimulated B cells
+T23	protein 1100 1106	Oct2ab
+T24	protein 1111 1117	Oct2ba
+T25	cell_line 1143 1200	lipopolysaccharide plus phorbol-di-butyrate-treated cells

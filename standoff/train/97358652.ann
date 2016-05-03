@@ -1,0 +1,25 @@
+T1	protein 14 35	transcription factors
+T2	cell_line 101 111	K562 cells
+T3	cell_line 144 154	K562 cells
+T4	protein 222 232	hemoglobin
+T5	RNA 292 309	gamma-globin mRNA
+T6	protein 486 508	cell surface antigenes
+T7	protein 509 513	CD33
+T8	protein 515 519	CD34
+T9	protein 521 525	CD45
+T10	protein 527 531	CD71
+T11	protein 536 549	glycophorin A
+T12	protein 592 623	erythroid transcription factors
+T13	protein 624 630	GATA-1
+T14	protein 632 638	GATA-2
+T15	protein 640 645	NF-E2
+T16	protein 647 650	SCL
+T17	protein 655 660	RBTN2
+T18	cell_line 689 699	K562 cells
+T19	protein 803 818	nuclear factors
+T20	protein 819 824	Evi-1
+T21	protein 829 834	c-myb
+T22	cell_line 949 959	K562 cells
+T23	RNA 970 987	gamma-globin mRNA
+T24	protein 1080 1111	erythroid transcription factors
+T25	DNA 1173 1195	beta-like globin genes

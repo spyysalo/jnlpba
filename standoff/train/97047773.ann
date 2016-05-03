@@ -1,0 +1,30 @@
+T1	cell_type 39 46	T cells
+T2	protein 73 78	Bcl-2
+T3	protein 83 116	IL-1beta-converting enzyme family
+T4	protein 187 190	Fas
+T5	cell_type 271 289	peripheral T cells
+T6	cell_type 308 321	T cell blasts
+T7	protein 335 338	Fas
+T8	protein 343 346	Fas
+T9	protein 435 440	Bcl-2
+T10	cell_type 444 455	tumor cells
+T11	protein 516 519	Fas
+T12	protein 600 605	Bcl-2
+T13	cell_type 609 621	normal cells
+T14	cell_type 623 636	T cell blasts
+T15	protein 671 676	Bcl-2
+T16	protein 689 702	gene products
+T17	protein 779 784	Bcl-2
+T18	cell_type 804 817	T cell blasts
+T19	protein 832 835	Fas
+T20	protein 953 959	Bcl-xL
+T21	protein 964 982	adenovirus E1B 19K
+T22	protein 1011 1014	Fas
+T23	protein 1129 1132	Fas
+T24	cell_type 1180 1198	peripheral T cells
+T25	protein 1274 1279	Bcl-2
+T26	cell_type 1354 1361	T cells
+T27	protein 1379 1384	Bcl-2
+T28	protein 1389 1395	Bcl-xL
+T29	protein 1443 1446	Fas
+T30	cell_type 1499 1518	self-reactive cells

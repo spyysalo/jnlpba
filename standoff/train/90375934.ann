@@ -1,0 +1,34 @@
+T1	DNA 13 43	immediate early response genes
+T2	protein 47 83	macrophage colony-stimulating factor
+T3	cell_type 87 109	normal human monocytes
+T4	DNA 143 157	protooncogenes
+T5	DNA 159 203	cytoskeletal, and extracellular matrix genes
+T6	DNA 221 251	immediate early response genes
+T7	protein 298 311	growth factor
+T8	protein 396 410	macrophage-CSF
+T9	protein 412 417	M-CSF
+T10	cell_type 422 437	human monocytes
+T11	protein 477 482	M-CSF
+T12	cell_type 547 562	human monocytes
+T13	cell_type 700 713	resting cells
+T14	protein 735 740	M-CSF
+T15	cell_type 815 828	resting cells
+T16	RNA 869 874	c-jun
+T17	RNA 876 896	fibronectin receptor
+T18	RNA 902 912	actin mRNA
+T19	protein 949 954	M-CSF
+T20	DNA 1027 1037	c-jun gene
+T21	protein 1107 1112	M-CSF
+T22	RNA 1154 1189	actin and fibronectin receptor mRNA
+T23	protein 1282 1287	M-CSF
+T24	DNA 1336 1384	myelomonocytic specific tyrosine kinase hck gene
+T25	DNA 1415 1445	immediate early response genes
+T26	DNA 1589 1594	c-jun
+T27	DNA 1599 1602	hck
+T28	DNA 1640 1645	c-jun
+T29	DNA 1647 1650	hck
+T30	DNA 1656 1667	actin genes
+T31	cell_type 1683 1705	normal human monocytes
+T32	protein 1706 1711	M-CSF
+T33	DNA 1720 1750	immediate early response genes
+T34	protein 1884 1887	CSF

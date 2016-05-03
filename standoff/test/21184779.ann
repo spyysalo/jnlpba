@@ -1,0 +1,29 @@
+T1	DNA 0 11	Gadd45gamma
+T2	DNA 82 93	Gadd45gamma
+T3	DNA 118 171	growth arrest and DNA damage-inducible gene family 45
+T4	DNA 173 179	Gadd45
+T5	protein 205 218	interleukin-2
+T6	protein 220 224	IL-2
+T7	cell_type 229 247	peripheral T cells
+T8	DNA 275 296	Gadd45 family members
+T9	DNA 312 323	Gadd45gamma
+T10	protein 362 366	IL-2
+T11	protein 390 394	IL-2
+T12	DNA 417 428	Gadd45gamma
+T13	protein 481 501	tyrosine kinase Jak3
+T14	protein 510 531	transcription factors
+T15	protein 532 538	Stat5a
+T16	protein 543 549	Stat5b
+T17	protein 551 599	signal transducer and activator of transcription
+T18	DNA 650 661	Gadd45gamma
+T19	DNA 773 784	Gadd45gamma
+T20	DNA 843 854	Gadd45gamma
+T21	DNA 856 867	Gadd45gamma
+T22	DNA 1007 1018	Gadd45gamma
+T23	DNA 1039 1050	Gadd45gamma
+T24	cell_type 1061 1074	T lymphocytes
+T25	protein 1100 1104	IL-2
+T26	DNA 1134 1145	Gadd45gamma
+T27	DNA 1259 1280	Gadd45 family members
+T28	DNA 1282 1293	Gadd45gamma
+T29	protein 1318 1322	IL-2

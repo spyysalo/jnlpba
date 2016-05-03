@@ -1,0 +1,28 @@
+T1	protein 0 13	Interleukin-4
+T2	cell_type 27 40	B lymphocytes
+T3	protein 103 116	Interleukin-4
+T4	protein 118 122	IL-4
+T5	protein 235 241	gammac
+T6	cell_type 243 250	B cells
+T7	protein 428 432	IL-4
+T8	protein 476 480	IL-4
+T9	cell_type 496 510	X-SCID B cells
+T10	protein 529 552	Janus tyrosine kinase-3
+T11	protein 554 558	JAK3
+T12	protein 583 598	IL-4 substrates
+T13	protein 609 613	JAK1
+T14	protein 618 623	IRS-1
+T15	protein 671 723	signal transducers and activators of transcription 6
+T16	protein 725 730	STAT6
+T17	cell_type 785 799	X-SCID B cells
+T18	protein 821 827	gammac
+T19	cell_type 872 886	X-SCID B cells
+T20	protein 892 898	gammac
+T21	protein 908 912	IL-4
+T22	protein 942 947	STAT6
+T23	protein 1015 1019	CD23
+T24	protein 1038 1044	gammac
+T25	protein 1073 1077	IL-4
+T26	cell_type 1100 1107	B cells
+T27	protein 1151 1155	IL-4
+T28	protein 1207 1211	IL-4

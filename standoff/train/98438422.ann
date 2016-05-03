@@ -1,0 +1,27 @@
+T1	DNA 48 69	inactive X chromosome
+T2	DNA 91 99	XIC/XIST
+T3	cell_type 152 178	human differentiated cells
+T4	DNA 241 250	XIST gene
+T5	DNA 313 343	X-chromosome-specific elements
+T6	DNA 485 506	inactive X chromosome
+T7	DNA 508 510	Xi
+T8	cell_type 515 535	differentiated cells
+T9	DNA 607 609	Xi
+T10	DNA 614 623	autosomes
+T11	DNA 666 678	X-chromosome
+T12	DNA 766 776	(XIC)/XIST
+T13	cell_type 780 800	differentiated cells
+T14	DNA 811 813	Xi
+T15	DNA 918 929	chromosomes
+T16	protein 1023 1033	antibodies
+T17	protein 1049 1053	BrdU
+T18	protein 1086 1107	acetylated histone H4
+T19	DNA 1125 1133	XIC/XIST
+T20	DNA 1271 1282	Xq13 region
+T21	DNA 1292 1300	XIC/XIST
+T22	cell_type 1381 1401	differentiated cells
+T23	DNA 1464 1472	XIC/XIST
+T24	DNA 1508 1529	inactive X-chromosome
+T25	DNA 1584 1606	translocated autosomes
+T26	DNA 1639 1647	XIC/XIST
+T27	DNA 1700 1708	XIC/XIST

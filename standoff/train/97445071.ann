@@ -1,0 +1,15 @@
+T1	DNA 70 88	human eotaxin gene
+T2	protein 90 97	Eotaxin
+T3	protein 104 138	eosinophil specific beta-chemokine
+T4	DNA 371 376	exons
+T5	DNA 406 413	introns
+T6	DNA 488 506	5' upstream region
+T7	DNA 514 532	human eotaxin gene
+T8	DNA 544 572	regulatory promoter elements
+T9	DNA 596 608	eotaxin gene
+T10	DNA 690 709	consensus sequences
+T11	protein 733 748	nuclear factors
+T12	protein 754 760	NF-IL6
+T13	protein 762 766	AP-1
+T14	DNA 770 804	NF-kappa-B like consensus sequence
+T15	DNA 809 870	gamma-interferon- as well as glucocorticoid response elements

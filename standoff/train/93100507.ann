@@ -1,0 +1,28 @@
+T1	protein 22 53	constitutive nuclear NF kappa B
+T2	cell_type 87 115	mature human monocytic cells
+T3	protein 117 127	NF kappa B
+T4	protein 351 361	NF kappa B
+T5	protein 365 374	cytokines
+T6	cell_type 378 400	normal human monocytes
+T7	DNA 458 515	human immunodeficiency virus (HIV-1) long terminal repeat
+T8	DNA 555 582	NF kappa B binding sequence
+T9	protein 636 656	transcription factor
+T10	protein 693 703	NF kappa B
+T11	cell_type 731 753	normal human monocytes
+T12	cell_type 768 784	normal monocytes
+T13	protein 882 892	NF kappa B
+T14	cell_line 968 1003	mature monocytic leukemia cell line
+T15	cell_line 1004 1009	THP-1
+T16	protein 1015 1048	constitutive transcription factor
+T17	protein 1049 1052	SP1
+T18	protein 1109 1119	NF kappa B
+T19	protein 1247 1282	faster-migrating NF kappa B species
+T20	cell_type 1298 1307	monocytes
+T21	protein 1470 1488	nuclear NF kappa B
+T22	cell_type 1515 1524	monocytes
+T23	protein 1591 1612	reverse transcriptase
+T24	protein 1724 1734	NF kappa B
+T25	cell_line 1786 1818	promonocytic leukemia cells U937
+T26	cell_line 1823 1828	HL-60
+T27	protein 1871 1879	cytokine
+T28	cell_type 1903 1919	normal monocytes

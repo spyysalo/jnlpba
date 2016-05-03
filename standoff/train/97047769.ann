@@ -1,0 +1,36 @@
+T1	DNA 34 46	murine fra-1
+T2	protein 70 74	CD40
+T3	protein 79 89	surface Ig
+T4	protein 93 109	protein kinase C
+T5	DNA 125 142	murine fra-1 gene
+T6	protein 153 169	Fos-related Ag 1
+T7	DNA 191 211	splenic cDNA library
+T8	DNA 227 239	Murine fra-1
+T9	DNA 265 284	rat and human fra-1
+T10	DNA 323 338	murine sequence
+T11	cell_type 430 442	B lymphocyte
+T12	protein 464 468	CD40
+T13	protein 473 499	surface Ig (sIg) receptors
+T14	DNA 522 527	fra-1
+T15	protein 578 594	protein kinase C
+T16	protein 596 599	PKC
+T17	DNA 645 650	c-fos
+T18	protein 659 663	CD40
+T19	protein 668 671	sIg
+T20	protein 682 685	PKC
+T21	protein 717 721	CD40
+T22	protein 754 757	PKC
+T23	protein 779 785	kinase
+T24	DNA 800 805	fra-1
+T25	protein 830 834	CD40
+T26	protein 890 893	PKC
+T27	protein 920 924	CD40
+T28	DNA 929 934	fra-1
+T29	protein 946 950	CD40
+T30	DNA 960 965	fra-1
+T31	protein 988 1003	tyrosine kinase
+T32	protein 1045 1049	CD40
+T33	protein 1056 1059	sIg
+T34	protein 1072 1075	PKC
+T35	protein 1122 1138	B cell receptors
+T36	DNA 1326 1331	genes

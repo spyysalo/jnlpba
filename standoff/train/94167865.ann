@@ -1,0 +1,38 @@
+T1	DNA 24 36	HIV promoter
+T2	cell_line 200 212	CD4+ T cells
+T3	cell_type 239 246	T cells
+T4	DNA 301 315	HIV-1 promoter
+T5	DNA 363 384	HHV-6 (GS) cDNA clone
+T6	DNA 386 391	pCD41
+T7	protein 408 430	41-kDa nuclear protein
+T8	DNA 616 647	human cytomegalovirus UL44 gene
+T9	protein 663 675	ICP36 family
+T10	protein 679 710	early-late-class phosphoprotein
+T11	DNA 723 727	cDNA
+T12	DNA 744 773	3.8-kb EcoRI genomic fragment
+T13	protein 787 799	HHV-6(GS)P41
+T14	DNA 829 834	pGD41
+T15	DNA 864 875	HIV LTR CAT
+T16	cell_line 881 891	CV-1 cells
+T17	DNA 902 907	pCD41
+T18	DNA 912 917	pGD41
+T19	DNA 945 952	HIV LTR
+T20	DNA 975 980	pCD41
+T21	DNA 1019 1038	open reading frames
+T22	DNA 1040 1044	ORFs
+T23	DNA 1047 1048	A
+T24	DNA 1053 1054	B
+T25	DNA 1084 1088	ORFs
+T26	DNA 1116 1121	pGD41
+T27	DNA 1150 1161	pCD41 clone
+T28	protein 1180 1185	ORF-A
+T29	DNA 1207 1214	HIV LTR
+T30	DNA 1252 1257	pCD41
+T31	protein 1258 1263	ORF-A
+T32	DNA 1279 1298	promoter constructs
+T33	DNA 1357 1362	pCD41
+T34	protein 1409 1433	trans-activating protein
+T35	DNA 1444 1468	HIV LTR deletion mutants
+T36	protein 1474 1484	NF-kappa B
+T37	DNA 1485 1498	binding sites
+T38	DNA 1545 1550	pCD41

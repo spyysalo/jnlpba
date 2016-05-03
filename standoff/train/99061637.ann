@@ -1,0 +1,24 @@
+T1	cell_type 14 31	human macrophages
+T2	cell_type 290 300	lung cells
+T3	cell_line 323 366	prolonged cyclic pressure-stretching strain
+T4	cell_type 580 595	lung macrophage
+T5	protein 652 674	inflammatory mediators
+T6	protein 683 710	tumor necrosis factor-alpha
+T7	protein 716 726	chemokines
+T8	protein 727 752	interleukin (IL)-8 and -6
+T9	protein 758 784	matrix metalloproteinase-9
+T10	cell_type 884 915	ventilated alveolar macrophages
+T11	cell_type 917 945	monocyte-derived macrophages
+T12	cell_line 951 975	promonocytic THP-1 cells
+T13	protein 977 998	Nuclear factor-kappaB
+T14	cell_type 1028 1050	ventilated macrophages
+T15	protein 1131 1150	bacterial endotoxin
+T16	protein 1296 1300	IL-8
+T17	protein 1305 1332	tumor necrosis factor-alpha
+T18	cell_type 1346 1368	ventilated macrophages
+T19	protein 1415 1419	IL-8
+T20	cell_type 1433 1460	alveolar type II-like cells
+T21	cell_type 1492 1509	endothelial cells
+T22	cell_type 1511 1526	bronchial cells
+T23	cell_type 1532 1543	fibroblasts
+T24	protein 1562 1566	IL-8

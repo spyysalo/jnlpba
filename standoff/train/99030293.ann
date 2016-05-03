@@ -1,0 +1,38 @@
+T1	DNA 0 17	Promoter sequence
+T2	protein 86 102	chicken cytokine
+T3	protein 141 144	IL2
+T4	protein 153 157	IL15
+T5	protein 179 195	chicken cytokine
+T6	protein 293 301	cytokine
+T7	protein 313 316	IL2
+T8	protein 325 329	IL15
+T9	protein 360 371	chicken IL2
+T10	protein 421 425	IL2s
+T11	DNA 449 455	exon 2
+T12	DNA 460 467	introns
+T13	protein 503 506	IL2
+T14	DNA 569 590	3'untranslated region
+T15	DNA 594 600	exon 4
+T16	DNA 610 626	single-copy gene
+T17	protein 781 798	protein structure
+T18	DNA 865 895	potential regulatory sequences
+T19	DNA 958 966	promoter
+T20	DNA 1002 1023	NF-AT/ "AP-1" element
+T21	DNA 1027 1048	CD28 response element
+T22	DNA 1053 1065	AP-1 element
+T23	DNA 1070 1083	NF-AT element
+T24	DNA 1093 1139	AP-1 part of an AP-1/octamer composite element
+T25	protein 1145 1164	mammalian NF-kappaB
+T26	DNA 1169 1190	octamer binding sites
+T27	protein 1251 1260	NF-kappaB
+T28	DNA 1265 1289	octamer-binding elements
+T29	DNA 1297 1317	chicken IL2 promoter
+T30	DNA 1347 1367	mammalian homologues
+T31	DNA 1476 1499	mammalian IL2 promoters
+T32	DNA 1503 1521	Taq I polymorphism
+T33	protein 1559 1562	IL2
+T34	DNA 1579 1591	chromosome 4
+T35	DNA 1603 1607	ANX5
+T36	DNA 1627 1645	mouse chromosome 3
+T37	DNA 1650 1668	human chromosome 4
+T38	DNA 1688 1715	non-mammalian cytokine gene

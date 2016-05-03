@@ -1,0 +1,30 @@
+T1	DNA 23 31	CD4 gene
+T2	cell_type 49 69	mature T lymphocytes
+T3	DNA 103 111	enhancer
+T4	DNA 117 125	promoter
+T5	DNA 134 142	silencer
+T6	DNA 150 164	human CD4 gene
+T7	cell_type 244 262	thymic populations
+T8	DNA 324 347	regulatory DNA elements
+T9	cell_type 362 372	thymocytes
+T10	DNA 385 393	CD4 gene
+T11	cell_type 428 452	peripheral T lymphocytes
+T12	DNA 458 485	5'-positive regulatory unit
+T13	DNA 505 513	promoter
+T14	DNA 522 533	5' enhancer
+T15	protein 560 563	CD4
+T16	protein 564 567	CD8
+T17	cell_type 692 721	CD4+ CD8int/- cell population
+T18	DNA 785 810	first or the third intron
+T19	DNA 818 826	CD4 gene
+T20	DNA 844 852	CD4 gene
+T21	DNA 902 920	regulatory element
+T22	DNA 928 948	minimal CD4 silencer
+T23	DNA 964 972	CD4 gene
+T24	cell_type 987 1015	peripheral CD8 T lymphocytes
+T25	cell_type 1055 1077	immature DN thymocytes
+T26	DNA 1145 1153	CD4 gene
+T27	DNA 1184 1196	CD4 silencer
+T28	cell_type 1215 1234	CD4+ CD8int/- cells
+T29	protein 1307 1310	CD4
+T30	DNA 1363 1371	CD4 gene

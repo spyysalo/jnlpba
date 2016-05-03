@@ -1,0 +1,20 @@
+T1	protein 22 32	NF-kappa B
+T2	cell_type 36 51	T-lineage cells
+T3	protein 107 115	cytokine
+T4	protein 253 263	NF-kappa B
+T5	protein 355 359	RelA
+T6	protein 364 379	c-Rel complexes
+T7	cell_type 414 429	T-lineage cells
+T8	protein 481 496	I kappa B alpha
+T9	cell_type 596 603	T cells
+T10	cell_type 672 693	splenic T lymphocytes
+T11	protein 707 711	IL-2
+T12	protein 716 727	IL-2R alpha
+T13	protein 894 898	IL-4
+T14	protein 900 905	IL-10
+T15	protein 911 920	IFN-gamma
+T16	cell_type 951 969	transgenic T cells
+T17	cell_type 1007 1025	transgenic T cells
+T18	protein 1113 1143	NF-kappa B/Rel family proteins
+T19	protein 1183 1202	regulating proteins
+T20	protein 1219 1223	IL-2

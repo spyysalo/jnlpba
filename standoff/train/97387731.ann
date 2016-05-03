@@ -1,0 +1,19 @@
+T1	protein 13 39	nuclear factor kappa B/Rel
+T2	cell_type 60 96	human peripheral blood T lymphocytes
+T3	protein 100 138	anti-HLA class I monoclonal antibodies
+T4	protein 220 235	class I antigen
+T5	cell_type 247 251	PBMC
+T6	cell_type 263 285	purified T lymphocytes
+T7	protein 310 334	NF-kappa B/Rel complexes
+T8	protein 356 363	p50/p50
+T9	protein 368 382	p50/p65 dimers
+T10	protein 398 417	specific antibodies
+T11	protein 439 448	complexes
+T12	protein 501 533	anti-class I monoclonal antibody
+T13	protein 535 538	mAb
+T14	protein 640 643	mAb
+T15	protein 661 675	NF-kappa B/Rel
+T16	protein 772 787	I kappa B-alpha
+T17	protein 884 898	NF-kappa B/Rel
+T18	cell_type 919 949	peripheral blood T lymphocytes
+T19	protein 1013 1034	transcription factors

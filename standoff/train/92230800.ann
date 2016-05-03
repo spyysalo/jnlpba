@@ -1,0 +1,15 @@
+T1	protein 0 24	Corticosteroid receptors
+T2	cell_type 29 47	lymphocyte subsets
+T3	cell_type 51 73	mononuclear leukocytes
+T4	cell_type 158 180	mononuclear leukocytes
+T5	cell_type 301 319	lymphocyte subsets
+T6	protein 393 421	type I and type II receptors
+T7	protein 521 530	receptors
+T8	protein 540 546	type I
+T9	protein 593 605	II receptors
+T10	cell_type 644 662	lymphocyte subsets
+T11	protein 821 827	type I
+T12	protein 832 849	type II receptors
+T13	cell_type 902 905	CD4
+T14	cell_type 918 925	CD4/CD8
+T15	protein 999 1023	corticosteroid receptors

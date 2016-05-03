@@ -1,0 +1,50 @@
+T1	protein 0 30	Thrombin-induced p65 homodimer
+T2	DNA 53 68	NF-kappa B site
+T3	protein 106 112	ICAM-1
+T4	cell_type 128 138	neutrophil
+T5	protein 189 213	proinflammatory mediator
+T6	protein 215 223	thrombin
+T7	protein 294 300	ICAM-1
+T8	protein 302 306	CD54
+T9	cell_type 322 339	endothelial cells
+T10	cell_line 356 361	HUVEC
+T11	protein 367 375	thrombin
+T12	RNA 426 437	ICAM-1 mRNA
+T13	protein 473 479	ICAM-1
+T14	cell_type 520 548	polymorphonuclear leukocytes
+T15	cell_type 576 593	endothelial cells
+T16	DNA 599 662	ICAM-1 promoter luciferase reporter gene (ICAM-1LUC) constructs
+T17	DNA 699 714	NF-kappa B site
+T18	DNA 716 726	-533 bases
+T19	DNA 732 754	translation start site
+T20	protein 773 781	thrombin
+T21	DNA 838 853	NF-kappa B site
+T22	DNA 855 865	-223 bases
+T23	DNA 875 897	translation start site
+T24	DNA 927 942	ICAM-1 promoter
+T25	DNA 975 990	NF-kappa B site
+T26	protein 1007 1015	thrombin
+T27	protein 1030 1040	NF-kappa B
+T28	protein 1050 1060	luciferase
+T29	DNA 1133 1155	plasmid pNF-kappa BLUC
+T30	DNA 1182 1207	consensus NF-kappa B site
+T31	DNA 1228 1267	adenovirus E1B promoter-luciferase gene
+T32	protein 1284 1292	thrombin
+T33	protein 1324 1334	NF-kappa B
+T34	protein 1353 1361	thrombin
+T35	protein 1412 1420	thrombin
+T36	protein 1440 1453	NF-kappa Bp65
+T37	protein 1455 1460	Rel A
+T38	DNA 1476 1491	NF-kappa B site
+T39	DNA 1499 1514	ICAM-1 promoter
+T40	protein 1516 1524	Thrombin
+T41	protein 1599 1611	NH2 terminus
+T42	protein 1641 1651	receptor-1
+T43	protein 1662 1670	thrombin
+T44	protein 1692 1698	ICAM-1
+T45	protein 1736 1744	thrombin
+T46	protein 1767 1773	ICAM-1
+T47	cell_type 1789 1816	polymorphonuclear leukocyte
+T48	protein 1829 1842	NF-kappa Bp65
+T49	DNA 1869 1884	NF-kappa B site
+T50	DNA 1888 1903	ICAM-1 promoter

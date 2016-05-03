@@ -1,0 +1,18 @@
+T1	protein 0 6	NFATc1
+T2	protein 11 17	NFATc2
+T3	protein 85 111	NFAT transcription factors
+T4	protein 225 244	NFAT family members
+T5	protein 246 252	NFATc1
+T6	protein 257 263	NFATc2
+T7	cell_type 341 348	T cells
+T8	protein 488 499	Th cytokine
+T9	protein 512 537	surface effector molecule
+T10	cell_type 588 612	doubly deficient B cells
+T11	protein 675 679	IgG1
+T12	protein 684 687	IgE
+T13	cell_type 700 711	plasma cell
+T14	cell_type 763 770	T cells
+T15	protein 772 778	NFATc1
+T16	protein 783 789	NFATc2
+T17	cell_type 890 897	B cells
+T18	protein 899 904	NFATs

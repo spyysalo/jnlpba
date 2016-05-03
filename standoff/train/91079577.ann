@@ -1,0 +1,17 @@
+T1	protein 13 18	NF-KB
+T2	cell_type 26 34	monocyte
+T3	cell_line 166 193	U937 promonocytic cell line
+T4	cell_type 253 293	purified human monocytes and macrophages
+T5	protein 406 437	cellular transactivation factor
+T6	protein 438 443	NF-KB
+T7	DNA 451 485	double repeat-KB enhancer sequence
+T8	DNA 501 521	long terminal repeat
+T9	cell_line 577 587	U937 cells
+T10	protein 605 610	NF-KB
+T11	cell_type 662 671	monocytes
+T12	cell_type 675 686	macrophages
+T13	protein 701 706	NF-KB
+T14	cell_line 776 786	U937 cells
+T15	protein 829 841	NF-KB factor
+T16	cell_line 1007 1029	monocytic cell lineage
+T17	protein 1106 1111	NF-KB

@@ -1,0 +1,33 @@
+T1	protein 0 4	CD14
+T2	protein 31 53	nuclear factor-kappa B
+T3	protein 101 116	tyrosine kinase
+T4	protein 232 252	macrophage receptors
+T5	protein 375 379	CD14
+T6	protein 383 426	glycosylphosphatidylinositol-linked antigen
+T7	protein 444 466	LPS signaling receptor
+T8	protein 517 521	CD14
+T9	protein 536 556	transmembrane domain
+T10	protein 650 654	CD14
+T11	protein 716 731	tyrosine kinase
+T12	cell_line 809 845	Chinese hamster ovary (CHO)-K1 cells
+T13	protein 934 938	CD14
+T14	protein 940 948	CHO/CD14
+T15	cell_line 1108 1122	CHO/CD14 cells
+T16	protein 1160 1170	NF-kappa B
+T17	protein 1189 1193	CD14
+T18	protein 1243 1253	NF-kappa B
+T19	cell_line 1257 1271	CHO/CD14 cells
+T20	cell_line 1307 1339	murine macrophage-like cell line
+T21	cell_line 1340 1349	RAW 264.7
+T22	protein 1458 1483	proinflammatory cytokines
+T23	protein 1519 1529	NF-kappa B
+T24	protein 1537 1541	CD14
+T25	cell_line 1545 1560	RAW 264.7 cells
+T26	protein 1581 1591	NF-kappa B
+T27	cell_line 1714 1729	RAW 264.7 cells
+T28	cell_line 1809 1823	CHO/CD14 cells
+T29	protein 1918 1928	NF-kappa B
+T30	cell_line 1932 1940	CHO/CD14
+T31	cell_line 1944 1959	RAW 264.7 cells
+T32	cell_line 2028 2043	RAW 264.7 cells
+T33	protein 2104 2108	CD14

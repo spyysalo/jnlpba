@@ -1,0 +1,47 @@
+T1	protein 9 15	p21ras
+T2	cell_type 61 78	activated T cells
+T3	protein 84 104	transcription factor
+T4	protein 106 141	Nuclear Factor of Activated T cells
+T5	protein 143 147	NFAT
+T6	protein 171 177	p21ras
+T7	DNA 217 226	IL-2 gene
+T8	protein 245 251	p21ras
+T9	protein 290 302	/calcineurin
+T10	protein 316 322	p21ras
+T11	protein 353 363	MAP kinase
+T12	protein 364 369	ERK-2
+T13	protein 404 408	NFAT
+T14	protein 435 460	dominant negative MAPKK-1
+T15	protein 470 474	NFAT
+T16	protein 508 515	MAPKK-1
+T17	protein 532 537	ERK-2
+T18	protein 546 566	transcription factor
+T19	protein 567 572	Elk-1
+T20	protein 612 618	p21ras
+T21	protein 645 657	/calcineurin
+T22	protein 676 680	NFAT
+T23	protein 696 720	dominant negative N17Rac
+T24	protein 735 738	TCR
+T25	protein 743 749	p21ras
+T26	protein 764 768	NFAT
+T27	protein 803 808	ERK-2
+T28	DNA 854 871	NFAT binding site
+T29	protein 924 928	NFAT
+T30	protein 939 959	AP-1 family proteins
+T31	protein 978 982	AP-1
+T32	protein 986 992	p21ras
+T33	protein 1007 1012	Rac-1
+T34	protein 1023 1038	Activated Rac-1
+T35	protein 1051 1067	activated p21ras
+T36	protein 1078 1082	AP-1
+T37	protein 1101 1105	NFAT
+T38	protein 1146 1153	MAPKK-1
+T39	protein 1158 1163	Rac-1
+T40	protein 1199 1205	p21ras
+T41	protein 1251 1255	NFAT
+T42	protein 1263 1269	p21ras
+T43	protein 1284 1288	NFAT
+T44	cell_type 1292 1299	T cells
+T45	protein 1381 1388	MAPKK-1
+T46	protein 1388 1394	/ERK-2
+T47	protein 1399 1404	Rac-1

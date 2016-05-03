@@ -1,0 +1,32 @@
+T1	protein 52 90	human C-type lectin leukocyte receptor
+T2	protein 91 99	AIM/CD69
+T3	DNA 139 186	tumor necrosis factor-alpha-responsive elements
+T4	protein 192 216	human activation antigen
+T5	protein 217 221	CD69
+T6	protein 241 273	C-type animal lectin superfamily
+T7	protein 294 322	signal-transmitting receptor
+T8	protein 351 355	CD69
+T9	cell_type 486 499	T-lymphocytes
+T10	protein 654 658	CD69
+T11	cell_type 662 672	leukocytes
+T12	DNA 690 705	promoter region
+T13	protein 713 717	CD69
+T14	DNA 797 815	5'-flanking region
+T15	DNA 823 832	CD69 gene
+T16	DNA 870 882	TATA element
+T17	DNA 883 905	30 base pairs upstream
+T18	DNA 919 948	transcription initiation site
+T19	protein 1002 1023	transcription factors
+T20	protein 1025 1035	NF-kappa B
+T21	protein 1037 1042	Egr-1
+T22	protein 1044 1048	AP-1
+T23	DNA 1134 1178	CD69 promoter-based reporter gene constructs
+T24	cell_line 1182 1192	K562 cells
+T25	DNA 1212 1236	proximal promoter region
+T26	DNA 1281 1301	cis-acting sequences
+T27	DNA 1389 1398	CD69 gene
+T28	protein 1594 1621	tumor necrosis factor-alpha
+T29	protein 1623 1632	TNF-alpha
+T30	protein 1687 1691	CD69
+T31	protein 1795 1799	CD69
+T32	protein 1875 1879	CD69

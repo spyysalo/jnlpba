@@ -1,0 +1,40 @@
+T1	protein 0 13	Interleukin-5
+T2	cell_type 27 44	human eosinophils
+T3	protein 54 74	JAK2 tyrosine kinase
+T4	protein 79 90	Stat1 alpha
+T5	protein 123 132	cytokines
+T6	protein 144 155	interferons
+T7	protein 157 169	interleukins
+T8	protein 175 189	growth factors
+T9	protein 214 225	JAK kinases
+T10	protein 230 296	Stat (Signal transducers and activators of transcription) proteins
+T11	protein 368 381	interleukin-5
+T12	protein 383 387	IL-5
+T13	cell_type 426 443	Human eosinophils
+T14	cell_type 474 486	target cells
+T15	protein 491 495	IL-5
+T16	protein 524 528	IL-5
+T17	cell_type 544 562	primary human cell
+T18	protein 564 568	IL-5
+T19	protein 625 629	JAK2
+T20	protein 641 645	IL-5
+T21	protein 667 688	DNA-binding complexes
+T22	cell_type 725 742	human eosinophils
+T23	DNA 751 789	IL-6/interferon-gamma response element
+T24	DNA 797 812	ICAM-1 promoter
+T25	DNA 814 825	ICAM-1 pIRE
+T26	protein 916 935	DNA-binding complex
+T27	protein 946 957	Stat1 alpha
+T28	protein 989 1010	DNA-binding complexes
+T29	protein 1031 1055	phosphotyrosine antibody
+T30	protein 1057 1061	4G10
+T31	protein 1140 1144	IL-3
+T32	protein 1149 1197	granulocyte-macrophage colony-stimulating factor
+T33	protein 1218 1222	IL-5
+T34	protein 1228 1249	DNA-binding complexes
+T35	cell_type 1253 1270	human eosinophils
+T36	protein 1282 1293	Stat1 alpha
+T37	protein 1359 1363	IL-5
+T38	cell_type 1377 1394	human eosinophils
+T39	protein 1418 1435	JAK kinase family
+T40	protein 1462 1473	Stat family

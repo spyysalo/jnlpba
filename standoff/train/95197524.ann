@@ -1,0 +1,28 @@
+T1	protein 0 5	E2F-1
+T2	protein 12 41	cyclin-like DNA repair enzyme
+T3	protein 43 65	uracil-DNA glycosylase
+T4	protein 139 180	cell cycle-dependent transcription factor
+T5	protein 182 187	E2F-1
+T6	protein 203 209	cyclin
+T7	protein 230 247	DNA repair enzyme
+T8	DNA 248 281	uracil-DNA glycosylase (UDG) gene
+T9	cell_line 285 318	human osteosarcoma (Saos-2) cells
+T10	DNA 364 392	human UDG promoter sequences
+T11	protein 413 418	E2F-1
+T12	DNA 433 445	UDG promoter
+T13	DNA 462 471	E2F sites
+T14	DNA 477 507	major putative downstream site
+T15	protein 512 515	E2F
+T16	DNA 532 542	first exon
+T17	protein 567 584	E2F-1/DP1 complex
+T18	protein 672 700	cyclin-like UDG gene product
+T19	protein 705 708	E2F
+T20	protein 725 728	UDG
+T21	DNA 840 848	elements
+T22	protein 862 865	E2F
+T23	protein 908 911	UDG
+T24	cell_line 915 927	Saos 2 cells
+T25	protein 1173 1176	E2F
+T26	protein 1194 1197	E2F
+T27	protein 1318 1321	UDG
+T28	protein 1325 1328	E2F

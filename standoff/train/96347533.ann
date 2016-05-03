@@ -1,0 +1,42 @@
+T1	protein 19 76	human T-cell lymphotropic virus type 1 tax transactivator
+T2	protein 82 106	transcription factor IIA
+T3	protein 112 123	Tax protein
+T4	protein 180 212	40-kDa transcriptional activator
+T5	protein 301 304	Tax
+T6	protein 362 386	site-specific activators
+T7	protein 387 432	cyclic AMP-responsive element-binding protein
+T8	protein 434 443	NF-kappaB
+T9	protein 449 470	serum response factor
+T10	protein 518 521	Tax
+T11	protein 543 546	Tax
+T12	protein 709 712	Tax
+T13	protein 721 741	transcription factor
+T14	protein 743 748	TFIIA
+T15	protein 757 760	Tax
+T16	protein 792 814	35-kDa (alpha) subunit
+T17	protein 818 823	TFIIA
+T18	protein 910 917	mutants
+T19	protein 942 945	Tax
+T20	protein 947 950	M32
+T21	protein 970 973	M41
+T22	protein 1026 1029	Tax
+T23	protein 1083 1088	TFIIA
+T24	protein 1141 1144	GST
+T25	protein 1205 1210	TFIIA
+T26	protein 1216 1223	GST-Tax
+T27	protein 1278 1307	GST-Tax M32 activation mutant
+T28	cell_line 1380 1415	HTLV-1-infected human T lymphocytes
+T29	protein 1417 1420	Tax
+T30	protein 1425 1430	TFIIA
+T31	protein 1457 1462	TFIIA
+T32	protein 1475 1478	Tax
+T33	protein 1573 1576	Tax
+T34	protein 1630 1635	TFIIA
+T35	cell_type 1666 1685	human T lymphocytes
+T36	DNA 1691 1715	TFIIA expression vectors
+T37	protein 1725 1728	Tax
+T38	DNA 1759 1839	HTLV-1 long terminal repeat-chloramphenicol acetyltransferase reporter construct
+T39	protein 1884 1887	Tax
+T40	protein 1897 1917	transcription factor
+T41	protein 1918 1923	TFIIA
+T42	protein 1943 1946	Tax

@@ -1,0 +1,13 @@
+T1	DNA 24 45	V kappa gene promoter
+T2	DNA 105 125	immunoglobulin genes
+T3	cell_type 129 153	human lymphoid neoplasms
+T4	protein 155 203	Immunoglobulin gene-specific transacting factors
+T5	DNA 277 297	immunoglobulin genes
+T6	cell_type 328 334	B-cell
+T7	DNA 529 563	unrearranged human variable region
+T8	DNA 567 592	immunoglobulin kappa gene
+T9	DNA 594 601	V kappa
+T10	cell_type 794 810	B-cell neoplasms
+T11	cell_type 847 853	B-cell
+T12	DNA 959 980	V kappa gene promoter
+T13	DNA 1204 1224	immunoglobulin genes

@@ -1,0 +1,33 @@
+T1	cell_type 46 67	cytotoxic lymphocytes
+T2	protein 98 116	oncogenic proteins
+T3	protein 404 417	HLA-molecules
+T4	protein 464 482	oncogenic proteins
+T5	protein 517 535	HLA binding motifs
+T6	protein 633 652	anti-HLA antibodies
+T7	cell_type 663 674	lymphocytes
+T8	protein 830 854	EWS/FLI-1 fusion protein
+T9	protein 864 885	mutated K-RAS protein
+T10	protein 917 929	fusion point
+T11	protein 950 961	position 12
+T12	protein 975 988	binding motif
+T13	protein 993 1004	HLA-Cw*0702
+T14	protein 1009 1015	HLA-A3
+T15	protein 1231 1251	beta 2-microglobulin
+T16	protein 1253 1261	beta 2-m
+T17	protein 1330 1349	HLA/peptide complex
+T18	protein 1426 1432	HLA-A3
+T19	protein 1437 1448	HLA-Cw*0702
+T20	protein 1472 1480	beta 2-m
+T21	protein 1510 1525	HLA-A3 molecule
+T22	protein 1567 1578	HLA-Cw*0702
+T23	protein 1652 1658	HLA-A3
+T24	protein 1663 1674	HLA-Cw*0702
+T25	protein 1756 1764	beta 2-m
+T26	protein 1812 1834	HLA-A3/peptide complex
+T27	protein 1881 1892	HLA-Cw*0702
+T28	protein 1901 1909	beta 2-m
+T29	cell_line 2001 2014	CD8+ CTL line
+T30	protein 2070 2084	binding motifs
+T31	cell_type 2339 2363	Antigen Presenting Cells
+T32	cell_type 2365 2368	APC
+T33	protein 2405 2413	beta 2-m

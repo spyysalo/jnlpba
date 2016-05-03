@@ -1,0 +1,27 @@
+T1	protein 71 96	phosphoinositide 3-kinase
+T2	cell_type 144 159	primary B cells
+T3	protein 165 200	NF-kappaB/Rel transcription factors
+T4	protein 313 330	Nuclear NF-kappaB
+T5	cell_type 345 352	B cells
+T6	protein 381 384	BCR
+T7	protein 388 392	CD40
+T8	protein 468 477	NF-kappaB
+T9	protein 614 640	phosphoinositide 3'-kinase
+T10	protein 642 653	PI 3-kinase
+T11	protein 658 661	BCR
+T12	cell_type 721 751	primary murine resting B cells
+T13	protein 802 813	PI 3-kinase
+T14	protein 860 871	PI 3-kinase
+T15	protein 894 897	BCR
+T16	protein 906 915	NF-kappaB
+T17	protein 985 1001	protein kinase C
+T18	protein 1027 1039	IkappaBalpha
+T19	protein 1070 1081	PI 3-kinase
+T20	protein 1113 1122	NF-kappaB
+T21	protein 1148 1160	IkappaBalpha
+T22	protein 1249 1252	BCR
+T23	protein 1261 1273	IkappaBalpha
+T24	protein 1322 1334	IkappaBalpha
+T25	protein 1414 1425	PI 3-kinase
+T26	protein 1495 1504	NF-kappaB
+T27	cell_type 1508 1515	B cells

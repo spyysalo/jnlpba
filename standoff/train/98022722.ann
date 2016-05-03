@@ -1,0 +1,17 @@
+T1	protein 33 41	huGATA-3
+T2	DNA 73 97	GATA regulatory elements
+T3	DNA 101 127	HIV-1 long terminal repeat
+T4	DNA 182 217	transcriptional regulatory elements
+T5	protein 434 452	recovered proteins
+T6	protein 501 513	human GATA-3
+T7	DNA 568 589	natural GATA elements
+T8	DNA 597 623	HIV-1 long terminal repeat
+T9	DNA 625 642	sites 1, 2, and 3
+T10	DNA 671 677	site 2
+T11	DNA 696 705	GATA site
+T12	protein 744 764	recombinant huGATA-3
+T13	DNA 843 854	DNA regions
+T14	DNA 962 971	GATA site
+T15	DNA 1093 1104	GATA site 3
+T16	protein 1235 1243	huGATA-3
+T17	protein 1298 1306	huGATA-3

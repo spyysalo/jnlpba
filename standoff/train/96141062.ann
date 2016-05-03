@@ -1,0 +1,34 @@
+T1	protein 0 14	Thrombopoietin
+T2	protein 51 56	Stat3
+T3	protein 61 66	Stat5
+T4	cell_type 70 91	human blood platelets
+T5	protein 93 107	Thrombopoietin
+T6	protein 218 232	thrombopoietin
+T7	protein 275 279	Jak2
+T8	cell_type 302 317	human platelets
+T9	cell_line 322 332	BaF3 cells
+T10	protein 368 373	c-Mpl
+T11	protein 390 404	thrombopoietin
+T12	protein 424 440	tyrosine kinases
+T13	protein 485 494	cytokines
+T14	protein 498 526	hematopoietic growth factors
+T15	protein 587 591	Stat
+T16	protein 593 643	signal transducers and activators of transcription
+T17	protein 691 704	Stat proteins
+T18	cell_type 720 729	platelets
+T19	protein 801 815	thrombopoietin
+T20	protein 847 852	Stat1
+T21	protein 854 859	Stat2
+T22	protein 861 866	Stat3
+T23	protein 872 877	Stat5
+T24	protein 905 919	Thrombopoietin
+T25	protein 956 961	Stat3
+T26	protein 966 971	Stat5
+T27	protein 988 1002	Thrombopoietin
+T28	protein 1044 1049	Stat3
+T29	protein 1054 1059	Stat5
+T30	cell_line 1063 1075	FDCP-2 cells
+T31	protein 1125 1136	human c-Mpl
+T32	protein 1167 1172	Stat3
+T33	protein 1177 1182	Stat5
+T34	protein 1246 1251	c-Mpl

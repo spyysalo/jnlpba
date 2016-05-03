@@ -1,0 +1,19 @@
+T1	protein 23 26	WT1
+T2	cell_type 30 47	human fibroblasts
+T3	cell_type 52 63	lymphocytes
+T4	DNA 69 97	Wilms' tumor suppressor gene
+T5	protein 100 103	WT1
+T6	protein 269 272	WT1
+T7	cell_type 285 302	human fibroblasts
+T8	cell_line 336 352	fibroblast lines
+T9	DNA 375 394	polymorphic alleles
+T10	protein 571 574	WT1
+T11	cell_type 593 628	non-cultured peripheral lymphocytes
+T12	DNA 711 726	imprinted genes
+T13	DNA 728 732	IGF2
+T14	DNA 737 740	H19
+T15	DNA 745 764	human chromosome 11
+T16	protein 890 893	WT1
+T17	cell_type 897 908	fibroblasts
+T18	cell_type 913 924	lymphocytes
+T19	protein 1077 1080	WT1

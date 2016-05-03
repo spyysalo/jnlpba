@@ -1,0 +1,8 @@
+T1	protein 40 62	T-lymphocyte receptors
+T2	cell_type 105 135	human peripheral T-lymphocytes
+T3	protein 365 378	Interleukin 2
+T4	protein 463 487	glucocorticoid receptors
+T5	protein 507 524	insulin receptors
+T6	cell_type 730 737	T-cells
+T7	cell_line 805 830	hydroxyurea-treated cells
+T8	protein 1017 1056	cell membrane and cytoplasmic receptors

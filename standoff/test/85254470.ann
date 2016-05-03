@@ -1,0 +1,32 @@
+T1	protein 0 22	Interleukin 2 receptor
+T2	protein 24 35	Tac antigen
+T3	cell_type 75 81	T-cell
+T4	protein 92 105	Interleukin-2
+T5	protein 107 111	IL-2
+T6	protein 118 128	lymphokine
+T7	cell_type 149 156	T-cells
+T8	cell_type 187 194	T-cells
+T9	protein 210 224	IL-2 receptors
+T10	cell_type 265 272	T-cells
+T11	protein 321 342	monoclonal antibodies
+T12	protein 352 392	antigen-specific T-cell receptor complex
+T13	protein 400 408	anti-Tac
+T14	protein 412 431	monoclonal antibody
+T15	protein 452 465	IL-2 receptor
+T16	cell_type 618 625	T-cells
+T17	cell_line 635 662	leukemic T-cell populations
+T18	protein 678 692	IL-2 receptors
+T19	cell_type 707 721	leukemic cells
+T20	protein 837 848	Tac antigen
+T21	cell_type 853 901	human T-cell lymphotropic virus-I infected cells
+T22	protein 922 948	open reading frame protein
+T23	DNA 972 981	pX region
+T24	protein 1009 1046	transacting transcriptional activator
+T25	DNA 1060 1078	IL-2 receptor gene
+T26	protein 1156 1169	IL-2 receptor
+T27	cell_type 1233 1247	lymphoid cells
+T28	protein 1293 1307	IL-2 receptors
+T29	cell_type 1376 1403	adult T-cell leukemia cells
+T30	protein 1485 1493	anti-Tac
+T31	protein 1601 1620	monoclonal antibody
+T32	protein 1642 1664	growth factor receptor

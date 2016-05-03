@@ -1,0 +1,28 @@
+T1	protein 0 26	Platelet-activating factor
+T2	protein 28 31	PAF
+T3	protein 77 108	human PAF receptor transcript 1
+T4	protein 134 144	NF-kappa B
+T5	DNA 150 203	human platelet-activating factor receptor (PAFR) gene
+T6	DNA 235 244	promoters
+T7	DNA 246 256	promoter 1
+T8	DNA 261 271	promoter 2
+T9	RNA 316 333	PAFR transcript 1
+T10	RNA 338 355	PAFR transcript 2
+T11	RNA 496 513	PAFR transcript 1
+T12	RNA 540 557	PAFR transcript 2
+T13	protein 592 595	PAF
+T14	cell_line 660 690	human stomach cancer cell line
+T15	cell_line 692 703	JR-St cells
+T16	RNA 737 754	PAFR transcript 1
+T17	RNA 759 776	PAFR transcript 2
+T18	DNA 818 828	promoter 1
+T19	DNA 869 913	chloramphenicol acetyltransferase (CAT) gene
+T20	protein 945 948	PAF
+T21	DNA 971 981	promoter 1
+T22	DNA 1029 1052	consensus binding sites
+T23	protein 1057 1067	NF-kappa B
+T24	protein 1172 1176	PAFR
+T25	protein 1196 1199	PAF
+T26	protein 1208 1218	NF-kappa B
+T27	protein 1269 1285	protein kinase C
+T28	protein 1289 1292	PAF

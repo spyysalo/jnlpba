@@ -1,0 +1,19 @@
+T1	cell_line 70 102	chronically infected T cell line
+T2	cell_line 104 119	J delta K cells
+T3	cell_line 139 178	chronically infected survivor cell line
+T4	cell_line 203 222	Jurkat CD4+ T cells
+T5	DNA 328 348	long terminal repeat
+T6	DNA 350 353	LTR
+T7	protein 355 365	NF-kappa B
+T8	cell_line 373 388	J delta K cells
+T9	cell_line 483 498	J delta K cells
+T10	protein 619 646	tumor necrosis factor alpha
+T11	protein 648 657	TNF-alpha
+T12	protein 683 693	NF-kappa B
+T13	protein 707 716	TNF-alpha
+T14	cell_line 806 821	J delta K cells
+T15	protein 860 870	NF-kappa B
+T16	cell_type 915 941	chronically infected cells
+T17	cell_line 943 958	J delta K cells
+T18	protein 1005 1015	NF-kappa B
+T19	DNA 1062 1069	HIV LTR

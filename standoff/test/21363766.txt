@@ -1,0 +1,9 @@
+Suppression of tumor necrosis factor alpha production by cAMP in human monocytes: dissociation with mRNA level and independent of interleukin-10.
+BACKGROUND:
+Elevation of cellular cAMP inhibits lipopolysaccharide(LPS)-stimulated tumor necrosis factor alpha (TNF-alpha) production and increases the expression of interleukin (IL)-10 in mononuclear cells. TNF-alpha gene expression obligates activation of the transcription factor nuclear factor kappaB (NF-kappaB). Exogenous IL-10 inhibits NF-kappaB in monocytes and thus attenuates TNF-alpha production. We examined the role of endogenous IL-10 in the regulation of NF-kappaB activation and TNF-alpha production in human monocytes by cAMP.
+METHODS:
+Human monocytes were stimulated with Escherichia coli LPS (100 ng/ml) with and without forskolin (FSK, 50 microM) or dibutyryl cyclic AMP (dbcAMP, 100 microM). Cytokine (TNF-alpha and IL-10) release was measured by immunoassay. TNF-alpha mRNA was measured by reverse transcription polymerase chain reaction, and NF-kappaB DNA binding activity was assessed by gel mobility shift assay.
+RESULTS:
+cAMP-elevating agents inhibited LPS-stimulated TNF-alpha release (0.77 +/- 0.13 ng/10(6) cells in LPS + dbcAMP and 0.68 +/- 0.19 ng/10(6) cells in LPS + FSK, both P < 0.05 vs 1.61 +/- 0.34 ng/10(6) cells in LPS alone). Conversely, cAMP enhanced LPS-stimulated IL-10 release (100 +/- 21.5 pg/10(6) cells in LPS + dbcAMP and 110 +/- 25.2 pg/10(6) cells in LPS + FSK, both P < 0.05 vs 53.3 +/- 12.8 pg/10(6) cells in LPS alone). Neither TNF-alpha mRNA expression nor NF-kappaB activation stimulated by LPS was inhibited by the cAMP-elevating agents. Neutralization of IL-10 with a specific antibody did not attenuate the effect of cAMP-elevating agents on TNF-alpha production.
+CONCLUSION:
+The results indicate that cAMP inhibits LPS-stimulated TNF-alpha production through a posttranscriptional mechanism that is independent of endogenous IL-10. Copyright 2001 Academic Press.

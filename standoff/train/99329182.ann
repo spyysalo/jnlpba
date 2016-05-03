@@ -1,0 +1,22 @@
+T1	protein 37 43	HLA-DR
+T2	protein 107 123	gamma interferon
+T3	protein 132 155	class II transactivator
+T4	protein 358 367	IFN-gamma
+T5	protein 377 383	HLA-DR
+T6	cell_line 398 423	U373 MG astrocytoma cells
+T7	protein 454 459	STAT1
+T8	DNA 542 547	CIITA
+T9	protein 603 612	IFN-gamma
+T10	protein 661 667	HLA-DR
+T11	protein 735 764	major immediate-early protein
+T12	protein 765 768	IE1
+T13	cell_line 781 801	CD4(+) T-cell clones
+T14	cell_line 807 820	U373 MG cells
+T15	cell_type 830 854	antigen-presenting cells
+T16	protein 873 882	IFN-gamma
+T17	protein 944 947	IE1
+T18	cell_line 969 982	U373 MG cells
+T19	DNA 1004 1009	CIITA
+T20	DNA 1135 1164	IFN-gamma-responsive promoter
+T21	DNA 1168 1173	CIITA
+T22	DNA 1232 1237	CIITA

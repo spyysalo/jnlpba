@@ -1,0 +1,16 @@
+T1	DNA 16 26	GATA motif
+T2	DNA 34 53	Duffy gene promoter
+T3	DNA 64 78	erythroid gene
+T4	RNA 125 129	mRNA
+T5	protein 138 163	Duffy blood group antigen
+T6	protein 169 189	erythrocyte receptor
+T7	protein 297 315	chemokine receptor
+T8	DNA 340 377	Duffy antigen/chemokine receptor gene
+T9	DNA 379 383	DARC
+T10	DNA 409 413	exon
+T11	DNA 458 476	silent FY*B allele
+T12	cell_type 577 592	erythroid cells
+T13	DNA 609 621	binding site
+T14	protein 630 666	GATA1 erythroid transcription factor
+T15	DNA 708 729	FY*A and FY*B alleles
+T16	DNA 870 879	DARC gene

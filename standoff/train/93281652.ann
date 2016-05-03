@@ -1,0 +1,41 @@
+T1	protein 30 40	lymphokine
+T2	cell_type 141 154	T lymphocytes
+T3	DNA 250 266	lymphokine genes
+T4	DNA 280 283	IL2
+T5	DNA 285 288	IL3
+T6	DNA 290 293	IL4
+T7	DNA 299 302	IL5
+T8	protein 317 329	interleukins
+T9	protein 346 350	IL-2
+T10	protein 352 354	-3
+T11	protein 356 358	-4
+T12	protein 364 366	-5
+T13	cell_type 418 431	T lymphocytes
+T14	protein 443 462	trans-acting factor
+T15	DNA 486 502	lymphokine genes
+T16	protein 531 546	nuclear factors
+T17	cell_type 566 579	T lymphocytes
+T18	DNA 621 638	regulatory region
+T19	DNA 642 645	IL2
+T20	protein 647 667	Nuclear factor NF-kB
+T21	protein 669 689	activation protein 1
+T22	protein 691 695	AP-1
+T23	protein 698 703	OCT-1
+T24	protein 709 717	NF-IL-2B
+T25	protein 780 815	nuclear factor of activated T cells
+T26	protein 817 822	NF-AT
+T27	DNA 855 867	IL2 enhancer
+T28	DNA 878 905	NF-AT-like response element
+T29	DNA 921 933	IL4 enhancer
+T30	protein 982 987	NF-AT
+T31	cell_type 1077 1090	T lymphocytes
+T32	protein 1145 1179	chloramphenicol acetyl transferase
+T33	protein 1181 1184	CAT
+T34	DNA 1218 1239	IL2 regulatory region
+T35	DNA 1270 1288	enhancer sequences
+T36	DNA 1321 1342	IL2 regulatory region
+T37	DNA 1367 1385	NF-AT-binding site
+T38	DNA 1455 1463	CAT gene
+T39	DNA 1505 1541	OCT-1 proximal (OCT-1p)-binding site
+T40	protein 1643 1648	NF-AT
+T41	protein 1675 1685	lymphokine

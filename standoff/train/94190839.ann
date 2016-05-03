@@ -1,0 +1,19 @@
+T1	protein 0 22	Androgen binding sites
+T2	cell_type 26 65	peripheral human mononuclear leukocytes
+T3	protein 96 118	Androgen binding sites
+T4	cell_type 143 183	circulating human mononuclear leukocytes
+T5	protein 473 486	binding sites
+T6	protein 529 550	steroid binding sites
+T7	protein 592 610	androgen receptors
+T8	cell_type 616 639	genital skin fibroblast
+T9	protein 677 690	binding sites
+T10	protein 805 818	binding sites
+T11	protein 1138 1151	binding sites
+T12	protein 1277 1295	androgen receptors
+T13	cell_type 1299 1332	peripheral mononuclear leukocytes
+T14	cell_type 1354 1378	genital skin fibroblasts
+T15	protein 1460 1482	androgen binding sites
+T16	protein 1523 1545	androgen binding sites
+T17	protein 1676 1694	androgen receptors
+T18	cell_type 1698 1731	peripheral mononuclear leukocytes
+T19	cell_type 1854 1882	mature immunocompetent cells

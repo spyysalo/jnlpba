@@ -1,0 +1,22 @@
+T1	protein 25 52	T-cell transcription factor
+T2	cell_type 228 241	T lymphocytes
+T3	protein 318 341	T-cell antigen receptor
+T4	DNA 345 359	cytokine genes
+T5	protein 401 433	putative intracellular receptors
+T6	protein 522 531	isomerase
+T7	protein 572 581	isomerase
+T8	cell_line 609 638	cyclosporin-resistant mutants
+T9	protein 717 735	inhibitory complex
+T10	protein 757 766	isomerase
+T11	protein 795 804	isomerase
+T12	protein 817 837	transcription factor
+T13	protein 839 844	NF-AT
+T14	cell_type 1024 1031	T cells
+T15	protein 1092 1113	transcription factors
+T16	protein 1122 1126	AP-1
+T17	protein 1131 1141	NF-kappa B
+T18	protein 1168 1173	NF-AT
+T19	protein 1207 1223	antigen receptor
+T20	protein 1353 1358	NF-AT
+T21	protein 1411 1432	cytoplasmic component
+T22	protein 1468 1483	nuclear subunit

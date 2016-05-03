@@ -1,0 +1,29 @@
+T1	DNA 31 40	IL-2 gene
+T2	protein 83 88	c-Fos
+T3	protein 90 94	FosB
+T4	protein 100 104	JunB
+T5	cell_line 108 132	anergic T helper 1 cells
+T6	cell_line 134 155	Anergic CD4+ Th cells
+T7	protein 171 175	IL-2
+T8	cell_line 197 222	Ag-pulsed accessory cells
+T9	cell_line 295 310	anergic T cells
+T10	DNA 409 435	IL-2 DNA enhancer elements
+T11	protein 437 442	NF-AT
+T12	protein 444 479	nuclear factor of activated T cells
+T13	protein 505 555	heterotrimeric NFATp, Fos, and Jun protein complex
+T14	protein 561 580	Activator Protein-1
+T15	protein 582 586	AP-1
+T16	protein 600 624	Fos and Jun heterodimers
+T17	cell_line 722 737	anergic T cells
+T18	protein 792 796	AP-1
+T19	protein 812 817	c-Fos
+T20	protein 819 823	FosB
+T21	protein 829 833	JunB
+T22	protein 916 923	TCR/CD3
+T23	protein 949 952	CD3
+T24	protein 1045 1050	NFATp
+T25	cell_type 1124 1130	normal
+T26	cell_line 1135 1150	anergic T cells
+T27	DNA 1168 1177	IL-2 gene
+T28	protein 1275 1306	AP-1 Fos and Jun family members
+T29	cell_line 1310 1325	anergic T cells

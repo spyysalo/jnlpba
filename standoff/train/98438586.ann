@@ -1,0 +1,29 @@
+T1	DNA 4 52	interleukin 2 receptor alpha chain/CD25 promoter
+T2	protein 69 104	nuclear factor of activated T cells
+T3	protein 128 179	murine interleukin (IL)-2 receptor alpha chain/CD25
+T4	protein 272 322	nuclear factor of activated T cell (NF-AT) factors
+T5	DNA 354 367	CD25 promoter
+T6	cell_type 381 388	T cells
+T7	protein 390 396	NF-ATp
+T8	protein 401 407	NF-ATc
+T9	DNA 433 456	positions -585 and -650
+T10	DNA 481 503	proximal CD25 promoter
+T11	DNA 531 543	NF-AT motifs
+T12	DNA 545 563	nonconsensus sites
+T13	protein 595 612	AP-1-like factors
+T14	protein 647 652	NF-AT
+T15	protein 693 699	NF-ATp
+T16	DNA 732 745	CD25 promoter
+T17	cell_type 749 756	T cells
+T18	cell_type 761 774	T lymphocytes
+T19	protein 780 786	NF-ATp
+T20	protein 821 825	CD25
+T21	protein 869 882	IL-2 receptor
+T22	protein 917 920	TCR
+T23	protein 922 925	CD3
+T24	protein 979 984	NF-AT
+T25	protein 1015 1043	high affinity IL-2 receptors
+T26	protein 1073 1076	TCR
+T27	protein 1099 1103	IL-2
+T28	DNA 1108 1143	IL-2 receptor alpha chain promoters
+T29	protein 1176 1189	NF-AT factors

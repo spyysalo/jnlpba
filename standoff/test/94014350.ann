@@ -1,0 +1,23 @@
+T1	cell_type 34 47	human T cells
+T2	protein 120 133	IL-2 receptor
+T3	protein 150 154	IL-2
+T4	protein 164 203	high affinity membrane receptor complex
+T5	protein 205 210	IL-2R
+T6	cell_type 233 246	T lymphocytes
+T7	protein 331 335	IL-2
+T8	protein 444 448	IL-2
+T9	protein 491 496	IL-2R
+T10	cell_type 498 528	Human peripheral blood T cells
+T11	cell_line 560 570	PMA blasts
+T12	protein 593 597	IL-2
+T13	cell_line 728 738	PMA blasts
+T14	protein 816 844	IL-2R alpha- and beta-chains
+T15	protein 955 972	125I-labeled IL-2
+T16	protein 1019 1023	IL-2
+T17	protein 1213 1235	intracellular proteins
+T18	protein 1273 1303	retinoblastoma gene product Rb
+T19	cell_line 1431 1441	PMA blasts
+T20	protein 1446 1451	NF-kB
+T21	cell_type 1465 1486	resting human T cells
+T22	cell_line 1570 1590	preactivated T cells
+T23	protein 1638 1643	IL-2R

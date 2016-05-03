@@ -1,0 +1,17 @@
+T1	protein 40 80	doxepin-sensitive H1-histamine receptors
+T2	cell_line 84 96	Jurkat cells
+T3	cell_line 98 124	cloned human T lymphocytes
+T4	protein 153 171	histamine receptor
+T5	cell_type 207 226	human T lymphocytes
+T6	protein 286 304	histamine receptor
+T7	RNA 411 421	c-fos mRNA
+T8	cell_line 436 448	Jurkat cells
+T9	cell_type 457 476	human T lymphocytes
+T10	protein 998 1018	GTP-binding proteins
+T11	protein 1034 1040	Gq/G11
+T12	cell_line 1059 1071	Jurkat cells
+T13	RNA 1091 1095	mRNA
+T14	DNA 1113 1133	immediate early gene
+T15	DNA 1134 1139	c-fos
+T16	protein 1161 1177	protein kinase C
+T17	protein 1326 1366	cAMP- and cGMP-dependent protein kinases

@@ -1,0 +1,32 @@
+T1	protein 36 48	beta subunit
+T2	protein 52 112	human proximal sequence element-binding transcription factor
+T3	DNA 153 176	small nuclear RNA genes
+T4	protein 180 206	RNA polymerases II and III
+T5	protein 212 272	proximal sequence element (PSE)-binding transcription factor
+T6	protein 274 277	PTF
+T7	DNA 296 299	PSE
+T8	DNA 308 403	RNA polymerase II- and RNA polymerase III-transcribed mammalian small nuclear RNA (snRNA) genes
+T9	protein 486 495	human PTF
+T10	protein 510 523	four subunits
+T11	protein 575 603	PTF gamma and delta subunits
+T12	DNA 656 660	cDNA
+T13	protein 670 678	PTF beta
+T14	protein 716 740	anti-PTF beta antibodies
+T15	protein 749 757	PTF beta
+T16	protein 792 813	PTF-Oct-1-DNA complex
+T17	protein 836 857	polyclonal antibodies
+T18	protein 873 893	recombinant PTF beta
+T19	protein 929 937	PTF beta
+T20	DNA 987 998	snRNA genes
+T21	protein 1109 1129	TATA-binding protein
+T22	protein 1131 1134	TBP
+T23	protein 1140 1148	TFIIIB90
+T24	protein 1175 1178	PTF
+T25	protein 1353 1372	PTF gamma/PTF delta
+T26	protein 1377 1380	TBP
+T27	protein 1404 1412	TFIIIB90
+T28	DNA 1437 1458	class III snRNA genes
+T29	protein 1512 1534	TBP-containing complex
+T30	protein 1546 1552	TFIIIB
+T31	DNA 1590 1611	class III snRNA genes
+T32	protein 1656 1672	four-subunit PTF

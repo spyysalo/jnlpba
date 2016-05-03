@@ -1,0 +1,27 @@
+T1	protein 0 24	Glucocorticoid receptors
+T2	cell_type 59 79	human leukemic cells
+T3	protein 143 167	glucocorticoid receptors
+T4	protein 169 171	GR
+T5	cell_type 176 193	human white cells
+T6	protein 305 307	GR
+T7	cell_type 319 343	normal human lymphocytes
+T8	cell_type 351 365	leukemic cells
+T9	cell_line 440 459	leukemia cell lines
+T10	protein 509 511	GR
+T11	cell_line 581 591	cell lines
+T12	protein 633 635	GR
+T13	cell_type 647 671	normal human lymphocytes
+T14	protein 827 829	GR
+T15	protein 1059 1061	GR
+T16	cell_type 1077 1088	blast cells
+T17	cell_type 1290 1301	lymphocytes
+T18	protein 1376 1378	GR
+T19	cell_type 1451 1469	normal lymphocytes
+T20	protein 1471 1473	GR
+T21	cell_line 1503 1540	malignant continuous white cell lines
+T22	protein 1577 1579	GR
+T23	protein 1649 1651	GR
+T24	cell_line 1820 1839	leukemic cell lines
+T25	protein 1862 1864	GR
+T26	protein 1913 1915	GR
+T27	cell_type 1955 1969	leukemic cells

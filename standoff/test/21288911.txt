@@ -1,0 +1,15 @@
+Inhaled nitric oxide down-regulates intrapulmonary nitric oxide production in lipopolysaccharide-induced acute lung injury.
+OBJECTIVE:
+To examine whether inhaled nitric oxide (NO) affected the intrapulmonary production of NO, reactive oxygen species, and nuclear factor-kappaB in a lipopolysaccharide (LPS)-induced model of acute lung injury.
+DESIGN:
+Prospective, randomized, laboratory study.
+SETTING:
+Experimental laboratory at a biomedical institute.
+SUBJECTS:
+Twenty male rabbits weighing 2.5-3.5 kg.
+INTERVENTIONS:
+Saline or LPS (5 mg/kg of body weight) was administered intravenously with or without NO inhalation (10 ppm) in each group of five rabbits.
+MEASUREMENTS AND MAIN RESULTS:
+LPS increased the lung leak index, the neutrophils and NO levels in bronchoalveolar lavage fluid, and NO levels produced by resting and stimulated alveolar macrophages. Inhaled NO decreased the lung leak index, the neutrophils and NO levels as measured by nitrite levels in the lavage fluid, and NO produced by the resting and stimulated alveolar macrophages. Inhaled NO also blocked the activities of reactive oxygen species and nuclear factor-kappaB binding to DNA in lavage cells and in alveolar macrophages.
+CONCLUSION:
+Inhaled NO attenuates LPS-induced acute lung injury, possibly by decreasing NO production in the lungs. The mechanism of reducing NO production resulting from inhaled NO may involve, in part, the activities of reactive oxygen species and/or nuclear factor-kappaB.

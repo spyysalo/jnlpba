@@ -1,0 +1,25 @@
+T1	protein 19 29	NF-kappa B
+T2	protein 44 59	I kappa B alpha
+T3	protein 65 85	transcription factor
+T4	protein 86 96	NF-kappa B
+T5	protein 146 179	inhibitor protein I kappa B alpha
+T6	protein 229 244	I kappa B alpha
+T7	protein 277 294	active NF-kappa B
+T8	cell_type 371 387	B or pre-B cells
+T9	protein 407 422	I kappa B alpha
+T10	protein 428 448	NF-kappa B complexes
+T11	protein 473 490	NF-kappa B dimers
+T12	protein 528 533	c-rel
+T13	protein 611 627	liberated dimers
+T14	protein 706 721	I kappa B alpha
+T15	protein 919 934	I kappa B alpha
+T16	protein 946 951	c-rel
+T17	protein 955 958	p65
+T18	protein 1003 1007	p105
+T19	protein 1011 1015	p100
+T20	protein 1035 1053	rel family members
+T21	cell_type 1114 1132	unstimulated cells
+T22	protein 1203 1228	complexed I kappa B alpha
+T23	protein 1288 1305	active NF-kappa B
+T24	protein 1397 1412	I kappa B alpha
+T25	protein 1446 1456	NF-kappa B

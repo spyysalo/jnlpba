@@ -1,0 +1,34 @@
+T1	protein 0 3	CD2
+T2	protein 42 46	CREB
+T3	cell_type 50 69	primary lymphocytes
+T4	DNA 147 161	cellular genes
+T5	protein 172 193	transcription factors
+T6	protein 201 238	cAMP response element binding protein
+T7	protein 240 294	CREB)/activating transcription factor-1 (ATF-1) family
+T8	DNA 363 384	cAMP response element
+T9	DNA 386 389	CRE
+T10	DNA 507 521	viral promoter
+T11	protein 741 745	CREB
+T12	protein 774 777	CD2
+T13	protein 782 794	CD3 receptor
+T14	cell_type 818 866	primary human peripheral blood mononuclear cells
+T15	cell_type 868 872	PBMC
+T16	protein 875 878	CD2
+T17	protein 888 891	CD3
+T18	protein 1012 1015	CD2
+T19	protein 1072 1076	CREB
+T20	protein 1192 1196	CREB
+T21	protein 1238 1242	CREB
+T22	protein 1372 1396	protein tyrosine kinases
+T23	protein 1398 1401	PTK
+T24	protein 1407 1423	protein kinase A
+T25	protein 1425 1428	PKA
+T26	protein 1436 1439	CD2
+T27	protein 1444 1447	CD3
+T28	protein 1483 1499	nuclear proteins
+T29	protein 1677 1681	CREB
+T30	protein 1744 1761	CREB/ATF-1 family
+T31	protein 1765 1786	transcription factors
+T32	protein 1794 1797	CD2
+T33	protein 1829 1832	CD2
+T34	DNA 1856 1859	CRE

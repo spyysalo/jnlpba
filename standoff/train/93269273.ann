@@ -1,0 +1,22 @@
+T1	protein 109 129	DNA-binding proteins
+T2	protein 253 268	CD3/TCR complex
+T3	protein 278 289	CD2 antigen
+T4	cell_type 322 342	normal human T cells
+T5	DNA 422 431	IL-2 gene
+T6	protein 579 599	DNA-binding proteins
+T7	cell_type 619 639	normal human T cells
+T8	protein 657 660	CD3
+T9	protein 668 680	CD2 proteins
+T10	cell_type 723 730	T cells
+T11	protein 820 844	nuclear binding proteins
+T12	DNA 868 922	interleukin-2 sequence specific oligonucleotide probes
+T13	protein 1016 1019	CD3
+T14	protein 1048 1059	CD2 antigen
+T15	protein 1121 1142	transcription factors
+T16	DNA 1160 1189	NF-AT1, AP-1, and NF-kB sites
+T17	DNA 1205 1229	promoter/enhancer region
+T18	protein 1237 1241	IL-2
+T19	protein 1377 1397	DNA-binding proteins
+T20	cell_type 1401 1421	normal human T cells
+T21	cell_type 1514 1521	T cells
+T22	protein 1587 1603	protein kinase C

@@ -1,0 +1,18 @@
+T1	cell_type 52 68	infected T cells
+T2	cell_type 296 303	T cells
+T3	protein 465 485	transcription factor
+T4	protein 486 495	NF-kappaB
+T5	protein 545 567	cytoplasmic inhibitors
+T6	protein 600 609	NF-kappaB
+T7	cell_type 624 647	T. parva-infected cells
+T8	DNA 731 740	oncogenes
+T9	protein 954 963	NF-kappaB
+T10	cell_type 1015 1043	T. parva-transformed T cells
+T11	protein 1175 1184	NF-kappaB
+T12	protein 1229 1253	dominant negative mutant
+T13	protein 1281 1290	NF-kappaB
+T14	protein 1319 1331	IkappaBalpha
+T15	protein 1335 1338	p65
+T16	cell_type 1366 1394	T. parva-transformed T cells
+T17	protein 1519 1528	NF-kappaB
+T18	cell_type 1609 1623	infected cells

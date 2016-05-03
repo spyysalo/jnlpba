@@ -1,0 +1,15 @@
+T1	protein 14 35	tumor necrosis factor
+T2	protein 122 125	TNF
+T3	protein 140 149	cytokines
+T4	cell_line 226 236	cell lines
+T5	protein 309 312	TNF
+T6	cell_line 350 360	cell lines
+T7	protein 409 412	TNF
+T8	cell_line 445 455	cell lines
+T9	protein 500 518	cytotoxic proteins
+T10	cell_line 531 540	LAK cells
+T11	protein 563 566	TNF
+T12	protein 626 646	transcription factor
+T13	protein 647 656	NF-kappaB
+T14	cell_type 756 767	tumor cells
+T15	cell_line 793 802	LAK cells

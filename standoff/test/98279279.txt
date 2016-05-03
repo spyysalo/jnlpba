@@ -1,0 +1,11 @@
+Activation of nuclear factor kappa B inflammatory bowel disease. [see comments]
+BACKGROUND:
+Expression of pro-inflammatory cytokines is increased in the intestinal lamina propria of patients with inflammatory bowel disease (IBD). Nuclear factor kappa B (NF kappa B) controls transcription of inflammation genes. On activation, NF kappa B is rapidly released from its cytoplasmic inhibitor (I kappa B), transmigrates into the nucleus, and binds to DNA response elements in gene promoter regions.
+AIMS:
+To investigate whether increased activation of NF kappa B is important in IBD and may be down-regulated by anti-inflammatory treatment.
+METHODS:
+Activation of NF kappa B was determined by western blot assessment and electrophoretic mobility shift assay in nuclear extracts of colonic biopsy samples as well as lamina propria mononuclear cells.
+RESULTS:
+Nuclear levels of NF kappa B p65 are increased in lamina propria biopsy specimens from patients with Crohn's disease in comparison with patients with ulcerative colitis and controls. Increased activation of NF kappa B was detected in lamina propria mononuclear cells from patients with active IBD. Corticosteroids strongly inhibit intestinal NF kappa B activation in IBD in vivo and in vitro by stabilising the cytosolic inhibitor I kappa B alpha against activation induced degradation.
+CONCLUSIONS:
+In both IBDs, but particularly Crohn's disease, increased activation of NF kappa B may be involved in the regulation of the inflammatory response. Inhibition of NF kappa B activation may represent a mechanism by which steroids exert an anti-inflammatory effect in IBD.

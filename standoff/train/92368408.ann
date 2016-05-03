@@ -1,0 +1,24 @@
+T1	DNA 0 27	SRC-related proto-oncogenes
+T2	protein 32 53	transcription factors
+T3	cell_type 65 78	human T cells
+T4	cell_type 133 146	T lymphocytes
+T5	DNA 172 177	genes
+T6	protein 191 202	lymphokines
+T7	DNA 204 229	Interleukin-2 (IL-2) gene
+T8	protein 313 337	trans-activating factors
+T9	DNA 355 368	IL-2 enhancer
+T10	protein 426 430	IL-2
+T11	cell_type 434 447	T lymphocytes
+T12	DNA 500 515	src gene family
+T13	protein 521 564	lymphocyte-specific protein tyrosine kinase
+T14	protein 566 572	p56lck
+T15	protein 597 601	IL-2
+T16	protein 643 646	lck
+T17	DNA 688 696	lck gene
+T18	DNA 804 809	NF-AT
+T19	DNA 814 824	AP-1 sites
+T20	DNA 832 845	IL-2 enhancer
+T21	protein 870 875	NF-AT
+T22	protein 880 884	AP-1
+T23	protein 931 935	IL-2
+T24	protein 1055 1079	trans-activating factors

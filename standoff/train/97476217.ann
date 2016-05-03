@@ -1,0 +1,23 @@
+T1	protein 99 112	interleukin-2
+T2	protein 157 173	protein kinase C
+T3	cell_type 261 272	neutrophils
+T4	protein 364 380	protein kinase C
+T5	protein 382 385	PKC
+T6	protein 391 394	PKC
+T7	cell_type 439 474	elicited rat peritoneal neutrophils
+T8	cell_line 479 499	human Jurkat T cells
+T9	protein 677 680	PKC
+T10	protein 842 845	PKC
+T11	cell_line 873 898	NH2Cl-treated neutrophils
+T12	protein 925 928	PKC
+T13	protein 975 989	47-kDa protein
+T14	protein 1016 1032	cytosolic factor
+T15	protein 1036 1049	NADPH oxidase
+T16	protein 1051 1060	p47(phox)
+T17	cell_line 1062 1076	Jurkat T cells
+T18	protein 1157 1170	interleukin-2
+T19	protein 1171 1191	receptor alpha chain
+T20	protein 1267 1270	PKC
+T21	protein 1313 1319	kappaB
+T22	protein 1408 1411	PKC
+T23	protein 1476 1479	PKC

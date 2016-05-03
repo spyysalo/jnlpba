@@ -1,0 +1,26 @@
+T1	protein 26 30	Pax5
+T2	DNA 73 92	mammalian Pax genes
+T3	DNA 128 143	mammalian genes
+T4	DNA 170 177	alleles
+T5	DNA 279 285	allele
+T6	DNA 326 342	wild-type allele
+T7	DNA 446 458	mouse genome
+T8	DNA 753 772	mammalian Pax genes
+T9	DNA 892 901	Pax5 gene
+T10	DNA 916 922	allele
+T11	protein 970 974	Pax5
+T12	DNA 1029 1036	alleles
+T13	cell_type 1040 1068	early B-lymphoid progenitors
+T14	cell_type 1073 1087	mature B cells
+T15	cell_type 1159 1185	pre-B and immature B cells
+T16	DNA 1266 1272	allele
+T17	protein 1303 1307	Pax5
+T18	cell_type 1341 1354	B lymphocytes
+T19	DNA 1375 1388	mutant allele
+T20	DNA 1394 1400	allele
+T21	protein 1424 1428	Pax5
+T22	DNA 1557 1566	Pax genes
+T23	DNA 1653 1672	mammalian Pax genes
+T24	DNA 1717 1723	allele
+T25	protein 1747 1751	Pax5
+T26	DNA 1900 1919	hematopoietic genes

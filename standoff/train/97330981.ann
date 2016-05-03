@@ -1,0 +1,18 @@
+T1	DNA 38 51	cytokine gene
+T2	protein 75 98	arteritis-SCID chimeras
+T3	cell_line 756 785	temporal artery-SCID chimeras
+T4	RNA 912 941	IL-2, IL-1beta, and IL-6 mRNA
+T5	protein 989 1000	NO synthase
+T6	RNA 1028 1042	IFN-gamma mRNA
+T7	protein 1090 1099	TGF-beta1
+T8	DNA 1165 1182	IkappaBalpha gene
+T9	protein 1228 1236	NFkappaB
+T10	protein 1389 1397	NFkappaB
+T11	protein 1407 1415	cytokine
+T12	protein 1504 1519	T cell products
+T13	protein 1520 1524	IL-2
+T14	protein 1529 1538	IFN-gamma
+T15	cell_type 1566 1597	tissue-infiltrating macrophages
+T16	protein 1627 1635	IL-1beta
+T17	RNA 1678 1692	TGF-beta1 mRNA
+T18	cell_type 1745 1779	TGF-beta1-transcribing macrophages

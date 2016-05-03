@@ -1,0 +1,26 @@
+T1	protein 0 14	Thrombopoietin
+T2	protein 85 90	c-Mpl
+T3	cell_line 96 120	human leukemia cell line
+T4	protein 122 136	Thrombopoietin
+T5	protein 138 141	TPO
+T6	cell_line 238 246	UT-7/GMT
+T7	cell_line 257 289	human leukemia cell line UT-7/GM
+T8	cell_line 362 375	UT-7/GM cells
+T9	protein 399 409	hemoglobin
+T10	protein 411 413	Hb
+T11	protein 441 444	TPO
+T12	cell_line 463 489	TPO-treated UT-7/GMT cells
+T13	protein 513 515	Hb
+T14	cell_line 523 537	UT-7/GMT cells
+T15	protein 555 558	TPO
+T16	protein 587 590	TPO
+T17	protein 631 634	TPO
+T18	protein 656 685	erythropoietin (EPO) receptor
+T19	protein 720 723	TPO
+T20	protein 728 731	EPO
+T21	protein 747 759	EPO receptor
+T22	protein 789 792	TPO
+T23	cell_line 861 875	UT-7/GMT cells
+T24	protein 916 919	TPO
+T25	protein 966 969	EPO
+T26	protein 1048 1051	TPO

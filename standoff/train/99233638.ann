@@ -1,0 +1,18 @@
+T1	protein 14 38	E2A-HLF chimeric protein
+T2	DNA 144 163	E2A-HLF fusion gene
+T3	DNA 178 195	t(17;19)(q22;p13)
+T4	protein 245 274	chimeric transcription factor
+T5	protein 288 312	trans-activating domains
+T6	protein 316 319	E2A
+T7	protein 337 373	DNA-binding and dimerization domains
+T8	protein 377 400	hepatic leukemic factor
+T9	protein 402 405	HLF
+T10	protein 484 491	E2A-HLF
+T11	DNA 498 522	Ig enhancer and promoter
+T12	cell_type 751 761	thymocytes
+T13	cell_type 815 825	thymocytes
+T14	cell_type 896 915	splenic lymphocytes
+T15	protein 1121 1128	E2A-HLF
+T16	cell_type 1505 1519	lymphoid cells
+T17	protein 1531 1538	E2A-HLF
+T18	protein 1601 1608	E2A-HLF

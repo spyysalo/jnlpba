@@ -1,0 +1,13 @@
+T1	protein 446 466	Cytotoxicity markers
+T2	protein 504 508	IL-1
+T3	protein 558 581	nitric oxide synthetase
+T4	protein 654 696	complement receptor-1 cell surface protein
+T5	protein 702 719	TNF-alpha protein
+T6	cell_type 730 739	Monocytes
+T7	cell_type 843 852	monocytes
+T8	cell_line 1061 1081	cancerous cell lines
+T9	protein 1083 1087	IL-1
+T10	protein 1139 1181	complement receptor-1 cell-surface protein
+T11	protein 1187 1204	TNF-alpha protein
+T12	cell_type 1356 1365	monocytes
+T13	cell_line 1399 1423	LPS-stimulated monocytes

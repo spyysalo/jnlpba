@@ -1,0 +1,18 @@
+T1	DNA 22 37	promoter region
+T2	DNA 87 108	enhancer-like element
+T3	DNA 121 136	promoter region
+T4	cell_type 240 255	chicken T-cells
+T5	protein 273 276	CAT
+T6	DNA 376 388	12-bp insert
+T7	DNA 415 447	transcription-activation element
+T8	DNA 565 582	promoter sequence
+T9	DNA 641 660	individual DR units
+T10	DNA 677 689	12-bp insert
+T11	protein 703 718	nuclear factors
+T12	cell_type 722 737	chicken T-cells
+T13	DNA 776 784	DR units
+T14	DNA 817 829	12-bp insert
+T15	DNA 882 889	SP1-box
+T16	DNA 944 956	12-bp insert
+T17	protein 967 976	human SP1
+T18	DNA 1024 1036	12-bp insert

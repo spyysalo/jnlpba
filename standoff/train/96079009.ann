@@ -1,0 +1,37 @@
+T1	cell_line 16 69	human papillomavirus- or adenovirus-transformed cells
+T2	cell_type 109 129	natural killer cells
+T3	protein 309 312	E1A
+T4	protein 317 328	E7 proteins
+T5	cell_type 332 344	target cells
+T6	cell_type 366 395	host natural killer (NK) cell
+T7	protein 467 470	E1A
+T8	protein 476 478	E7
+T9	cell_line 490 544	human fibroblastic or keratinocyte-derived human cells
+T10	cell_type 580 592	unstimulated
+T11	cell_line 596 631	interferon (IFN)-activated NK cells
+T12	protein 654 669	E1A oncoprotein
+T13	cell_line 697 718	unstimulated NK cells
+T14	cell_type 735 749	parental cells
+T15	protein 800 814	E7 oncoprotein
+T16	cell_line 863 885	IFN-activated NK cells
+T17	protein 943 946	IFN
+T18	cell_line 1012 1041	non-viral oncogene-expressing
+T19	cell_line 1051 1076	virally transformed cells
+T20	protein 1078 1081	E1A
+T21	protein 1090 1093	IFN
+T22	cell_line 1167 1195	adenovirus-transformed cells
+T23	cell_line 1199 1221	IFN-activated NK cells
+T24	protein 1237 1240	IFN
+T25	cell_line 1268 1288	E1A-expressing cells
+T26	protein 1322 1325	E1A
+T27	protein 1372 1375	E1A
+T28	protein 1385 1388	IFN
+T29	cell_type 1419 1431	target cells
+T30	protein 1446 1448	E7
+T31	protein 1465 1468	IFN
+T32	protein 1500 1503	IFN
+T33	cell_line 1583 1604	HPV-transformed cells
+T34	cell_line 1608 1630	IFN-activated NK cells
+T35	protein 1647 1650	E1A
+T36	cell_type 1702 1709	NK cell
+T37	protein 1732 1746	E7 oncoprotein

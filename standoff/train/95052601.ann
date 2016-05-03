@@ -1,0 +1,25 @@
+T1	protein 14 18	CD40
+T2	cell_type 22 29	B cells
+T3	protein 48 70	nuclear factor-kappa B
+T4	protein 76 115	B cell-associated surface molecule CD40
+T5	protein 170 174	CD40
+T6	cell_type 178 185	B cells
+T7	protein 223 227	IL-6
+T8	protein 265 274	cytokines
+T9	protein 441 445	CD40
+T10	protein 523 550	nuclear factor (NF)-kappa B
+T11	protein 555 592	NF-kappa B-like transcription factors
+T12	protein 627 631	CD40
+T13	cell_type 643 666	human tonsillar B cells
+T14	cell_line 674 686	B cell lines
+T15	protein 845 848	p50
+T16	protein 850 853	p65
+T17	protein 855 859	RelA
+T18	protein 862 867	c-Rel
+T19	protein 971 975	CD40
+T20	protein 985 995	NF-kappa B
+T21	protein 1046 1056	NF-kappa B
+T22	protein 1092 1096	CD40
+T23	protein 1128 1132	CD40
+T24	DNA 1173 1196	B cell-associated genes
+T25	DNA 1202 1228	NF-kappa B consensus sites

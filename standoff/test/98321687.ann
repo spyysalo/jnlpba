@@ -1,0 +1,22 @@
+T1	protein 76 85	TNF-alpha
+T2	protein 87 96	IL-1alpha
+T3	protein 98 106	IL-1beta
+T4	protein 112 116	IL-6
+T5	cell_type 120 162	endotoxin-stimulated human blood monocytes
+T6	protein 442 463	inflammatory cytokine
+T7	cell_type 480 494	human monocyte
+T8	protein 534 555	tumor necrosis factor
+T9	protein 557 560	TNF
+T10	protein 563 576	interleukin-1
+T11	protein 578 582	IL-1
+T12	protein 589 593	IL-6
+T13	cell_line 638 674	LPS-stimulated human blood monocytes
+T14	protein 741 750	TNF-alpha
+T15	protein 752 761	IL-1alpha
+T16	protein 763 771	IL-1beta
+T17	protein 777 781	IL-6
+T18	RNA 870 883	cytokine mRNA
+T19	cell_type 887 896	monocytes
+T20	cell_type 1067 1076	monocytes
+T21	RNA 1133 1146	cytokine mRNA
+T22	protein 1180 1189	NF-kappaB

@@ -1,0 +1,25 @@
+T1	protein 23 26	DR3
+T2	protein 30 62	death domain-containing receptor
+T3	protein 74 80	TNFR-1
+T4	protein 85 89	CD95
+T5	protein 91 123	Tumor necrosis factor receptor-1
+T6	protein 125 131	TNFR-1
+T7	protein 137 141	CD95
+T8	protein 155 158	Fas
+T9	protein 162 167	APO-1
+T10	protein 173 191	cytokine receptors
+T11	protein 286 298	death domain
+T12	protein 309 339	death domain-containing member
+T13	protein 347 358	TNFR family
+T14	protein 360 376	death receptor 3
+T15	protein 378 381	DR3
+T16	protein 456 477	nuclear factor kappaB
+T17	protein 493 496	DR3
+T18	cell_type 545 556	lymphocytes
+T19	protein 558 561	DR3
+T20	protein 610 643	intracellular signaling molecules
+T21	protein 654 659	TRADD
+T22	protein 661 666	TRAF2
+T23	protein 668 672	FADD
+T24	protein 678 683	FLICE
+T25	protein 691 694	DR3

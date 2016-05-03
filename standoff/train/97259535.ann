@@ -1,0 +1,42 @@
+T1	cell_line 15 50	prestimulated THP-1 monocytic cells
+T2	cell_type 55 71	endothelial cell
+T3	cell_type 110 125	Blood monocytes
+T4	cell_type 149 166	endothelial cells
+T5	cell_type 202 217	monocytic cells
+T6	protein 298 319	von Willebrand factor
+T7	protein 321 324	vWf
+T8	protein 330 368	plasminogen activator inhibitor type 1
+T9	protein 370 375	PAI-1
+T10	cell_type 418 437	quiescent monocytes
+T11	cell_line 465 489	promonocytic THP-1 cells
+T12	cell_type 502 519	endothelial cells
+T13	cell_line 574 585	THP-1 cells
+T14	cell_type 607 653	resting human umbilical vein endothelial cells
+T15	cell_type 655 660	HUVEC
+T16	cell_line 754 765	THP-1 cells
+T17	cell_type 787 792	HUVEC
+T18	cell_line 833 844	THP-1 cells
+T19	protein 960 984	HUVEC adhesion molecules
+T20	protein 986 996	E-selectin
+T21	protein 998 1004	VCAM-1
+T22	protein 1009 1015	ICAM-1
+T23	protein 1049 1055	ICAM-1
+T24	protein 1089 1120	Diffusible endothelial proteins
+T25	protein 1137 1147	E-selectin
+T26	protein 1149 1154	PAI-1
+T27	protein 1159 1162	vWf
+T28	cell_type 1215 1220	HUVEC
+T29	cell_line 1260 1271	THP-1 cells
+T30	protein 1294 1303	TNF alpha
+T31	protein 1404 1427	anti-TNF alpha antibody
+T32	protein 1445 1455	E-selectin
+T33	protein 1460 1466	ICAM-1
+T34	protein 1492 1497	PAI-1
+T35	protein 1535 1538	vWf
+T36	protein 1543 1566	anti-IL-1 beta antibody
+T37	protein 1593 1617	HUVEC adhesion molecules
+T38	protein 1619 1624	PAI-1
+T39	protein 1628 1631	vWf
+T40	cell_line 1680 1704	promonocytic THP-1 cells
+T41	cell_type 1749 1754	HUVEC
+T42	protein 1764 1773	TNF alpha

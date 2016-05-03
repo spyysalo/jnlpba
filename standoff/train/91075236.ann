@@ -1,0 +1,20 @@
+T1	DNA 18 33	human SCL locus
+T2	DNA 84 108	fusion complementary DNA
+T3	cell_line 116 133	T cell line HSB-2
+T4	protein 204 238	hematopoietic transcription factor
+T5	protein 239 242	SCL
+T6	DNA 248 259	fusion cDNA
+T7	DNA 319 332	unknown locus
+T8	DNA 334 337	SIL
+T9	DNA 339 361	SCL interrupting locus
+T10	DNA 372 394	5' untranslated region
+T11	protein 398 401	SCL
+T12	DNA 462 486	SCL 5' regulatory region
+T13	protein 582 596	immunoglobulin
+T14	protein 602 617	T cell receptor
+T15	cell_line 629 641	T cell lines
+T16	cell_line 643 646	CEM
+T17	cell_line 651 660	RPMI 8402
+T18	cell_type 709 720	lymphocytes
+T19	DNA 722 744	growth-affecting genes
+T20	protein 756 772	immune receptors

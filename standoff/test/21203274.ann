@@ -1,0 +1,16 @@
+T1	cell_type 37 43	T-cell
+T2	protein 75 81	GATA-3
+T3	protein 604 631	transcription factor GATA-3
+T4	cell_type 694 722	Cord blood mononuclear cells
+T5	cell_type 810 814	PBMC
+T6	RNA 955 966	GATA-3 mRNA
+T7	protein 995 1003	Cytokine
+T8	cell_type 1031 1044	naive T cells
+T9	protein 1087 1093	GATA-3
+T10	cell_type 1213 1220	T cells
+T11	protein 1343 1349	GATA-3
+T12	cell_type 1424 1431	T cells
+T13	protein 1496 1502	GATA-3
+T14	protein 1602 1608	GATA-3
+T15	cell_type 1623 1627	PBMC
+T16	cell_type 1935 1951	neonatal T cells

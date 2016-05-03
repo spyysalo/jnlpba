@@ -1,0 +1,17 @@
+T1	protein 57 88	proteolysis-resistant inhibitor
+T2	protein 92 101	NF-kappaB
+T3	protein 103 123	IkappaB-alphaS32/36A
+T4	DNA 419 422	nef
+T5	DNA 789 801	viral genome
+T6	DNA 951 963	HIV-1 genome
+T7	DNA 977 981	cDNA
+T8	protein 987 1040	proteolysis-resistant nuclear factor-kappaB inhibitor
+T9	protein 1042 1062	IkappaB-alphaS32/36A
+T10	DNA 1071 1081	nef region
+T11	protein 1100 1120	IkappaB-alphaS32/36A
+T12	cell_line 1186 1192	Jurkat
+T13	cell_type 1197 1231	peripheral blood mononuclear cells
+T14	protein 1312 1332	IkappaB-alphaS32/36A
+T15	DNA 1479 1498	open-reading frames
+T16	DNA 1513 1527	HIV/SIV genome
+T17	protein 1578 1598	IkappaB-alphaS32/36A

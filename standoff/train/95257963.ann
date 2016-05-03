@@ -1,0 +1,32 @@
+T1	protein 14 36	signal response domain
+T2	protein 40 55	I kappa B alpha
+T3	protein 81 91	NF-kappa B
+T4	protein 108 139	eukaryotic transcription factor
+T5	protein 140 150	NF-kappa B
+T6	protein 351 361	NF-kappa B
+T7	protein 422 440	inhibitory subunit
+T8	protein 448 463	I kappa B alpha
+T9	protein 563 589	NF-kappa B-inducing agents
+T10	protein 601 617	T-cell mitogens,
+T11	protein 618 643	proinflammatory cytokines
+T12	protein 649 670	viral transactivators
+T13	protein 683 694	Tax protein
+T14	protein 751 766	I kappa B alpha
+T15	protein 792 802	NF-kappa B
+T16	protein 845 860	I kappa B alpha
+T17	cell_type 926 945	human T lymphocytes
+T18	protein 976 1001	N-terminal 36 amino acids
+T19	protein 1005 1020	I kappa B alpha
+T20	protein 1081 1091	NF-kappa B
+T21	protein 1225 1240	I kappa B alpha
+T22	protein 1246 1256	NF-kappa B
+T23	cell_line 1260 1280	Tax-expressing cells
+T24	protein 1361 1389	N-terminal regulatory region
+T25	protein 1393 1408	I kappa B alpha
+T26	protein 1464 1467	Tax
+T27	protein 1544 1554	NF-kappa B
+T28	protein 1597 1627	antigen and cytokine receptors
+T29	protein 1843 1864	cytoplasmic inhibitor
+T30	protein 1942 1957	I kappa B alpha
+T31	protein 2012 2027	I kappa B alpha
+T32	protein 2032 2042	NF-kappa B

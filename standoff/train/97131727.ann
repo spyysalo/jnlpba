@@ -1,0 +1,39 @@
+T1	cell_type 27 36	monocytes
+T2	cell_type 42 53	macrophages
+T3	protein 80 84	IL-4
+T4	protein 89 94	IL-13
+T5	protein 158 162	IL-4
+T6	protein 167 172	IL-13
+T7	cell_type 193 208	human monocytes
+T8	cell_type 230 258	monocyte-derived macrophages
+T9	protein 341 345	IL-4
+T10	protein 350 355	IL-13
+T11	RNA 412 420	HIV mRNA
+T12	cell_type 424 433	monocytes
+T13	protein 493 499	p24 Ag
+T14	protein 537 541	IL-4
+T15	protein 611 615	IL-4
+T16	protein 627 648	nuclear factor-kappaB
+T17	RNA 705 712	HIV RNA
+T18	protein 737 741	IL-4
+T19	protein 746 751	IL-13
+T20	cell_type 837 865	monocyte-derived macrophages
+T21	protein 899 908	cytokines
+T22	protein 1047 1051	IL-4
+T23	protein 1127 1136	cytokines
+T24	protein 1181 1186	CD11b
+T25	protein 1188 1192	CD13
+T26	protein 1198 1202	CD26
+T27	protein 1214 1232	macrophage markers
+T28	protein 1234 1238	CD14
+T29	protein 1243 1247	CD68
+T30	protein 1263 1267	IL-4
+T31	protein 1277 1282	CD11b
+T32	protein 1298 1302	CD26
+T33	protein 1326 1330	CD13
+T34	protein 1337 1342	IL-13
+T35	protein 1366 1371	CD11b
+T36	protein 1376 1380	CD13
+T37	protein 1399 1403	CD26
+T38	protein 1418 1427	cytokines
+T39	protein 1600 1621	nuclear factor-kappaB

@@ -1,0 +1,27 @@
+T1	protein 0 44	C-terminal activating and inhibitory domains
+T2	protein 88 92	BSAP
+T3	DNA 94 99	Pax-5
+T4	DNA 102 107	Pax-2
+T5	DNA 112 117	Pax-8
+T6	DNA 119 124	Pax-5
+T7	protein 137 157	transcription factor
+T8	protein 158 162	BSAP
+T9	protein 339 343	BSAP
+T10	protein 423 470	C-terminal serine/threonine/proline-rich region
+T11	protein 474 478	BSAP
+T12	protein 497 519	transactivation domain
+T13	DNA 559 590	promoter and enhancer positions
+T14	protein 597 619	transactivation domain
+T15	DNA 700 712	PAX-5 allele
+T16	cell_line 720 762	acute lymphoblastic leukemia cell line REH
+T17	protein 784 806	transactivation domain
+T18	protein 862 880	extreme C-terminus
+T19	protein 1024 1047	GAL4 DNA binding domain
+T20	DNA 1073 1115	positively and negatively acting sequences
+T21	DNA 1142 1157	mammalian Pax-2
+T22	DNA 1162 1167	Pax-8
+T23	DNA 1173 1188	zebrafish Pax-b
+T24	protein 1204 1231	sea urchin Pax-258 proteins
+T25	protein 1310 1322	Pax proteins
+T26	protein 1342 1370	C-terminal regulatory module
+T27	DNA 1383 1418	activating and inhibitory sequences

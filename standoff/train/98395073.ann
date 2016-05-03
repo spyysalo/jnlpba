@@ -1,0 +1,38 @@
+T1	protein 0 4	p130
+T2	protein 6 10	p107
+T3	protein 16 19	pRb
+T4	cell_type 52 71	proliferating cells
+T5	protein 104 120	alpha-interferon
+T6	protein 172 193	retinoblastoma family
+T7	protein 195 198	pRb
+T8	protein 200 204	p107
+T9	protein 210 214	p130
+T10	cell_line 263 276	Daudi B-cells
+T11	protein 313 329	alpha-interferon
+T12	protein 331 340	alpha-IFN
+T13	protein 343 352	alpha-IFN
+T14	protein 381 384	pRb
+T15	protein 397 423	p130 phosphorylated Form 3
+T16	protein 448 452	p130
+T17	protein 484 493	alpha-IFN
+T18	protein 529 532	pRb
+T19	protein 561 572	p130 Form 3
+T20	protein 646 649	pRb
+T21	protein 695 699	p107
+T22	protein 781 785	p130
+T23	protein 816 838	hypophosphorylated pRb
+T24	DNA 847 867	E2F DNA binding site
+T25	protein 869 873	p130
+T26	protein 884 889	E2F-4
+T27	protein 899 902	pRb
+T28	protein 924 929	E2F-1
+T29	protein 959 964	E2F-4
+T30	DNA 982 994	E2F DNA site
+T31	protein 1034 1039	E2F-4
+T32	cell_type 1063 1088	primary hemopoietic cells
+T33	protein 1151 1160	alpha-IFN
+T34	protein 1222 1226	p130
+T35	protein 1231 1236	E2F-4
+T36	protein 1238 1247	alpha-IFN
+T37	protein 1288 1293	E2F-4
+T38	cell_type 1315 1340	primary hemopoietic cells

@@ -1,0 +1,31 @@
+T1	protein 0 16	gamma-Interferon
+T2	cell_type 56 71	human monocytes
+T3	cell_type 76 87	macrophages
+T4	cell_type 293 304	macrophages
+T5	cell_type 364 375	macrophages
+T6	cell_type 453 479	peripheral blood monocytes
+T7	cell_type 481 484	PBM
+T8	cell_type 542 545	PBM
+T9	cell_type 563 574	macrophages
+T10	cell_type 613 649	human pulmonary alveolar macrophages
+T11	cell_type 651 654	PAM
+T12	cell_type 695 698	PBM
+T13	protein 716 734	vitamin D receptor
+T14	cell_type 758 761	PBM
+T15	cell_type 766 769	PAM
+T16	protein 900 914	24-hydroxylase
+T17	cell_line 945 970	human monocytic cell line
+T18	cell_line 971 976	THP-1
+T19	cell_type 984 987	PAM
+T20	cell_line 1067 1078	THP-1 cells
+T21	cell_line 1160 1171	THP-1 cells
+T22	protein 1177 1193	gamma-interferon
+T23	protein 1195 1204	gamma-IFN
+T24	protein 1388 1397	gamma-IFN
+T25	cell_line 1452 1463	THP-1 cells
+T26	cell_type 1478 1481	PBM
+T27	protein 1483 1492	gamma-IFN
+T28	protein 1528 1542	24-hydroxylase
+T29	protein 1599 1608	gamma-IFN
+T30	protein 1765 1774	gamma-IFN
+T31	cell_type 1800 1812	immune cells

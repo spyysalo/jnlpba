@@ -1,0 +1,38 @@
+T1	protein 0 4	CD30
+T2	protein 30 35	TRAF2
+T3	protein 77 81	TRAF
+T4	protein 126 130	CD30
+T5	protein 136 157	cell-surface receptor
+T6	protein 244 264	transcription factor
+T7	protein 265 274	NF-kappaB
+T8	protein 276 280	CD30
+T9	cell_type 360 371	lymphocytes
+T10	protein 413 417	CD30
+T11	protein 495 532	type 1 tumor necrosis factor receptor
+T12	protein 534 539	TNFR1
+T13	protein 581 599	TRAF-binding sites
+T14	protein 611 615	CD30
+T15	protein 616 634	cytoplasmic domain
+T16	protein 685 690	TRAF2
+T17	protein 694 722	signal transduction molecule
+T18	protein 748 753	TNFR1
+T19	protein 802 809	kinases
+T20	protein 814 835	transcription factors
+T21	protein 844 848	CD30
+T22	protein 895 900	TRAF2
+T23	protein 908 926	cytoplasmic domain
+T24	protein 930 934	CD30
+T25	protein 969 974	TRAF2
+T26	protein 1002 1007	TRAF1
+T27	protein 1060 1064	CD30
+T28	protein 1159 1164	TRAF2
+T29	protein 1193 1198	TRAF2
+T30	protein 1207 1228	coassociated proteins
+T31	protein 1317 1341	death-inducing receptors
+T32	protein 1350 1355	TNFR1
+T33	protein 1406 1428	dominant-negative form
+T34	protein 1432 1437	TRAF2
+T35	protein 1462 1467	TNFR1
+T36	protein 1542 1546	CD30
+T37	protein 1565 1585	TRAF-binding members
+T38	protein 1593 1609	TNFR superfamily

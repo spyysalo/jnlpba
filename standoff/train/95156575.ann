@@ -1,0 +1,33 @@
+T1	protein 14 29	I kappa B alpha
+T2	protein 34 38	p105
+T3	cell_type 42 51	monocytes
+T4	cell_type 56 67	macrophages
+T5	cell_type 207 216	monocytes
+T6	cell_type 216 228	/macrophages
+T7	cell_line 283 303	U937 monocytic cells
+T8	protein 315 325	NF-kappa B
+T9	protein 360 370	NF-kappa B
+T10	cell_type 441 452	macrophages
+T11	protein 546 556	NF-kappa B
+T12	cell_type 573 582	monocytes
+T13	cell_type 587 598	macrophages
+T14	cell_type 787 798	macrophages
+T15	protein 823 838	I kappa B alpha
+T16	protein 940 955	I kappa B alpha
+T17	protein 989 1004	I kappa B alpha
+T18	protein 1141 1145	p105
+T19	protein 1187 1191	p105
+T20	protein 1196 1199	p50
+T21	protein 1307 1311	p105
+T22	protein 1341 1345	p105
+T23	cell_type 1367 1381	infected cells
+T24	protein 1406 1416	NF-kappa B
+T25	DNA 1436 1449	kappa B motif
+T26	cell_type 1526 1535	monocytes
+T27	cell_type 1540 1551	macrophages
+T28	protein 1567 1571	p105
+T29	protein 1576 1579	p50
+T30	protein 1585 1589	MAD3
+T31	cell_type 1711 1720	monocytes
+T32	cell_type 1725 1736	macrophages
+T33	protein 1820 1839	I kappa B molecules

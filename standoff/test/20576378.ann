@@ -1,0 +1,21 @@
+T1	protein 4 14	proteasome
+T2	protein 58 71	interleukin-2
+T3	protein 121 131	proteasome
+T4	protein 153 175	cell surface receptors
+T5	protein 231 241	proteasome
+T6	protein 298 357	interleukin-2 (IL-2)-interleukin-2 receptor (IL-2R) complex
+T7	protein 409 419	IL-2.IL-2R
+T8	protein 468 476	cytokine
+T9	protein 508 518	proteasome
+T10	protein 583 593	IL-2.IL-2R
+T11	protein 667 671	IL-2
+T12	protein 688 693	IL-2R
+T13	protein 717 737	cytoplasmic tailless
+T14	protein 738 763	beta- or gamma c-subunits
+T15	protein 808 818	proteasome
+T16	protein 848 864	cytoplasmic tail
+T17	protein 872 877	IL-2R
+T18	protein 878 903	beta- or gamma c-subunits
+T19	protein 971 981	proteasome
+T20	protein 1025 1045	IL-2R/ligand complex
+T21	protein 1107 1111	IL-2

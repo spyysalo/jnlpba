@@ -1,0 +1,18 @@
+T1	cell_line 53 87	genetically modified T lymphocytes
+T2	DNA 91 108	chimeric TCR gene
+T3	protein 124 169	anti-hapten single-chain Ab variable fragment
+T4	protein 183 220	transmembrane and cytoplasmic regions
+T5	protein 228 248	human TCR zeta-chain
+T6	cell_type 361 368	T cells
+T7	cell_line 370 384	Jurkat T cells
+T8	protein 443 479	tetracycline trans-activator protein
+T9	DNA 497 518	constitutive promoter
+T10	protein 528 540	chimeric TCR
+T11	DNA 565 608	trans-activator protein-responsive promoter
+T12	cell_type 659 666	T cells
+T13	protein 693 710	chimeric receptor
+T14	protein 761 771	cognate Ag
+T15	protein 801 805	IL-2
+T16	protein 908 925	chimeric receptor
+T17	protein 1057 1068	targeted Ag
+T18	cell_line 1406 1427	gene-modified T cells

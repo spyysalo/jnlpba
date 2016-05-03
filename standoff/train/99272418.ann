@@ -1,0 +1,41 @@
+T1	protein 0 16	Protein kinase B
+T2	protein 18 23	c-Akt
+T3	protein 26 55	phosphatidylinositol 3-kinase
+T4	protein 61 66	STAT5
+T5	protein 84 98	erythropoietin
+T6	protein 100 103	EPO
+T7	cell_line 108 129	HCD57 erythroid cells
+T8	cell_line 166 211	EPO-independent, apoptosis-resistant subclone
+T9	cell_line 213 229	HCD57-SREI cells
+T10	protein 246 260	erythropoietin
+T11	protein 262 265	EPO
+T12	protein 271 287	stem cell factor
+T13	protein 289 292	SCF
+T14	protein 294 320	activated protein kinase B
+T15	protein 322 329	PKB/Akt
+T16	cell_line 334 369	EPO-dependent HCD57 erythroid cells
+T17	protein 497 500	EPO
+T18	cell_line 535 551	HCD57-SREI cells
+T19	protein 582 589	PKB/Akt
+T20	protein 591 597	STAT5a
+T21	protein 603 609	STAT5b
+T22	cell_line 630 651	EPO-independent cells
+T23	protein 653 663	PI3-kinase
+T24	protein 702 709	PKB/Akt
+T25	protein 722 732	PI3-kinase
+T26	protein 778 785	PKB/Akt
+T27	protein 807 814	PKB/Akt
+T28	cell_line 892 902	HCD57-SREI
+T29	cell_line 907 918	HCD57 cells
+T30	protein 951 958	PKB/Akt
+T31	protein 969 976	PKB/Akt
+T32	cell_line 1049 1060	HCD57 cells
+T33	protein 1066 1069	SCF
+T34	protein 1085 1092	PKB/Akt
+T35	protein 1157 1171	PKB/PI3-kinase
+T36	protein 1269 1274	STAT5
+T37	protein 1336 1340	JAK2
+T38	protein 1344 1348	EPOR
+T39	protein 1391 1401	PI3-kinase
+T40	protein 1401 1409	/PKB/Akt
+T41	cell_line 1433 1465	EPO-independent HCD57-SREI cells

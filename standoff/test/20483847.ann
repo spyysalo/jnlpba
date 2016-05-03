@@ -1,0 +1,30 @@
+T1	DNA 64 84	human p45 NF-E2 gene
+T2	protein 101 127	transcription factor NF-E2
+T3	protein 131 160	heterodimeric protein complex
+T4	protein 173 176	p45
+T5	protein 187 206	Maf family proteins
+T6	cell_type 264 276	erythrocytes
+T7	cell_type 281 295	megakaryocytes
+T8	DNA 399 407	p45 gene
+T9	cell_type 422 437	erythroid cells
+T10	RNA 462 477	Human p45 mRNAs
+T11	RNA 509 515	aNF-E2
+T12	RNA 520 526	fNF-E2
+T13	DNA 572 593	alternative promoters
+T14	cell_type 664 698	erythroid and megakaryocytic cells
+T15	DNA 846 860	reporter genes
+T16	DNA 927 945	promoter fragments
+T17	cell_line 966 996	human hematopoietic cell lines
+T18	cell_type 1012 1025	CD34(+) cells
+T19	RNA 1271 1282	fNF-E2 mRNA
+T20	cell_type 1316 1331	erythroid cells
+T21	cell_type 1337 1357	megakaryocytic cells
+T22	cell_line 1419 1460	human erythroid-megakaryocytic cell lines
+T23	RNA 1610 1616	fNF-E2
+T24	DNA 1634 1649	fNF-E2 promoter
+T25	DNA 1701 1716	fNF-E2 promoter
+T26	cell_type 1760 1790	erythroid-megakaryocytic cells
+T27	DNA 1804 1819	double GATA sit
+T28	protein 1924 1937	GATA proteins
+T29	cell_type 1975 1998	erythroid lineage cells
+T30	DNA 2047 2055	p45 gene

@@ -1,0 +1,9 @@
+T1	protein 0 9	Cytokines
+T2	protein 18 27	receptors
+T3	protein 99 108	cytokines
+T4	protein 109 113	IL-2
+T5	protein 118 123	IL-15
+T6	protein 163 172	cytokines
+T7	protein 228 232	IL-2
+T8	protein 293 307	interleukin-15
+T9	cell_type 344 358	T and NK cells

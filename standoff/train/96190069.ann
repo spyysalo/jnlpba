@@ -1,0 +1,27 @@
+T1	cell_line 112 146	acute promyelocytic leukemia cells
+T2	cell_line 292 301	APL cells
+T3	protein 310 317	PML-RAR
+T4	protein 343 376	retinoic acid receptor type alpha
+T5	protein 378 387	RAR alpha
+T6	DNA 406 458	leukemia-specific t(15;17) chromosomal translocation
+T7	protein 547 556	RAR alpha
+T8	cell_line 618 621	NB4
+T9	cell_line 626 647	APL-derived cell line
+T10	cell_type 656 683	freshly isolated APL blasts
+T11	cell_line 704 713	APL cells
+T12	protein 761 798	granulocyte colony-stimulating factor
+T13	protein 800 805	G-CSF
+T14	RNA 900 968	leukocyte alkaline phosphatase, CD11b, CD33, and G-CSF receptor mRNA
+T15	protein 1158 1181	differentiation markers
+T16	cell_line 1189 1204	HL-60 cell line
+T17	cell_type 1212 1241	freshly isolated granulocytes
+T18	cell_line 1361 1370	NB4 cells
+T19	protein 1441 1444	LAP
+T20	protein 1673 1680	PML-RAR
+T21	cell_line 1720 1731	COS-7 cells
+T22	protein 1761 1768	PML-RAR
+T23	protein 1784 1793	RAR alpha
+T24	protein 1890 1897	PML-RAR
+T25	DNA 1957 2010	retinoic acid-responsive element-containing promoters
+T26	protein 2066 2075	RAR alpha
+T27	cell_type 2186 2219	PML-RAR-containing leukemic cells

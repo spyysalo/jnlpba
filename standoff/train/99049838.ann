@@ -1,0 +1,52 @@
+T1	protein 14 24	NF-kappa B
+T2	protein 26 30	AP-1
+T3	protein 32 36	NFAT
+T4	protein 42 47	STAT1
+T5	cell_type 66 79	T lymphocytes
+T6	protein 128 157	nuclear localization sequence
+T7	protein 161 175	NF-kappa B p50
+T8	cell_type 191 204	T lymphocytes
+T9	protein 208 211	Ags
+T10	protein 215 224	cytokines
+T11	protein 257 278	transcription factors
+T12	protein 279 289	NF-kappa B
+T13	protein 291 295	AP-1
+T14	protein 297 301	NFAT
+T15	protein 307 311	STAT
+T16	protein 414 443	nuclear localization sequence
+T17	protein 445 448	NLS
+T18	protein 461 480	karyophilic protein
+T19	protein 486 506	cytoplasmic receptor
+T20	protein 519 555	importin (karyopherin)-alpha subunit
+T21	protein 561 565	NLSs
+T22	protein 569 579	NF-kappa B
+T23	protein 581 585	AP-1
+T24	protein 591 595	NFAT
+T25	protein 611 614	NLS
+T26	protein 618 623	STAT1
+T27	protein 712 722	NF-kappa B
+T28	protein 724 728	AP-1
+T29	protein 730 734	NFAT
+T30	protein 740 745	STAT1
+T31	cell_line 749 769	Jurkat T lymphocytes
+T32	protein 838 841	NLS
+T33	protein 849 871	NF-kappa B p50 subunit
+T34	protein 873 876	NLS
+T35	protein 936 957	transcription factors
+T36	protein 1048 1058	NF-kappa B
+T37	protein 1081 1091	NF-kappa B
+T38	protein 1093 1097	AP-1
+T39	protein 1103 1107	NFAT
+T40	protein 1142 1145	NLS
+T41	protein 1180 1212	cytoplasmic NLS receptor complex
+T42	protein 1230 1274	Rch1/importin (karyopherin)-beta heterodimer
+T43	cell_line 1288 1302	Jurkat T cells
+T44	protein 1377 1387	NF-kappa B
+T45	protein 1389 1393	AP-1
+T46	protein 1395 1399	NFAT
+T47	protein 1405 1410	STAT1
+T48	cell_line 1414 1428	Jurkat T cells
+T49	protein 1449 1452	NLS
+T50	cell_line 1505 1519	Jurkat T cells
+T51	protein 1545 1578	importin (karyopherin)-alpha beta
+T52	protein 1579 1599	NLS receptor complex

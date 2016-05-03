@@ -1,0 +1,40 @@
+T1	DNA 15 39	B-cell-specific promoter
+T2	protein 48 77	human class II transactivator
+T3	protein 83 106	class II transactivator
+T4	protein 108 113	CIITA
+T5	protein 150 206	major histocompatibility complex (MHC) class II antigens
+T6	RNA 296 306	CIITA mRNA
+T7	cell_type 330 337	B cells
+T8	protein 357 373	interferon gamma
+T9	protein 375 384	IFN-gamma
+T10	cell_line 389 425	macrophage and epithelial cell lines
+T11	DNA 461 468	cosmids
+T12	protein 478 489	human CIITA
+T13	protein 538 550	MHC class II
+T14	cell_line 567 593	B-lymphoblastoid cell line
+T15	cell_line 595 600	B-LCL
+T16	protein 616 621	CIITA
+T17	DNA 639 665	1.8 kilobase (kb) fragment
+T18	DNA 673 687	CIITA promoter
+T19	DNA 796 818	putative binding sites
+T20	protein 823 826	Sp1
+T21	protein 828 834	GATA-2
+T22	protein 836 841	LyF-1
+T23	protein 843 848	ets-1
+T24	protein 850 853	AP1
+T25	protein 859 863	MZF1
+T26	protein 864 885	transcription factors
+T27	DNA 895 905	GAS motifs
+T28	DNA 937 961	luciferase reporter gene
+T29	protein 1002 1012	luciferase
+T30	cell_line 1027 1038	human B-LCL
+T31	protein 1053 1063	luciferase
+T32	protein 1100 1109	IFN-gamma
+T33	cell_line 1175 1196	epithelial cell lines
+T34	DNA 1227 1243	human CIITA gene
+T35	cell_line 1260 1304	mouse macrophage and fibrosarcoma cell lines
+T36	DNA 1345 1351	cosmid
+T37	DNA 1367 1383	human CIITA gene
+T38	DNA 1401 1416	1.8 kb promoter
+T39	protein 1520 1529	IFN-gamma
+T40	protein 1554 1559	CIITA

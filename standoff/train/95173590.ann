@@ -1,0 +1,41 @@
+T1	protein 0 46	Calcium/calmodulin-dependent protein kinase II
+T2	DNA 121 134	cytokine gene
+T3	cell_type 152 165	human T cells
+T4	protein 185 200	T cell receptor
+T5	protein 223 238	phospholipase C
+T6	protein 336 352	protein kinase C
+T7	protein 354 357	PKC
+T8	protein 388 421	Ca2+/calmodulin-dependent kinases
+T9	protein 452 495	Ca2+/calmodulin-dependent protein kinase II
+T10	protein 497 505	CaM-K II
+T11	protein 519 530	calcineurin
+T12	protein 534 561	type 2B protein phosphatase
+T13	protein 594 605	calcineurin
+T14	protein 696 704	CaM-K II
+T15	protein 752 759	kinases
+T16	protein 764 776	phosphatases
+T17	protein 778 791	gamma B*CaM-K
+T18	protein 796 808	delta CaM-AI
+T19	DNA 858 871	cytokine gene
+T20	protein 914 917	PKC
+T21	protein 947 960	gamma B*CaM-K
+T22	protein 965 977	delta CaM-AI
+T23	cell_line 1086 1100	Jurkat T cells
+T24	DNA 1138 1151	IL-2 promoter
+T25	DNA 1182 1229	chloramphenicol acetyltransferase reporter gene
+T26	protein 1249 1262	gamma B*CaM-K
+T27	DNA 1272 1295	IL-2 promoter construct
+T28	protein 1432 1440	CaM-K II
+T29	DNA 1444 1457	IL-2 promoter
+T30	protein 1577 1589	delta CaM-AI
+T31	DNA 1603 1616	IL-2 promoter
+T32	protein 1704 1717	gamma B*CaM-K
+T33	DNA 1749 1762	IL-2 promoter
+T34	protein 1766 1778	delta CaM-AI
+T35	DNA 1842 1855	IL-4 promoter
+T36	protein 1871 1884	gamma B*CaM-K
+T37	protein 1922 1926	AP-1
+T38	protein 1994 1997	PKC
+T39	protein 2050 2058	CaM-K II
+T40	DNA 2092 2105	cytokine gene
+T41	cell_type 2123 2136	human T cells

@@ -1,0 +1,35 @@
+T1	protein 12 34	shared receptor motifs
+T2	protein 39 59	common Stat proteins
+T3	protein 81 89	cytokine
+T4	protein 119 123	IL-2
+T5	protein 125 129	IL-4
+T6	protein 131 135	IL-7
+T7	protein 137 142	IL-13
+T8	protein 148 153	IL-15
+T9	protein 250 263	Stat proteins
+T10	cell_type 277 305	peripheral blood lymphocytes
+T11	cell_type 307 311	PBLs
+T12	protein 316 325	cytokines
+T13	protein 360 373	Interleukin-2
+T14	protein 375 379	IL-2
+T15	protein 399 404	Stat5
+T16	cell_type 414 417	PBL
+T17	protein 423 428	Stat3
+T18	protein 433 438	Stat5
+T19	cell_type 442 458	preactivated PBL
+T20	protein 460 464	IL-7
+T21	protein 469 474	IL-15
+T22	protein 505 509	IL-2
+T23	protein 559 589	tyrosine-phosphorylated motifs
+T24	protein 597 616	cytoplasmic domains
+T25	protein 620 630	IL-2R beta
+T26	protein 635 640	IL-7R
+T27	protein 677 690	Stat proteins
+T28	protein 692 697	IL-13
+T29	protein 728 732	IL-4
+T30	protein 781 786	IL-4R
+T31	protein 816 825	receptors
+T32	protein 867 875	cytokine
+T33	protein 915 928	Stat proteins
+T34	protein 1022 1031	cytokines
+T35	protein 1054 1066	Stat protein

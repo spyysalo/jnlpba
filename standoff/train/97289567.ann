@@ -1,0 +1,30 @@
+T1	protein 14 31	CD95 (Fas) ligand
+T2	protein 46 49	TCR
+T3	cell_type 92 117	mature peripheral T cells
+T4	protein 121 124	TCR
+T5	protein 193 201	cytokine
+T6	protein 290 293	TCR
+T7	protein 354 357	TCR
+T8	protein 402 413	CD95 ligand
+T9	cell_type 417 434	activated T cells
+T10	protein 470 481	CD95 ligand
+T11	protein 490 503	CD95 receptor
+T12	protein 637 640	TCR
+T13	protein 686 697	CD95 ligand
+T14	DNA 748 777	luciferase reporter construct
+T15	protein 805 816	CD95 ligand
+T16	cell_line 870 888	Jurkat T cell line
+T17	protein 962 987	CD45 tyrosine phosphatase
+T18	protein 1005 1008	TCR
+T19	protein 1020 1031	CD95 ligand
+T20	protein 1100 1103	TCR
+T21	protein 1133 1136	Ras
+T22	protein 1193 1204	CD95 ligand
+T23	protein 1247 1268	transcription factors
+T24	protein 1283 1294	CD95 ligand
+T25	DNA 1324 1382	cyclosporin A-sensitive nuclear factor-AT response element
+T26	DNA 1390 1405	promoter region
+T27	protein 1448 1459	CD95 ligand
+T28	cell_type 1481 1499	stimulated T cells
+T29	protein 1597 1608	CD95 ligand
+T30	protein 1630 1633	TCR

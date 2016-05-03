@@ -1,0 +1,46 @@
+T1	protein 26 48	DNA-binding activities
+T2	protein 59 63	CD19
+T3	cell_type 81 102	human B lineage cells
+T4	protein 108 145	B cell-specific cell surface molecule
+T5	protein 146 150	CD19
+T6	protein 286 315	cytoplasmic effector proteins
+T7	protein 331 335	CD19
+T8	cell_type 345 366	human B lineage cells
+T9	protein 394 440	CD19/Vav/phosphatidylinositol-3 kinase complex
+T10	protein 470 474	CD19
+T11	protein 479 482	Vav
+T12	protein 506 509	Ras
+T13	protein 559 563	CD19
+T14	protein 629 634	Elk-1
+T15	protein 650 669	activator protein-1
+T16	protein 671 675	AP-1
+T17	protein 718 727	NF-kappaB
+T18	protein 729 750	transcription factors
+T19	protein 770 774	CD19
+T20	cell_line 814 836	BLIN-1 pre-B cell line
+T21	protein 862 889	cell surface mu heavy chain
+T22	protein 906 927	surrogate light chain
+T23	protein 972 993	cell surface mu/kappa
+T24	protein 1008 1012	CD19
+T25	cell_line 1026 1035	1E8 cells
+T26	protein 1073 1093	Elk-1 fusion protein
+T27	protein 1134 1154	Elk-1 fusion protein
+T28	cell_line 1183 1213	CD19 cross-linked BLIN-1 cells
+T29	protein 1265 1269	AP-1
+T30	protein 1274 1283	NF-kappaB
+T31	protein 1340 1344	AP-1
+T32	protein 1393 1402	NF-kappaB
+T33	protein 1455 1459	CD19
+T34	cell_line 1477 1486	1E8 cells
+T35	protein 1525 1529	JunD
+T36	protein 1534 1548	c-Fos proteins
+T37	protein 1563 1567	CD19
+T38	protein 1576 1580	AP-1
+T39	cell_line 1601 1610	1E8 cells
+T40	protein 1625 1629	CD19
+T41	cell_line 1647 1659	BLIN-1 cells
+T42	protein 1689 1698	NF-kappaB
+T43	protein 1730 1734	AP-1
+T44	protein 1777 1781	CD19
+T45	protein 1831 1852	transcription factors
+T46	DNA 1968 1973	genes

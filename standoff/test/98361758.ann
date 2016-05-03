@@ -1,0 +1,36 @@
+T1	protein 26 36	MAP kinase
+T2	protein 38 44	ERK1/2
+T3	protein 49 63	erythropoietin
+T4	protein 68 84	stem cell factor
+T5	protein 127 143	Stem cell factor
+T6	protein 145 148	SCF
+T7	protein 154 168	erythropoietin
+T8	protein 170 173	EPO
+T9	cell_line 281 326	purified human erythroid colony-forming cells
+T10	cell_line 328 332	ECFC
+T11	protein 354 357	SCF
+T12	protein 362 365	EPO
+T13	protein 391 401	MAP kinase
+T14	protein 403 407	MAPK
+T15	protein 409 415	ERK1/2
+T16	protein 579 582	MEK
+T17	protein 587 598	PI-3 kinase
+T18	protein 654 658	MAPK
+T19	protein 746 750	MAPK
+T20	protein 773 776	EPO
+T21	protein 793 796	SCF
+T22	protein 814 817	SCF
+T23	protein 822 825	EPO
+T24	protein 839 843	MAPK
+T25	protein 917 920	EPO
+T26	protein 930 933	SCF
+T27	protein 956 961	STAT5
+T28	protein 971 974	SCF
+T29	protein 1011 1014	EPO
+T30	protein 1023 1028	STAT5
+T31	protein 1057 1062	STAT5
+T32	protein 1108 1111	SCF
+T33	protein 1116 1119	EPO
+T34	protein 1179 1183	MAPK
+T35	protein 1187 1190	SCF
+T36	protein 1195 1198	EPO

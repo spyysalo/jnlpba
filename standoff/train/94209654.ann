@@ -1,0 +1,41 @@
+T1	protein 22 45	serine/threonine kinase
+T2	protein 66 71	c-Fos
+T3	cell_type 92 111	T and B lymphocytes
+T4	protein 128 146	cytokine receptors
+T5	protein 160 172	Ag receptors
+T6	cell_type 176 195	T and B lymphocytes
+T7	protein 436 481	protein tyrosine and serine/threonine kinases
+T8	protein 528 551	serine/threonine kinase
+T9	protein 576 598	proto-oncogene product
+T10	protein 600 605	c-Fos
+T11	protein 621 631	Fos kinase
+T12	protein 633 643	Fos kinase
+T13	protein 688 709	CD3 and CD2 receptors
+T14	cell_line 713 719	Jurkat
+T15	cell_type 724 750	normal human T lymphocytes
+T16	protein 770 774	IL-6
+T17	protein 779 787	anti-IgM
+T18	cell_line 795 813	human B cell lines
+T19	cell_line 814 818	AF10
+T20	cell_line 823 828	Ramos
+T21	protein 897 907	Fos kinase
+T22	protein 966 969	PKC
+T23	protein 1009 1015	enzyme
+T24	protein 1017 1027	Fos kinase
+T25	protein 1043 1048	c-Fos
+T26	protein 1068 1078	C-terminus
+T27	protein 1127 1143	residues 359-370
+T28	protein 1145 1157	RKGSSSNEPSSD
+T29	protein 1200 1205	c-Fos
+T30	protein 1223 1233	Fos kinase
+T31	protein 1281 1305	serine/threonine kinases
+T32	protein 1317 1333	protein kinase A
+T33	protein 1335 1351	protein kinase C
+T34	protein 1353 1369	casein kinase II
+T35	protein 1371 1382	MAP kinases
+T36	protein 1384 1390	p70S6K
+T37	protein 1395 1401	p90RSK
+T38	protein 1403 1413	Fos kinase
+T39	protein 1529 1539	Fos kinase
+T40	protein 1624 1629	c-Fos
+T41	cell_type 1834 1845	lymphocytes

@@ -1,0 +1,15 @@
+T1	protein 82 103	transcription factors
+T2	protein 152 173	transcription factors
+T3	protein 175 179	MyoD
+T4	protein 181 189	myogenin
+T5	protein 191 195	myf5
+T6	protein 201 205	myf6
+T7	protein 216 249	"basic helix-loop-helix" proteins
+T8	DNA 267 276	promoters
+T9	DNA 280 301	muscle-specific genes
+T10	protein 400 424	DNA binding basic domain
+T11	protein 428 432	MyoD
+T12	DNA 441 446	c-myc
+T13	protein 663 676	basic domains
+T14	protein 688 704	myogenic factors
+T15	protein 829 859	myogenic transcription factors

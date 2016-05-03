@@ -1,0 +1,46 @@
+T1	DNA 18 32	HIV-1 enhancer
+T2	protein 40 57	LEF-1 HMG protein
+T3	DNA 61 85	nucleosome-assembled DNA
+T4	protein 96 130	Lymphoid enhancer-binding factor 1
+T5	protein 132 137	LEF-1
+T6	protein 144 188	regulatory high mobility group (HMG) protein
+T7	DNA 208 250	T cell receptor alpha (TCR alpha) enhancer
+T8	cell_type 285 292	T cells
+T9	DNA 353 400	human immunodeficiency virus-1 (HIV-1) enhancer
+T10	DNA 417 434	DNA-binding sites
+T11	protein 439 444	LEF-1
+T12	protein 509 514	LEF-1
+T13	DNA 553 571	LEF-1-binding site
+T14	DNA 596 615	multimerized copies
+T15	DNA 623 637	HIV-1 enhancer
+T16	cell_line 641 655	Jurkat T cells
+T17	protein 666 676	LEF-1/GAL4
+T18	DNA 692 723	GAL4-substituted HIV-1 enhancer
+T19	protein 757 774	recombinant LEF-1
+T20	DNA 819 842	chromatin-assembled DNA
+T21	protein 864 874	nucleosome
+T22	DNA 963 972	chromatin
+T23	protein 1106 1111	LEF-1
+T24	protein 1116 1121	LEF-1
+T25	protein 1126 1131	Ets-1
+T26	protein 1176 1200	promoter-binding protein
+T27	protein 1202 1205	Sp1
+T28	protein 1219 1224	TFE-3
+T29	DNA 1244 1255	E-box motif
+T30	DNA 1272 1293	LEF-1 and Ets-1 sites
+T31	protein 1390 1415	enhancer-binding proteins
+T32	protein 1417 1422	LEF-1
+T33	protein 1424 1429	Ets-1
+T34	protein 1435 1440	TFE-3
+T35	protein 1489 1492	Sp1
+T36	protein 1496 1513	truncation mutant
+T37	protein 1517 1522	LEF-1
+T38	protein 1524 1530	HMG-88
+T39	protein 1552 1559	HMG box
+T40	protein 1574 1597	trans-activation domain
+T41	DNA 1635 1650	nucleosomal DNA
+T42	protein 1690 1700	HMG domain
+T43	protein 1800 1805	LEF-1
+T44	DNA 1820 1829	chromatin
+T45	protein 1875 1898	trans-activation domain
+T46	protein 1918 1928	HMG domain

@@ -1,0 +1,26 @@
+T1	protein 0 26	Platelet-activating factor
+T2	protein 59 117	heparin-binding epidermal growth factor-like growth factor
+T3	cell_type 121 130	monocytes
+T4	cell_type 211 220	monocytes
+T5	protein 249 275	platelet-activating factor
+T6	protein 277 280	PAF
+T7	protein 323 381	heparin-binding epidermal growth factor-like growth factor
+T8	protein 383 389	HB-EGF
+T9	protein 394 408	potent mitogen
+T10	cell_type 413 441	vascular smooth muscle cells
+T11	protein 460 463	PAF
+T12	protein 562 565	PAF
+T13	RNA 591 602	HB-EGF mRNA
+T14	protein 682 685	PAF
+T15	protein 722 748	cell surface PAF receptors
+T16	protein 757 760	PAF
+T17	RNA 841 852	HB-EGF mRNA
+T18	protein 893 896	PAF
+T19	RNA 980 991	HB-EGF mRNA
+T20	cell_type 1038 1047	monocytes
+T21	protein 1098 1101	PAF
+T22	protein 1197 1207	NF-kappa B
+T23	protein 1237 1240	PAF
+T24	RNA 1305 1316	HB-EGF mRNA
+T25	protein 1360 1363	PAF
+T26	protein 1367 1373	HB-EGF

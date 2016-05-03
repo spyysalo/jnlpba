@@ -1,0 +1,38 @@
+T1	protein 4 15	tax protein
+T2	DNA 90 137	c-sis/platelet-derived growth factor-B promoter
+T3	protein 168 201	zinc finger transcription factors
+T4	protein 202 205	Sp1
+T5	protein 210 222	NGFI-A/Egr-1
+T6	DNA 261 323	c-sis/platelet-derived growth factor-B (PDGF-B) proto-oncogene
+T7	protein 331 342	Tax protein
+T8	DNA 550 571	c-sis/PDGF-B promoter
+T9	DNA 573 597	Tax-responsive element 1
+T10	DNA 599 603	TRE1
+T11	protein 639 642	Tax
+T12	protein 663 666	Sp1
+T13	protein 677 689	NGFI-A/Egr-1
+T14	protein 697 734	primary nuclear transcription factors
+T15	DNA 746 750	TRE1
+T16	protein 765 768	Tax
+T17	protein 852 855	Tax
+T18	DNA 875 902	c-sis/PDGF-B proto-oncogene
+T19	protein 946 949	Tax
+T20	DNA 1043 1061	-257 to +74 region
+T21	DNA 1069 1090	c-sis/PDGF-B promoter
+T22	protein 1150 1153	Tax
+T23	protein 1197 1200	Sp1
+T24	protein 1205 1217	NGFI-A/Egr-1
+T25	DNA 1226 1236	TRE1 probe
+T26	protein 1250 1261	Tax mutants
+T27	protein 1287 1294	IEXC29S
+T28	protein 1299 1307	IEXL320G
+T29	DNA 1356 1377	c-sis/PDGF-B promoter
+T30	protein 1434 1437	Tax
+T31	protein 1469 1472	Sp1
+T32	protein 1477 1489	NGFI-A/Egr-1
+T33	protein 1557 1560	Tax
+T34	protein 1568 1575	IEXC29S
+T35	protein 1603 1615	NGFI-A/Egr-1
+T36	protein 1625 1628	Tax
+T37	protein 1636 1644	IEXL320G
+T38	protein 1670 1682	NGFI-A/Egr-1

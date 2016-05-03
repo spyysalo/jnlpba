@@ -1,0 +1,44 @@
+T1	protein 14 18	IL-6
+T2	cell_type 32 72	human peripheral blood mononuclear cells
+T3	protein 76 79	C3a
+T4	protein 84 95	C3a(desArg)
+T5	protein 101 114	anaphylatoxin
+T6	protein 115 118	C3a
+T7	protein 252 255	C3a
+T8	protein 260 271	C3a(desArg)
+T9	protein 316 320	IL-6
+T10	cell_type 330 335	PBMCs
+T11	protein 380 388	IL-1beta
+T12	protein 390 393	C3a
+T13	protein 397 408	C3a(desArg)
+T14	protein 469 473	IL-6
+T15	cell_type 489 493	PBMC
+T16	protein 522 530	IL-1beta
+T17	protein 537 540	C3a
+T18	protein 545 556	C3a(desArg)
+T19	protein 579 583	IL-6
+T20	cell_type 595 599	PBMC
+T21	protein 634 637	C3a
+T22	cell_type 682 691	monocytes
+T23	protein 797 800	C3a
+T24	protein 951 954	C3a
+T25	protein 987 990	C3a
+T26	protein 994 998	IL-6
+T27	cell_type 1047 1056	monocytes
+T28	protein 1093 1096	C3a
+T29	protein 1108 1119	C3a(desArg)
+T30	RNA 1132 1145	-induced mRNA
+T31	protein 1157 1161	IL-6
+T32	cell_type 1179 1184	PBMCs
+T33	protein 1190 1205	pertussis toxin
+T34	protein 1231 1234	C3a
+T35	protein 1239 1250	C3a(desArg)
+T36	protein 1321 1330	G protein
+T37	protein 1392 1395	C3a
+T38	protein 1400 1411	C3a(desArg)
+T39	protein 1428 1437	NF-kappaB
+T40	protein 1442 1462	activating protein-1
+T41	protein 1508 1517	NF-kappaB
+T42	protein 1522 1542	activating protein-1
+T43	protein 1610 1613	C3a
+T44	protein 1634 1646	des-Arg form

@@ -1,0 +1,25 @@
+T1	protein 11 19	protease
+T2	protein 34 44	NF-kappa B
+T3	cell_type 52 68	T lymphoid cells
+T4	protein 70 80	NF-kappa B
+T5	protein 86 101	nuclear protein
+T6	protein 109 128	rel oncogene family
+T7	DNA 167 189	several cellular genes
+T8	protein 201 205	IL-2
+T9	protein 214 227	IL-2 receptor
+T10	DNA 233 244	viral genes
+T11	DNA 266 275	HIV-1 LTR
+T12	protein 303 317	HIV-1 protease
+T13	protein 333 343	NF-kappa B
+T14	protein 428 438	NF-kappa B
+T15	cell_type 484 491	T cells
+T16	DNA 509 535	protease expression vector
+T17	protein 562 572	NF-kappa B
+T18	protein 666 680	viral protease
+T19	DNA 721 724	LTR
+T20	protein 724 728	-CAT
+T21	cell_type 771 800	HIV-protease expressing cells
+T22	protein 821 825	IL-2
+T23	protein 848 852	IL-2
+T24	protein 907 917	NF-kappa B
+T25	protein 921 933	HIV protease

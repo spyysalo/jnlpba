@@ -1,0 +1,32 @@
+T1	DNA 6 23	MHC class II gene
+T2	protein 54 71	carboxyl terminus
+T3	DNA 75 80	CIITA
+T4	DNA 93 108	defective genes
+T5	protein 120 123	MHC
+T6	protein 152 192	Type II major histocompatibility complex
+T7	protein 229 232	MHC
+T8	protein 331 343	MHC class II
+T9	DNA 429 443	defective gene
+T10	protein 464 467	MHC
+T11	DNA 501 506	CIITA
+T12	DNA 534 539	CIITA
+T13	DNA 546 596	MHC class II gene-specific transcription activator
+T14	protein 655 679	N-terminal acidic domain
+T15	protein 681 699	amino acids 26-137
+T16	protein 746 796	heterologous viral transcription-activating domain
+T17	protein 817 822	CIITA
+T18	DNA 839 857	MHC class II genes
+T19	DNA 859 861	DR
+T20	DNA 863 865	DQ
+T21	DNA 870 872	DP
+T22	protein 903 922	C-terminal residues
+T23	protein 924 944	amino acids 317-1130
+T24	DNA 970 991	multiple cis elements
+T25	DNA 1004 1005	S
+T26	DNA 1010 1012	X2
+T27	DNA 1021 1047	DR alpha proximal promoter
+T28	cell_line 1051 1069	group II CID cells
+T29	protein 1073 1078	CIITA
+T30	protein 1096 1101	CIITA
+T31	cell_type 1120 1132	normal cells
+T32	protein 1201 1206	CIITA

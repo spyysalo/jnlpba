@@ -1,0 +1,45 @@
+T1	DNA 50 118	human granulocyte-macrophage colony-stimulating factor gene promoter
+T2	cell_type 122 129	T cells
+T3	DNA 135 181	human granulocyte-macrophage CSF (GM-CSF) gene
+T4	cell_type 198 205	T cells
+T5	protein 221 224	TCR
+T6	DNA 332 367	proximal functional promoter region
+T7	DNA 369 380	-620 to +34
+T8	DNA 405 413	enhancer
+T9	protein 495 498	TCR
+T10	DNA 515 532	proximal promoter
+T11	DNA 558 562	CLEO
+T12	DNA 564 574	-54 to -31
+T13	DNA 595 614	purine-rich element
+T14	DNA 627 663	activator protein-1 (AP-1)-like site
+T15	DNA 679 728	upstream nuclear factor-kappa B (NF-kappa B) site
+T16	DNA 730 740	-85 to -76
+T17	DNA 748 760	CK-1 element
+T18	DNA 762 773	-101 to -92
+T19	DNA 826 844	purine-rich region
+T20	DNA 852 864	CLEO element
+T21	DNA 872 887	NF-kappa B site
+T22	DNA 931 989	620-bp human GM-CSF promoter-luciferase reporter construct
+T23	cell_line 993 1007	Jurkat T cells
+T24	protein 1048 1073	inducible protein complex
+T25	DNA 1092 1118	human CLEO (hCLEO) element
+T26	protein 1125 1142	AP-1-like complex
+T27	protein 1420 1455	nuclear factor of activated T cells
+T28	protein 1457 1462	NF-AT
+T29	DNA 1497 1509	hCLEO region
+T30	protein 1520 1540	recombinant proteins
+T31	protein 1560 1564	AP-1
+T32	protein 1566 1572	NF-ATp
+T33	protein 1593 1612	NF-ATp/AP-1 complex
+T34	DNA 1637 1650	hCLEO element
+T35	protein 1803 1814	calcineurin
+T36	DNA 1890 1905	GM-CSF promoter
+T37	protein 1927 1947	mutant-activated Ras
+T38	protein 2025 2028	Ras
+T39	protein 2033 2044	calcineurin
+T40	DNA 2076 2091	GM-CSF promoter
+T41	protein 2135 2149	NF-kappa B p65
+T42	DNA 2228 2252	GM-CSF proximal promoter
+T43	protein 2295 2316	transcription factors
+T44	DNA 2334 2362	hCLEO and NF-kappa B regions
+T45	DNA 2370 2378	promoter

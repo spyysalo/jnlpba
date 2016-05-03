@@ -1,0 +1,24 @@
+T1	protein 8 17	HIV-1 Nef
+T2	protein 55 58	CD4
+T3	protein 85 133	human immunodeficiency virus (HIV-1) Nef protein
+T4	cell_line 189 210	Jurkat CD4+ cell line
+T5	protein 273 277	IL-2
+T6	protein 282 291	TNF-alpha
+T7	protein 315 320	IL-2R
+T8	protein 350 360	NF-kappa B
+T9	protein 365 387	AP-1 (Fos/Jun) complex
+T10	protein 430 439	TNF-alpha
+T11	protein 470 473	CD3
+T12	protein 528 531	Nef
+T13	cell_line 546 558	Jurkat cells
+T14	DNA 636 639	LTR
+T15	cell_line 654 671	Nef+ Jurkat cells
+T16	protein 714 717	Nef
+T17	DNA 857 861	LTRs
+T18	DNA 891 894	LTR
+T19	protein 931 941	NF-kappa B
+T20	DNA 997 1025	negative responding elements
+T21	DNA 1027 1031	NREs
+T22	protein 1061 1064	Nef
+T23	DNA 1079 1082	LTR
+T24	cell_type 1143 1150	T cells

@@ -1,0 +1,41 @@
+T1	protein 4 11	RAR-RXR
+T2	protein 27 34	RXR-RXR
+T3	cell_line 89 127	human CD34+ erythroid progenitor cells
+T4	protein 193 220	tumor necrosis factor-alpha
+T5	protein 222 231	TNF-alpha
+T6	cell_type 287 310	bone marrow progenitors
+T7	protein 470 475	G-CSF
+T8	protein 533 544	human CD34+
+T9	cell_line 556 596	Lin- murine bone marrow progenitor cells
+T10	protein 725 733	cytokine
+T11	protein 828 842	erythropoietin
+T12	protein 844 847	Epo
+T13	protein 857 873	stem cell factor
+T14	protein 875 878	SCF
+T15	protein 882 885	Epo
+T16	protein 893 897	IL-3
+T17	protein 900 903	Epo
+T18	protein 911 915	IL-4
+T19	protein 918 921	Epo
+T20	protein 933 937	IL-9
+T21	protein 940 943	Epo
+T22	cell_type 1000 1017	CD34+ progenitors
+T23	protein 1113 1136	retinoic acid receptors
+T24	protein 1138 1142	RARs
+T25	protein 1148 1168	retinoid X receptors
+T26	protein 1170 1174	RXRs
+T27	protein 1211 1218	RAR-RXR
+T28	protein 1222 1229	RXR-RXR
+T29	protein 1438 1441	RAR
+T30	protein 1459 1462	RXR
+T31	protein 1589 1594	G-CSF
+T32	protein 1625 1628	SCF
+T33	protein 1631 1634	Epo
+T34	protein 1748 1753	G-CSF
+T35	protein 1833 1836	SCF
+T36	protein 1839 1842	Epo
+T37	protein 1885 1892	RAR-RXR
+T38	cell_type 1942 1999	normal bone marrow myeloid and erythroid progenitor cells
+T39	protein 2057 2064	RXR-RXR
+T40	cell_type 2107 2116	erythroid
+T41	cell_type 2125 2149	myeloid progenitor cells

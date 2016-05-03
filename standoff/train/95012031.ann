@@ -1,0 +1,32 @@
+T1	protein 22 50	retinoic acid receptor alpha
+T2	cell_type 58 70	myeloid cell
+T3	protein 334 346	RA receptors
+T4	protein 348 352	RARs
+T5	protein 355 359	RARs
+T6	protein 379 423	steroid/thyroid hormone receptor superfamily
+T7	protein 496 523	RA (ligand)-binding domains
+T8	protein 557 561	RARs
+T9	protein 577 586	RAR alpha
+T10	cell_type 651 676	hematopoietic progenitors
+T11	protein 722 726	RARs
+T12	protein 826 835	RAR alpha
+T13	protein 900 915	human RAR alpha
+T14	protein 917 927	hRAR alpha
+T15	cell_type 934 958	murine bone marrow cells
+T16	DNA 1016 1037	drug resistant marker
+T17	DNA 1039 1045	Neo(r)
+T18	cell_line 1063 1079	stroma cell line
+T19	cell_line 1081 1088	PA6-neo
+T20	cell_type 1120 1134	infected cells
+T21	protein 1198 1208	hRAR alpha
+T22	cell_type 1219 1243	promyelocytic morphology
+T23	cell_type 1355 1369	immature cells
+T24	protein 1451 1460	RAR alpha
+T25	cell_type 1461 1475	infected cells
+T26	cell_type 1513 1531	mature macrophages
+T27	cell_line 1569 1579	IL3 colony
+T28	protein 1634 1643	RAR alpha
+T29	cell_type 1675 1687	myeloid cell
+T30	protein 1708 1717	RAR alpha
+T31	DNA 1862 1877	essential genes
+T32	cell_type 1901 1925	normal bone marrow cells

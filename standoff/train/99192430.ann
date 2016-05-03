@@ -1,0 +1,10 @@
+T1	cell_type 40 63	germinal center B cells
+T2	DNA 152 160	Ig genes
+T3	cell_type 203 210	B cells
+T4	DNA 322 334	non-Ig genes
+T5	DNA 369 388	5' noncoding region
+T6	DNA 396 405	Bcl6 gene
+T7	cell_type 921 945	lymphoma precursor cells
+T8	cell_type 1159 1172	naive B cells
+T9	DNA 1364 1371	Ig gene
+T10	cell_type 1389 1412	germinal center B cells

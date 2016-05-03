@@ -1,0 +1,23 @@
+T1	DNA 0 18	Conserved elements
+T2	DNA 30 65	NF-E2 and tandem GATA binding sites
+T3	DNA 148 186	human beta-globin locus control region
+T4	DNA 226 254	human beta-globin gene locus
+T5	DNA 279 299	locus control region
+T6	DNA 301 304	LCR
+T7	DNA 325 328	LCR
+T8	DNA 463 491	DNase I hypersensitive sites
+T9	DNA 493 496	HSs
+T10	DNA 535 538	LCR
+T11	DNA 590 610	cis -acting elements
+T12	DNA 744 751	LCR HS4
+T13	DNA 770 815	NF-E2 and tandem, inverted GATA binding sites
+T14	DNA 854 863	native HS
+T15	DNA 884 911	NF-E2 and tandem GATA sites
+T16	DNA 935 947	core regions
+T17	DNA 961 974	human LCR HSs
+T18	DNA 1044 1061	human HSs 2 and 3
+T19	DNA 1103 1123	NF-E2 and GATA sites
+T20	DNA 1173 1180	LCR HSs
+T21	DNA 1244 1257	GATA elements
+T22	protein 1301 1308	DNase I
+T23	DNA 1411 1417	LCR HS

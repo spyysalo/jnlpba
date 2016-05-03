@@ -1,0 +1,28 @@
+T1	protein 85 158	lymphoblastoid T-cell-line-expressing wild-type and mutated CD4 receptors
+T2	protein 210 230	CD4 cytoplasmic tail
+T3	protein 429 432	CD4
+T4	protein 526 546	CD4 cytoplasmic tail
+T5	cell_line 576 602	lymphoblastoid T-cell line
+T6	cell_line 603 608	A2.01
+T7	protein 639 642	CD4
+T8	protein 754 762	p56(lck)
+T9	protein 779 795	dicysteine motif
+T10	protein 870 886	cytoplasmic tail
+T11	protein 912 925	wild-type CD4
+T12	protein 951 982	wild-type and mutated receptors
+T13	protein 1043 1051	p56(lck)
+T14	protein 1055 1064	NF-kappaB
+T15	protein 1107 1119	CD4 receptor
+T16	cell_type 1164 1184	HIV-infected T cells
+T17	cell_type 1221 1239	HIV-infected cells
+T18	protein 1245 1277	monoclonal antibody (MAb) 13B8-2
+T19	protein 1294 1297	CD4
+T20	protein 1460 1463	Fas
+T21	protein 1463 1474	-Fas ligand
+T22	cell_type 1555 1573	HIV-infected cells
+T23	cell_type 1604 1620	uninfected cells
+T24	protein 1658 1661	CD4
+T25	protein 1733 1736	Fas
+T26	protein 1736 1747	-Fas ligand
+T27	protein 1778 1786	p56(lck)
+T28	protein 1836 1839	CD4

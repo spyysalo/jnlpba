@@ -1,0 +1,21 @@
+T1	DNA 35 54	human IL-4 promoter
+T2	protein 265 268	IgE
+T3	DNA 319 338	susceptibility gene
+T4	DNA 358 378	susceptibility genes
+T5	DNA 451 457	5q31.1
+T6	DNA 464 489	major susceptibility gene
+T7	protein 514 517	IgE
+T8	cell_line 614 622	Th2 cell
+T9	DNA 644 653	IL-4 gene
+T10	DNA 697 707	atopy gene
+T11	DNA 744 768	IL-4 regulatory elements
+T12	cell_line 824 832	Th2 cell
+T13	protein 872 875	IgE
+T14	DNA 922 941	human IL-4 promoter
+T15	cell_type 1027 1048	IL-4-positive T cells
+T16	DNA 1172 1185	OAP40 element
+T17	DNA 1214 1224	NF-AT site
+T18	DNA 1226 1236	P sequence
+T19	DNA 1347 1360	IL-4 promoter
+T20	protein 1476 1480	AP-1
+T21	DNA 1576 1585	IL-4 gene

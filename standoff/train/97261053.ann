@@ -1,0 +1,15 @@
+T1	cell_type 31 49	human plasma cells
+T2	protein 204 209	c-Jun
+T3	protein 230 250	transcription factor
+T4	protein 251 255	AP-1
+T5	protein 261 289	glutathione-S-transferase pi
+T6	protein 291 297	GST-pi
+T7	protein 454 459	c-Jun
+T8	protein 492 498	GST-pi
+T9	protein 586 591	c-Jun
+T10	protein 596 602	GST-pi
+T11	cell_line 664 703	c-Jun- and GST-pi-positive plasma cells
+T12	protein 841 864	transcriptional complex
+T13	protein 865 869	AP-1
+T14	DNA 884 899	GST-pi promoter
+T15	cell_type 903 921	human plasma cells

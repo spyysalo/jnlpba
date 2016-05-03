@@ -1,0 +1,28 @@
+T1	DNA 20 37	inflammatory gene
+T2	protein 51 84	activating transcription factor-2
+T3	protein 98 158	Transcription factor activating transcription factor (ATF)-2
+T4	protein 276 281	ATF-2
+T5	protein 340 360	mutant ATF-2 protein
+T6	protein 408 425	anti-CD3 antibody
+T7	protein 517 535	adhesion molecules
+T8	protein 536 546	E-selectin
+T9	protein 548 558	P-selectin
+T10	protein 563 569	VCAM-1
+T11	protein 585 594	cytokines
+T12	protein 595 622	tumor necrosis factor-alpha
+T13	protein 624 632	IL-1beta
+T14	protein 637 641	IL-6
+T15	cell_type 685 698	T lymphocytes
+T16	protein 702 719	anti-CD3 antibody
+T17	protein 750 754	IL-1
+T18	protein 759 763	IL-6
+T19	cell_type 789 812	ATF-2 mutant thymocytes
+T20	protein 826 843	anti-CD3 antibody
+T21	protein 887 892	c-Jun
+T22	protein 894 898	JunB
+T23	protein 900 904	JunD
+T24	protein 909 914	Fra-2
+T25	cell_type 1061 1077	mononuclear cell
+T26	protein 1383 1388	ATF-2
+T27	protein 1437 1455	adhesion molecules
+T28	DNA 1460 1474	cytokine genes

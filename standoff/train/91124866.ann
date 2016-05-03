@@ -1,0 +1,16 @@
+T1	protein 0 18	Oestrogen receptor
+T2	protein 20 22	ER
+T3	protein 132 151	Oestrogen receptors
+T4	protein 153 155	ER
+T5	cell_type 172 197	neoplastic lymphoid cells
+T6	protein 432 434	ER
+T7	protein 598 600	ER
+T8	protein 855 857	ER
+T9	protein 878 880	ER
+T10	cell_line 906 926	Cultured MCF-7 cells
+T11	protein 1020 1022	ER
+T12	cell_type 1063 1080	ER positive cells
+T13	protein 1190 1192	ER
+T14	protein 1289 1291	ER
+T15	protein 1441 1443	ER
+T16	protein 1550 1552	ER

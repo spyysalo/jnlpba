@@ -1,0 +1,42 @@
+T1	RNA 491 505	chemokine mRNA
+T2	cell_type 519 546	polymorphonuclear leukocyte
+T3	cell_type 548 551	PMN
+T4	cell_type 633 653	alveolar macrophages
+T5	cell_type 655 658	AMs
+T6	cell_type 663 697	bronchoalveolar lavage (BAL) cells
+T7	cell_type 755 759	PMNs
+T8	cell_type 764 767	AMs
+T9	RNA 842 886	macrophage inflammatory protein (MIP)-2 mRNA
+T10	cell_type 890 899	BAL cells
+T11	RNA 989 1004	MIP-1alpha mRNA
+T12	cell_type 1008 1017	BAL cells
+T13	protein 1196 1201	MIP-2
+T14	cell_type 1214 1217	PMN
+T15	protein 1238 1248	MIP-1alpha
+T16	cell_type 1333 1336	PMN
+T17	protein 1409 1414	MIP-2
+T18	RNA 1505 1520	MIP-1alpha mRNA
+T19	cell_type 1558 1561	AMs
+T20	cell_type 1565 1574	BAL cells
+T21	cell_type 1587 1590	AMs
+T22	protein 1613 1623	MIP-1alpha
+T23	DNA 1790 1808	5'-flanking region
+T24	DNA 1816 1826	MIP-2 gene
+T25	DNA 1832 1847	promotor region
+T26	DNA 1857 1880	consensus binding sites
+T27	protein 1885 1927	transcription factor nuclear factor kappaB
+T28	protein 1929 1938	NF-kappaB
+T29	protein 1944 1963	activator protein-1
+T30	protein 1965 1969	AP-1
+T31	protein 2034 2043	NF-kappaB
+T32	protein 2049 2053	AP-1
+T33	RNA 2154 2164	MIP-2 mRNA
+T34	protein 2166 2177	p65 (Rel A)
+T35	protein 2182 2193	p50 protein
+T36	protein 2226 2235	NF-kappaB
+T37	protein 2286 2291	MIP-2
+T38	RNA 2397 2407	MIP-2 mRNA
+T39	protein 2444 2453	NF-kappaB
+T40	cell_type 2474 2483	BAL cells
+T41	protein 2505 2510	MIP-2
+T42	protein 2546 2555	NF-kappaB

@@ -1,0 +1,9 @@
+CD2 stimulation leads to the delayed and prolonged activation of STAT1 in T cells but not NK cells.
+OBJECTIVE:
+T lymphocytes can be activated by soluble factors such as cytokines or through direct cell-cell interactions. Although cytokine receptors are known to signal through STAT family transcription factors, the mechanisms by which other cell-surface molecules, such as CD2, transduce signals is unclear. The goal of this study was to determine whether stimulation of T cells through CD2 recapitulates aspects of cytokine-induced T-cell activation by use of STAT transcription factors.
+MATERIALS AND METHODS:
+T cells were treated with anti-CD2 antibodies or cells bearing the natural CD2 ligand CD58, after which signaling through STAT transcription factors was assessed.
+RESULTS:
+Stimulation of CD2 on primary T lymphocytes leads to the tyrosine phosphorylation, nuclear translocation, and DNA binding of STAT1. In contrast to stimulation by cytokines, the activation of STAT1 in response to CD2 ligation is delayed and does not involve Jak kinases. Furthermore, while STAT phosphorylation induced by cytokines is generally transient, STAT1 phosphorylation following CD2 stimulation persists for a period of days. Transcription of key target genes such as IRF1 and c-fos proceeds with delayed kinetics following CD2 stimulation, suggesting that this unique pattern of STAT activation may lead to a distinct cellular response following CD2 ligation. This pathway appears to be restricted to T cells, as stimulation of CD2 on NK cells does not lead to STAT1 activation.
+CONCLUSION:
+Stimulation of T cells through cell-surface molecules such as CD2 involves activation of STAT transcription factors, thus recapitulating elements of cytokine signaling.

@@ -1,0 +1,36 @@
+T1	protein 0 21	Protein kinase C-zeta
+T2	protein 31 41	NF-kappa B
+T3	cell_type 56 103	human immunodeficiency virus-infected monocytes
+T4	cell_type 226 236	macrophage
+T5	protein 253 263	NF-kappa B
+T6	protein 269 289	transcription factor
+T7	DNA 324 348	HIV long terminal repeat
+T8	cell_type 405 422	human macrophages
+T9	protein 500 510	NF-kappa B
+T10	cell_type 525 546	monocytes-macrophages
+T11	protein 604 637	protein kinase C (PKC) isoenzymes
+T12	protein 676 686	NF-kappa B
+T13	protein 742 756	PKC isoenzymes
+T14	protein 758 766	PKC-zeta
+T15	protein 830 840	NF-kappa B
+T16	cell_line 907 917	U937 cells
+T17	protein 935 943	PKC-zeta
+T18	protein 1064 1074	NF-kappa B
+T19	protein 1118 1126	PKC-zeta
+T20	protein 1191 1199	PKC-zeta
+T21	protein 1201 1213	PKC-zeta mut
+T22	protein 1220 1230	NF-kappa B
+T23	protein 1366 1376	NF-kappa B
+T24	protein 1383 1391	PKC-zeta
+T25	protein 1418 1428	NF-kappa B
+T26	protein 1464 1477	PKC-zeta(mut)
+T27	protein 1545 1549	CREB
+T28	protein 1554 1557	AP1
+T29	protein 1643 1646	p24
+T30	cell_type 1661 1691	HIV-infected human macrophages
+T31	protein 1716 1724	PKC-zeta
+T32	protein 1765 1788	atypical PKC isoenzymes
+T33	protein 1800 1808	PKC-zeta
+T34	protein 1910 1920	NF-kappa B
+T35	cell_type 1924 1945	human monocytic cells
+T36	cell_type 1950 1961	macrophages

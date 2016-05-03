@@ -1,0 +1,23 @@
+T1	protein 18 27	NF-kappaB
+T2	cell_type 42 49	T cells
+T3	protein 144 164	transcription factor
+T4	protein 165 174	NF-kappaB
+T5	protein 300 309	NF-kappaB
+T6	protein 408 412	IL-2
+T7	protein 414 418	IL-6
+T8	protein 420 424	IL-8
+T9	protein 438 462	T cell surface receptors
+T10	protein 475 484	NF-kappaB
+T11	cell_type 521 528	T cells
+T12	protein 580 589	NF-kappaB
+T13	protein 658 667	NF-kappaB
+T14	cell_line 994 1006	T cell lines
+T15	cell_type 1011 1035	peripheral blood T cells
+T16	protein 1069 1078	NF-kappaB
+T17	protein 1152 1161	NF-kappaB
+T18	protein 1276 1285	NF-kappaB
+T19	cell_type 1329 1336	T cells
+T20	protein 1554 1563	NF-kappaB
+T21	protein 1735 1744	NF-kappaB
+T22	cell_type 1765 1772	T cells
+T23	protein 1850 1859	NF-kappaB

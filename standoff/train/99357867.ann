@@ -1,0 +1,15 @@
+T1	protein 33 55	bacterial lipoproteins
+T2	protein 64 84	toll-like receptor-2
+T3	protein 227 246	lipoproteins (BLPs)
+T4	protein 290 294	BLPs
+T5	cell_line 329 350	THP-1 monocytic cells
+T6	protein 359 393	human Toll-like receptor-2 (hTLR2)
+T7	protein 395 399	BLPs
+T8	cell_line 431 451	epithelial cell line
+T9	protein 469 474	hTLR2
+T10	protein 489 493	BLPs
+T11	protein 505 526	nuclear factor-kappaB
+T12	protein 530 555	transcriptional activator
+T13	DNA 559 586	multiple host defense genes
+T14	protein 632 637	hTLR2
+T15	protein 645 650	hTLR2

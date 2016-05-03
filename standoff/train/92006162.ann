@@ -1,0 +1,16 @@
+T1	protein 0 24	Glucocorticoid receptors
+T2	cell_type 28 45	normal leukocytes
+T3	protein 127 151	glucocorticoid receptors
+T4	protein 153 155	GR
+T5	cell_type 160 182	mononuclear leukocytes
+T6	cell_type 184 187	MNL
+T7	protein 321 323	GR
+T8	protein 443 445	GR
+T9	protein 482 484	GR
+T10	protein 543 545	GR
+T11	protein 645 647	GR
+T12	cell_type 651 654	MNL
+T13	protein 719 721	GR
+T14	cell_type 725 728	MNL
+T15	protein 866 868	GR
+T16	cell_type 872 875	MNL

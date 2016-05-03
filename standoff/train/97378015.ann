@@ -1,0 +1,40 @@
+T1	protein 0 12	GABP factors
+T2	DNA 23 59	distal interleukin 2 (IL-2) enhancer
+T3	protein 78 83	c-Raf
+T4	protein 105 109	IL-2
+T5	protein 139 166	T-cell receptor-CD3 complex
+T6	cell_type 206 219	T lymphocytes
+T7	protein 265 279	protein kinase
+T8	DNA 346 371	interleukin 2 (IL-2) gene
+T9	protein 408 422	protein kinase
+T10	protein 456 495	mitogen-activated protein (MAP) kinases
+T11	protein 515 520	c-Raf
+T12	protein 562 565	Erk
+T13	protein 590 594	IL-2
+T14	DNA 615 638	distal enhancer element
+T15	DNA 742 751	IL-2 gene
+T16	DNA 771 791	distal IL-2 enhancer
+T17	DNA 822 853	proximal IL-2 promoter-enhancer
+T18	protein 993 1014	transcription factors
+T19	protein 1015 1035	GABP alpha and -beta
+T20	DNA 1041 1062	dyad symmetry element
+T21	DNA 1064 1067	DSE
+T22	DNA 1076 1091	distal enhancer
+T23	DNA 1112 1137	palindromic binding sites
+T24	protein 1141 1157	Ets-like factors
+T25	DNA 1223 1226	DSE
+T26	DNA 1264 1279	distal enhancer
+T27	DNA 1295 1317	IL-2 promoter-enhancer
+T28	protein 1348 1360	GABP factors
+T29	DNA 1374 1396	IL-2 promoter-enhancer
+T30	protein 1426 1429	BXB
+T31	protein 1464 1469	c-Raf
+T32	protein 1501 1504	Ras
+T33	protein 1505 1508	Raf
+T34	protein 1509 1512	Erk
+T35	protein 1551 1555	GABP
+T36	protein 1643 1648	c-Raf
+T37	protein 1676 1688	GABP factors
+T38	protein 1826 1838	GABP factors
+T39	protein 1846 1849	Raf
+T40	protein 1874 1878	IL-2

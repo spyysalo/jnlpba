@@ -1,0 +1,24 @@
+T1	protein 24 42	vitamin D receptor
+T2	cell_line 75 98	monoblastoid U937 cells
+T3	cell_line 240 267	monoblastoid cell line U937
+T4	cell_type 375 402	monocyte/macrophage lineage
+T5	protein 440 458	vitamin D receptor
+T6	protein 460 463	VDR
+T7	protein 482 513	steroid hormone receptor family
+T8	cell_line 558 562	U937
+T9	RNA 598 606	VDR mRNA
+T10	protein 659 663	-VDR
+T11	DNA 695 715	2-kb VDR cDNA insert
+T12	DNA 740 757	VDR coding region
+T13	DNA 857 875	inducible promoter
+T14	cell_line 897 901	U937
+T15	cell_line 907 926	resultant cell line
+T16	cell_line 928 932	DH42
+T17	DNA 970 978	VDR cDNA
+T18	protein 996 1000	VDRs
+T19	protein 1158 1185	macrophage cell surface Ags
+T20	protein 1197 1201	CD14
+T21	protein 1206 1211	CD11b
+T22	protein 1589 1592	VDR
+T23	cell_type 1637 1659	myelomonocytic lineage
+T24	protein 1661 1664	VDR
